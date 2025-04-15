@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00012">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Battle of Bunker Hill, or, The Temple of Liberty</hi></title>
+	<title level="c" type="chapter">from Canto IV</title>
+<date type="original" value="1839">1839</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Emmons">Col. Willam Emmons
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00012</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 125-128 of the 1859 Boston edition of Col. William Emmons's<hi rend="italic">The Battle of Bunker Hill, or, The Temple of Liberty</hi>, Canto IV.  Originally published in 1839.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"></title>
+               <title level="m">The Battle of Bunker Hill</title>
+               <author>Col. William Emmons</author>
+               <imprint>
+                  <publisher>William Emmons
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1859
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-23">23 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div type="body">
+<head type="main">THE BATTLE OF BUNKER HILL,</head>
+<head type="sub">or THE TEMPLE OF LIBERTY;</head>
+<head type="sub">an HISTORIC POEM IN FOUR CANTOS.</head>
+
+<gap reason="sampling" extent=""/>
+
+<lg>
+<l>The veteran could no more&#8212;grief choked his tongue,</l>
+<l>While cramping agony his bosom wrung.</l>
+<l>He motions backward with his sword. The sign</l>
+<l>The patriots comprehend,&#8212;to yield the line,</l>
+<l>And farther combat merciful decline.</l>
+</lg>
+<lg>
+<l>With funeral step relucant they recede,</l>
+<l>While their rent heart-strings drops of anguish bleed</l>
+<l>At times a tear falls scalding down their cheek,</l>
+<l>But none the utterance of a word can speak.</l>
+<l>Cold beads of sweat upon the brow congeal,</l>
+<l>Which show what inward struggling they conceal.</l>
+</lg>
+<lg>
+<l>Putnam yet lingering on the rear the last,</l>
+<l>Back on the foe a stern defiance cast.</l>
+<l>His countenance appear'd like Jupiter's, when he</l>
+<l>Summon'd the gods to reverence his decree.</l>
+</lg>
+<lg>
+<l>The hero leads th' immortals o'er the plain,</l>
+<l>At whom the vessels pour'd their wrath in vain.</l>
+<l>The Eagle, though retreating, waves her plumes</l>
+<l>In radiant light and victory assumes.</l>
+<l>Soon on a neighboring steep the flag is seen,</l>
+<l>Touch'd with a ray of setting sun serene.</l>
+</lg>
+<lg>
+<l>While round the glorious Height a rainbow curl'd</l>
+<l>Its chosen colors beautiful unfurl'd&#8212;</l>
+<l>A sign&#8212;that Liberty would bless the world.</l>
+</lg>
+<lg>
+<l>The gazing multitudes on bended knee,</l>
+<l>With upraised hands adore the Deity.</l>
+<l>Pure from the altar of the heart is given</l>
+<l>An incense that conveys the soul to heaven.</l>
+<l>From every hill instinct with life is sent</l>
+<l>Gratitude&#8212;a mental sacrament,</l>
+<l>That from their neck they loosen'd felt the yoke&#8212;</l>
+<l>That the first link in slavery's chain was broke&#8212;</l>
+<l>That the Supreme for them his arm made bare,</l>
+<l>And placed the token of remembrance there&#8212;</l>
+<l>That when the hills of other lands should fail,</l>
+<l>This chosen Height in memory would prevail;</l>
+<l>And when no more shall other days be told&#8212;</l>
+<l>Their deeds with all their circumstance grown old,</l>
+<l>This day would live in capitals of gold;</l>
+<l>That Warren's name a talisman would be,</l>
+<l>For nations stooping on a bended knee,</l>
+<l>To rend their chains&#8212;to rise&#8212;to strike&#8212;be FREE!</l>
+</lg>
+</div>
+
+<div type="back">
+<milestone unit="undeclared" rend="horbar-long-center"/><lb/>
+<head type="main">ODE TO INDEPENDENCE.</head>
+
+<lg>
+<l>LET deafening cannon peal to heaven&#8212;</l>
+<l>Their kindled thunders jar the earth&#8212;</l>
+<l>Lo, <hi rend="italic">this</hi> the day to glory given&#8212;</l>
+<l>The day that hail'd a Nation's birth!</l>
+</lg>
+
+<lg>
+<l>Let the full soul from south to north,</l>
+<l>Join to proclaim the wondrous day&#8212;</l>
+<l>Let shouting millions on the <hi rend="italic">Fourth</hi>,</l>
+<l>Shrill to the heavens the news convey!</l>
+</lg>
+
+<lg>
+<l>The theme demands creation's tongue</l>
+<l>To bear its swelling chorus high&#8212;</l>
+<l>To anthem <hi rend="italic">first</hi> Columbia sung,</l>
+<l>Amd shall be heard till Time shall die!</l>
+</lg>
+
+<lg>
+<l>As blackening whirlwinds edged with fire,</l>
+<l>Strike terror to the guilty name;</l>
+<l>So tyrants <hi rend="italic">one</hi> by <hi rend="italic">one</hi> expire,</l>
+<l>Consumed by Freedom's hallow'd flame!</l>
+</lg>
+
+<lg>
+<l>France in her giant strength sprang forth</l>
+<l>Arm'd with a spear and truth's bright shield;</l>
+<l>And, while she sang her glorious birth,</l>
+<l>Waved the tri-banner o'er the field!</l>
+</lg>
+
+<lg>
+<l>Beneath its folds exalted stood,</l>
+<l>On honor's loftiest parapet,</l>
+<l>He, who the gazing world adored&#8212;</l>
+<l>Our great, our good, <hi rend="italic">our own</hi> FAYETTE!</l>
+</lg>
+
+<lg>
+<l>A captive long in durance bound,</l>
+<l>England majestic feels her might;</l>
+<l>Her chains fall sunder'd to the ground&#8212;</l>
+<l>Indignant, she demands her right!</l>
+</lg>
+
+<lg>
+<l>Hail! Albion! hail! the charm is broke,</l>
+<l>That long hath chill'd thy heart with fear;</l>
+<l>Loosed be thy neck from oppression's yoke&#8212;</l>
+<l>Poised in thy hand is Freedom's spear!</l>
+</lg>
+
+<lg>
+<l>Th' impatient goblets charge with wine&#8212;</l>
+<l>Let every eye invoke the sphere;</l>
+<l>Kneel&#8212;pledge the sages&#8212;names divine!</l>
+<l>And hail them with enraptured tear!</l>
+</lg>
+
+<lg>
+<l>We <hi rend="italic">this</hi> proud day to them decree,</l>
+<l>And swear with an uplifted hand,</l>
+<l>That we'll maintain their legacy,</l>
+<l>Or sprinkle with our blood the land!</l>
+</lg>
+<p>WASHINGTON CITY, <hi rend="italic">July 4th</hi>, 1839.</p>
+</div>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+       </body>
+      </text>
+</TEI.2>

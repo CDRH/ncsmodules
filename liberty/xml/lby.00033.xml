@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00033">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "John James Barralet and the Apotheosis of George Washington"</title>
+           <title level="j" type="journal"><hi rend="italic">Winterthur Portfolio</hi></title>
+<date type="original" value="1977">1977</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Jacobs">Phoebe Lloyd Jacobs
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00033</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 115, 118, 119-120, 123, and 133-134 of Phoebe Lloyd Jacobs's "John James Barralet and the Apotheosis of George Washington."  Published in <hi rend="italic">Winterthur Portfolio</hi> 12, 1977.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"John James Barralet and the Apotheosis of George Washington"</title>
+               <title level="m"><hi rend="italic">Winterthur Portfolio 12</hi></title>
+               <author>Phoebe Lloyd Jacobs</author>
+               <imprint>
+                  <publisher>
+University Press of Virginia
+</publisher>
+                  <pubPlace>
+Charlottesville
+
+</pubPlace>
+               </imprint>
+               <date>
+1977
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+<term id="washington" type="topic">Washington</term>
+<term id="icon" type="topic">icon</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2008-04-07">07 April 2008</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Correct transcription error(s)</item>
+         </change>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Liz Lorang</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-07-06">07 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<div>
+	<head>1.</head><p>"In January 1802 John James Barralet (ca. 1747-1815) honored the late George Washington in a commemorative engraving.  Barralet's engraving shows the president, dressed in grave clothes, being raised from his tomb by Immortality and the winged Father Time who will assist him in his ascent.  Faith, Hope, and Charity are clustered together at the far left.  Liberty, her cap atop a pole, and an American Indian share the lower register with two rattlesnakes and an eagle.  In the nineteenth century this engraving was popular enough to go through four printings, yet to most modern viewers this image is what hieroglyphics were to Europeans before the discovery of the Rosetta Stone:  intriuging to contemplate but indecipherable.</p>
+	<p>A nineteenth century American populace educated in the traditions of European humanism knew how to interpret allegorical imagery.  Symbolic figures with references to classical antiquity or the Christian past were common.  They adorned political engravings, honorary medals, coins, official seals, and even the corners of maps.  Learned men expected sophisticated visual references.  The artists, schooled in the conventions of European humanism, acted as intermediaries to the less well educated public.  When asked to stage parades and festivals celebrating events of historic significance in the new republic, they often used allegorical figures and decorated triumphal arches with classical images" (115).</p></div>
+<div>
+	<head>2.</head><p>"In the last part of his career Barralet often turned to Washington as a subject.  It was then a common practice for engravers to copy portraits of prominent men done by other artists, and Barralet was no exception.  But he embellished the Washington portraits with decorations drawn from the vocabulary of forms he had learned in Europe.  In one Washington portrait based on miniature by Walter Robertson, Barralet's decorations consisted of standard classical devices like a laurel wreath, an eagle, a liberty cap balanced on the point of a sword, flags, and palm branches.  Another Washington engraving after a painting by Gilbert Stuart was decorated with a knight's helmet, sword, and baton.  To an engraving after a miniature by John Ramage he added Liberty.  She sits between an eagle and a cornucopia and holds her cap aloft upon the tip of her sword" (118).</p>
+</div>
+	<div>
+	<head>3.</head><p>"For the many allegorical devices Barralet undoubtedly referred to that most widely circulated of all handbooks of iconographical imagery, Cesare Ripa's <hi rend="italic">Iconologia</hi>.  The <hi rend="italic">Iconologia</hi> was first published at the end of the sixteenth century when it was widely believed that painting, like poetry, should convey complicated meanings.  Drawing upon sources as diverse as ancient sculpture and medals, the writings of ancient Greek and Roman authors, church fathers, and contemporary scholars who were attempting to decode hieroglyphics, Ripa systematized for generations of artists the way in which an image could represent an idea.</p>
+	<p>After the publication of the <hi rend="italic">Iconologia</hi> artists who chose to use allegorical figures had a common source.  Most artists, including Barralet, modified the source but not so much that the figures could not be traced back to their common ancestor.  Ripa had explained that Peace should be shown burning weapons because that is how she appeared on Roman coins during the Pax Romana.  In the <hi rend="italic">Iconologia</hi> Peace puts her torch to the weapons and garb of war.  The cornucopia in her left arm speaks for the advantages of peace.  Barralet rearranged these devices.  The cornucopia is placed at the bottom of the steps and is protected by the eagle; the fire is confined to a brazier.  In Barralet's composition Washington himself is allegorized.  Washington, a personification of Love of Country, is placed in proximity to the weapons and a burning brazier as Ripa had suggested" (119-120).</p>
+</div>
+	<div>
+	<head>4.</head><p>"After the middle of the eighteenth century, however, some Europeans had begun questioning the validity of conveying complex meanings by the use of Ripa's allegorical garnish.  No less preeminent a figure than the critic Johann Winckelmann signaled his exasperation:  'I am sure that if he [Ripa] had thought of the Italian adage <hi rend="italic">pisciare nel vaglio</hi> to mean waste of time and labor, he would have expressed even this pretty thought through figures.'  James Barry, a history painter who, like Barralet, left Ireland to follow his profession, had a more emphatic way of expressing the matter:  'from the jargon of far-fetched and over refined allegory what must be said then of Ripa and others who have been at the pains of raking together all this offal of the imagination.'</p>
+	<p>But in America artists faced the very immediate problem of devising a rhetorical language through imagery to proclaim the new heroes of the Revolution.  When allegory could suggest, by effecting a thoroughgoing transformation, that antique precedent and contemporary incident were as one, then it was welcomed by artists.  In his generation Barralet was unusual for the number of allegorical compositions he designed, but he was not the only artist to design them.</p>
+	<p>The climate in America could hardly have been more propitious for commemorating Washington's death in antique guise using allegorical figures.  When Barralet designed his engraving, he chose the form of the apotheosis in which a great man ascends Mount Olympus to join the pantheon of Greek gods and heroes.  To complete his composition, Barralet selected allegorical figures with established iconographical pedigrees:  Liberty, Father Time, Immortality, Faith, Hope, Charity, and the American Indian.</p>
+	<p>Liberty and Father Time had roots deep in European culture.  Liberty had been used on the coins and medals of the Roman Empire.  Ripa, ever ready with advice for the artists of his time, had suggested that Liberty hold a broken yoke and be accompanied by a cat.  A cat, he pointed out, was appropriate because no other animal loved freedom so much.  Most artists, however, ignored Ripa; Barralet was no exception.  Barralet's Liberty merely has the <hi rend="italic">rudis</hi> and <hi rend="italic">pileus</hi>, the rod of touch and cap of announcement connected with ancient forms of freeing a slave.  Twenty years earlier Augustin Dupr&#233; had depicted Liberty similarly on his greatly admired <hi rend="italic">Libertas Americana</hi> medal" (123).</p></div>
+	<div>
+	<head>5. </head><p>"The publication of Barralet's engraving was timed to coincide with Washington's birthday.  February 22 already had become the high water mark in the flow of American sentiment for Washington.  Barralet calculated accordingly:  'APOTHEOSIS OF WASHINGTON finished for delivery....The subscribers are respectfully informed that the proof prints will be delivered at S. Chaudron's, No. 12, South Third Street.  Feb. 5, dlm.'  The advertisement, which ran from Monday, February 3, through Saturday, March 6, 1802, also provided a description of the engraving:  'The subject&#8212;Gen. Washington raised from the Tomb, by the Poetical and Historical Genius, assisted by Imoortality&#8212;at his feet America weeping over his Armour, on the opposite side an Indian crouched in surly sorrow, in the third ground the Mental Virtues, Faith Hope and Charity.'  In this advertisement certain figures have been reinterpreted, probably to make them more suitable compnaions to America's prime Revolutionary hero.  The 'Poetical and Historical Genius' is in fact Father Time, but the former title makes him a particularly appropriate companion for Washington.  'America weeping' is the figure with the attributes of Liberty and probably represents both America and Liberty, as is the case in other contemporary engravings" (133-34).</p></div>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00154" type="commentary on image"/>
+		<xptr n="lby.00178" type="commentary on image"/>
+		<xptr n="lby.00159" type="commentary on image"/>
+		</item>
+				</list>
+</div>
+      </body>
+   </text>
+</TEI.2>

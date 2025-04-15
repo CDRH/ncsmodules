@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00036">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Mill on the Floss</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Volume III, Book 6, "The Great Temptation," Chapter 2, "First Impressions."</title>
+<title level="m" type="monograph"></title>
+<author name="Eliot">George Eliot</author>
+<date type="original" value="1860">1860</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00036</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of George Eliot's <hi rend="italic">The Mill on the Floss</hi>, Volume III, Book 6, "The Great Temptation," Chapter 2, "First Impressions."  Originally published in 1860.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">First Impressions</title>
+               <title level="m"><hi rend="italic">The Mill on the Floss</hi></title>
+               <author>George Eliot</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>
+2003
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="piano" type="setting">piano</term>
+               <term id="parlor" type="setting">parlor</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         <head type="editorial">Scene One: Maggie Catches Stephen's erotic attention in the music room</head>
+
+         <p>"Oh yes, pray bring him," said Lucy. "And you will like Maggie, sha'n't
+you?" she added, in a beseeching tone. "Isn't she a dear,
+noble-looking creature?"</p>
+
+         <p>"Too tall," said Stephen, smiling down upon her, "and a little too fiery. She is not my type of woman, you know."</p>
+
+         <p>Gentlemen, you are aware,
+are apt to impart these imprudent confidences to ladies concerning their
+unfavorable opinion of sister fair ones. That is why so many women have the
+advantage of knowing that they are secretly repulsive to men who have
+self-denyingly made ardent love to them. And hardly anything could be more
+distinctively characteristic of Lucy than that she both implicitly believed
+what Stephen said, and was determined that Maggie should not know it. But you,
+who have a higher logic than the verbal to guide you, have already foreseen, as
+the direct sequence to that unfavorable opinion of Stephen's, that he walked
+down to the boathouse calculating, by the aid of a vivid imagination, that
+Maggie must give him her hand at least twice in consequence of this pleasant
+boating plan, and that a gentleman who wishes ladies to look at him is
+advantageously situated when he is rowing them in a boat. What then?  Had he
+fallen in love with this surprising daughter of Mrs. Tulliver at first sight?
+Certainly not. Such passions are never heard of in real life. Besides, he was
+in love already, and half-engaged to the dearest little creature in the world;
+and he was not a man to make a fool of himself in any way. But when one is
+five-and-twenty, one has not chalk-stones at one's finger-ends that the touch
+of a handsome girl should be entirely indifferent. It was perfectly natural and
+safe to admire beauty and enjoy looking at it,&#8212;at least under such
+circumstances as the present. And there was really something very interesting
+about this girl, with her poverty and troubles; it was gratifying to see the
+friendship between the two cousins. Generally, Stephen admitted, he was not
+fond of women who had any peculiarity of character, but here the peculiarity
+seemed really of a superior kind, and provided one is not obliged to marry such
+women, why, they certainly make a variety in social intercourse.</p>
+         
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00072" type="same novel"/></item>
+			<item><xptr n="ls.00035" type="same author"/></item>
+              	<item><xptr n="ls.00069" type="same author"/></item>
+			<item><xptr n="ls.00070" type="same author"/></item>
+			<item><xptr n="ls.00071" type="same author"/></item>
+<item><xptr n="ls.00083" type="commentary on same novel"/></item> 
+
+                             </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

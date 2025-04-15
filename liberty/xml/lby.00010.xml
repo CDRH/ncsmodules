@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00010">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Mary Barton</hi>
+</title>
+            <title level="c" type="chapter">from Chapter XVII</title>
+<date type="original" value="1848">1848</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Gaskell">
+Elizabeth Gaskell
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00010</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 168-169 of the 1897 Bliss Sands edition of Elizabeth Gaskell's <hi rend="italic">Mary Barton</hi>. Originally published in 1848.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">CHAPTER XVII</title>
+               <title level="m">Mary Barton</title>
+               <author>Elizabeth Gaskell</author>
+               <imprint>
+                  <publisher>Bliss Sands &#38; Co
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1897
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="british" type="place">British</term>
+<term id="radicalism" type="topic">Radicalism</term>
+<term id="dissenting" type="topic">Dissenting Voices</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+<change>
+            <date value="2005-05-18">18 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">CHAPTER XVII.</head>
+<head type="sub">BARTON'S NIGHT-ERRAND.</head>
+
+<epigraph>
+<lg>
+<l>"Mournful is't to say Farewell,</l>
+<l>Though for few breif hours we part;</l>
+<l>In that absence, who can tell</l>
+<l>What may come to wring the heart!"</l></lg>
+<bibl><author>&#8212;ANONYMOUS.</author></bibl></epigraph>
+
+<gap reason="sampling" extent=""/>
+
+<p>At that instant who should come in but Job Legh. It was not often he came, but when he did pay visits, Mary knew from past experience they were anything but short. Her father's countenance fell back into the deep gloom from which it was but just emerging at the sound of Mary's sweet voice, and pretty pleading. He became again restless and fidgety, scarcely giving Job Legh the greeting necessary for a host in his own house. Job, however, did not stand upon ceremony. He had come to pay a visit, and was not to be daunted from his purpose. He was interested in John Barton's mission to Glasgow, and wanted to hear all about it; so he sat down, and made himself comfortable, in a manner that Mary saw was meant to be stationary.</p>
+
+<gap reason="sampling" extent=""/>
+
+<p>"Oh! very soon. I'm just getting him a bit of supper. Is Margaret very well?"</p>
+
+<p>"Yes, she's well enough. She's meaning to go and keep Alice Wilson company for an hour or so this evening; as soon as she thinks her nephew will have started for Liverpool; for she fancies the old woman will feel a bit lonesome. Th' Union is paying for your father, I suppose?"</p>
+
+<p>"Yes, they've giv'n him a sovereign. You're one of th' Union, Job?"</p>
+
+<p>"Aye! I'm one, sure enough; but I'm but a sleeping partner in the concern. I were obliged to become a member for peace, else I don't go along with 'em. Yo see they think themselves wise, and me silly, for differing with them! Well! there's no harm in that. But then they won't let me be silly in peace and quietness, but will force me to be as wise as they are; now that's not British liberty, I say. I'm forced to be wise according to their notions, else they persecute me, and starve me out."</p>
+
+<gap reason="sampling" extent=""/>
+
+<p>"You see my folly in this, Mary. I would take what I could get; I think half a loaf is better than no bread. I would work for low wages rather than sit idle and starve. But, comes the Trades' Union, and says, 'Well, if you take the half-loaf; we'll worry you out of your life. Will you be clemmed, or will you be worried?' Now clemming is a quiet death, and worrying isn't, so I choose clemming, and come into th' Union. But I'd wish they'd leave me free, if I am a fool."</p>
+
+<gap reason="sampling" extent=""/>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

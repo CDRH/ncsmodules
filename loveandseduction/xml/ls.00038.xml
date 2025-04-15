@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00038">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Madame Bovary</hi>
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Part II, Chapter VIII</title>
+<title level="m" type="monograph"></title>
+<author name="Flaubert">Gustave Flaubert</author>
+<date type="original" value="1857">1857</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00038</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Gustave Flaubert's <hi rend="italic">Madame Bovary</hi>, Part II, Chapter VIII.  Originally published in 1857.  This translation is by Eleanor Marx-Aveling.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Part II, Chapter VIII</title>
+               <title level="m">Madame Bovary</title>
+               <author>Gustave Flaubert</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>
+2000
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="publicspace" type="setting">public space</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="adultery" type="theme">adultery</term>
+			<term id="french" type="place">French</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+      <head type="editorial">Scene One: Emma and Rodolphe in a Balcony Seduction</head>
+
+<p>Rodolphe, meanwhile, with Madame Bovary, had gone up to the first
+floor of the town hall, to the "council-room," and, as it was
+empty, he declared that they could enjoy the sight there more
+comfortably. He fetched three stools from the round table under
+the bust of the monarch, and having carried them to one of the
+windows, they sat down by each other.</p>
+
+<p>There was commotion on the platform, long whisperings, much
+
+parleying. At last the councillor got up. They knew now that his
+name was Lieuvain, and in the crowd the name was passed from one
+to the other. After he had collated a few pages, and bent over
+them to see better, he began:</p>
+
+<p>"Gentlemen! May I be permitted first of all (before addressing
+you on the object of our meeting to-day, and this sentiment will,
+I am sure, be shared by you all), may I be permitted, I say, to
+pay a tribute to the higher administration, to the government to
+the monarch, gentle men, our sovereign, to that beloved king, to
+whom no branch of public or private prosperity is a matter of
+indifference, and who directs with a hand at once so firm and
+wise the chariot of the state amid the incessant perils of a
+stormy sea, knowing, moreover, how to make peace respected as
+well as war, industry, commerce, agriculture, and the fine arts?"</p>
+
+<p>"I ought," said Rodolphe, "to get back a little further."</p>
+
+<p>"Why?" said Emma.</p>
+
+<p>But at this moment the voice of the councillor rose to an
+extraordinary pitch. He declaimed:</p>
+
+<p>"This is no longer the time, gentlemen, when civil discord
+ensanguined our public places, when the landlord, the
+business-man, the working-man himself, falling asleep at night,
+lying down to peaceful sleep, trembled lest he should be awakened
+suddenly by the noise of incendiary tocsins, when the most
+subversive doctrines audaciously sapped foundations."</p>
+
+<p>"Well, someone down there might see me," Rodolphe resumed, "then
+I should have to invent excuses for a fortnight; and with my bad
+reputation&#8212;"</p>
+
+<p>"Oh, you are slandering yourself," said Emma.</p>
+
+<p>"No! It is dreadful, I assure you."</p>
+
+<p>"But, gentlemen," continued the councillor, "if, banishing from
+my memory the remembrance of these sad pictures, I carry my eyes
+back to the actual situation of our dear country, what do I see
+there?  Everywhere commerce and the arts are flourishing;
+everywhere new means of communication, like so many new arteries
+in the body of the state, establish within it new relations. Our
+great industrial centres have recovered all their activity;
+religion, more consolidated, smiles in all hearts; our ports are
+full, confidence is born again, and France breathes once more!"</p>
+
+<p>"Besides," added Rodolphe, "perhaps from the world's point of
+view they are right."</p>
+
+<p>"How so?" she asked.</p>
+
+<p>"What!" said he. "Do you not know that there are souls constantly
+tormented?  They need by turns to dream and to act, the purest
+passions and the most turbulent joys, and thus they fling
+themselves into all sorts of fantasies, of follies."</p>
+
+<p>Then she looked at him as one looks at a traveller who has
+voyaged over strange lands, and went on:</p>
+
+<p>"We have not even this distraction, we poor women!"</p>
+
+<p>"A sad distraction, for happiness isn't found in it."</p>
+
+<p>"But is it ever found?" she asked.</p>
+
+<p>"Yes; one day it comes," he answered.</p>
+
+<p>"And this is what you have understood," said the councillor.</p>
+
+<p>"You, farmers, agricultural labourers! you pacific pioneers of a
+work that belongs wholly to civilization! you, men of progress
+and morality, you have understood, I say, that political storms
+are even more redoubtable than atmospheric disturbances!"</p>
+
+<p>"It comes one day," repeated Rodolphe, "one day suddenly, and
+when one is despairing of it. Then the horizon expands; it is as
+if a voice cried, 'It is here!' You feel the need of confiding
+the whole of your life, of giving everything, sacrificing
+everything to this being. There is no need for explanations; they
+understand one another. They have seen each other in dreams!"
+(And he looked at her.) "In fine, here it is, this treasure so
+sought after, here before you. It glitters, it flashes; yet one
+still doubts, one does not believe it; one remains dazzled, as if
+one went out iron darkness into light."</p>
+
+<p>And as he ended Rodolphe suited the action to the word. He passed
+his hand over his face, like a man seized with giddiness. Then he
+let it fall on Emma's. She took hers away.</p>
+
+<p>"And who would be surprised at it, gentlemen?  He only who is so
+blind, so plunged (I do not fear to say it), so plunged in the
+prejudices of another age as still to misunderstand the spirit of
+agricultural populations. Where, indeed, is to be found more
+patriotism than in the country, greater devotion to the public
+welfare, more intelligence, in a word?  And, gentlemen, I do not
+mean that superficial intelligence, vain ornament of idle minds,
+but rather that profound and balanced intelligence that applies
+itself above all else to useful objects, thus contributing to the
+good of all, to the common amelioration and to the support of the
+state, born of respect for law and the practice of duty&#8212;"</p>
+
+<p>"Ah! again!" said Rodolphe. "Always 'duty.' I am sick of the
+word. They are a lot of old blockheads in flannel vests and of
+old women with foot-warmers and rosaries who constantly drone
+into our ears 'Duty, duty!' Ah! by Jove! one's duty is to feel
+what is great, cherish the beautiful, and not accept all the
+conventions of society with the ignominy that it imposes upon
+us."</p>
+
+<p>"Yet&#8212;yet&#8212;" objected Madame Bovary.</p>
+
+<p>"No, no! Why cry out against the passions?  Are they not the one
+beautiful thing on the earth, the source of heroism, of
+enthusiasm, of poetry, music, the arts, of everything, in a
+word?"</p>
+
+<p>"But one must," said Emma, "to some extent bow to the opinion of
+the world and accept its moral code."</p>
+
+<p>"Ah! but there are two," he replied. "The small, the
+conventional, that of men, that which constantly changes, that
+brays out so loudly, that makes such a commotion here below, of
+the earth earthly, like the mass of imbeciles you see down there.
+But the other, the eternal, that is about us and above, like the
+landscape that surrounds us, and the blue heavens that give us
+light."</p>
+
+<p>Monsieur Lieuvain had just wiped his mouth with a
+pocket-handkerchief. He continued:</p>
+
+<p>"And what should I do here gentlemen, pointing out to you the
+uses of agriculture?  Who supplies our wants?  Who provides our
+means of subsistence?  Is it not the agriculturist?  The
+agriculturist, gentlemen, who, sowing with laborious hand the
+fertile furrows of the country, brings forth the corn, which,
+being ground, is made into a powder by means of ingenious
+machinery, comes out thence under the name of flour, and from
+there, transported to our cities, is soon delivered at the
+baker's, who makes it into food for poor and rich alike. Again,
+is it not the agriculturist who fattens, for our clothes, his
+abundant flocks in the pastures?  For how should we clothe
+ourselves, how nourish ourselves, without the agriculturist?  And,
+gentlemen, is it even necessary to go so far for examples?  Who
+has not frequently reflected on all the momentous things that we
+get out of that modest animal, the ornament of poultry-yards,
+that provides us at once with a soft pillow for our bed, with
+succulent flesh for our tables, and eggs?  But I should never end
+if I were to enumerate one after the other all the different
+products which the earth, well cultivated, like a generous
+mother, lavishes upon her children. Here it is the vine,
+elsewhere the apple tree for cider, there colza, farther on
+cheeses and flax. Gentlemen, let us not forget flax, which has
+made such great strides of late years, and to which I will more
+particularly call your attention."</p>
+
+<p>He had no need to call it, for all the mouths of the multitude
+were wide open, as if to drink in his words. Tuvache by his side
+listened to him with staring eyes. Monsieur Derozerays from time
+to time softly closed his eyelids, and farther on the chemist,
+with his son Napol&#233;on between his knees, put his hand behind his
+ear in order not to lose a syllable. The chins of the other
+members of the jury went slowly up and down in their waistcoats
+in sign of approval. The firemen at the foot of the platform
+rested on their bayonets; and Binet, motionless, stood with
+out-turned elbows, the point of his sabre in the air. Perhaps he
+could hear, but certainly he could see nothing, because of the
+visor of his helmet, that fell down on his nose. His lieutenant,
+the youngest son of Monsieur Tuvache, had a bigger one, for his
+was enormous, and shook on his head, and from it an end of his
+cotton scarf peeped out. He smiled beneath it with a perfectly
+infantine sweetness, and his pale little face, whence drops were
+running, wore an expression of enjoyment and sleepiness.</p>
+
+<p>The square as far as the houses was crowded with people. One saw
+folk leaning on their elbows at all the windows, others standing
+at doors, and Justin, in front of the chemist's shop, seemed
+quite transfixed by the sight of what he was looking at. In spite
+of the silence Monsieur Lieuvain's voice was lost in the air. It
+reached you in fragments of phrases, and interrupted here and
+there by the creaking of chairs in the crowd; then you suddenly
+heard the long bellowing of an ox, or else the bleating of the
+lambs, who answered one another at street corners. In fact, the
+cowherds and shepherds had driven their beasts thus far, and
+these lowed from time to time, while with their tongues they tore
+down some scrap of foliage that hung above their mouths.</p>
+
+<p>Rodolphe had drawn nearer to Emma, and said to her in a low
+voice, speaking rapidly:</p>
+
+<p>"Does not this conspiracy of the world revolt you?  Is there a
+single sentiment it does not condemn?  The noblest instincts, the
+purest sympathies are persecuted, slandered; and if at length two
+poor souls do meet, all is so organised that they cannot blend
+together. Yet they will make the attempt; they will flutter their
+wings; they will call upon each other. Oh! no matter. Sooner or
+later, in six months, ten years, they will come together, will
+love; for fate has decreed it, and they are born one for the
+other."</p>
+
+<p>His arms were folded across his knees, and thus lifting his face
+towards Emma, close by her, he looked fixedly at her. She noticed
+in his eyes small golden lines radiating from black pupils; she
+even smelt the perfume of the pomade that made his hair glossy.
+Then a faintness came over her; she recalled the Viscount who had
+waltzed with her at Vaubyessard, and his beard exhaled like this
+air an odour of vanilla and citron, and mechanically she
+half-closed her eyes the better to breathe it in. But in making
+this movement, as she leant back in her chair, she saw in the
+distance, right on the line of the horizon, the old diligence,
+the "Hirondelle," that was slowly descending the hill of Leux,
+dragging after it a long trail of dust. It was in this yellow
+carriage that L&#233;on had so often come back to her, and by this
+route down there that he had gone for ever. She fancied she saw
+him opposite at his windows; then all grew confused; clouds
+gathered; it seemed to her that she was again turning in the
+waltz under the light of the lustres on the arm of the Viscount,
+and that Leon was not far away, that he was coming; and yet all
+the time she was conscious of the scent of Rodolphe's head by her
+side. This sweetness of sensation pierced through her old
+desires, and these, like grains of sand under a gust of wind,
+eddied to and fro in the subtle breath of the perfume which
+suffused her soul. She opened wide her nostrils several times to
+drink in the freshness of the ivy round the capitals. She took
+off her gloves, she wiped her hands, then fanned her face with
+her handkerchief, while athwart the throbbing of her temples she
+heard the murmur of the crowd and the voice of the councillor
+intoning his phrases. He said&#8212;"Continue, persevere; listen
+neither to the suggestions of routine, nor to the over-hasty
+councils of a rash empiricism.</p>
+
+<p>"Apply yourselves, above all, to the amelioration of the soil, to
+good manures, to the development of the equine, bovine, ovine,
+and porcine races. Let these shows be to you pacific arenas,
+where the victor in leaving it will hold forth a hand to the
+vanquished, and will fraternise with him in the hope of better
+success. And you, aged servants, humble domestics, whose hard
+labour no Government up to this day has taken into consideration,
+come hither to receive the reward of your silent virtues, and be
+assured that the state henceforward has its eye upon you; that it
+encourages you, protects you; that it will accede to your just
+demands, and alleviate as much as in it lies the burden of your
+painful sacrifices."</p>
+
+<p>Monsieur Lieuvain then sat down; Monsieur Derozerays got up,
+beginning another speech. His was not perhaps so florid as that
+of the councillor, but it recommended itself by a more direct
+style, that is to say, by more special knowledge and more
+elevated considerations. Thus the praise of the Government took
+up less space in it; religion and agriculture more. He showed in
+it the relations of these two, and how they had always
+contributed to civilisation. Rodolphe with Madame Bovary was
+talking dreams, presentiments, magnetism. Going back to the
+cradle of society, the orator painted those fierce times when men
+lived on acorns in the heart of woods. Then they had left off the
+skins of beasts, had put on cloth, tilled the soil, planted the
+vine. Was this a good, and in this discovery was there not more
+of injury than of gain?  Monsieur Derozerays set himself this
+problem. From magnetism little by little Rodolphe had come to
+affinities, and while the president was citing Cincinnatus and
+his plough, Diocletian, planting his cabbages, and the Emperors
+of China inaugurating the year by the sowing of seed, the young
+man was explaining to the young woman that these irresistible
+attractions find their cause in some previous state of existence.</p>
+
+<p>"Thus we," he said, "why did we come to know one another?  What
+chance willed it?  It was because across the infinite, like two
+streams that flow but to unite; our special bents of mind had
+driven us towards each other."</p>
+
+<p>And he seized her hand; she did not withdraw it.</p>
+
+<p>"For good farming generally!" cried the president.</p>
+
+<p>"Just now, for example, when I went to your house."</p>
+
+<p>"To Monsieur Bizat of Quincampoix."</p>
+
+<p>"Did I know I should accompany you?"</p>
+
+<p>"Seventy francs."</p>
+
+<p>"A hundred times I wished to go; and I followed you&#8212;I remained."</p>
+
+<p>"Manures!"</p>
+
+<p>"And I shall remain to-night, to-morrow, all other days, all my
+life!"</p>
+
+<p>"To Monsieur Caron of Argueil, a gold medal!"</p>
+
+<p>"For I have never in the society of any other person found so
+complete a charm."</p>
+
+<p>"To Monsieur Bain of Givry-Saint-Martin."</p>
+
+<p>"And I shall carry away with me the remembrance of you."</p>
+
+<p>"For a merino ram!"</p>
+
+<p>"But you will forget me; I shall pass away like a shadow."</p>
+
+<p>"To Monsieur Belot of Notre-Dame."</p>
+
+<p>"Oh, no! I shall be something in your thought, in your life,
+shall I not?"</p>
+
+<p>"Porcine race; prizes&#8212;equal, to Messrs. Leh&#233;riss&#233; and
+Cullembourg, sixty francs!"</p>
+
+<p>Rodolphe was pressing her hand, and he felt it all warm and
+quivering like a captive dove that wants to fly away; but,
+whether she was trying to take it away or whether she was
+answering his pressure; she made a movement with her fingers. He
+exclaimed:</p>
+
+<p>"Oh, I thank you! You do not repulse me! You are good! You
+understand that I am yours! Let me look at you; let me
+contemplate you!"</p>
+
+<p>A gust of wind that blew in at the window ruffled the cloth on
+the table, and in the square below all the great caps of the
+peasant women were uplifted by it like the wings of white
+butterflies fluttering.</p>
+
+<p>"Use of oil-cakes," continued the president. He was hurrying on:</p>
+
+<p>"Flemish manure&#8212;flax-growing&#8212;drainage&#8212;long leases&#8212;domestic
+service."</p>
+
+<p>Rodolphe was no longer speaking. They looked at one another. A
+supreme desire made their dry lips tremble, and wearily, without
+an effort, their fingers intertwined.</p>
+
+<p>"Catherine Nicaise Elizabeth Leroux, of Sassetot-la-Guerri&#232;re,
+for fifty-four years of service at the same farm, a silver
+medal&#8212;value, twenty-five francs!"</p>
+
+<p>"Where is Catherine Leroux?" repeated the councillor.</p>
+
+<p>She did not present herself, and one could hear voices
+whispering:</p>
+
+<p>"Go up!"</p>
+
+<p>"Don't be afraid!"</p>
+
+<p>"Oh, how stupid she is!"</p>
+
+<p>"Well, is she there?" cried Tuvache.</p>
+
+<p>"Yes; here she is."</p>
+
+<p>"Then let her come up!"</p>
+
+<p>Then there came forward on the platform a little old woman with
+timid bearing, who seemed to shrink within her poor clothes. On
+her feet she wore heavy wooden clogs, and from her hips hung a
+large blue apron. Her pale face framed in a borderless cap was
+more wrinkled than a withered russet apple. And from the sleeves
+of her red jacket looked out two large hands with knotty joints,
+the dust of barns, the potash of washing the grease of wools had
+so encrusted, roughened, hardened these that they seemed dirty,
+although they had been rinsed in clear water; and by dint of long
+service they remained half open, as if to bear humble witness for
+themselves of so much suffering endured. Something of monastic
+rigidity dignified her face. Nothing of sadness or of emotion
+weakened that pale look. In her constant living with animals she
+had caught their dumbness and their calm. It was the first time
+that she found herself in the midst of so large a company, and
+inwardly scared by the flags, the drums, the gentlemen in
+frock-coats, and the order of the councillor, she stood
+motionless, not knowing whether to advance or run away, nor why
+the crowd was pushing her and the jury were smiling at her.
+Thus stood before these radiant bourgeois this half-century of
+servitude.</p>
+
+<p>"Approach, venerable Catherine Nicaise Elizabeth Leroux!" said
+the councillor, who had taken the list of prize-winners from the
+president; and, looking at the piece of paper and the old woman
+by turns, he repeated in a fatherly tone&#8212;"Approach! approach!"</p>
+
+<p>"Are you deaf?" said Tuvache, fidgeting in his armchair; and he
+began shouting in her ear, "Fifty-four years of service. A silver
+medal! Twenty-five francs! For you!"</p>
+
+<p>Then, when she had her medal, she looked at it, and a smile of
+beatitude spread over her face; and as she walked away they could
+hear her muttering "I'll give it to our cure up home, to say some
+masses for me!"</p>
+
+<p>"What fanaticism!" exclaimed the chemist, leaning across to the
+notary.</p>
+
+<p>The meeting was over, the crowd dispersed, and now that the
+speeches had been read, each one fell back into his place again,
+and everything into the old grooves; the masters bullied the
+servants, and these struck the animals, indolent victors, going
+back to the stalls, a green-crown on their horns.</p>
+
+<p>The National Guards, however, had gone up to the first floor of
+the town hall with buns spitted on their bayonets, and the
+drummer of the battalion carried a basket with bottles. Madame
+Bovary took Rodolphe's arm; he saw her home; they separated at
+her door; then he walked about alone in the meadow while he
+waited for the time of the banquet.</p>
+
+
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00068" type="same novel"/></item>
+			<item><xptr n="ls.00031" type="same novel"/></item>
+              	<item><xptr n="ls.00030" type="same novel"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

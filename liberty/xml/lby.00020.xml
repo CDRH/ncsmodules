@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00020">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Sonnet to Liberty"
+</title>
+
+<date type="original" value="1881">1881</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Wilde">Oscar Wilde
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00020</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 50 of the 1907 A.R. Keller edition of <hi rend="italic">The Writings of Oscar Wilde: Poems</hi>. </note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Sonnet to Liberty</title>
+               <title level="m">The Writing of Oscar Wilde: Poems</title>
+               <author>Oscar Wilde</author>
+               <imprint>
+                  <publisher>A.R. Keller
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1907
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="radicalism" type="topic">Radicalism</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-25">25 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">SONNET TO LIBERTY.</head>
+<lg type="poem">
+<l>Not that I love thy children, whose dull eyes</l>
+<l>See nothing save their own unlovely woe,</l>
+<l>Whose minds know nothing, nothing care to know,&#8212;</l>
+<l>But that the roar of thy Democracies,</l>
+<l>Thy reigns of Terror, thy great Anarchies,</l>
+<l>Mirror my wildest passions like the sea,-</l>
+<l>And give my rage a brother&#8212;&#8212;! Liberty!</l>
+<l>For his sake only do thy dissonant cries</l>
+<l>Delight my discreet soul, else might all kings</l>
+<l>By bloody knout or treacherous cannonades</l>
+<l>Rob nations of their rights inviolate</l>
+<l>And I remain unmoved&#8212;and yet, and yet,</l>
+<l>These Christs that die upon the barricades,</l> 
+<l>God knows it I am with them, in some things.</l>
+</lg>
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

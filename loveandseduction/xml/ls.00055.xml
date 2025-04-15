@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00055">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Natural History of Courtship</hi></title>
+		<title level="c" type="chapter">"The Implements of Courtship"</title>
+		<title level="j" type="journal"><hi rend="italic">Punch</hi></title>
+		<date type="original" value="1842">1842</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Wills">W.H. Wills
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00055</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 15-16 of the original 1842 publication of <hi rend="italic">Punch</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Implements of Courtship</title>
+               <title level="m">The Natural History of Courtship</title>
+               <author>Albert Smith</author>
+               <imprint>
+                  <publisher>
+Punch
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+1842
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="garden" type="setting">garden</term>
+			<term id="publicspace" type="setting">public space</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="class" type="theme">class</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-25">25 February 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                     
+         <p>When the gods decreed, as per last chapter, that
+Courtship should be numbered amongst the fine arts, they presented us with the
+necessary implements &#8212; that the making of love, like the making of barley-sugar
+or gunpowder, might be duly carried on, <hi rend="italic">secundum artem, </hi>by machinery.
+Brunel would never have been heard of but for his pencil. What was Phidias
+without his chisel? And not the laboratory of the chemist, not the <hi rend="italic">ateliers
+</hi>of the mechanist, contain instruments of such varied, complicated, delicate
+construction, as those employed by the true artist in love.</p>
+
+         <p>To mention only a few of the articles in a
+lover's laboratory: &#8212; the eyes to glance, a purse to bribe Abigails and to make
+presents, the hands to "press" and to write notes with, the brains (though not
+absolutely essential) to spin into verses, the lips as ingredients in a smile,
+the lungs for sighing, the tongue for fibbing ("at lovers' perjuries, &amp;c.
+&amp;c."), the feet and a few lessons from D'Egville, for waltzing; besides a
+hundred others, many of which are not even mentioned by Ovid.</p>
+
+         <p>Let us begin with the Eyes &#8212; for with them
+lovers invariably commence their conjurations. If you look in a dictionary for
+a meaning to the word, you will find it designated "the organ of sight" &#8212; a
+vilely meager definition; implying that its use is simply visual, as if it had
+nothing to do with flirtation. Why, even my excellent friend Pelham Plumer &#8212; the
+precise, punctilious clerk in Her Majesty's Treasury &#8212; knows better. It was,
+if I understand him rightly, when the buds were first peeping forth upon the
+trees of the Russell-square inclosure, (a key whereof he had just purchased),
+that he first became aware that eyes were made for other uses than mere
+seeing. The pair from which he learnt the lesson are, according to his account
+&#8212; bright, lustrous, and blue. They belong to a charming face, shine under a
+very "love" of a garden bonnet every morning, exactly half an hour before
+breakfast, and, next to them, Pelham loves punctuality. The first encounter
+happened whilst he was sitting in the round seat under the great tree. He was
+putting on a new pair of gloves, and mentally cursing the one thread that
+pretended to fasten the wrist-button, when he beheld <hi rend="italic">the </hi>blue orbits.
+They were taking a general view of his person &#8212; a periscope from under a
+parasol. They gradually traveled from his boots to his hat, and called up a
+smile; they then rested upon the embarrassing glove-button, and invoked a
+frown. Plumer was paralysed, for he translated the smile into an approval of
+his person, and the frown into sympathy for his mishap. He never saw such a
+lovely figure &#8212; one at least that stood sitting so well &#8212; nor such a tasteful
+morning robe &#8212; nor such pretty feet &#8212; nor such a tiny parasol. He stared, and
+the lady would have hid her face had her sun-fan been big enough, so she turned
+away her head, and pretended to watch with earnestness the gardener, as he swept
+past with a broom. The back-view thus presented was perfectly enchanting.
+What an elegantly-turned figure! What a sylph-like waist! Plumer took this
+opportunity of arranging his cravat.</p>
+
+         <p>Again those blue eyes shone upon the hemisphere
+of his attractions. Half closed, they at first peered with curiosity &#8212; then
+opened with surprise &#8212; and called up the sweetest tinge of shame that ever
+deepened the tint of a lovely cheek. Plumer was right in rendering these
+motions and emotions into English thus: &#8212;"I wonder if he is gone yet! As I
+live he is still looking this way! Good gracious! How very odd he must think
+me!"</p>
+
+         <p>Thereupon the lady rises, and the gentleman
+follows her &#8212; but only with his eyes. At a turn of the walk she again looks
+round. One short, twinkling, but decisive glance is exchanged, and Mr. Plumer
+rushes to the square-keeper, and promising him a handsome reward if he will
+divulge who the lady with the pale pink bonnet and infinitesimal parasol may
+happen to be. The answer is, "Miss Murray, of Number 96, in the Square;" and
+the rejoinder, a half-crown.</p>
+
+         <p>Mr. Plumer's destiny from that morning was
+settled. For the first time since "Taking office" he was fined for being late,
+and when the blue eyes were innocently mentioned as the cause thereof, those
+enchanting orbits were vilely coupled by his doubting fellow-clerks, with a
+lady well-known as "Betty Martin." Still, Pelham &#8212; not having the fear of the
+clerk of the cheque before him &#8212; continued to visit the interior of the Square
+at the time of trysting, and thus a silent telegraphic courtship was
+established, solely by two pairs of eyes. The staid Plumer now became another
+man, and actually went to a fancy ball dressed as a French Chasseur.</p>
+
+         <p>Let me here mention a few other important
+elements in the science. Compliments are most difficult tools to handle; for
+all women are most particular in assuring us that they abhor flattery. Hence,
+if you cannot manage to bring your compliments within the pale of their
+implicit belief, you had better not use them. As skilful anglers proportion
+the size of the hook to the fish's capacity for swallowing, so the clever
+courtier must measure his flattery by the known amount of the recipient's
+vanity. To be sure, this is sometimes incalculable, as I believed Julia
+Summers's to be, when I thought no extravagance of praise applied for her <hi rend="italic">personale
+</hi>would be too great for her credence. But I was mistaken. I happened, (it
+was at a Champagne pic-nic, and that must be my excuse), to make some
+outrageous allusion to the planetary system in connection with her eyes;
+forgetting, alas! at the moment, how awfully she squints. Unluckily she knew
+I was quizzing her, and never forgave me, which I have repeatedly regretted,
+for she possesses as pretty a fortune as a professor of courtship would wish to
+wed withal.</p>
+
+         <p>Neither should the best deserved compliment be
+directed point-blank, even from the glibbest beau, but wafted to the ears of
+the belle upon the insinuating zephyrs of a puff-oblique. It should be
+adroitly implied, and not directly paid &#8212; "duly as the Turk's tribute," &#8212; but
+let fall by apparent accident. If, however, an evidence of intention be
+unavoidable, let the honied words drop from your lips as though you really
+could not help it. Should you, by mistake, address a sensible woman, truly
+conscious of what is due to her in the way of admiration, she will laugh at
+you; but laugh, too &#8212; be not mortified &#8212; and never retract.</p>
+
+         <p>Again, of Love Letters. &#8212; Above all things be
+very particular about your stationery. I don't wish to drive you to the
+expense of arabesque envelopes, gilded borders, or any of the mere fripperies
+of <hi rend="italic">papeterie; </hi>but let me assure you, that despair, be it ever so
+touchingly expressed, looks anything but genuine upon shabby post; whilst love,
+merely hinted at upon pink note, receives a tinge of reality which no words can
+express. Always seal with your crest, (if you have one &#8212; if not, get one
+"found" at your stationer's), and never use those abominable mottoes which are
+sold in the bazaars by the dozen.</p>
+
+         <p>There can be no doubt that the outside of a
+billet is of far greater consequence than its contents, the which few women
+absolutely and religiously believe. "Men," it is their common axiom, "are
+deceivers ever," and rather than put faith in what we say upon paper, the dear
+ones form their judgment from little accompanying circumstances; as thus: a
+crest, bespeaks good family; a neat envelope, gentlemanly habits; the groom,
+whom you must always contrive shall be your Mercury (whether he be your own or
+another's), hints a horse, and some affluence. These points once established,
+the contents of your note &#8212; in all cases where the charmer has passed her
+twenty-fifth year &#8212; go for nothing. Should, however, your enchantress be in
+her teens, they have their weight, but in that case some circumstances of
+mysterious difficulty and romance must be added to the operation of delivering;
+to which end always bribe her maid, that your winged messengers of love may
+occasionally fly in at a three-story window, and fall exactly under your
+angel's dressing-case, or be folded up somehow in her kerchief, or magically
+drop upon the pavement when she opens her parasol. And here, too, what are the
+contents&#8212; Nothing; for your cause is inwardly advocated by the pouting
+beauty, thus &#8212; "How exceedingly impertinent &#8212; but then he is so preserving &#8212; I
+really must tell Mama to discharge Flounce &#8212; to be sure he is not handsome, but
+then so affectionate" &#8212; (the pink paper) &#8212; "and so well bred" &#8212; (the crest). 
+"How shall I act when I meet him at the Watertons' to night?"</p>
+
+         <p>How? Why, in a manner that shall convince the
+lover he has made one step in the fair one's favour.</p>
+
+         <p>For these reasons, I am convinced that the
+authors of the "Complete Letter Writer" lay by far too much stress upon the
+interior of a <hi rend="italic">billet d'amour. </hi>Yet, as a matter of secondary importance,
+that demands a remark or two. Be sure to invoke inspiration from Honour, and
+in your first note make decided but delicate allusions to the true end and aim
+of courtship. Be sparing of your imagination, and only use it to heighten the
+feelings you really possess; never pretending to emotions you are an entire
+stranger to. If you indulge in sentimentality, let it not be &#8212; as you value a
+character for sanity &#8212; sickly or maudlin. We are loved as men; our sentiments
+and actions should therefore be manly. Your style should be divested of all
+formality; never commence with "My dear Madam," or "My dear Miss Watson;" but
+plunge <hi rend="italic">in media res </hi>at once. I knew a worthy young attorney, who lost a
+lovely, lively brunette, by addressing her as "Respected Miss Gay."</p>
+
+         <p>Presents should be more tasteful than costly; <hi rend="italic">apropos
+</hi>rather than numerous. Visits must never be too prolonged, or without
+excuse; to manufacture which, various plans may be adopted. Never, for
+instance, separate at a party, or elsewhere, without a proposition for the
+opera, or some sort of excursion, that you may call next morning to get the
+arrangement ratified or rejected. Always forget to return a handkerchief, lorgnette,
+or scent-bottle on the evening you may be indulged with their charge; for that
+creates another morning visit.</p>
+
+         <p>Finally, the finishing implements are &#8212; (be not
+alarmed, dearest prude, for I am not going to pen a physiology of kissing) 
+the lips! </p>
+
+         <p>"What!" warmly asks my esteemed Priscilla, "and
+has the heart nothing to do with courtship?"</p>
+
+         <p>"Nothing, my dear madam; for when that inmost
+temple of the affections is entered, courtship and its arts have fled."</p>
+	<div1 type="file references">
+            <list>
+
+               <item>
+                  <xptr n="ls.00095" type="same fiction"/></item>
+		<item><xptr n="ls.00096" type="same fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00143" type="image on fiction"/></item>
+		<item><xptr n="ls.00144" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00145" type="image on fiction"/></item>
+		<item><xptr n="ls.00146" type="image on fiction"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

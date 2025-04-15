@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00010">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The American Senator</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter 35, "'You Are So Severe'"</title>
+<title level="m" type="monograph"></title>
+<author name="Trollope">Anthony Trollope</author>
+<date type="original" value="1877">1877</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00010</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Anthony Trollope's <hi rend="italic">The American Senator</hi>, Chapter 35, "'You Are So Severe'."  Originally published in 1877.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter 35,"'You are So Severe'"</title>
+               <title level="m"><hi rend="italic">The American Senator</hi></title>
+               <author>Anthony Trollope</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+2004
+
+</date>
+ 
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="garden" type="setting">garden</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="courtship" type="theme">courtship</term>	
+			<term id="class" type="theme">class</term>
+			<term id="breachofpromise" type="theme">breach of promise</term>
+			<term id="british" type="place">British</term>
+			<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-07">07 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="editorial">Scene One: Coquette and Aristocrat walk in the Garden</head>
+
+
+<p>When the house was cleared Arabella went upstairs and put on her hat. It was a bright beautiful winter's day, not painfully cold because the air was dry, but still a day that warranted furs and a muff. Having prepared herself she made her way alone to a side door which led from a branch of the hall on to the garden terrace, and up and down that she walked two or three times,&#8212;so that any of the household that saw her might perceive that she had come out simply for exercise. At the end of the third turn instead of coming back she went on quickly to the conservatory and took the path which led round to the further side. There was a small lawn here fitted for garden games, and on the other end of it an iron gate leading to a path into the woods. At the further side of the iron gate and leaning against it, stood Lord Rufford smoking a cigar. She did not pause a moment but hurried across the lawn to join him. He opened the gate and she passed through. "I'm not going to be done by a dragon," she said as she took her place alongside of him.</p>
+
+
+<p>"Upon my word, Miss Trefoil, I don't think I ever knew a human being with so much pluck as you have got."</p>
+
+
+<p>"Girls have to have pluck if they don't mean to be sat upon;&#8212;a great deal more than men. The idea of telling me that I was to go to church as though I were twelve years old!"</p>
+
+<p>"What would she say if she knew that you were walking here with me?"</p>
+
+<p>"I don't care what she'd say. I dare say she walked with somebody once;&#8212;only I should think the somebody must have found it very dull."</p>
+
+<p>"Does she know that you're to hunt to-morrow?"</p>
+
+<p>"I haven't told her and don't mean. I shall just come down in my habit and hat and say nothing about it. At what time must we start?"</p>
+
+<p>"The carriages are ordered for half-past nine. But I'm afraid you haven't clearly before your eyes all the difficulties which are incidental to hunting."</p>
+
+<p>"What do you mean?"</p>
+
+<p>"It looks as like a black frost as anything I ever saw in my life."</p>
+
+<p>"But we should go?"</p>
+
+<p>"The horses won't be there if there is a really hard frost. Nobody would stir. It will be the first question I shall ask the man when he comes to me, and if there have been seven or eight degrees of frost I shan't get up."</p>
+
+<p>"How am I to know?"</p>
+
+<p>"My man shall tell your maid. But everybody will soon know all about it. It will alter everything."</p>
+
+<p>"I think I shall go mad."</p>
+
+<p>"In white satin?"</p>
+
+<p>"No;&#8212;in my habit and hat. It will be the hardest thing, after all! I ought to have insisted on going to Holcombe Cross on Friday. The sun is shining now. Surely it cannot freeze."</p>
+
+<p>"It will be uncommonly ill-bred if it does."</p>
+
+<p>But, after all, the hunting was not the main point. The hunting had been only intended as an opportunity; and if that were to be lost,&#8212;in which case Lord Rufford would no doubt at once leave Mistletoe,&#8212;there was the more need for using the present hour, the more for using even the present minute. Though she had said that the sun was shining, it was the setting sun, and in another half hour the gloom of the evening would be there. Even Lord Rufford would not consent to walk about with her in the dark.</p>
+
+<p>"Oh, Lord Rufford," she said, "I did so look forward to your giving me another lead." Then she put her hand upon his arm and left it there.</p>
+
+<p>"It would have been nice," said he, drawing her hand a little on, and remembering as he did so his own picture of himself on the cliff with his sister holding his coat-tails.</p>
+
+<p>"If you could possibly know," she said, "the condition I am in."</p>
+
+<p>"What condition?"</p>
+
+<p>"I know that I can trust you."</p>
+
+<p>"Oh dear, yes. If you mean about telling, I never tell anything."</p>
+
+<p>"That's what I do mean. You remember that man at your place?"</p>
+
+<p>"What man?  Poor Caneback?"</p>
+
+<p>"Oh dear no! I wish they could change places because then he could give me no more trouble."</p>
+
+<p>"That's wishing him to be dead, whoever he is."</p>
+
+<p>"Yes. Why should he persecute me?  I mean that man we were staying with at Bragton."</p>
+
+<p>"Mr. Morton?"</p>
+
+<p>"Of course I do. Don't you remember your asking me about him, and my telling you that I was not engaged to him?"</p>
+
+<p>"I remember that"</p>
+
+<p>"Mamma and this horrid old Duchess here want me to marry him.
+They've got an idea that he is going to be ambassador at Pekin or something very grand, and they're at me day and night"</p>
+
+<p>"You needn't take him unless you like him."</p>
+
+<p>"They do make me so miserable!" And then she leaned heavily upon his arm. He was a man who could not stand such pressure as this without returning it. Though he were on the precipice, and though he must go over, still he could not stand it. "You remember that night after the ball?"</p>
+
+<p>"Indeed I do."</p>
+
+<p>"And you too had asked me whether I cared for that horrid man."</p>
+
+<p>"I didn't see anything horrid. You had been staying at his house and people had told me. What was I to think?"</p>
+
+<p>"You ought to have known what to think. There; let me go,"&#8212;for now he had got his arm round her waist. "You don't care for me a bit. I know you don't. It would be all the same to you whom I married;&#8212;or whether I died."</p>
+
+<p>"You don't think that, Bella?" He fancied that he had heard her mother call her Bella, and that the name was softer and easier than the full four syllables. It was at any rate something for her to have gained.</p>
+
+<p>"I do think it. When I came here on purpose to have a skurry over the country with you, you went away to Holcombe Cross though you could have hunted here, close in the neighbourhood. And now you tell me there will be a frost to-morrow."</p>
+
+<p>"Can I help that, darling?"</p>
+
+<p>"Darling! I ain't your darling. You don't care a bit for me. I believe you hope there'll be a frost." He pressed her tighter, but laughed as he did so. It was evidently a joke to him;&#8212;a pleasant joke no doubt. "Leave me alone, Lord Rufford. I won't let you, for I know you don't love me." Very suddenly he did leave his hold of her and stood erect with his hands in his pockets, for the rustle of a dress was heard. It was still daylight, but the light was dim and the last morsel of the grandeur of the sun had ceased to be visible through the trees. The church-going people had been released, and the Duchess having probably heard certain tidings, had herself come to take a walk in the shrubbery behind the conservatory. Arabella had probably been unaware that she and her companion by a turn in the walks were being brought back towards the iron gate. As it was they met the Duchess face to face.</p>
+
+<p>Lord Rufford had spoken the truth when he had said that he was a little afraid of the Duchess. Such was his fear that at the moment he hardly knew what he was to say. Arabella had boasted when she had declared that she was not at all afraid of her aunt;&#8212;but she was steadfastly minded that she would not be cowed by her fears.She had known beforehand that she would have occasion for much presence of mind, and was prepared to exercise it at a moment's notice. She was the first to speak. "Is that you, aunt?  you are out of church very soon."</p>
+
+<p>"Lord Rufford," said the Duchess, "I don't think this is a proper time for walking out."</p>
+
+<p>"Don't you, Duchess?  The air is very nice."</p>
+
+<p>"It is becoming dark and my niece had better return to the house with me. Arabella, you can come this way. It is just as short as the other. If you go on straight, Lord Rufford, it will take you to the house." Of course Lord Rufford went on straight and of course Arabella had to turn with her aunt. "Such conduct as this is shocking," began the Duchess.</p>
+
+
+<div1 type="file references">
+            <list>
+
+               <item><xptr n="ls.00011" type="same author"/></item>
+			<item><xptr n="ls.00073" type="same author"/></item>
+              	<item><xptr n="ls.00074" type="same novel"/></item>
+			<item><xptr n="ls.00075" type="same novel"/></item> 
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

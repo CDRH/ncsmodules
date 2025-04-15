@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00100</field>
+      <field name="title">"Don't meddle with the press"</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">french</field>
+      <field name="topic">rev1830</field>
+      <field name="topic">dissenting</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

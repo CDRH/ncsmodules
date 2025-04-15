@@ -1,0 +1,13 @@
+<add>
+   <doc>
+      <field name="id">lby.00106</field>
+      <field name="title">In Memory of Abraham Lincoln</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">american</field>
+      <field name="topic">lincoln</field>
+      <field name="topic">libertycap</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

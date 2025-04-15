@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00046">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"A New Niagara"
+
+</title>
+
+<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name=""></author>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00046</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 5-6 of the April 27, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">A New Niagara</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+April 27, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="piano" type="setting">piano</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="arrangedmarriage" type="theme">arranged marriage</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>A NEW NIAGARA</head>
+
+	<head>The Frightful Scandal of which Detroit has the Honor of Being the Place of Incubation</head>
+	<head>BIGGER THAN BEECHER</head>
+	<head>An Old and Reverend Episcopal Bishop Charged with Seduction, Lechery and Debauchery</head>	<head>HE STEPS DOWN AND OUT</head>
+
+                     <p>Some weeks since the <hi rend="italic">Gazette</hi> received from a correspondent
+in Detroit the details of a terrific scandal involving a high church dignitary
+and a young married lady of first-class social standing in that city. The names
+of the parties and full details were given, but the accusations were so
+startling and the scandal the revelations were certain to create, if given
+publicity, of so overwhelming a character that we deemed it unadvisable to
+publish the matter without a thorough investigation of it. This revealed the
+fact that desperate attempts were being made to keep it out of the newspapers,
+but that it was, nevertheless, gradually finding its way to the light of day
+and that there was, moreover a well-grounded belief in the truth of the
+charges.</p>
+
+         <p>Meanwhile the following outlines of the scandal
+appeared in the <hi rend="italic">Graphic, </hi>in which, however, all names were omitted.</p>
+
+         <p>Detroit, April 12. &#8212; There is the very scandal
+of all scandals afloat here, and one which, while it is in the mouths of a
+hundred people, has been, from a number of reasons, kept out of public print.
+It may, however, become public any morning, and when it does the Beecher scandal will not hold a candle to it, or, as I heard a gentleman remark yesterday,
+"It will knock the Beecher scandal higher than a kite." For several days a
+newspaper, in one respect, at least, well known, has had over three columns of
+matter in type, which its editor has been induced, temporarily, not to publish,
+but which, from my own knowledge, contains matter of much more startling
+character than has ever been connected with any scandal which has become a
+matter of litigation in this country. The parties to it occupy somewhat anomalous positions.  One is a divine, than whom none occupies a higher position
+in his own church, or, for that matter, in any church in the West.</p>
+
+         <p>The facts which I give to the <hi rend="italic">Graphic </hi>alone
+are within my own personal knowledge, and the proofs are in such safe keeping
+that they will never come to light except in connection with some legal agent.
+At the same time these proofs have been seen by a dozen or more persons, and
+their entire accuracy has been acknowledged by both the parties implicated.
+The other party is a young lady of heretofore irreproachable character and now
+married to a young gentleman actively engaged in business, and who knows
+nothing whatever of the previous connection of his now wife with the
+disgraceful life which cannot escape exposure after what is at present known
+here and in Chicago. The relations between the young lady and the clergyman
+alluded to extend over the entire years of 1874-75, and are fully shown by his
+own letters. Most of these are of such a character as to render them utterly
+unfit for publication, not only in any respectable paper, but in any paper
+whatever. Published they would scarcely be believed. But they have been seen
+by a number of persons, one or two of whom own papers and might have published
+them had they not refused on the ground of public morals and public decency.
+The case could scarcely be worse than it is. This dignitary of the church not
+only did all and more than all that is charged against him, but went to the
+extreme of arranging himself the subsequent marriage of the woman.  One half of the correspondence, that of the clergyman
+alluded to, however, fell into the hands of a gentleman who had once been her
+lover, and who, as much on her account as any other, with the added impetus of
+fear for his own self-preservation, made its contents known to a number of
+friends and then placed the papers in the vault of a bank in this city, whence
+they will not be taken except upon a legal process. It is doubtless if they
+now ever see the light, except through those to whom this old lover has shown
+them, since the matter has been brought directly to the doors of the church of
+which this clergyman is a member. A committee of three of its members traveled
+several hundred miles to determine officially whether the charges based upon
+the letters were true or not. They saw the letters and were convinced of the clergyman's
+guilt. They returned and confronted him with the evidences. The woman, who,
+throughout, had been with him <hi rend="italic">particeps criminis, </hi>had, however, informed
+him that his letters, which had been sent to her from New York and many other
+places to which ecclesiastical business had taken him from time to time, had
+been destroyed. When he saw the proofs of his own guilt, presented to him by
+members of his own church, and found that he had been deceived by her, he
+begged for mercy and acknowledged the whole truth. An agreement was entered
+into, out of mercy to him and her, and the friends of both, that he should
+resign his office and proceed to Europe. On condition, alone, that he should
+remain abroad was their mutual secret to be kept.</p>
+
+         <p>To this he agreed.</p>
+
+         <p>In the meantime all the facts, with most of the
+proofs, has become known to the newspaper men here, and it had become,
+apparently, impossible to keep the matter from the public. The gentlemen who
+had forced an acknowledgment from him were influential enough to secure a
+promise from the two or three persons to which all the details were known that
+no publication of it should be made until he should have had sufficient time to
+sail for Europe. The time granted to him for this purpose will have expired in
+less than two weeks, and then the matter, which I have already stated was in
+type, will appear without delay. The editor of the paper to which I alluded in
+the first place, said, editorially, almost a week ago that satisfactory reasons
+had been given it for temporarily withholding facts which it had, with proofs,
+in its possession, and which, when published, would make almost the world
+tremble. It had no desire "to blast the life of a young family and hasten to
+the grave that portion of it which has passed its prime, which in fact, now
+stands tottering with one foot in the grave. We have not the heart, though we
+first thought we had, to bring to light a scandal which carries with it so deep
+and grave a meaning. Our only reasons for not publishing the scandal are those
+of humanity. We hold the destiny of thousands of people in our power and will
+not use it."</p>
+
+         <p>The matter has, however, gone too far to be much
+longer kept out of sight, and when you know who the implicated parties are you
+will not wonder at my statement that it is a scandal, the worst and the most to
+be regretted that has occurred in our scandal-laden country.</p>
+
+         <p>At last, however, the long threatening cloud has
+burst and the result is another moral Niagara, which promises to rival in its
+proportions the memorable one that flooded the country such a short time
+since. In its issue of the 17th the Chicago <hi rend="italic">Times </hi>published
+the following:</p>
+
+         <p>Detroit, Mich., April 16. &#8212; Detroit has a
+sensation as great as the Beecher-Tilton affair in that the party implicated is
+equally as prominent in the church, and surpassing in the overwhelming
+evidence, notwithstanding the last confessions of Mrs. Tilton. The hero is
+none other than Samuel Allan McCoskrey, for more than forty years bishop of the
+diocese of Michigan, but who has recently resigned in consequence of the
+publicity of the facts about to be narrated, and will shortly sail for Europe where he hopes to escape the avenging nemesis of public opinion. The plain facts
+are apparently that the Bishop has been for many years "Fasht wi fleshy lust,"
+and has been decidedly promiscuous in giving vent to his inclinations. During
+all these years stories have now and then been whispered abroad, but have been
+suppressed by the good brethren of the Episcopal faith here, who have had to
+take a supervisory interest in his affairs in more ways than one. Recently,
+however, one came to their knowledge in so startling a form that it was impossible to suppress it.  The result is a vacant bishopric, a wandering ex-bishop, a
+terrified family, an Episcopal community trembling lest the cloud should burst,
+and a worldly crowd praying in a sinful way that the crisis may be
+precipitated. A few months ago a prominent vestryman overheard two men talking
+in an adjoining room about Bishop McCoskrey and heard enough to satisfy him
+that something was wrong.</p>
+
+         <p>He entered the room and after some little parley
+was taken into their confidence. They showed him a number of letters evidently
+written by the Bishop to a Miss Fannie Richards, a young girl of this city,
+wherein were expressions that rendered it obvious that he had been and was on
+terms of too great intimacy with her. The vestryman was astounded, and
+concluded that it must be a deep laid scheme to blackmail the Bishop or his
+friends. He was told that the letters had been left in the safe of a Michigan farmer by a printer named George McConnell. Quietly he obtained possession of the
+letters and confident that he could work up a clear case of blackmail, he set
+his wits to work. McConnell was sent for and responded. His story was another
+astonisher. He said that for several years he had been on terms of too great
+intimacy with Fanny Richards, and that he had known the Bishop was in the same
+boat. A year or so before this he had been assisting the girl and her mother
+to move, had discovered the Bishop's letters lying on a table, examined them,
+and then placed them in his pocket for his own protection. All efforts to
+extort any other story from him only excited additional particulars of his
+knowledge of the Bishop's intimacy with the girl.  All that McConnell wanted was that he should be protected in
+so far as he was innocent of any intent to levy blackmail, and, on receiving
+the assurance desired, he surrendered the letters. The vestryman consulted
+with another prominent member of the Episcopal Church, and, after they had
+satisfied themselves that the letters were undoubtedly written by the Bishop,
+they resolved to summon him before them. He came in all his official dignity,
+but when letters were laid before him he broke down and became as a mere
+supplicant.</p>
+
+         <p>He at once acknowledged the authenticity of two
+of them which bore his signature, and at first recognized a third as his, but
+when told that his name was not attached to it, he attempted to retrieve his
+error, and tossed it aside with an evasive remark. The two letters signed by
+him showed that he was on terms of unnatural intimacy with the girl, but
+nothing criminal. He scarcely deigned to look at the other letters and
+pronounced them counterfeits. He nevertheless wished to obtain possession of
+them at any expense. He was told that it would cost him nothing. If they
+proved to be genuine he could not have them at any price, and if mere
+fabrications they would be turned over to him.</p>
+
+         <p>Being in the melting mood he swore by his mitre
+that he had never laid hands on a woman except in kindness, but in the very
+profuseness of his profession of innocence he frequently gave himself away to
+the determined men who had summoned him to undergo this telling ordeal.  While he did not admit that he was the author of these
+anonymous letters, he said he had no recollection of having written them; that
+he certainly should remember them if he had written them, and all that sort of
+talk.</p>
+
+         <p>Two or three interviews transpired between these
+gentlemen and the Bishop before they finally determined upon their course. Being
+thoroughly convinced of the Bishop's guilt they at length placed the letters in
+the hands of the standing committee of the diocese, composed of Governor Henry
+P. Baldwin, Hon. Charles P. Trowbridge, and Judge James V. Campbell, laiety;
+and Rev. John A. Wilson, of St. Luke's Church, Ypsilanti; Rev. Dr. George
+Worthington, pf St. John's Church, Detroit; Rev. Dr. Edward Harris, of Christ
+Church, Detroit, and Rev. Willis Hall, of St. Ann's Church, Ann Arbor. These
+gentlemen were dumbfounded at first, and refused to believe the evidence of
+their senses. It must be some horrible nightmare. They had some of them known
+and loved the Bishop for forty years, and their families were on terms of the
+closest intimacy with him and his, and besides, as they thought, the very
+foundations of the great Episcopal church would be threatened with utter
+annihilation were they to entertain these seemingly positive proofs of his
+guilt.</p>
+
+         <p>The first surprise over, however, they calmly
+surveyed the situation like candid men, found their first fears fully realized
+in the positive nature of the proofs and then decided to act. They accordingly
+waited on Bishop McCorskey in a body, laid the case before him in a calm but
+determined way and demanded his unconditional resignation.  He did not fully admit his guilt, but sought to prevaricate
+as before, and suggested that he be relieved ostensibly on the ground of age
+and infirmities, and that an assistant should be appointed to administer the
+duties of the episcopate. To this the committee would not consent. Nothing
+short of an unconditional surrender would meet their views. They would not
+even agree that a resignation should stand in the way of a subsequent trial
+before the court of bishops. One pledge, however, they would make him, and
+that was that in case he should resign instantaneously the offending letters
+should be sacredly kept in their possession, doubly sealed and secretly locked
+in the vault of a bank, never again to be seen by mortal man unless demanded by
+the diocese in convention, in which case they were only to be shown in
+executive convention under pledge of the strictest secrecy, and then resigned
+to the silent vault, pending the proposition. The Bishop advised to go to Buffalo immediately, there to remain for a short time, and then go to Europe and spend the
+balance of his days in the society of his only daughter, Mrs. Stanton, now
+residing abroad. He was assured that ample means would be furnished him by the
+sympathizing members of the church. They hoped to be able to suppress all
+information concerning the cause of his resignation, and even if the facts did
+eventually come out, by that time he would have placed the broad Atlantic between him and them, and his remaining days could be passed in peace. Bishop
+McCoskrey accepted the terms, and about a month ago the Episcopal world was
+surprised to read his formal card of abdication.  He went to Buffalo, and to-morrow his aged, and respected
+wife, who is as yet in blissful ignorance of the terrible facts, will leave
+Detroit in company with her son-in-law, Major Stanley, for New York, whence
+they three will sail for Europe on the 27th. Thus will terminate
+Bishop McCorskey's career in this country unless perchance he should, after
+finding himself fully exposed, with that bull-dog pertinacity for which he is
+noted, determine to stay and stand trial.</p>
+
+         <p>"In that event," said a gentleman intimately
+acquainted with him, "his personal presence is so commanding that he would be
+likely to overpower any ordinary jury, and by main strength and awkwardness,
+secure a verdict of acquittal."</p>
+
+         <p>Another chapter in this singular drama is that which records
+the career of the girl Fannie Richards. She is a petite brunette, now scarcely
+more than twenty years of age, and is something of a rattlehead, although with
+a decided predisposition to beauty. At the time that this story opens, less
+than four years ago, she was a school-girl, living with her mother. The
+Bishop, as it is said, was attracted by her sprightly ways and employed her to
+act as his amanuensis. It was while acting in this capacity, as report has it,
+that the Bishop had induced her to yield to his wishes, although it would
+appear that she had prior to that time been too free with McConnell. But it
+seems that the Bishop, after a time, either tired of the responsibility, or
+wish to make an exchange. He had, meanwhile, given out that Fannie was his
+ward, and, it is said, had caused the information to be communicated to certain
+parties that she was distantly related to him. Fannie met a young man named
+Bannister, about her own age, and a clerk in a hardware store, and took something of a fancy to him.  The Bishop encouraged his fancy, and held out, it is
+alleged, glowing pictures of the beauties of wedded bliss for the inspection of
+the swain. To a poor clerk the idea of being wedded to a ward and reputed
+relative of a Bishop was dazzling. He plied a suit to willing ears, and in a
+brief time the nuptials were heralded. Something over a year ago St. John's Episcopal Church was crowded of an evening to witness the imposing ceremony.
+The Bishop himself presided and performed the ceremony, assisted by two or
+three prominent clergymen. After the ring had been placed and blessed, a
+brilliant reception was given at the residence of Mr. Willard on Ninth street, at which the happiest man of all that merry throng was Bishop McCorskey, who
+paid for the carriages, the supper, the wedding trousseau, etc. Frequently, it
+is said, after the wedded pair was established in quarters, did the good Bishop
+call to pay his respects and manifest an interest in their welfare, not taking
+any special pains to make his calls when the husband was at home.  Banister was a mere youth, and the honor of having for a
+wife a Bishop's ward did not, he found to his sorrow, pay the butcher and
+grocer, to say nothing of the tailor, and he has since then had more or less
+trouble in making both ends meet and is now domiciled at the Grand Trunk
+junction, three miles from this city, and employed as a clerk in the offices of
+that company.</p>
+
+         <p>As to the letters on which the standing
+committee based their demand for the Bishop's resignation, they are seven in
+number. One of them was a drop letter. Another was evidently sent by a
+messenger. One was sent from Saginaw City, one from Mount Clemens, and the
+remaining three from New York, in the latter part of 1874, when the Bishop was
+there attending in his official capacity.</p>
+
+         <p>The drop letter, which bears the Bishop's
+signature and which he admitted on sight to be genuine, alludes to his
+disappointment in Fannie's not keeping her engagement to meet him in his study
+at the appointed hour, chides her for her dereliction of duty, appoints another
+meeting at half-past two o'clock on that same day, and closes by assuring her
+that he is pleased to learn of her improved health and says he knew he could
+cure her as he had promised to do. The letter from Mount Clemens acknowledges
+the receipt of her very sweet letter, tells how anxious he is for the time to
+come when he can return, urges her to write and tell him her inmost feelings of
+mind and body, tells her that her kindly offer of half the bed and all the cover; she knows he will accept, cautions her to write at once,
+directing to Saginaw City, and is freighted with a world of love and any number
+of dashes, which are intended to represent kisses. He concludes by being hers
+"very affectionately and trusting that she will burn this letter" as well as
+all others. The signature to this, as to the remainder, is a sort of
+quirligig, resembling the letter "H."</p>
+
+         <p>The first letter from New York is dated October
+8. He acknowledges the receipt of her very sweet letter, and says her words
+are very sweet to him, as he knows this will be to her. He says he has
+experienced such feelings on the receipt of her message, both of mind and body,
+as he had never experienced before. He wishes he could see her just then, and
+see her all "undiscovered." He thinks of her night and day. He imagines he
+sees her at the piano, playing such sweet music, and thinks how happy he ought
+to be. He also thinks how much they have confided in each other. He has given
+her all and she has given him all. They must not deceive each other. Their
+whole hopes depend on this. She must write again immediately, as her letters
+are so sweet to him and their love is so great for each other that it consumes
+the whole person. From New York, October 18, he writes again, acknowledging
+receipt of her letter in which she has confided her innermost feeling of mind
+and body. She must have no fears for the future, as he will take care of her.
+He is pleased to learn that her health continues good, and that his cure is
+permanent. He will take care of her so long as he lives. She has created and
+excited in him desires which he never before felt for any other person. Their
+union is forever and is sanctified by the highest solemnities. He then adds: 
+"Oh, how I would like to see you and see you all in your loveliness! ! ! Be
+cautious, and remember that secrecy alone can protect me, and burn this letter at once!  !  !"  Here follows a number of dashes, understood to represent
+more kisses. The last letter from New York bears the date of October 29. He
+acknowledges the receipt of her ever welcome letter and says although in the
+midst of business and excitement he cannot refrain from sitting down and
+answering her very sweet missive. "Every day," he continues, "passes pleasantly
+because it brings me one day nearer my little wife. Your renewed offer of
+one-half the bed and all the clothes will be accepted. I think of you in all
+your loveliness. How lovely you look when your head falls on my bosom and you
+realize the joy of affection. Oh, isn't it sweet darling, to feel the touch of
+love? I send you a trifle of spending money. I intended giving you some
+before leaving home, but neglected doing so. Buy whatever you want and have it
+charged to me.</p>
+
+         <p>"Remember that you are mine, and that I own you
+all. You will see when I am home again the window open at my house as you pass
+by. Come in as you go to school, for my whole happiness depends upon whether
+you are keeping your promise with me, as I shall certainly keep mine with you.
+We must not and cannot betray each other. My own sweet darling wife, I send
+you " (here followed fifty crosses, meaning as many kisses). Among these
+letters was one which the Bishop had written to the girl for her to copy and
+send, in her own handwriting, to McConnell as coming from her. It would seem
+that the pathetic Bishop had become jealous of his printer-rival, and desired
+Fanny to inform him in as delicate a way as possible that she no longer desired
+to encourage his attentions. The girl did as she was bidden, but immediately
+thereafter hastened to inform McConnell of the ruse and to make herself solid with him.</p>
+         <p>Another letter was one written to McConnell by the Bishop,
+evidently in answer to a solicitation, in which the Bishop promised to use all
+of his influence to secure the printer a good situation and manifested a lively
+interest in his temporal welfare. McConnell, although reputed to be an honest,
+straitforward man, was in humble life. This evident intimacy on the part of
+the distinguished Bishop would alone give cause for suspicion that it cloaked
+something deeper. Throughout all these letters there are expressions peculiar
+to the Bishop, such as "sweet pleasure" and the like, which would establish the
+identity of documents, it is said, among those familiar with him, even were
+they not all written in that peculiar chirography which is unmistakably his.
+Suffice it to say that there is not the least doubt in the minds of any member
+of the standing committee as to McCorskey's guilt.</p>
+
+         <p>Right Reverend Samuel Allen McCorskey, D.D.C.L.,
+for such are his titles, was born in Carlisle, Pennsylvania, in 1804, graduated
+in Dickenson College, in that town, and afterward at West Point Military
+Academy, with high rank. Shortly after leaving the latter institution, he studied
+and practiced for a time, only to renounce it in turn for the church. He was
+ordained deacon in 1828, and was afterwards rector of St. Paul's, one of the
+leading Episcopal churches of Philadelphia. In 1836, he was elected Bishop of
+the new diocese of Michigan, being the first incumbent. He came to Detroit, where he has resided ever since, and has exercised the functions of his office
+for forty-two years. Next to Bishop Smith, of Kentucky, he was the senior
+Bishop of the Protestant Episcopal church in the United States.</p>
+
+         <p>He is seventy-four years of age, very tall and
+very portly, weighing nearly if not quite three hundred pounds. He has always
+been a good liver and a man of the world, in the sense that he would rather
+tell or listen to a good story than to discuss saintly topics, and could bear a
+hand at emptying a bottle or cracking a joke. He was, although jovial and
+jocular, exceedingly sticklish as to the prerogatives of his office, and was
+quick to take affront when his dignity was called into question. He never
+seemed to have any idea of the value of money, and although his pay was ample
+he was everlastingly running in debt, and time and again has the church
+contributed thousands of dollars to help him out of trouble. The more
+charitable attributed this to his benevolence, while the knowing once were
+confident that women were at the bottom of it.  He was proverbially broke, and although he is said to have
+ordered goods such as pianos, carpets, boots and clothing, etc., with the
+utmost prodigality, for various women, to be charged to him, he has seldom been
+known to pay the bill. The city is literally alive with rumors of lascivious
+happenings between the Bishop and divers women, most of the scenes being
+located in the Bishop's study, where he is said to have provided himself with
+peculiar facilities. A certain collector tells of having caught him with a
+woman on his lap, when he went to collect a bill for carpets. Some of these
+stories, equally as well authenticated as that on which the committee based
+their demand for his resignation, date back more than a quarter of a century.
+A determined effort has been made here to keep the expose out of the papers,
+and it has been so far successful that not one of the leading papers dare touch
+it.</p>
+
+         <p>It has been charged that money has been freely
+used, and at a late hour to-night your correspondent was informed by the
+proprietor of a whisky paper, which proposes to publish some of the facts
+shortly, that he had been offered $2,500 within an hour to suppress it. The
+leading members of the church, however, are now satisfied that the facts must
+be made public, sooner or later, and they regret that any measures were taken
+at the start to suppress them. They realize that it would have been far better
+to have prepared an official, full and candid statement for the press and are
+only too glad that it is now published. </p>
+
+         <p>My Lord Bishop of Michigan is a tall, stalwart,
+fine-looking man, and when in England some time ago he was shown much attention
+by the number of bishops and well-know clergymen. Your English parson has not
+to bear the burden of as many canting, conventional shams as are common to
+preachers in America, the world being perfectly satisfied as long as he is a
+man of honor, piety, and manliness, that he should live as well as the rest of
+mankind.</p>
+
+         <p>Mispronunciation of American proper names and
+titles is a very common thing among the English, and the ecclesiastical title
+of "My Lord Bishop of Michigan," was invariable rendered so as to sound "My
+Chicken." On one occasion when a feast of good things had loosed the tongues
+and ripened the wit of a number of clerics, one celebrated divine, alluding to
+the fine appearance and social and almost jovial qualities of the prelate from
+the "Wolverine" state, remarked to some others that he didn't see anything at
+all appropriate in calling him "My Chicken," as he thought from his appearance
+that he looked like a "gamey old cock."</p>
+
+         <p>Many a jest has proved a prophecy.</p>
+
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+	
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00033" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

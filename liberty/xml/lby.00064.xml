@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00064">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Anti-Slavery Addresses</hi></title>
+            <title level="c" type="chapter"></title>
+<date type="original" value="1844">1844-1845</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Chase">Salmon Portland Chase and Charles Dexter Cleveland</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00064</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 11-15 and 107-109 of the 1867 Bancroft edition of the <hi rend="italic">Anti-Slavery Addresses</hi> of Salmon Portland Chase and Charles Dexter Cleveland given in Philadelphia in 1844 and Cincinnati in 1845. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Philadelphia and Cincinnati Addresses</title>
+               <title level="m"><hi rend="italic">Anti-Slavery Addresses</hi></title>
+               <author>Salmon Portland Chase and Charles Dexter Cleveland</author>
+               <imprint>
+                  <publisher>Bancroft</publisher>
+                  <pubPlace>Philadelphia
+</pubPlace>
+               </imprint>
+               <date>1867
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="dissenting" type="topic">dissenting</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+            <date value="2005-07-25">25 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+
+<head>Address of the Liberty Party of Pennsylvania to the People of the State</head>
+<p>Friends and Fellow Citizens.</p>
+<p>At a Convention of Delegates of the Liberty Party of the Eastern section of Pennsylvania, held in Philadelphia, Feb. 22, 1844, the undersigned was made the chairman of a committee appointed to address you upon the great cause which we are laboring to promote. We now, therefore, proceed to set before you our views, our principles, and our aims; to state the means by which we believe those aims will be accomplished; and to invite your cordial and earnest co-operation with us, to secure such results as, we are sure, will be for the best good both of our State and of our country.</p> 
+<p>PRINCIPLES OF THE PARTY.</p> 
+<p>In the first place, then, we would state, that the Liberty Party, though new in its organization, is not new in its principles. It is, in the great elements of its character, only an old party revived. It is, in its principles, the same party as that which, in 1776, rallied around the Declaration of Independence, and "pledged their lives, their fortunes, and their sacred honor," to maintain the noble sentiments avowed in that instrument, that "all men are created equal, and are endowed by their Creator with the unalienable rights of life, liberty, and the pursuit of happiness."  It is, in its principles, the same party as that which, in 1787, formed our own federal Constitution, the great object of which, as set forth in the preamble, is "to establish <hi rend="italic">justice</hi>&#8212;to promote the <hi rend="italic">general welfare</hi>&#8212;and to secure the <hi rend="italic">blessings of liberty</hi>.'' It is, in its principles, the same party that, in the same year, in the Congress of the old Confederation, passed, unanimously, that ever-to-be-honoured Ordinance, in which it is declared that the whole territory of our country North and West of the river Ohio, should never be trodden by the foot of a slave.</p> 
+<p>Such, fellow citizens, are the principles of our party. We cherish the same views as Washington, who wrote these very words,&#8212;"There is but one effectual mode by which the abolition of slavery can be accomplished, and that is <hi rend="italic">by legislative authority</hi>, and this, so far as my SUFFRAGE will go, SHALL NOT BE WANTING." We cherish the same views as Patrick Henry, who declared ''that we owe it to the purity of our religion, to show that it is at variance with that law which warrants slavery."  We cherish the same views as Robert Morris, who, in the Convention for forming the Constitution, pronounced slavery to be ''a nefarious institution.'' We cherish the same views as William Pinckney, who said in the House of Delegates of Maryland, in 1789, "By the eternal principles of natural justice, no master in this state has a right to hold his slave for a single hour.'' We cherish the same views as Jefferson, who uttered these memorable words, ''I tremble for my country when I reflect that God is just, and that his justice cannot sleep forever."  We cherish the same views as Dr. Rush, who declared slavery to be "repugnant to the principles of Christianity, and rebellion against the authority of a common Father." And we cherish the same views as Madison, who said, in the Convention of 1787, that it was "wrong to admit into the Constitution even the idea that there could be property in man."</p> 
+<p>Yes, fellow citizens, these men of former days, and many more that might be named, saw and felt the evils of slavery. They saw that it must be a curse to any country; and they saw the great inconsistency of cherishing it in our own. They too, that if they themselves had any right, in 1776, to resist unto blood for a pound of tea, the slave had an infinitely higher right to make the same resistance for an infinitely higher object. This, one of these patriot spirits had the candour to express, declaring "that in such a contest the Almighty had no attributes which could take sides with the master." The men of those days looked forward, confidently, to the speedy extinction of slavery. In the Conventions of several of the States that met to ratify the Constitution, the opinions were unequivocally expressed. In the Convention of Massachusetts Judge Dawes remarked, that "slavery had received its death-wound, and would die of consumption." In the Convention of Pennsylvania, Judge Wilson, himself one of the framers of the Constitution, said, "The new States which are to be formed will be under the control of Congress, in this particular, AND SLAVERY WILL NEVER BE INTRODUCED AMONG THEM." And that great man, whose illustrious example can never be too often held up to us for imitation&#8212;General Washington&#8212;wrote to John Sinclair, "The abolition of slavery must take place, and that too at a period NOT REMOTE."</p> 
+<p>Such, fellow citizens, were the opinions of the men who laid the foundations of our republic; men of high, noble, wide-reaching views; and who feared that nothing would so endanger the permanency of the fair fabric which their wisdom had reared, as the continuation of slavery. Far different, indeed, felt and spoke and wrote those men, from many of our modern, so-called statesmen:  far different from the Calhouns and the Mefluffies, who declare "slavery to be the corner-stone of our republican institutions:" far different from Henry Clay, who has proclaimed, unblushingly, that he is opposed to 
+any emancipation, immediate or gradual;" and who pronounced the opinion of Madison, "that man cannot hold property in man," to be a "visionary dogma:" far different from Martin Van Buren, who pledged himself before election to veto any bill that Congress might pass to abolish slavery in the District of Columbia: and far different from many other prominent men of our times, whose highest ambition, we feel constrained to say, seems to be, to cringe to the slave power.</p>
+</div> 
+<div><head>The Address of the Southern and Western Liberty Convention Held at Cincinnati</head>
+<p>With what party, then, shall we act? Or shall we act with none? Act, in some way, we must: 
+possession of the right of suffrage, the right of electing our own law-makers and rulers, imposes us the corresponding duty of voting for men who will carry out the views which we deem of  paramount importance and obligation. Act together 
+we must; for upon the questions which we regard most vital we are fully agreed. We must act then; act together; and act against slavery and oppression. Acting thus, we necessarily act as a party; for what is a party, but a body of citizens, acting together politically, in good faith, upon common principles, for a common object? And there be a party already in existence, animated by the same motives, and aiming at the same results as ourselves, we must act with and in that party.</p> 
+<p>THAT there is such a party is well known. It is the Liberty party of the United States. Its principles, measures, and objects we cordially approve. It founds itself upon the great cardinal principle of true Democracy and of true Christianity, the brotherhood of the Human Family. It avows its purpose to wage implacable war against slaveholding as the direst form of oppression, and then against every other species of tyranny and injustice. Its views on the subject of slavery in this country are, in the main, the same as those which we have set forth in this address. Its members agree to regard the extinction of slavery as the most important end which can, at this time, be proposed to political action; and they agree to differ as to other questions of minor importance, such as those of trade and currency, believing that these can be satisfactorily disposed of, when the question of slavery shall be settled, and that, until then, they cannot he satisfactorily disposed of at all.</p> 
+<p>The rise of such a party as this was anticipated long before its actual organization, by the single-hearted and patriotic Charles Follen, a German by birth, but a true American by adoption and in spirit. " If there ever is to be in this country," he said in 1836, ''a party that shall take its name and character, not from particular liberal measures or popular men, but from its uncompromising and consistent adherence to freedom&#8212;a truly liberal and thoroughly republican party, it must direct its first decided effort against the grossest form, the most complete manifestation of oppression ,and, having taken anti-slavery ground, it must carry out the principle of Liberty in all its consequences. It must support every measure conducive to the greatest possible individual and social, moral, intellectual, religious, and political freedom, whether that measure be brought forward by inconsistent slaveholders or consistent freemen. It must embrace the whole sphere of human action; watching and opposing the slightest illiberal and anti-republican tendency, and concentrating its whole force and influence against slavery itself, in comparison with which every other species of tyranny is tolerable, and by which every other is strengthened and justified."</p> 
+<p>Thus wrote Charles Follen in 1836. It is impossible to express better the want which enlightened lovers of liberty felt of a real Democratic party in the country&#8212;Democratic not in name only, but in deed and in truth, In this want, thus felt, the Liberty party had its origin, and so long as this want remains otherwise unsatisfied, the Liberty party must exist; not as a mere Abolition party, but as a truly Democratic party, which aims at the extinction of slavery, because slaveholding is inconsistent with Democratic principles; aims at it, not as an ultimate end, but as the most important present object; as a great and necessary step in the work of reform; as an illustrious era in the advancement of society, to be wrought out by its action and instrumentality. The Liberty party of 1845 is, in truth, the Liberty party of 1776 revived. It is more: It is the party of Advancement and Freedom, which has, in every age, and with varying success, fought the battles of Human Liberty, against the party of False Conservatism and Slavery.</p></div>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00041" type="same subject"/>	      
+				</item>
+		</list>
+</div>
+	      </body>
+   </text>
+</TEI.2>

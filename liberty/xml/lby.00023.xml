@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00023">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Make Way for Liberty!</hi>
+</title>
+           
+<date type="original" value="1828">1828</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Montgomery">James Montgomery
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00023</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 256-259 of <hi rend="italic">The Poetry of Freedom</hi> anthology (1945), edited by William Rose Ben&#233;t and Norman Cousins.</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Make Way for Liberty!</title>
+               <title level="m">The Poetry of Freedom</title>
+               <author>James Montgomery</author>
+               <imprint>
+                  <publisher>Modern Library
+
+</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1948
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="switzerland" type="topic">Switzerland</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-25">25 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">From <hi rend="italic">Make Way for Liberty!</hi></head>
+<head type="sub">[Battle of Sempach, July 9, 1386.]</head>
+
+<lg>
+<l>"Make way for Liberty!"&#8212;he cried;</l>
+<l>Make way for Liberty, and died!</l>
+<l>In arms the Austrian phalanx stood,</l>
+<l>A living wall, a human wood!</l>
+<l>A wall, where every conscious stone</l>
+<l>Seemed to its kindred thousands grown;</l>
+<l>A rampart all assaults to bear,</l>
+<l>Till time to dust their frames should wear;</l>
+<l>A wood like that enchanted grove</l>
+<l>In which with fiends Rinaldo strove . . .</l>
+<l>So dense, so still, the Austrians stood,</l>
+<l>A living wall, a human wood! . . .</l>
+</lg>
+<lg>
+<l>Opposed to these, a hovering band</l>
+<l>Contended for their native land:</l>
+<l>Peasants, whose new-found strength had broke</l>
+<l>From manly necks the ignoble yoke,</l>
+<l>And forged their fetters into swords,</l>
+<l>On equal terms to fight their lords,</l>
+<l>And what insurgent rage he gained</l>
+<l>In many a mortal fray maintained:</l>
+<l>Marshalled once more at Freedom's call,</l>
+<l>They came to conquer or to fall,</l>
+<l>Where he who conquered, he who fell,</l>
+<l>Was deemed a dead, or living, Tell!</l>
+</lg>
+<lg>
+<l>And now the work of life and death</l>
+<l>Hung on the passing of a breath;</l>
+<l>The fire of conflict burned within,</l>
+<l>The battle trembled to begin:</l>
+<l>Yet, while the Austrians held their ground,</l>
+<l>Point for attack was nowhere found;</l>
+<l>Where'er the impatient Switzers gazed,</l>
+<l>The unbroken line of lances blazed:</l>
+<l>That line 't were suicide to meet,</l>
+<l>And perish at their tyrants' feet,&#8212;</l>
+<l>How could they rest within their graves,</l>
+<l>And leave their homes the homes of slaves?</l>
+<l>Would they not feel their children tread</l>
+<l>With clanging chains above their head?</l>
+</lg>
+<lg>
+<l>It must not be: this day, this hour,</l>
+<l>Annihilates the oppressor's power;</l>
+<l>All Switzerland is in the field,</l>
+<l>She will not fly, she cannot yield,&#8212;</l>
+<l>She must not fall; her better fate</l>
+<l>Here gives her an immortal date.</l>
+<l>Few were the numbers she could boast;</l>
+<l>But every freeman was a host,</l>
+<l>And felt as though himself were he</l>
+<l>On whose sole arm hung victory.</l>
+</lg>
+<lg>
+<l>It did depend on <hi rend="italic">one</hi> indeed;</l>
+<l>Behold him,&#8212;Arnold Winkelried!</l>
+<l>There sounds not to the trump of fame</l>
+<l>The echo of a nobler name.</l>
+<l>"Make way for Liberty!" he cried,</l>
+<l>Then ran, with arms extended wide,</l>
+<l>As if his dearest friend to clasp;</l>
+<l>Ten spears he swept within his grasp.</l>
+</lg>
+<lg>
+<l>"Make way for Liberty!" he cried;</l>
+<l>Their keen points met from side to side;</l>
+<l>He bowed amongst them like a tree,</l>
+<l>And thus made way for Liberty.</l>
+</lg>
+<lg>
+<l>Swift to the breach his comrades fly;</l>
+<l>"Make way for Liberty!" they cry,</l>
+<l>And through the Austrian phalanx dart,</l>
+<l>As rushed the spears through Arnold's heart;</l>
+<l>While, instantaneous as his fall,</l>
+<l>Rout, ruin, panic, scattered all:</l>
+<l>An earthquake could not overthrow</l>
+<l>A city with a surer blow.</l>
+</lg>
+<lg>
+<l>Thus Switzerland again was free;</l>
+<l>Thus Death made way for Liberty!</l>
+</lg>
+
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

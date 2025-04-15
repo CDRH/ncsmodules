@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00006">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Little Women</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from "Under the Umbrella"</title>
+<title level="m" type="monograph"></title>
+<author name="Alcott">Louisa May Alcott</author>
+<date type="original" value="1868">1868</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00006</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Louisa May Alcott's <hi rend="italic">Little Women</hi>, Chapter 46, "Under the Umbrella."  Originally published in 1868.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Under the Umbrella</title>
+               <title level="m"><hi rend="italic">Little Women</hi></title>
+               <author>Louisa May Alcott</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="urbanwalk" type="setting">urban walk</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="american" type="place">American</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+  <head type="editorial">Scene Four: Mr. Baehr proposes to Jo on a walk</head>
+
+<p>For a fortnight, the Professor came and went with lover-like
+regularity. Then he stayed away for three whole days, and made
+no sign, a proceeding which caused everybody to look sober, and
+Jo to become pensive, at first, and then&#8212;alas for romance&#8212;very
+cross.</p>
+
+<p>"Disgusted, I dare say, and gone home as suddenly as he came.
+It's nothing to me, of course, but I <hi rend="italic">should</hi> think he would have
+come and bid us goodbye like a gentleman," she said to herself,
+with a despairing look at the gate, as she put on her things for
+the customary walk one dull afternoon.</p>
+
+<p>"You'd better take the little umbrella, dear. It looks like
+rain," said her mother, observing that she had on her new bonnet,
+but not alluding to the fact.</p>
+
+<p>"Yes, Marmee, do you want anything in town? I've got to
+run in and get some paper," returned Jo, pulling out the bow
+under her chin before the glass as an excuse for not looking at
+her mother.</p>
+
+<p>"Yes, I want some twilled silesia, a paper of number nine
+needles, and two yards of narrow lavender ribbon. Have you got
+your thick boots on, and something warm under your cloak?"</p>
+
+<p>"I believe so," answered Jo absently.</p>
+
+<p>"If you happen to meet Mr. Bhaer, bring him home to tea.
+I quite long to see the dear man," added Mrs. March.</p>
+
+<p>Jo heard <hi rend="italic">that</hi>, but made no answer, except to kiss her mother,
+and walk rapidly away, thinking with a glow of gratitude, in spite
+of her heartache, "How good she is to me! What <hi rend="italic">do</hi> girls do who
+haven't any mothers to help them through their troubles?"</p>
+
+
+<p>The dry-goods stores were not down among the counting-houses,
+banks, and wholesale warerooms, where gentlemen most do congregate,
+but Jo found herself in that part of the city before she did a
+single errand, loitering along as if waiting for someone, examining
+engineering instruments in one window and samples of wool in
+another, with most unfeminine interest, tumbling over barrels,
+being half-smothered by descending bales, and hustled unceremoniously
+by busy men who looked as if they wondered 'how the deuce
+she got there'. A drop of rain on her cheek recalled her thoughts
+from baffled hopes to ruined ribbons. For the drops continued to
+fall, and being a woman as well as a lover, she felt that, though
+it was too late to save her heart, she might her bonnet. Now she
+remembered the little umbrella, which she had forgotten to take
+in her hurry to be off, but regret was unavailing, and nothing
+could be done but borrow one or submit to a drenching. She
+looked up at the lowering sky, down at the crimson bow already
+flecked with black, forward along the muddy street, then one
+long, lingering look behind, at a certain grimy warehouse, with
+'Hoffmann, Swartz, and Co.' over the door, and said to herself,
+with a sternly reproachful air:</p>
+
+<p>"It serves me right! what business had I to put on all my
+best things and come philandering down here, hoping to see the
+Professor? Jo, I'm ashamed of you! No, you shall not go there
+to borrow an umbrella, or find out where he is, from his friends.
+You shall trudge away, and do your errands in the rain, and if
+you catch your death and ruin your bonnet, it's no more than
+you deserve. Now then!"</p>
+
+<p>With that she rushed across the street so impetuously that she
+narrowly escaped annihilation from a passing truck, and precipitated
+herself into the arms of a stately old gentleman, who said,
+"I beg pardon, ma'am," and looked mortally offended. Somewhat
+daunted, Jo righted herself, spread her handkerchief over
+the devoted ribbons, and putting temptation behind her, hurried on,
+with increasing dampness about the ankles, and much clashing of
+umbrellas overhead. The fact that a somewhat dilapidated blue
+one remained stationary above the unprotected bonnet attracted
+her attention, and looking up, she saw Mr. Bhaer looking down.</p>
+
+<p>"I feel to know the strong-minded lady who goes so bravely
+under many horse noses, and so fast through much mud. What do
+you down here, my friend?"</p>
+
+<p>"I'm shopping."</p>
+
+<p>Mr. Bhaer smiled, as he glanced from the pickle factory on
+one side to the wholesale hide and leather concern on the other,
+but he only said politely, "You haf no umbrella. May I go also,
+and take for you the bundles?"</p>
+
+<p>"Yes, thank you."</p>
+
+<p>Jo's cheeks were as red as her ribbon, and she wondered what
+he thought of her, but she didn't care, for in a minute she found
+herself walking away arm in arm with her Professor, feeling as if
+the sun had suddenly burst out with uncommon brilliancy, that
+the world was all right again, and that one thoroughly happy woman
+was paddling through the wet that day.</p>
+
+<p>"We thought you had gone," said Jo hastily, for she knew he
+was looking at her. Her bonnet wasn't big enough to hide her face,
+and she feared he might think the joy it betrayed unmaidenly.</p>
+
+<p>"Did you believe that I should go with no farewell to those
+who haf been so heavenly kind to me?" he asked so reproachfully
+that she felt as if she had insulted him by the suggestion, and
+answered heartily:</p>
+
+<p>"No, <hi rend="italic">I</hi> didn't. I knew you were busy about your own affairs,
+but we rather missed you, Father and Mother especially."</p>
+
+<p>"And you?"</p>
+
+<p>"I'm always glad to see you, sir."</p>
+
+<p>In her anxiety to keep her voice quite calm, Jo made it rather
+cool, and the frosty little monosyllable at the end seemed to chill
+the Professor, for his smile vanished, as he said gravely:</p>
+
+<p>"I thank you, and come one more time before I go."</p>
+
+<p>"You <hi rend="italic">are</hi> going, then?"</p>
+
+<p>"I haf no longer any business here, it is done."</p>
+
+<p>"Successfully, I hope?" said Jo, for the bitterness of disappointment
+was in that short reply of his.</p>
+
+<p>"I ought to think so, for I haf a way opened to me by which
+I can make my bread and gif my Junglings much help."</p>
+
+<p>"Tell me, please! I like to know all about the&#8212;the boys,"
+said Jo eagerly.</p>
+
+<p>"That is so kind, I gladly tell you. My friends find for me
+a place in a college, where I teach as at home, and earn enough
+to make the way smooth for Franz and Emil. For this I should be
+grateful, should I not?"</p>
+
+<p>"Indeed you should. How splendid it will be to have you
+doing what you like, and be able to see you often, and the boys!"
+cried Jo, clinging to the lads as an excuse for the satisfaction
+she could not help betraying.</p>
+
+<p>"Ah! But we shall not meet often, I fear, this place is at
+the West."</p>
+
+<p>"So far away!" and Jo left her skirts to their fate, as if
+it didn't matter now what became of her clothes or herself.</p>
+
+<p>Mr. Bhaer could read several languages, but he had not learned to
+read women yet. He flattered himself that he knew Jo pretty well,
+and was, therefore, much amazed by the contradictions of voice,
+face, and manner, which she showed him in rapid succession that day,
+for she was in half a dozen different moods in the course of half an
+hour. When she met him she looked surprised, though it was
+impossible to help suspecting that she had come for that express
+purpose. When he offered her his arm, she took it with a look that
+filled him with delight, but when he asked if she missed him, she
+gave such a chilly, formal reply that despair fell upon him. On
+learning his good fortune she almost clapped her hands. Was the joy
+all for the boys?  Then on hearing his destination, she said, "So far
+away!" in a tone of despair that lifted him on to a pinnacle of
+hope, but the next minute she tumbled him down again by observing,
+like one entirely absorbed in the matter:</p>
+
+<p>"Here's the place for my errands. Will you come in?  It
+won't take long."</p>
+
+<p>Jo rather prided herself upon her shopping capabilities,
+and particularly wished to impress her escort with the neatness
+and dispatch with which she would accomplish the business.
+But owing to the flutter she was in, everything went amiss.
+She upset the tray of needles, forgot the silesia was to be
+'twilled' till it was cut off, gave the wrong change, and
+covered herself with confusion by asking for lavender ribbon
+at the calico counter. Mr. Bhaer stood by, watching her blush
+and blunder, and as he watched, his own bewilderment seemed to
+subside, for he was beginning to see that on some occasions,
+women, like dreams, go by contraries.</p>
+
+<p>When they came out, he put the parcel under his arm with
+a more cheerful aspect, and splashed through the puddles as if
+he rather enjoyed it on the whole.</p>
+
+
+<p>"Should we no do a little what you call shopping for the
+babies, and haf a farewell feast tonight if I go for my last
+call at your so pleasant home?" he asked, stopping before a
+window full of fruit and flowers.</p>
+
+<p>"What will we buy?" asked Jo, ignoring the latter part of
+his speech, and sniffing the mingled odors with an affectation
+of delight as they went in.</p>
+
+<p>"May they haf oranges and figs?" asked Mr. Bhaer, with a
+paternal air.</p>
+
+<p>"They eat them when they can get them."</p>
+
+<p>"Do you care for nuts?"</p>
+
+<p>"Like a squirrel."</p>
+
+<p>"Hamburg grapes. Yes, we shall drink to the Fatherland in
+those?"</p>
+
+<p>Jo frowned upon that piece of extravagance, and asked why
+he didn't buy a frail of dates, a cask of raisins, and a bag of
+almonds, and be done with it? Whereat Mr. Bhaer confiscated her
+purse, produced his own, and finished the marketing by buying
+several pounds of grapes, a pot of rosy daisies, and a pretty
+jar of honey, to be regarded in the light of a demijohn. Then
+distorting his pockets with knobby bundles, and giving her the
+flowers to hold, he put up the old umbrella, and they traveled
+on again.</p>
+
+<p>"Miss Marsch, I haf a great favor to ask of you," began the
+Professor, after a moist promenade of half a block.</p>
+
+<p>"Yes, sir?" and Jo's heart began to beat so hard she was
+afraid he would hear it.</p>
+
+<p>"I am bold to say it in spite of the rain, because so short
+a time remains to me."</p>
+
+<p>"Yes, sir," and Jo nearly crushed the small flowerpot with
+the sudden squeeze she gave it.</p>
+
+<p>"I wish to get a little dress for my Tina, and I am too stupid
+to go alone. Will you kindly gif me a word of taste and help?"</p>
+
+<p>"Yes, sir," and Jo felt as calm and cool all of a sudden as if
+she had stepped into a refrigerator.</p>
+
+<p>"Perhaps also a shawl for Tina's mother, she is so poor and sick,
+and the husband is such a care. Yes, yes, a thick, warm shawl
+would be a friendly thing to take the little mother."</p>
+
+<p>"I'll do it with pleasure, Mr. Bhaer." "I'm going very fast,
+and he's getting dearer every minute," added Jo to herself, then
+with a mental shake she entered into the business with an energy
+that was pleasant to behold.</p>
+
+<p>Mr. Bhaer left it all to her, so she chose a pretty gown for
+Tina, and then ordered out the shawls. The clerk, being a married
+man, condescended to take an interest in the couple, who appeared
+to be shopping for their family.</p>
+
+<p>"Your lady may prefer this. It's a superior article, a most
+desirable color, quite chaste and genteel," he said, shaking out
+a comfortable gray shawl, and throwing it over Jo's shoulders.</p>
+
+<p>"Does this suit you, Mr. Bhaer?" she asked, turning her
+back to him, and feeling deeply grateful for the chance of hiding
+her face.</p>
+
+<p>"Excellently well, we will haf it," answered the Professor,
+smiling to himself as he paid for it, while Jo continued to
+rummage the counters like a confirmed bargain-hunter.</p>
+
+<p>"Now shall we go home?" he asked, as if the words were
+very pleasant to him.</p>
+
+<p>"Yes, it's late, and I'm so tired." Jo's voice was more
+pathetic than she knew. For now the sun seemed to have gone
+in as suddenly as it came out, and the world grew muddy and
+miserable again, and for the first time she discovered that her
+feet were cold, her head ached, and that her heart was colder
+than the former, fuller of pain than the latter. Mr. Bhaer
+was going away, he only cared for her as a friend, it was all
+a mistake, and the sooner it was over the better. With this
+idea in her head, she hailed an approaching omnibus with such
+a hasty gesture that the daisies flew out of the pot and were
+badly damaged.</p>
+
+<p>"This is not our omniboos," said the Professor, waving the
+loaded vehicle away, and stopping to pick up the poor little
+flowers.</p>
+
+<p>"I beg your pardon. I didn't see the name distinctly. Never
+mind, I can walk. I'm used to plodding in the mud," returned Jo,
+winking hard, because she would have died rather than openly
+wipe her eyes.</p>
+
+<p>Mr. Bhaer saw the drops on her cheeks, though she turned her
+head away. The sight seemed to touch him very much, for suddenly
+stooping down, he asked in a tone that meant a great deal, "Heart's
+dearest, why do you cry?"</p>
+
+<p>Now, if Jo had not been new to this sort of thing she would
+have said she wasn't crying, had a cold in her head, or told
+any other feminine fib proper to the occasion. Instead of which,
+that undignified creature answered, with an irrepressible sob,
+"Because you are going away."</p>
+
+<p>"<hi rend="italic">Ach, mein Gott</hi>, that is <hi rend="italic">so</hi> good!" cried Mr. Bhaer, managing
+to clasp his hands in spite of the umbrella and the bundles,
+"Jo, I haf nothing but much love to gif you. I came to see if
+you could care for it, and I waited to be sure that I was something
+more than a friend. Am I? Can you make a little place in your
+heart for old Fritz?" he added, all in one breath.</p>
+
+<p>"Oh, yes!" said Jo, and he was quite satisfied, for she
+folded both hands over his arm, and looked up at him with an
+expression that plainly showed how happy she would be to walk
+through life beside him, even though she had no better shelter
+than the old umbrella, if he carried it.</p>
+
+<p>It was certainly proposing under difficulties, for even if
+he had desired to do so, Mr. Bhaer could not go down upon his
+knees, on account of the mud. Neither could he offer Jo his
+hand, except figuratively, for both were full. Much less could
+he indulge in tender remonstrations in the open street, though
+he was near it. So the only way in which he could express his
+rapture was to look at her, with an expression which glorified
+his face to such a degree that there actually seemed to be
+little rainbows in the drops that sparkled on his beard. If
+he had not loved Jo very much, I don't think he could have done
+it <hi rend="italic">then</hi>, for she looked far from lovely, with her skirts in a
+deplorable state, her rubber boots splashed to the ankle, and
+her bonnet a ruin. Fortunately, Mr. Bhaer considered her the
+most beautiful woman living, and she found him more "Jove-like"
+than ever, though his hatbrim was quite limp with the little
+rills trickling thence upon his shoulders (for he held the
+umbrella all over Jo), and every finger of his gloves needed
+mending.</p>
+
+<p>Passers-by probably thought them a pair of harmless lunatics,
+for they entirely forgot to hail a bus, and strolled
+leisurely along, oblivious of deepening dusk and fog. Little
+they cared what anybody thought, for they were enjoying the
+happy hour that seldom comes but once in any life, the magical
+moment which bestows youth on the old, beauty on the plain,
+wealth on the poor, and gives human hearts a foretaste of heaven.
+The Professor looked as if he had conquered a kingdom, and the
+world had nothing more to offer him in the way of bliss. While
+Jo trudged beside him, feeling as if her place had always been
+there, and wondering how she ever could have chosen any other
+lot. Of course, she was the first to speak&#8212;intelligibly, I
+mean, for the emotional remarks which followed her impetuous
+"Oh, yes!" were not of a coherent or reportable character.</p>
+
+<p>"Friedrich, why didn't you . . ."</p>
+
+<p>"Ah, heaven, she gifs me the name that no one speaks since
+Minna died!" cried the Professor, pausing in a puddle to regard
+her with grateful delight.</p>
+
+<p>"I always call you so to myself&#8212;I forgot, but I won't unless
+you like it."</p>
+
+<p>"Like it? It is more sweet to me than I can tell. Say 'thou',
+also, and I shall say your language is almost as beautiful as mine."</p>
+
+<p>"Isn't 'thou' a little sentimental?" asked Jo, privately thinking
+it a lovely monosyllable.</p>
+
+<p>"Sentimental?  Yes. Thank Gott, we Germans believe in sentiment,
+and keep ourselves young mit it. Your English 'you' is so cold, say
+'thou', heart's dearest, it means so much to me," pleaded Mr. Bhaer,
+more like a romantic student than a grave professor.</p>
+
+<p>"Well, then, why didn't thou tell me all this sooner?" asked
+Jo bashfully.</p>
+
+<p>"Now I shall haf to show thee all my heart, and I so gladly
+will, because thou must take care of it hereafter. See, then, my
+Jo&#8212;ah, the dear, funny little name&#8212;I had a wish to tell something
+the day I said goodbye in New York, but I thought the handsome
+friend was betrothed to thee, and so I spoke not. Wouldst thou
+have said 'Yes', then, if I <hi rend="italic">had</hi> spoken?"</p>
+
+<p>"I don't know. I'm afraid not, for I didn't have any heart just then."</p>
+
+<p>"Prut! That I do not believe. It was asleep till the fairy prince
+came through the wood, and waked it up. Ah, well, <hi rend="italic">'Die erste Liebe
+ist die beste'</hi>, but that I should not expect."</p>
+
+<p>"Yes, the first love is the best, but be so contented, for I
+never had another. Teddy was only a boy, and soon got over his
+little fancy," said Jo, anxious to correct the Professor's mistake.</p>
+
+<p>"Good! Then I shall rest happy, and be sure that thou givest
+me all. I haf waited so long, I am grown selfish, as thou wilt
+find, Professorin."</p>
+
+<p>"I like that," cried Jo, delighted with her new name. "Now
+tell me what brought you, at last, just when I wanted you?"</p>
+
+<p>"This," and Mr. Bhaer took a little worn paper out of his
+waistcoat pocket.</p>
+
+<p>Jo unfolded it, and looked much abashed, for it was one of
+her own contributions to a paper that paid for poetry, which
+accounted for her sending it an occasional attempt.</p>
+
+<p>"How could that bring you?" she asked, wondering what he
+meant.</p>
+
+<p>"I found it by chance. I knew it by the names and the
+initials, and in it there was one little verse that seemed to
+call me. Read and find him. I will see that you go not in
+the wet."</p>
+
+<lg1 type="poem"><head type="main">IN THE GARRET</head>
+
+<lg2 type="stanza">
+<l>Four little chests all in a row,</l>
+<l>Dim with dust, and worn by time,</l>
+<l>All fashioned and filled, long ago,</l>
+<l>By children now in their prime.</l>
+<l>Four little keys hung side by side,</l>
+<l>With faded ribbons, brave and gay</l>
+<l>When fastened there, with childish pride,</l>
+<l>Long ago, on a rainy day.</l>
+<l>Four little names, one on each lid,</l>
+<l>Carved out by a boyish hand,</l>
+<l>And underneath there lieth hid</l>
+<l>Histories of the happpy band</l>
+<l>Once playing here, and pausing oft</l>
+<l>To hear the sweet refrain,</l>
+<l>That came and went on the roof aloft,</l>
+<l>In the falling summer rain.</l>
+</lg2>
+
+<lg2 type="stanza">
+<l>"Meg" on the first lid, smooth and fair.</l>
+<l>I look in with loving eyes,</l>
+<l>For folded here, with well-known care,</l>
+<l>A goodly gathering lies,</l>
+<l>The record of a peaceful life&#8212;</l>
+<l>Gifts to gentle child and girl,</l>
+<l>A bridal gown, lines to a wife,</l>
+<l>A tiny shoe, a baby curl.</l>
+<l>No toys in this first chest remain,</l>
+<l>For all are carried away,</l>
+<l>In their old age, to join again</l>
+<l>In another small Meg's play.</l>
+<l>Ah, happy mother! Well I know</l>
+<l>You hear, like a sweet refrain,</l>
+<l>Lullabies ever soft and low</l>
+<l>In the falling summer rain.</l>
+</lg2>
+	
+<lg2 type="stanza">
+<l>"Jo" on the next lid, scratched and worn,</l>
+<l>And within a motley store</l>
+<l>Of headless dolls, of schoolbooks torn,</l>
+<l>Birds and beasts that speak no more,</l>
+<l>Spoils brought home from the fairy ground</l>
+<l>Only trod by youthful feet,</l>
+<l>Dreams of a future never found,</l>
+<l>Memories of a past still sweet,</l>
+<l>Half-writ poems, stories wild,</l>
+<l>April letters, warm and cold,</l>
+<l>Diaries of a wilful child,</l>
+<l>Hints of a woman early old,</l>
+<l>A woman in a lonely home,</l>
+<l>Hearing, like a sad refrain&#8212;</l>
+<l>"Be worthy, love, and love will come,"</l>
+<l>In the falling summer rain.</l>
+</lg2>
+	
+<lg2 type="stanza">
+<l>My Beth! the dust is always swept</l>
+<l>From the lid that bears your name,</l>
+<l>As if by loving eyes that wept,</l>
+<l>By careful hands that often came.</l>
+<l>Death cannonized for us one saint,</l>
+<l>Ever less human than divine,</l>
+<l>And still we lay, with tender plaint,</l>
+<l>Relics in this household shrine&#8212;</l>
+<l>The silver bell, so seldom rung,</l>
+<l>The little cap which last she wore,</l>
+<l>The fair, dead Catherine that hung</l>
+<l>By angels borne above her door.</l>
+<l>The songs she sang, without lament,</l>
+<l>In her prison-house of pain,</l>
+<l>Forever are they sweetly blent</l>
+<l>With the falling summer rain.</l>
+</lg2>
+
+<lg2 type="stanza">
+<l>Upon the last lid's polished field&#8212;</l>
+<l>Legend now both fair and true</l>
+<l>A gallant knight bears on his shield,</l>
+<l>"Amy" in letters gold and blue.</l>
+<l>Within lie snoods that bound her hair,</l>
+<l>Slippers that have danced their last,</l>
+<l>Faded flowers laid by with care,</l>
+<l>Fans whose airy toils are past,</l>
+<l>Gay valentines, all ardent flames,</l>
+<l>Trifles that have borne their part</l>
+<l>In girlish hopes and fears and shames,</l>
+<l>The record of a maiden heart</l>
+<l>Now learning fairer, truer spells,</l>
+<l>Hearing, like a blithe refrain,</l>
+<l>The silver sound of bridal bells</l>
+<l>In the falling summer rain.</l>
+</lg2>
+<lg2 type="stanza">
+<l>Four little chests all in a row,</l>
+<l>Dim with dust, and worn by time,</l>
+<l>Four women, taught by weal and woe</l>
+<l>To love and labor in their prime.</l>
+<l>Four sisters, parted for an hour,</l>
+<l>None lost, one only gone before,</l>
+<l>Made by love's immortal power,</l>
+<l>Nearest and dearest evermore.</l>
+<l>Oh, when these hidden stores of ours</l>
+<l>Lie open to the Father's sight,</l>
+<l>May they be rich in golden hours,</l>
+<l>Deeds that show fairer for the light,</l>
+<l>Lives whose brave music long shall ring,</l>
+<l>Like a spirit-stirring strain,</l>
+<l>Souls that shall gladly soar and sing</l>
+<l>In the long sunshine after rain.</l>
+</lg2>
+</lg1>
+
+<p>"It's very bad poetry, but I felt it when I wrote it, one day
+when I was very lonely, and had a good cry on a rag bag. I never
+thought it would go where it could tell tales," said Jo, tearing
+up the verses the Professor had treasured so long.</p>
+
+<p>"Let it go, it has done it's duty, and I will haf a fresh one
+when I read all the brown book in which she keeps her little
+secrets," said Mr. Bhaer with a smile as he watched the fragments
+fly away on the wind. "Yes," he added earnestly, "I read that,
+and I think to myself, She has a sorrow, she is lonely, she would
+find comfort in true love. I haf a heart full, full for her. Shall
+I not go and say, 'If this is not too poor a thing to gif for what
+I shall hope to receive, take it in Gott's name?'"</p>
+
+<p>"And so you came to find that it was not too poor, but the one
+precious thing I needed," whispered Jo.</p>
+
+<p>"I had no courage to think that at first, heavenly kind as was
+your welcome to me. But soon I began to hope, and then I said,
+'I will haf her if I die for it,' and so I will!" cried Mr. Bhaer,
+with a defiant nod, as if the walls of mist closing round them were
+barriers which he was to surmount or valiantly knock down.</p>
+
+<p>Jo thought that was splendid, and resolved to be worthy of her knight,
+though he did not come prancing on a charger in gorgeous array.</p>
+
+<p>"What made you stay away so long?" she asked presently, finding
+it so pleasant to ask confidential questions and get delightful
+answers that she could not keep silent.</p>
+
+<p>"It was not easy, but I could not find the heart to take you
+from that so happy home until I could haf a prospect of one to
+gif you, after much time, perhaps, and hard work. How could I ask
+you to gif up so much for a poor old fellow, who has no fortune
+but a little learning?"</p>
+
+<p>"I'm glad you <hi rend="italic">are</hi> poor. I couldn't bear a rich husband,"
+said Jo decidedly, adding in a softer tone, "Don't fear poverty.
+I've known it long enough to lose my dread and be happy working
+for those I love, and don't call yourself old&#8212;forty is the prime
+of life. I couldn't help loving you if you were seventy!"</p>
+
+<p>The Professor found that so touching that he would have been
+glad of his handkerchief, if he could have got at it. As he
+couldn't, Jo wiped his eyes for him, and said, laughing, as she
+took away a bundle or two:</p>
+
+<p>"I may be strong-minded, but no one can say I'm out of my
+sphere now, for woman's special mission is supposed to be drying
+tears and bearing burdens. I'm to carry my share, Friedrich,
+and help to earn the home. Make up your mind to that, or I'll
+never go," she added resolutely, as he tried to reclaim his load.</p>
+
+<p>"We shall see. Haf you patience to wait a long time, Jo?
+I must go away and do my work alone. I must help my boys first,
+because, even for you, I may not break my word to Minna. Can
+you forgif that, and be happy while we hope and wait?"</p>
+
+<p>"Yes, I know I can, for we love one another, and that makes
+all the rest easy to bear. I have my duty, also, and my work.
+I couldn't enjoy myself if I neglected them even for you, so
+there's no need of hurry or impatience. You can do your part
+out West, I can do mine here, and both be happy hoping for the
+best, and leaving the future to be as God wills."</p>
+
+
+<p>"Ah! Thou gifest me such hope and courage, and I haf nothing
+to gif back but a full heart and these empty hands," cried the
+Professor, quite overcome.</p>
+
+<p>Jo never, never would learn to be proper, for when he said
+that as they stood upon the steps, she just put both hands into
+his, whispering tenderly, "Not empty now," and stooping down,
+kissed her Friedrich under the umbrella. It was dreadful, but
+she would have done it if the flock of draggle-tailed sparrows
+on the hedge had been human beings, for she was very far gone
+indeed, and quite regardless of everything but her own happiness.
+Though it came in such a very simple guise, that was the crowning
+moment of both their lives, when, turning from the night and
+storm and loneliness to the household light and warmth and peace
+waiting to receive them, with a glad "Welcome home!" Jo led her
+lover in, and shut the door.</p>
+<div1 type="file references">
+            <list>
+                              	<item><xptr n="ls.00004" type="same novel"/></item>
+			<item><xptr n="ls.00005" type="same novel"/></item>
+              	
+               	<item><xptr n="ls.00042" type="same novel"/></item>
+			<item><xptr n="ls.00164" type="image on same novel"/></item>
+              	<item><xptr n="ls.00165" type="image on same novel"/></item>
+               	<item><xptr n="ls.00166" type="image on same novel"/></item>
+			<item><xptr n="ls.00167" type="image on same novel"/></item>
+              	<item><xptr n="ls.00168" type="image on same novel"/></item>
+			        
+               	<item><xptr n="ls.00169" type="image on same novel"/></item>
+			<item><xptr n="ls.00170" type="image on same novel"/></item>
+              	<item><xptr n="ls.00171" type="image on same novel"/></item>
+			<item><xptr n="ls.00172" type="image on same novel"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

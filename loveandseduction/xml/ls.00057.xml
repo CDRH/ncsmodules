@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00057">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"A Reverend Roue"</title>
+		<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+		<date type="original" value="1878">1878</date>
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00057</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 3 of the August 10, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">A Reverend Roue</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+August 10, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="boudoir" type="setting">boudoir</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="beechertilton">Beecher-Tilton</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc><change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>A REVEREND ROUE</head>
+
+	<head>Another Hypocritical Libertine Flourishing in the Habliments of the Gospel Teacher</head>
+
+	<head>THE WORST CASE YET</head>
+
+	<head>A Popular Preacher's Disgusting Licentiousness and Artful Plan of Seduction</head>
+
+
+	<head>HIS VICTIM'S PITIFUL STORY</head>
+            
+         <p>Utica, N.Y., July 27.&#8212;Rev. Herbert C. Miller, an Episcopal
+clergyman, has been officiating in Gouverneur St. Lawrence county, for about
+two years. He is a widower, thirty-five years of age, a man of fine address,
+an elegant sermonizer, extremely studious, and a decided favorite with the
+ladies. The handsome rector was in demand in society, not only in Gouverneur,
+but in Watertown, Potsdam, Ogdenburgh, and other sections of central and
+northern New York. A rich congregation in Watertown gave him a flattering call
+at an advanced salary, and whenever he preached he was sure to attract people
+of culture.</p>
+
+         <p>In his congregation at Gouverneur was a lady
+about twenty five years of age, a graduate of Vassar college, and one of the
+most accomplished ladies of that aristocratic little place. She is a blond of
+the fairest type, fascinating in conversation, and one of the leaders in
+society. About a year ago she was afflicted with a painful disease, and to
+allay physical pangs resorted to opium eating. Her complaint became
+aggravated, and threatened to render her a cripple for life. In August last
+the Rev. Mr. Miller became interested in her spiritual and physical welfare.
+She was a regular attendant at his church, and he pressed her to become
+confirmed. He questioned her as to the nature of her ailment, and when, after
+great persuasion, the young lady confided to him the delicate facts connected
+with her disease, he assured her that his dead wife had suffered in the same
+way, but her life had been sacrificed owing to the want of proper medical treatment.</p>
+
+         <p>To clear the way and allay suspicion the rector
+pretended to write a celebrated doctor for advice as to the treatment of his
+confiding lady parishioner. The bogus letter from the physician arrived in due
+time, and the rector summoned the young lady to his study and read the letter.
+The document is utterly unfit for publication. It advises a vast amount of
+manipulation with the bare hand over certain portions of the naked person of
+the patient. It declares that the patient must submit to these manipulations
+frequently while in a reclining position, and "to accomplish the cure there
+must be no modesty in this matter." At first the girl, with natural delicacy
+objected to any such treatment, but the clergyman labored with her and asked
+her to pray for strength to overcome what he called her "false modesty."</p>
+
+         <p>After several weeks of hesitation she at length
+consented to the manipulation, and for this purpose invited Mr. Miller to the
+residence of her parents. There, in the seclusion of her chamber, the poor
+girl submitted to the "treatment" which the clergyman declared would have saved
+his deceased wife had it been resorted to in time. In this way he accomplished
+the ruin of Miss Ella C. Moore. His visits were quite frequent for three or
+four months, and his guilty passion was indulged again and again. He conducted
+services regularly all the time, spent ten hours a day in his study and was
+regarded the ablest expounder of divine truth in northern New York.</p>
+
+         <p>When the unfortunate girl discovered that she
+was about to become a mother she besought him to make her by marriage the only reparation in his power.  This he flatly refused to do, informing her that he was
+engaged to a beautiful girl in Gouverneur. This was literally true. At the
+period when he was engaged in his devilish machinations with Miss Moore he had
+also been making love to one of the most respectable ladies in town. He had
+succeeded in winning her affections; she wore the engagement ring, and the wedding
+day was set down for September next.</p>
+
+         <p>Last week the condition of Miss Moore became
+apparent, and she revealed the truth to her horror-stricken father and mother.
+The case was laid before the vestrymen of St. John's Church, and upon being
+accused, Miller laid his hand on the bible, and, with tears in his eyes, called
+upon the Almighty to attest his innocence of the crime. Tuesday of this week
+he was arrested and taken before a police justice to answer to a charge of
+bastardy. This gave publicity to the matter, and people took sides pro and
+con. Miller was held in $5,000, and some of the wealthy men in his
+congregation becoming responsible for that amount he was released from custody.</p>
+
+         <p>On Thursday the father of the betrayed girl sent
+a telegram to Wicasset, Maine, making inquiries regarding the character of
+Miller while preaching in that state. The reply received, yesterday, stated
+that Miller, when in Wicasset, was guilty of a most revolting and lecherous crime.  In the meantime other facts and circumstances came to light,
+and the rector hurriedly made arrangements to leave the country. He wrote to
+his betrothed, making professions of passionate love, and expressing the
+intention of ultimately returning to claim her as his wife. To his $5,000
+bondsman he wrote as follows:</p>
+
+	<text type="correspondence">
+		<body>
+		<opener>
+		<dateline>Gouverneur, July 26&#8212;</dateline>
+		<salute>To Dear Towley:</salute></opener>
+
+         <p>Before going away I feel that I must at least leave note of thanks for yourself, Mr. Conklin, and Mr. Parsons, for your great kindness through this unhappy matter.  I have acknowledged the whole truth, but feel that it is impossible to marry
+this woman, knowing what I do of her. I have resigned my parish and ministry,
+and must begin life over again. I shall, at least, notwithstanding the past,
+strive to live purely and in the fear of God. I shall always be glad of our
+kindly associations together, and shall remember them with pleasure, though you
+may not. Very sincerely yours,</p>
+
+         <closer>"Herbert C. Miller."</closer>
+		</body>
+		</text>
+
+         <p>Milller then secreted himself on a freight train
+bound for Norristown on the St. Lawrence river and thence crossed to Brookville,   Canada. He did not leave a day too soon. The father of the misguided victim
+has placed the bogus medical letter in the hands of the authorities, and the
+revolting contents of the epistle becoming known, the United States officials
+would to-day have arrested him for circulating obscene literature.</p>
+
+         <p>The case creates intense excitement, and the
+feeling is deepened by another scandal unearthed to-day. In brief, it is
+alleged that a deacon of the Methodist church, in Gouverneur, heretofore in
+good standing, has been charged with the seduction of a young woman about
+eighteen years of age. The names of the parties are withheld for the present.
+</p>
+
+
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00047">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Leaven of Liberty"</title>
+            <title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1851">1851</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Nute">Ephraim Nute, Jr.</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00047</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 86-96 of the <hi rend="italic">Liberty Bell</hi>, for the year 1851.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"The Leaven of Liberty"</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>Ephraim Nute, Jr.</author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>
+Boston
+</pubPlace>
+               </imprint>
+               <date>
+1851
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2008-04-07">07 April 2008</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Correct transcription error(s)</item>
+         </change>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-13">13 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>I would appeal to that hope which I trust we all hold dear as friends of the Slave and associates in the sacred cause of justice and freedom; the hope for the abolition of American Slavery; for the universal reign of Liberty.</p>
+	<p>Why do we cherish this hope, so widely accounted as the dream of enthusiasm?  Why grows it stronger in our heads day by day in the face of all opposition, notwithstanding every triumph of oppression?  Is it not because we believe in the power of that truth by which all tyranny of man over his brother stands condemned?&#8212;because we believe in the spirit of Love which must, in its certain conquest, break all chains and abolish all oppression?&#8212;because we believe in the Liberty for which we contend as, under God, the inalienable birthright of every human being,&#8212;the condition necessary for man's highest development, service, and happiness, and therefore believe that in the sure progress of the race the spirit of Liberty shall so diffuse itself abroad, that all shall at last be induced to respect in others and maintain for themselves this universal perogative as the sacred endowment and trust of God.  From this creed we certainly have the encouragement for our hope, and are incited to toil on for its glorious consummation.</p>
+	<p>Now here appears for us an important practical lesson.  This belief in which we ground our hope also indicates the method of its fulfilment, and thus directs us to that service in which we may labor hopefully.</p>
+	<p>The end we desire is to be accomplished by the diffusion of that truth and that spirit in which we place our confidence.</p>
+	<p>Our work then is to manifest that truth for the conviction of every mind; to cultivate and impart that spirit to all hearts within the sphere of our influence.  These agencies are the necessary and effectual weapons of our warfare.  Both of them are requisite, the spirit as well as the truth; the first is as important as the last.  Yes, I would say, it is of more importance that we manifest the spirit of Love and Liberty, than all our verbal testimony and arguments for the truth.  This is the most powerful of all arguments in the cause of freedom, the persuasion of a free and loving soul.  There is in this a force of conviction that belongs to no array of words alone, however earnestly and eloquently they may be uttered.  This fact needs to be continually urged and kept fresh in our minds, for it involves not only the most important but by far the most difficult part of our duty.</p>
+	<p>Who can say that he has thus far perfectly fulfilled it; that he has never for one moment been, by the temper of his mind, arrayed in opposition to the great principles for whose triumph we strive?  Who that has labored in any cause by which his whole soul has been earnestly engaged, when called to expose iniquity and stem opposition, has never had occasion to bewail the loss of his equanimity of mind and the violation of the kindly feelings which he would fain cherish toward every fellow creature.</p>
+	<p>It is not for us to recriminate our brethren for what may have appeared to us in our comparative coolness as the exercise of a bitter or tyrannous spirit, and least of all can we justify that opposition to the work of freedom based on the supposed errors of its present champions.  It would ill become us to echo that complaint against the spirit and bearing of those who have thus far heroically borne the brunt of the contest, until we have shown by our own example how it is possible to stand in their lot and do their work without anything of that appearance of evil on which such censorious judgments are based.</p>
+	<p>Yet far more inconsistent and unmanly is the course of those who, while they make a forced confession of interest in the cause, stand aside from all effort in its behalf with such sneering complaints as the excuse for their inaction.  If this cause of the oppressed be indeed a good cause, the cause of justice and humanity, a part of God's service, how shall this apology, or any other, excuse any one from laying their hands to it heartily according to the light, the strength, and opportunity given.</p>
+	<p>But to return to the point I have immediately in view.  This work is to be accomplished, I have said, by the diffusion of the spirit of Love and the spirit of Freedom.</p>
+	<p>There is a power of diffusion in these sentiments to give us the firm hope, yes, the sure pledge of their final triumph over all oppression.</p>
+	<p>The kingdom of Heaven, declared its great founder, is like unto leaven which a woman took and hid in three measures of meal till the whole was leavened.  Contained in this similitude of the Divine Teacher is the great principle for our direction, the heaven-sent watch-word for our encouragement.  Without a faith in this doctrine our feeble efforts for the overthrow of Slavery were to all human vision utterly hopeless.</p>
+	<p>So would all of Christianity have been in its first beginning had not this declaration been true of its principles and spirit, or had it not been believed by those first engaged in its service.  In this trust a few humble men and women went forth and entered with good heart on that work whose aim was to transform the whole world, to regenerate the character, and mould the institutions of the whole race for ages to come.  In the experience of their intercourse with Jesus they had found the confirmation of his promise.  For, from this one life they had been leavened with the transforming inspiration of an earnest, self-denying love.  Therefore had they perfect faith that in his spirit there was a power to warm and quicken with the same divine life the whole mass of the world's selfishness.  The life which had been breathed into them by this agent, empowered of God for his new creation, they knew it could never die out from the world, but must go from soul to soul in an unlimited transmission.  They focused their minds on the final triumph of truth and right, and, in the midst of an almost universal opposition, stood up to toil and plead and suffer with courage to the end.  The same confidence should bear us up, the same principles give us direction for our Christian campaign against modern injustice and oppression.  Love and thence Liberty must leaven the whole lump, though their manisfestation be now so faint and small as almost to discourage us.</p>
+	<p>I have more faith in this method of emancipation than in all other measures and arguments that can be used.  Not that we should neglect other measures.  In as far as they promise to advance the cause these should receive our heart's support.  The arguments against the institution of Slavery are certainly of power, because unquestionably based on that eternal truth, "next to God omnipotent."  They should therefore be kept constantly in the public ear and eye, by every kind of manifestation, by speech, public and private, sermon, lecture, song, and social converse, by the press liberally supported by talent, toil, and money.</p>
+	<p>Let the persuasion of love and justice be urged by all the eloquence that earnest interest and confidence in the truth can prompt.  Such efforts must be accomplishing much to hasten the happy consummation of universal liberty.</p>
+	<p>But oh! brothers and sisters in the family of Freedom, let us not in the midst of all other exertion even for one moment forget that the most sure and indispensable of all our agencies for the end we seek, is the spirit of Love and Liberty that we cherish in our own hearts; that if we do maintain within us this living fire, it will shine out in word and act, silently diffusing itself from heart to heart as we move on in our daily path.</p>
+	<p>The principle of Love; shall it not break all chains and banish all oppression as nothing else can;&#8212;no policy of economy be it ever so manifest or on a scale ever so large; no calculation of selfish welfare for time or for eternity:&#8212;no finger of scorn, though it be, as it now is almost literally felt to be, that of the whole civilized world;&#8212;no condemnation, though it be as indeed it is, by the united testimony of the wise and good of every age and nation,&#8212;the undeniable condemnation of a just God; not all other agencies combined have power to accomplish that work which shall be wrought by the constant influence of loving souls.</p>
+	<p>Nor let us ever forget to maintain in our own hearts the noble spirit of Liberty undimmed, unawed.  Our lives should be the practical enforcement of a profound respect for this as the sacred right of every human soul.</p>
+	<p>In ourselves we are called to maintain it with devoted resolution as a holy trust.  In others we must sacredly do it reverence, recognising the seal of its divine authority.</p>
+	<p>We want the diffusion of a freedom-loving spirit to raise up new champions for the Slave.</p>
+	<p>This is all that is wanted to make some men and women earnest, efficient laborers for the cause.  Without this no one can become such.</p>
+	<p>None but freemen in spirit can serve in this our enterprise of Liberty; they who wear no chains of public opinion and conservative prejudice, who dare to set at nought all rules of fashion and wealth, and can defy the tyranny of popular frown or favor; men and women who will be free in thought and speech to follow their own consciences whether they live or die.  Such souls are ever wanted to lead on the glorious march in the world's progress, and never more than at the present crisis in the crusade against Slavery.  A crusade! let us indeed make this enterprise of Liberty, not merely by name and symbol, but baptising it in the faith and spirit of the cross.  In this power shall we conquer.</p>
+	<lg type="stanza">
+	<l>"They are slaves who fear to speak</l>
+	<l>For the fallen and the weak;</l>
+	<l>They are slaves who will not choose</l>
+	<l>Hatred, scoffing, and abuse,</l>
+	<l>Rather than in silence shrink</l>
+	<l>From the truth they needs must think;</l>
+	<l>They are slaves who dare not be</l>
+	<l>In the right with two or three."</l>
+	</lg>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

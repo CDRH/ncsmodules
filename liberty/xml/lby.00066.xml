@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00066">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "The American Image as Indian Princess, 1765-1783"</title>
+          <title level="j" type="journal"><hi rend="italic">Winterthur Portfolio</hi></title>
+<date type="original" value="1965">1965</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Fleming">E. McClung Fleming</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00066</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 70-71, 76-77, and 80-81 of E. McClung Fleming's "The American Image as Indian Princess, 1765-1783."  First published in <hi rend="italic">Winterthur Portfolio II</hi>, 1965.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"The American Image as Indian Princess, 1765-1783</title>
+               <title level="m"><hi rend="italic">Winterthur Portfolio II</hi></title>
+               <author>E. Fleming McClung</author>
+               <imprint>
+                  <publisher>Winterthur Museum</publisher>
+                  <pubPlace>Winterthur
+</pubPlace>
+               </imprint>
+               <date>1965
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="icon" type="topic">icon</term>
+<term id="gender" type="topic">gender</term>
+<term id="libertycap" type="topic">liberty cap</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-21">21 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<head>1.</head><p>"The Indian Princess of the American colonies varies in several details from the Indian Queen of the western hemisphere.  One important difference is that she is less barbarous and less Caribbean:  the club never substitutes for the bow and arrow as her weapon; the severed head, pierced by an arrow, never appears at her feet; gone are the parrot on a branch, the monkeys, and the armadillo.  Though more than once the alligator reappears, the princess is more often shown with a rattlesnake helping to defend her from attack.  Symbols of the natural wealth of the Caribbean and Peruvian world, the chests laden with jewelry or the cornucopia, are replaced by symbols of colonial trade.  The most significant variation between the new symbol and the old is that the Indian Princess is not the creature of an alien race but is the daughter of Britannia; her major concern is not the domination of savage enemies but the attainment of liberty.  The first America passively contemplated the jungle parrots, the coffers of gold, and the severed head, but the second America actively strives to be united with the Goddess of Liberty.  She reaches eagerly for her Phrygian cap and liberty pole.  In one well-known print, <hi rend="italic">The Tea Tax Tempest, or the Anglo-American Revolution</hi> published in Paris in 1778 with English, German, and French titles, the Indian Queen is shown in the company of the three other parts of the world intently watching a magic lantern show in which the Indian Princess appears on screen leading a charge of American colonial troops against a British army" (70-71).</p>
+	</div>
+	<div>
+	<head>2.</head><p>"Apart from her changing relations to Britannia as peaceful protest deepened into war and war eventuated in independence, the most significant quality affirmed about America in the American image of these years was her determination to attain liberty.  The theme developed with the negative symbols of the yoke and fetters, and the positive symbols of the Liberty Tree, the Goddess of Liberty, and the liberty pole and cap.  In one Stamp Act cartoon, the Indian Princess bears a yoke inscribed 'Taxed without Representation' as Britannia's liberty cap lies on the ground.  Another presents Britannia in chains but America breaking the yoke on her shoulders, trampling on the Stamp Act, and freeing herself from fetters and a scourge.  In the cartoon of Britannia offering America the Pandora Box of the Stamp Act, Liberty lies prostrate moaning:  'It is all over with Me,' while the Liberty Tree in the background is so buffeted by the wind that Loyalty cries out:  'Heaven grant it may stand.'</p>
+	<p>In Paul Revere's engraving of the obelisk to be erected under the Liberty Tree in Boston Common to celebrate the repeal of the hated Stamp Act, three of the four panels on the base depict the Indian Princess and two of these include Liberty.  In the first, the Princess America first mourns the flight of the Goddess of Liberty as the Grenville ministry, bearing chains and led by the Devil, approach to apply the tax.  In the second, the Princess expresses her thankfulness to George III for bringing the Goddess of Liberty back to her side.  In a cartoon of 1774 expressing the liberal protest against the Boston Port Bill, the Goddess of Liberty looks down upon a stirring scene in which the Indian Princess leads the Sons of Liberty, portrayed as 'the Natives of America in their savage garb,' America cries, as she advances with bow drawn and arrow in place, 'and prevent my being Fetter'd.'  The Sons of Liberty reply:  'We will secure your freedom or die in the Attempt.'  Liberty then remarks to Fame:  'Behold the Ardour of my Sons, and let not their brave actions be buried in Oblivion.'  Fame replies:  'I will Trumpet their Noble Deeds, from Pole to Pole.'</p>
+	<p>The liberty pole and cap commonly reveal the goal of the Indian Princess during the Revolutionary period.  In <hi rend="italic">The Tea Tax Tempest, or the Anglo-American Revolution</hi>, the Princess, victoriously charging Burgoyne's troops at the head of the American army, reaches up to grasp the liberty pole and cap that hurtle out of an exploding teapot heated by a blazing fire of stamped documents.  In a print satirizing Lord North's conciliation proposals of 1778, the Princess turns away scornfully from the English commissioners groveling before her to gaze lovingly at the liberty pole and cap now held in her right hand.  In one print celebrating the coming of peace, the Indian Princess is shown with the liberty pole and cap resting against her shoulder, while in another she and Britannia hold a liberty pole and cap between them" (76-77).</p></div>
+	<div>
+	<head>3.</head><p>"With English recognition of the independence and sovereignty of the United States in 1783, a third chapter opens for the American image.  The Indian Princess continues to carry the American flag, often topped by the liberty cap, but she is also accompanied by the new American eagle and by the person or portrait of George Washington.  Increasingly, however, her features, hair, and dress become more and more those of a Greek goddess.  By the late 1790s, it is often not clear whether a feathered Indian Princess had been changed into a Greek goddess or whether a Greek goddess has placed a few feathers in her hair.  From this point it was only a short step to replacing the feathers with an olive wreath and the bow and arrow with a spear, shield, and helmet.  In 1765 the Indian Princess was the dependant daughter of Britannia, but by 1783 she had become her 'free sister.'  At first she was unable to seize the liberty to which she aspired because restrained by the yoke and fetters of taxation she deemed unjust, but in the end she succeeded in making this liberty her own.  Beginning alone and with no personal attributes, she was soon backed by the Sons of Liberty, then by an army.  Eventually she held a flag of her own.  The Indian Princess during these years served as an expressive and maturing image of the young United States" (80-81).</p></div> 
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00031" type="same author"/>	      
+				</item>
+		</list>
+		</div>
+	      </body>
+   </text>
+</TEI.2>

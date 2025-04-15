@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00205">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Anna Karenina</hi>
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">Part II, Chapter 11</title>
+<title level="m" type="monograph"></title>
+<author name="Tolstoy">Leo Tolstoy</author>
+<date type="original" value="1877">1877</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00205</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 135-136 of the 1970 Norton edition of Leo Tolstoy's <hi rend="italic">Anna Karenina</hi>.  Originally published in 1877.  This translation by Louise and Aylmer Maude.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Part II, Chapter 11</title>
+               <title level="m"><hi rend="italic">Anna Karenina</hi></title>
+               <author>Leo Tolstoy</author>
+               <imprint>
+                  <publisher>Norton
+
+</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1970
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="boudoir" type="setting">boudoir</term>
+               <term id="adultery" type="theme">adultery</term>
+									<term id="russian" type="place">Russian</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>Scene One:  Anna's illicit love tryst with Vronsky</head>
+<p>That which for nearly a year had been Vronsky's sole and exclusive desire, supplanting all his former desires: that which for Anna had been an impossible, dreadful, but all the more bewitching dream of happiness, had come to pass. Pale, with trembling lower jaw, he stood over her, entreating her to be calm, himself not knowing why or how.</p>
+
+<p>'Anna, Anna,' he said in a trembling voice, 'Anna, for God's sake! . . .'</p>
+
+<p>But the louder he spoke the lower she drooped her once proud, bright, but now shame-stricken head, and she writhed, slipping down from the sofa on which she sat to the floor at his feet. She would have fallen on the carpet if he had not held her.</p>
+
+<p>'My God! Forgive me!' she said, sobbing and pressing Vronsky's hand to her breast.</p>
+
+<p>She felt so guilty, so much to blame, that it only remained for her to humble herself and ask to be forgiven; but she had no one in the world now except him, so that even her prayer for forgiveness was addressed to him. Looking at him, she felt her humiliation physically, and could say nothing more. He felt what a murderer must feel when looking at the body he has deprived of life. The body he had deprived of life was their love, the first period of their love. There was something frightful and revolting in the recollection of what had been paid for with this terrible price of shame. The shame she felt at her spiritual nakedness communicated itself to him. But in spite of the murderer's horror of the body of his victim, that body must be cut in pieces and hidden away, and he must make use of what he has obtained by the murder.</p>
+
+<p>Then, as the murderer desperately throws himself on the body, as though with passion, and drags it and hacks it, so Vronsky covered her face and shoulders with kisses.</p>
+
+<p>She held his hand and did not move. Yes! These kisses were what had been bought by that shame! 'Yes, and this hand, which will always be mine, is the hand of my accomplice.' She lifted his hand and kissed it. He knelt down and tried to see her face, but she hid it and did not speak. At last, as though mastering herself, she sat up and pushed him away. Her face was as beautiful as ever, but all the more piteous.</p>
+
+<p>'It's all over,' she said. 'I have nothing but you left. Remember that.'</p>
+
+<p>'I cannot help remembering what is life itself to me! For one moment of that bliss . . .'</p>
+
+<p>'What bliss?' she said with disgust and horror, and the horror was involuntarily communicated to him. 'For heaven's sake, not another word!'</p>
+
+<p>She rose quickly and moved away from him.</p>
+
+<p>'Not another word!' she repeated, and with a look of cold despair, strange to him, she left him. She felt that at that moment she culd not express in words her feeling of shame, joy, and horror at this entrance on a new life, and she did not wish to vulgarize that feeling by inadequate words. Later on, the next day and the next, she still could not find words to desribe all the complexity of those feelings, and could not even find thoughts with which to reflect on all that was in her soul.</p>
+
+<p>She said to herself: 'No, I can't think about it now; later, when I am calmer.' But that calm, necessary for reflection, never came. Every time the thought of what she had done, and of what was to become of her and of what she should do, came to her mind, she was seized with horror and drove these thoughts away.</p>
+
+<p>'Not now; later, when I am calmer!' she said to herself.</p>
+
+<p>But in her dreams, when she had no control over her thoughts, her position appeared to her in all its shocking nakedness. One dream she had almost every night. She dreamt that both at once were her husbands, and lavished their caresses on her. Alexey Alexandrovich wept, kissing her hands, saying: 'How beautiful it is now!' and Alexey Vronsky was there too, and he also was her husband. And she was surprised that formerly this had seemed impossible to her, and laughingly explained to them how much simpler it really was, and that they were both now contented and happy. But this dream weighed on her like a nightmare, and she woke from it filled with horror.</p>
+
+
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00206" type="same novel"/></item>
+			<item><xptr n="ls.00203" type="same author"/></item>
+              	<item><xptr n="ls.00204" type="same author"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

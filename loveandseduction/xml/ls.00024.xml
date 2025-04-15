@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00024">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Hidden Hand</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter XXXIX, "Cap Frees a Captive"</title>
+<title level="m" type="monograph"></title>
+<author name="Southworth">E.D.E.N. Southworth
+</author>
+<date type="original" value="1859">1859</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author>E.D.E.N. Southworth
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00024</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Build-A-Book Initiative e-text of E.D.E.N. Southworth's <hi rend="italic">The Hidden Hand</hi>, Chapter XXXIX, "Cap Frees a Captive."  Originally published in 1859.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">Cap Frees the Captive</title>
+               <title level="m"><hi rend="italic">The Hidden Hand</hi></title>
+               <author>E.D.E.N. Southworth</author>
+               <imprint>
+                  <publisher>
+Build-a-Book Initiative
+
+</publisher>
+                  <pubPlace>
+www.digital.library.upenn.edu/women/southworth/hand/hand.html
+
+</pubPlace>
+               </imprint>
+               <date>
+?
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="american" type="place">American</term>
+<term id="fiction" type="media">fiction</term>
+
+			            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+  <head type="editorial">Scene One: The Villain proposes to the Ingenue in a parlour</head>
+
+         <p>Craven Le Noir had
+never abated his unacceptable attentions to the orphan heiress. Day by day, on
+the contrary, to Clara's unspeakable distress, these attentions grew more
+pointed and alarming. </p>
+
+         <p>At first she had
+received them coldly and repulsed them gently; but as they grew more ardent and
+devoted she became colder and more reserved, until at length, by maintaining a
+freezing hauteur at variance with her usually sweet temper, she sought to repel
+the declaration that was ever ready to fall from his lips. </p>
+
+         <p>But, notwithstanding
+her evident abhorrence of his suit, Craven Le Noir persisted in his purpose. </p>
+
+         <p>And so one morning
+he entered the parlor and, finding Clara alone, he closed the door, seated
+himself beside her, took her hand and made a formal declaration of love and
+proposal of marriage, urging his suit with all the eloquence of which he was
+master. </p>
+
+         <p>Now, Clara Day, a
+Christian maiden, a recently bereaved orphan and an affianced bride, had too
+profound a regard for her duties toward God, her father's will and her
+betrothed husband's rights to treat this attempted invasion of her faith in any
+other than the most deliberate, serious and dignified manner. </p>
+
+         <p>"I am very
+sorry, Mr. Le Noir, that it has at length come to this. I thought I had
+conducted myself in such a manner as totally to discourage any such purpose as
+this which you have just honored me by disclosing. Now, however, that the
+subject may be set at rest forever, I feel bound to announce to you that my
+hand is already plighted," said Clara, gravely. </p>
+
+         <p>"But, my
+fairest and dearest love, your little hand cannot be plighted without the
+consent of your guardian, who would never countenance the impudent pretensions
+which I understand to be made by the low-born young man to whom I presume you
+allude. That engagement was a very foolish affair, my dear girl, and only to be
+palliated on the ground of your extreme childishness at the time of its being
+made. You must forget the whole matter, my sweetest love, and prepare yourself
+to listen to a suit more worthy of your social position," said Craven Le
+Noir, attempting to steal his arm around her waist. </p>
+
+         <p>Clara coldly repelled
+him, saying: </p>
+
+         <p>"I am at a loss
+to understand, Mr. Le Noir, what act of levity on my part has given you the
+assurance to offer me this affront!" </p>
+
+         <p>"Do you call it
+an affront, fair cousin, that I lay my hand and heart and fortune at your
+feet?" </p>
+
+         <p>"I have called
+your acts sir, by its gentlest name. Under the circumstances I might well have
+called it an outrage!" </p>
+
+         <p>"And what may
+be those circumstances that convert an act of&#8212;adoration&#8212;into an outrage, my
+sweet cousin?" </p>
+
+         <p>"Sir, you know
+them well. I have not concealed from you or my guardian that I am the affianced
+bride of Doctor Rocke, nor that our troth was plighted with the full consent of
+my dear father," said Clara, gravely. </p>
+
+         <p>"Tut, tut, tut,
+my charming cousin, that was mere child's play&#8212;a school-girl's romantic whim.
+Do not dream that your guardian will ever permit you to throw yourself away
+upon that low-bred fellow." </p>
+
+         <p>"Mr. Le Noir,
+if you permit yourself to address me in this manner, I shall feel compelled to
+retire. I cannot remain here to have my honored father's will and memory, and
+the rights of my betrothed, insulted in my person!" said Clara, rising to
+leave the room. </p>
+
+         <p>"No&#8212;stay!
+forgive me, Clara! pardon me, gentlest girl, if, in my great love for you, I
+grow impatient of any other claim upon your heart, especially from such an
+unworthy quarter. Clara, you are a mere child, full of generous but romantic
+sentiments and dangerous impulses. You require extra vigilance and firm
+exercise of authority on the part of your guardian to save you from certain self-destruction.
+And some day, sweet girl, you will thank us for preserving you from the horrors
+of such a mésalliance," said Craven Le Noir, gently detaining her. </p>
+
+         <p>"I tell you,
+Mr. Le Noir, that your manner of speaking of my betrothal is equally insulting
+to myself, Doctor Rocke and my dear father, who never would have plighted our
+hands had he considered our prospective marriage a m&#233;salliance." </p>
+
+         <p>"Nor do I
+suppose he ever did plight your handswhile in his right senses!" </p>
+
+         <p>"Oh, sir, this
+has been discussed before. I beg of you to let the subject drop forever,
+remembering that I hold myself sacredly betrothed to Traverse Rocke, and
+ready&#8212;when, at my legal majority, he shall claim me&#8212;to redeem my plighted faith
+by becoming his wife." </p>
+
+         <p>"Clara, this is
+madness! It must not be endured, nor shall not! I have hitherto sought to win
+your hand by showing you the great extent of my love; but be careful how you
+scorn that love or continue to taunt me with the mention of an unworthy rival.
+For, though I use gentle means, should I find them fail of their purpose, I
+shall know how to avail myself of harsher ones." </p>
+
+         <p>Clara disdained
+reply, except by permitting her clear eye to pass over him from head to foot
+with an expression of consuming scorn that scathed him to the quick. </p>
+
+         <p>"I tell you to
+be careful, Clara Day! I come to you armed with the authority of your legal
+guardian, my father, Colonel Le Noir, who will forestall your foolish purpose
+of throwing yourself and your fortune away upon a beggar, even though to do so
+he strain his authority and coerce you into taking a more suitable
+companion," said Craven Le Noir, rising impatiently and pacing the floor.
+But no sooner had he spoken these words than he saw how greatly he had injured
+his cause and repented them. Going to Clara and intercepting her as she was
+about to leave the room, he gently took her hand and, dropping his eyes to the
+floor with a look of humility and penitence, he said: </p>
+
+         <p>"Clara, my
+sweet cousin, I know not how sufficiently to express my sorrow at having been
+hurried into harshness toward you&#8212;toward you whom I love more than my own soul
+and whom it is the fondest wish of my heart to call wife. I can only excuse
+myself for this or any future extravagance of manner by my excessive love for
+you and the jealousy that maddens my brain at the bare mention of my rival.
+That is it, sweet girl. Can you forgive one whom love and jealousy have hurried
+into frenzy?" </p>
+
+         <p>"Mr. Le Noir,
+the Bible enjoins me to forgive injuries. I shall endeavor, when I can, to
+forgive you, though for the present my heart is still burning under the sense
+of wrongs done toward myself and those whom I love and esteem, and the only way
+in which you can make me forget what has just passed will be&#8212;never to repeat
+the offence." And with these words Clara bent her head and passed from the
+room. </p>
+
+         <p>Could she have seen
+the malignant scowl and gesture with which Craven Le Noir followed her
+departure, she would scarcely have trusted his expressions of penitence. </p>
+
+         <p>Lifting his arm
+above his head he fiercely shook his fist after her and exclaimed: </p>
+
+         <p>"Go on,
+insolent girl, and imagine that you have humbled me; but the tune shall be
+changed by this day month, for before that time whatever power the law gives
+the husband over his wife and her property shall be mine over you and your
+possessions. Then we will see who shall be insolent; then we shall see whose
+proud blue eye shall day after day dare to look up and rebuke me. Oh! to get
+you in my power, my girl! Not that I love you, moon-faced creature, but I want
+your possessions, which is quite as strong an incentive." </p>
+
+<div1 type="file references">
+            <list>
+               <item><xptr n="ls.00004" type="same subject"/></item>
+			<item><xptr n="ls.00067" type="same subject"/></item>
+              	<item><xptr n="ls.00004" type="same subject"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

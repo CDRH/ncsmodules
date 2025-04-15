@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00042">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Little Women</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter 32, "Tender Troubles"</title>
+<title level="m" type="monograph"></title>
+<author name="Alcott">Louisa May Alcott</author>
+<date type="original" value="1868">1868</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00042</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Louisa May Alcott's <hi rend="italic">Little Women</hi>, Chapter 32, "Tender Troubles."  Originally published in 1868.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">"Tender Troubles"</title>
+               <title level="m"><hi rend="italic">Little Women</hi></title>
+               <author>Louisa May Alcott</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+                  </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="class" type="theme">class</term>
+			<term id="american" type="place">American</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+    <head type="editorial">Scene Two: Jo and Laurie flirt inconsequentially on a sofa</head>
+
+<p>When Laurie first went to college, he fell in love about
+once a month, but these small flames were as brief as ardent,
+did no damage, and much amused Jo, who took great interest in
+the alternations of hope, despair, and resignation, which were
+confided to her in their weekly conferences. But there came a
+time when Laurie ceased to worship at many shrines, hinted
+darkly at one all-absorbing passion, and indulged occasionally
+in Byronic fits of gloom. Then he avoided the tender subject
+altogether, wrote philosophical notes to Jo, turned studious,
+and gave out that he was going to 'dig', intending to graduate
+in a blaze of glory. This suited the young lady better than
+twilight confidences, tender pressures of the hand, and
+eloquent glances of the eye, for with Jo, brain developed
+earlier than heart, and she preferred imaginary heroes to
+real ones, because when tired of them, the former could be
+shut up in the tin kitchen till called for, and the latter
+were less manageable.</p>
+
+<p>Things were in this state when the grand discovery was
+made, and Jo watched Laurie that night as she had never done
+before. If she had not got the new idea into her head, she
+would have seen nothing unusual in the fact that Beth was
+very quiet, and Laurie very kind to her. But having given the
+rein to her lively fancy, it galloped away with her at a great
+pace, and common sense, being rather weakened by a long course
+of romance writing, did not come to the rescue. As usual Beth
+lay on the sofa and Laurie sat in a low chair close by, amusing
+her with all sorts of gossip, for she depended on her weekly
+'spin', and he never disappointed her. But that evening Jo
+fancied that Beth's eyes rested on the lively, dark face
+beside her with peculiar pleasure, and that she listened with
+intense interest to an account of some exciting cricket match,
+though the phrases, 'caught off a tice', 'stumped off his ground',
+and 'the leg hit for three', were as intelligible to her as
+Sanskrit. She also fancied, having set her heart upon seeing it,
+that she saw a certain increase of gentleness in Laurie's manner,
+that he dropped his voice now and then, laughed less than usual,
+was a little absent-minded, and settled the afghan over Beth's
+feet with an assiduity that was really almost tender.</p>
+
+<p>"Who knows? Stranger things have happened," thought Jo,
+as she fussed about the room. "She will make quite an angel
+of him, and he will make life delightfully easy and pleasant
+for the dear, if they only love each other. I don't see how he
+can help it, and I do believe he would if the rest of us were out of
+the way."</p>
+
+<p>As everyone <hi rend="italic">was</hi> out of the way but herself, Jo began to
+feel that she ought to dispose of herself with all speed. But
+where should she go?  And burning to lay herself upon the shrine
+of sisterly devotion, she sat down to settle that point.</p>
+
+<p>Now, the old sofa was a regular patriarch of a sofa&#8212;long,
+broad, well-cushioned, and low, a trifle shabby, as well it might
+be, for the girls had slept and sprawled on it as babies,
+fished over the back, rode on the arms, and had menageries
+under it as children, and rested tired heads, dreamed dreams,
+and listened to tender talk on it as young women. They all loved
+it, for it was a family refuge, and one corner had always been
+Jo's favorite lounging place. Among the many pillows that adorned
+the venerable couch was one, hard, round, covered with prickly
+horsehair, and furnished with a knobby button at each end. This
+repulsive pillow was her especial property, being used as a weapon
+of defense, a barricade, or a stern preventive of too much slumber.</p>
+
+<p>Laurie knew this pillow well, and had cause to regard it with
+deep aversion, having been unmercifully pummeled with it in former
+days when romping was allowed, and now frequently debarred by it
+from the seat he most coveted next to Jo in the sofa corner. If
+'the sausage' as they called it, stood on end, it was a sign that
+he might approach and repose, but if it lay flat across the sofa,
+woe to man, woman, or child who dared disturb it! That evening
+Jo forgot to barricade her corner, and had not been in her seat
+five minutes, before a massive form appeared beside her, and with
+both arms spread over the sofa back, both long legs stretched out
+before him, Laurie exclaimed, with a sigh of satisfaction:</p>
+
+<p>"Now, <hi rend="italic">this</hi> is filling at the price."</p>
+
+<p>"No slang," snapped Jo, slamming down the pillow. But it was
+too late, there was no room for it, and coasting onto the floor,
+it disappeared in a most mysterious manner.</p> 
+
+<p>"Come, Jo, don't be thorny. After studying himself to a
+skeleton all the week, a fellow deserves petting and ought to get
+it."</p>
+
+<p>"Beth will pet you. I'm busy."</p>
+
+<p>"No, she's not to be bothered with me, but you like that sort
+of thing, unless you've suddenly lost your taste for it. Have you?
+Do you hate your boy, and want to fire pillows at him?"</p>
+
+<p>Anything more wheedlesome than that touching appeal was seldom
+heard, but Jo quenched 'her boy' by turning on him with a stern
+query, "How many bouquets have you sent Miss Randal this week?"</p>
+
+<p>"Not one, upon my word. She's engaged. Now then."</p>
+
+<p>"I'm glad of it, that's one of your foolish extravagances,
+sending flowers and things to girls for whom you don't care two
+pins," continued Jo reprovingly.</p>
+
+<p>"Sensible girls for whom I do care whole papers of pins won't let me
+send them 'flowers and things', so what can I do?  My feelings need a
+<hi rend="italic">went</hi>."</p>
+
+<p>"Mother doesn't approve of flirting even in fun, and you do
+flirt desperately, Teddy."</p>
+
+<p>"I'd give anything if I could answer, 'So do you'. As I can't,
+I'll merely say that I don't see any harm in that pleasant little
+game, if all parties understand that it's only play."</p>
+
+<p>"Well, it does look pleasant, but I can't learn how it's done.
+I've tried, because one feels awkward in company not to do as
+everybody else is doing, but I don't seem to get on", said Jo,
+forgetting to play mentor.</p>
+
+<p>"Take lessons of Amy, she has a regular talent for it."</p>
+
+<p>"Yes, she does it very prettily, and never seems to go too
+far. I suppose it's natural to some people to please without
+trying, and others to always say and do the wrong thing in the
+wrong place."</p>
+
+<p>"I'm glad you can't flirt. It's really refreshing to see a
+sensible, straightforward girl, who can be jolly and kind without
+making a fool of herself. Between ourselves, Jo, some of the
+girls I know really do go on at such a rate I'm ashamed of them.
+They don't mean any harm, I'm sure, but if they knew how we
+fellows talked about them afterward, they'd mend their ways, I
+fancy."</p>
+
+<p>"They do the same, and as their tongues are the sharpest,
+you fellows get the worst of it, for you are as silly as they,
+every bit. If you behaved properly, they would, but knowing
+you like their nonsense, they keep it up, and then you blame
+them."</p>
+
+<p>"Much you know about it, ma'am," said Laurie in a superior tone.
+"We don't like romps and flirts, though we may act as if
+we did sometimes. The pretty, modest girls are never
+talked about, except respectfully, among gentleman.
+Bless your innocent soul! If you could be in my place
+for a month you'd see things that would astonish you a trifle.
+Upon my word, when I see one of those harum-scarum girls,
+I always want to say with our friend Cock Robin:</p>
+	
+	<lg type="poem">
+	<l><hi rend="italic">"Out upon you, fie upon you,</hi></l>
+ 	<l><hi rend="italic">Bold-faced jig!"</hi></l>
+		</lg>
+
+<p>It was impossible to help laughing at the funny conflict
+between Laurie's chivalrous reluctance to speak ill of womankind,
+and his very natural dislike of the unfeminine folly of
+which fashionable society showed him many samples. Jo knew
+that 'young Laurence' was regarded as a most eligible <hi rend="italic">parti</hi>
+by worldly mamas, was much smiled upon by their daughters,
+and flattered enough by ladies of all ages to make a coxcomb
+of him, so she watched him rather jealously, fearing
+he would be spoiled, and rejoiced more than she confessed
+to find that he still believed in modest girls. Returning
+suddenly to her admonitory tone, she said, dropping her
+voice, "If you <hi rend="italic">must</hi> have a 'went', Teddy, go and devote
+yourself to one of the 'pretty, modest girls' whom you do
+respect, and not waste your time with the silly ones."</p>
+
+<p>"You really advise it?" and Laurie looked at her with
+an odd mixture of anxiety and merriment in his face.</p>
+
+<p>"Yes, I do, but you'd better wait till you are through
+college, on the whole, and be fitting yourself for the place
+meantime. You're not half good enough for&#8212;well, whoever
+the modest girl may be." and Jo looked a little queer likewise,
+for a name had almost escaped her.</p>
+
+<p>"That I'm not!" acquiesced Laurie, with an expression of
+humility quite new to him, as he dropped his eyes and absently
+wound Jo's apron tassel round his finger.</p>
+
+<p>"Mercy on us, this will never do," thought Jo, adding
+aloud, "Go and sing to me. I'm dying for some music, and
+always like yours."</p>
+
+<p>"I'd rather stay here, thank you."</p>
+
+<p>"Well, you can't, there isn't room. Go and make yourself
+useful, since you are too big to be ornamental. I thought you
+hated to be tied to a woman's apron string?" retorted Jo,
+quoting certain rebellious words of his own.</p>
+
+<p>"Ah, that depends on who wears the apron!" and Laurie
+gave an audacious tweak at the tassel.</p>
+
+<p>"Are you going?" demanded Jo, diving for the pillow.</p>
+
+<p>He fled at once, and the minute it was well, "Up with the
+bonnets of bonnie Dundee," she slipped away to return no more
+till the young gentleman departed in high dudgeon.</p>
+<div1 type="file references">
+            <list>
+               	<item><xptr n="ls.00004" type="same novel"/></item>
+			<item><xptr n="ls.00005" type="same novel"/></item>
+              	<item><xptr n="ls.00006" type="same novel"/></item>
+               	
+			<item><xptr n="ls.00164" type="image on same novel"/></item>
+              	<item><xptr n="ls.00165" type="image on same novel"/></item>
+               	<item><xptr n="ls.00166" type="image on same novel"/></item>
+			<item><xptr n="ls.00167" type="image on same novel"/></item>
+              	<item><xptr n="ls.00168" type="image on same novel"/></item>
+			        
+               	<item><xptr n="ls.00169" type="image on same novel"/></item>
+			<item><xptr n="ls.00170" type="image on same novel"/></item>
+              	<item><xptr n="ls.00171" type="image on same novel"/></item>
+			<item><xptr n="ls.00172" type="image on same novel"/></item>
+			                       </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00004">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Little Women</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from "Playing Pilgrims"</title>
+<title level="m" type="monograph"></title>
+<author name="Alcott">Louisa May Alcott</author>
+<date type="original" value="1868">1868</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00004</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Louisa May Alcott's <hi rend="italic">Little Women</hi>, Chapter 1, "Playing Pilgrims."  Originally published in 1868.
+
+ </note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">Playing Pilgrims</title>
+               <title level="m"><hi rend="italic">Little Women</hi></title>
+               <author>Louisa May Alcott</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="american" type="place">American</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="editorial">Scene One: Parody of a typical Southworth seduction scene</head>
+
+<p>"I don't mean to act any more after this time. I'm getting
+too old for such things," observed Meg, who was as much a child
+as ever about 'dressing-up' frolics.</p>
+
+<p>"You won't stop, I know, as long as you can trail round in a
+white gown with your hair down, and wear gold-paper jewelry.
+You are the best actress we've got, and there'll be an end
+of everything if you quit the boards," said Jo. "We ought
+to rehearse tonight. Come here, Amy, and do the fainting scene,
+for you are as stiff as a poker in that."</p>
+
+<p>"I can't help it. I never saw anyone faint, and I don't choose
+to make myself all black and blue, tumbling flat as you do. If I
+can go down easily, I'll drop. If I can't, I shall fall into a
+chair and be graceful. I don't care if Hugo does come at me with
+a pistol," returned Amy, who was not gifted with dramatic power,
+but was chosen because she was small enough to be borne out shrieking
+by the villain of the piece.</p>
+
+<p>"Do it this way. Clasp your hands so, and stagger across the
+room, crying frantically, 'Roderigo! Save me! Save me!'" and away
+went Jo, with a melodramatic scream which was truly thrilling.</p>
+
+<p>Amy followed, but she poked her hands out stiffly before her,
+and jerked herself along as if she went by machinery, and her "Ow!"
+was more suggestive of pins being run into her than of fear and
+anguish. Jo gave a despairing groan, and Meg laughed outright,
+while Beth let her bread burn as she watched the fun with interest.</p>
+
+<p>"It's no use! Do the best you can when the time comes, and if
+the audience laughs, don't blame me. Come on, Meg."</p>
+
+<p>Then things went smoothly, for Don Pedro defied the world in
+a speech of two pages without a single break. Hagar, the witch,
+chanted an awful incantation over her kettleful of simmering toads,
+with weird effect. Roderigo rent his chains asunder manfully, and
+Hugo died in agonies of remorse and arsenic, with a wild, "Ha! Ha!"</p>
+
+<p>"It's the best we've had yet," said Meg, as the dead villain
+sat up and rubbed his elbows.</p>
+
+<p>"I don't see how you can write and act such splendid things,
+Jo. You're a regular Shakespeare!" exclaimed Beth, who firmly
+believed that her sisters were gifted with wonderful genius in all
+things.</p>
+
+<p>"Not quite," replied Jo modestly. "I do think 'The Witch's Curse,
+an Operatic Tragedy,' is rather a nice thing, but I'd like to try
+'Macbeth,' if we only had a trapdoor for Banquo. I always wanted to
+do the killing part. 'Is that a dagger that I see before me?'"
+muttered Jo, rolling her eyes and clutching at the air, as she had
+seen a famous tragedian do.</p>
+
+<p>"No, it's the toasting fork, with Mother's shoe on it instead
+of the bread. Beth's stage-struck!" cried Meg, and the rehearsal
+ended in a general burst of laughter.</p>
+
+<p>"Glad to find you so merry, my girls," said a cheery voice at
+the door, and actors and audience turned to welcome a tall, motherly
+lady with a 'can I help you' look about her which was truly delightful.
+She was not elegantly dressed, but a noble-looking woman, and the
+girls thought the gray cloak and unfashionable bonnet covered the most
+splendid mother in the world.</p>
+
+<div1 type="file references">
+            <list>
+			
+			<item><xptr n="ls.00005" type="same novel"/></item>
+              	<item><xptr n="ls.00006" type="same novel"/></item>
+			<item><xptr n="ls.00024" type="fiction on fiction"/></item>
+               	<item><xptr n="ls.00042" type="same novel"/></item>
+<item><xptr n="ls.00067" type="fiction on fiction"/></item>
+			<item><xptr n="ls.00164" type="image on same novel"/></item>
+              	<item><xptr n="ls.00165" type="image on same novel"/></item>
+               	<item><xptr n="ls.00166" type="image on same novel"/></item>
+			<item><xptr n="ls.00167" type="image on same novel"/></item>
+              	<item><xptr n="ls.00168" type="image on same novel"/></item>
+			        
+               	<item><xptr n="ls.00169" type="image on same novel"/></item>
+			<item><xptr n="ls.00170" type="image on same novel"/></item>
+              	<item><xptr n="ls.00171" type="image on same novel"/></item>
+			<item><xptr n="ls.00172" type="image on same novel"/></item>
+	</list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

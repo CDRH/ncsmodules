@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00036">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"A Chinese View of the Statue of Liberty"</title>
+	<date type="original" value="1885">1885</date>
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Saum">Saum Song Bo
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00036</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the ftrain.com text of Saum Song Bo's "A Chinese View of the Statue of Liberty."  Originally published in <hi rend="italic">The American Missionary</hi>, January 1885.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"A Chinese View of the Statue of Liberty"</title>
+               <title level="m"><hi rend="italic">The American Missionary</hi></title>
+               <author>Saum Song Bo</author>
+               <imprint>
+                  <publisher>
+ftrain.com
+</publisher>
+                  <pubPlace>
+www.ftrain.com
+
+</pubPlace>
+               </imprint>
+               <date>
+August 12, 2003
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+                            <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="statueofliberty" type="topic">Statue of Liberty</term>
+<term id="dissenting" type="topic">dissenting</term>
+<term id="icon" type="topic">icon</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-08">08 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>"And this statue of Liberty is a gift to a people from another people who do not love or value liberty for the Chinese."</p>
+	<p>SIR: A paper was presented to me yesterday for inspection, and I found it to be specially drawn up for subscription among my countrymen toward the Pedestal Fund of the Bartholdi <hi rend="italic">Statue of Liberty</hi>.  Seeing that the heading is an appeal to American citizens, to their love of country and liberty, I feel that my countrymen and myself are honored in being thus appealed to as citizens in the cause of liberty.  But the word liberty makes me think of the fact that this country is the land of liberty for men of all nations except the Chinese.  I consider it an insult to us Chinese to call on us to contribute toward building in this land a pedestal for a statue of Liberty.  That statue represents Liberty holding a torch which lights the passage to those of all nations who come into this country.  But are the Chinese allowed to come?  As for the Chinese who are here, are they allowed to enjoy liberty as men of all other nationalities enjoy it?  Are they allowed to go about everywhere free from the insults, abuse, assaults, wrongs and injuries from which men of other nationalities are free?</p>
+	<p>If there be a Chinaman who came to this country when a lad, who has passed through an American institution of learning of the highest grade, who has so fallen in love with American manners and ideas that he desires to make his home in this land, and who, seeing that his countrymen demand one of their own number to be their legal adviser, representative, advocate and protector, desires to study law, can he be a lawyer?  By the law of this nation, he, being a Chinaman, cannot become a citizen, and consequently cannot be a lawyer.</p>
+	<p>And this statue of Liberty is a gift to a people from another people who do not love or value liberty for the Chinese.  Are not the Annamese and Tonquinese Chinese, to whom liberty is dear as to the French?  What right have the French to deprive them of their liberty?</p>
+	<p>Whether this statue against the Chinese or the statue of Liberty will be the more lasting monument to tell future ages of the liberty and greatness of this country, will be known only to future generations.</p>
+	<p>Liberty, we Chinese do love and adore thee; but let not those who deny thee to us, make of thee a graven image and invite us to bow down to it.</p>
+	<p>Saum Song Bo</p>
+
+	<p>New York Sun</p>
+
+
+      </body>
+   </text>
+</TEI.2>

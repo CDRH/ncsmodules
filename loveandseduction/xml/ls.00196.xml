@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00196">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Eugenie Grandet</hi>
+</title>
+
+<author name="Balzac">Honor&#233; de Balzac</author>
+<date type="original" value="1833">1833</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00196</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Honor&#233; de Balzac's <hi rend="italic">Eug&#233;nie Grandet</hi>.  Originally published in 1833.  This translation by Katherine Prescott Wormeley.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"></title>
+               <title level="m">Eug&#233;nie Grandet</title>
+               <author>Honor&#233; de Balzac</author>
+               <imprint>
+                  <publisher>Project Gutenberg
+
+</publisher>
+                  <pubPlace>www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>2004
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="boudoir" type="setting">boudoir</term>
+               			<term id="french" type="place">French</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>Scene Two:  Eug&#233;nie foolishly gives her savings to her cousin</head>
+
+<p>"Dear cousin!" whispered Eugenie, throwing down the letter and running
+softly back to her room, carrying one of the lighted candles. A thrill
+of pleasure passed over her as she opened the drawer of an old oak
+cabinet, a fine specimen of the period called the Renaissance, on
+which could still be seen, partly effaced, the famous royal
+salamander. She took from the drawer a large purse of red velvet with
+gold tassels, edged with a tarnished fringe of gold wire,&#8212;a relic
+inherited from her grandmother. She weighed it proudly in her hand,
+and began with delight to count over the forgotten items of her little
+hoard. First she took out twenty <hi rend="italic">portugaises</hi>, still new, struck in
+the reign of John V., 1725, worth by exchange, as her father told her,
+five <hi rend="italic">lisbonnines</hi>, or a hundred and sixty-eight francs, sixty-four
+centimes each; their conventional value, however, was a hundred and
+eighty francs apiece, on account of the rarity and beauty of the
+coins, which shone like little suns. Item, five <hi rend="italic">genovines</hi>, or five
+hundred-franc pieces of Genoa; another very rare coin worth
+eighty-seven francs on exchange, but a hundred francs to collectors.
+These had formerly belonged to old Monsieur de la Bertelliere. Item,
+three gold <hi rend="italic">quadruples</hi>, Spanish, of Philip V., struck in 1729, given
+to her one by one by Madame Gentillet, who never failed to say, using
+the same words, when she made the gift, "This dear little canary, this
+little yellow-boy, is worth ninety-eight francs! Keep it, my pretty
+one, it will be the flower of your treasure." Item (that which her
+father valued most of all, the gold of these coins being twenty-three
+carats and a fraction), a hundred Dutch ducats, made in the year 1756,
+and worth thirteen francs apiece. Item, a great curiosity, a species
+of medal precious to the soul of misers,&#8212;three rupees with the sign
+of the Scales, and five rupees with the sign of the Virgin, all in
+pure gold of twenty-four carats; the magnificent money of the Great
+Mogul, each of which was worth by mere weight thirty-seven francs,
+forty centimes, but at least fifty francs to those connoisseurs who
+love to handle gold. Item, the napoleon of forty francs received the
+day before, which she had forgotten to put away in the velvet purse.
+This treasure was all in virgin coins, true works of art, which
+Grandet from time to time inquired after and asked to see, pointing
+out to his daughter their intrinsic merits,&#8212;such as the beauty of the
+milled edge, the clearness of the flat surface, the richness of the
+lettering, whose angles were not yet rubbed off.</p>
+
+<p>Eugenie gave no thought to these rarities, nor to her father's mania
+for them, nor to the danger she incurred in depriving herself of a
+treasure so dear to him; no, she thought only of her cousin, and soon
+made out, after a few mistakes of calculation, that she possessed
+about five thousand eight hundred francs in actual value, which might
+be sold for their additional value to collectors for nearly six
+thousand. She looked at her wealth and clapped her hands like a happy
+child forced to spend its overflowing joy in artless movements of the
+body. Father and daughter had each counted up their fortune this
+night,&#8212;he, to sell his gold; Eugenie to fling hers into the ocean of
+affection. She put the pieces back into the old purse, took it in her
+hand, and ran upstairs without hesitation. The secret misery of her
+cousin made her forget the hour and conventional propriety; she was
+strong in her conscience, in her devotion, in her happiness.</p>
+
+<p>As she stood upon the threshold of the door, holding the candle in one
+hand and the purse in the other, Charles woke, caught sight of her,
+and remained speechless with surprise. Eugenie came forward, put the
+candle on the table, and said in a quivering voice:</p>
+
+<p>"My cousin, I must beg pardon for a wrong I have done you; but God
+will pardon me&#8212;if you&#8212;will help me to wipe it out."</p>
+
+<p>"What is it?" asked Charles, rubbing his eyes.</p>
+
+<p>"I have read those letters."</p>
+
+<p>Charles colored.</p>
+
+<p>"How did it happen?" she continued; "how came I here? Truly, I do not
+know. I am tempted not to regret too much that I have read them; they
+have made me know your heart, your soul, and&#8212;"</p>
+
+<p>"And what?" asked Charles.</p>
+
+<p>"Your plans, your need of a sum&#8212;"</p>
+
+<p>"My dear cousin&#8212;"</p>
+
+<p>"Hush, hush! my cousin, not so loud; we must not wake others. See,"
+she said, opening her purse, "here are the savings of a poor girl who
+wants nothing. Charles, accept them! This morning I was ignorant of
+the value of money; you have taught it to me. It is but a means, after
+all. A cousin is almost a brother; you can surely borrow the purse of
+your sister."</p>
+
+<p>Eug&#233;nie, as much a woman as a young girl, never dreamed of refusal;
+but her cousin remained silent.</p>
+
+<p>"Oh! you will not refuse?" cried Eug&#233;nie, the beatings of whose heart
+could be heard in the deep silence.</p>
+
+<p>Her cousin's hesitation mortified her; but the sore need of his
+position came clearer still to her mind, and she knelt down.</p>
+
+<p>"I will never rise till you have taken that gold!" she said. "My
+cousin, I implore you, answer me! let me know if you respect me, if
+you are generous, if&#8212;"</p>
+
+<p>As he heard this cry of noble distress the young man's tears fell upon
+his cousin's hands, which he had caught in his own to keep her from
+kneeling. As the warm tears touched her, Eug&#233;nie sprang to the purse
+and poured its contents upon the table.</p>
+
+<p>"Ah! yes, yes, you consent?" she said, weeping with joy. "Fear
+nothing, my cousin, you will be rich. This gold will bring you
+happiness; some day you shall bring it back to me,&#8212;are we not
+partners? I will obey all conditions. But you should not attach such
+value to the gift."</p>
+
+<p>Charles was at last able to express his feelings.</p>
+
+<p>"Yes, Eug&#233;nie; my soul would be small indeed if I did not accept. And
+yet,&#8212;gift for gift, confidence for confidence."</p>
+
+<p>"What do you mean?" she said, frightened.</p>
+
+<p>"Listen, dear cousin; I have here&#8212;" He interrupted himself to point
+out a square box covered with an outer case of leather which was on
+the drawers. "There," he continued, "is something as precious to me as
+life itself. This box was a present from my mother. All day I have
+been thinking that if she could rise from her grave, she would herself
+sell the gold which her love for me lavished on this dressing-case;
+but were I to do so, the act would seem to me a sacrilege." Eug&#233;nie
+pressed his hand as she heard these last words. "No," he added, after
+a slight pause, during which a liquid glance of tenderness passed
+between them, "no, I will neither sell it nor risk its safety on my
+journey. Dear Eug&#233;nie, you shall be its guardian. Never did friend
+commit anything more sacred to another. Let me show it to you."</p>
+
+<p>He went to the box, took it from its outer coverings, opened it, and
+showed his delighted cousin a dressing-case where the rich workmanship
+gave to the gold ornaments a value far above their weight.</p>
+
+<p>"What you admire there is nothing," he said, pushing a secret spring
+which opened a hidden drawer. "Here is something which to me is worth
+the whole world." He drew out two portraits, masterpieces of Madame
+Mirbel, richly set with pearls.</p>
+
+<p>"Oh, how beautiful! Is it the lady to whom you wrote that&#8212;"</p>
+
+<p>"No," he said, smiling; "this is my mother, and here is my father,
+your aunt and uncle. Eug&#233;nie, I beg you on my knees, keep my treasure
+safely. If I die and your little fortune is lost, this gold and these
+pearls will repay you. To you alone could I leave these portraits; you
+are worthy to keep them. But destroy them at last, so that they may
+pass into no other hands." Eug&#233;nie was silent. "Ah, yes, say yes! You
+consent?" he added with winning grace.</p>
+
+<p>Hearing the very words she had just used to her cousin now addressed
+to herself, she turned upon him a look of love, her first look of
+loving womanhood,&#8212;a glance in which there is nearly as much of
+coquetry as of inmost depth. He took her hand and kissed it.</p>
+
+<p>"Angel of purity! between us two money is nothing, never can be
+anything. Feeling, sentiment, must be all henceforth."</p>
+
+<p>"You are like your mother,&#8212;was her voice as soft as yours?"</p>
+
+<p>"Oh! much softer&#8212;"</p>
+
+<p>"Yes, for you," she said, dropping her eyelids. "Come, Charles, go to
+bed; I wish it; you must be tired. Good-night." She gently disengaged
+her hand from those of her cousin, who followed her to her room,
+lighting the way. When they were both upon the threshold,&#8212;</p>
+
+<p>"Ah!" he said, "why am I ruined?"</p>
+
+<p>"What matter?&#8212;my father is rich; I think so," she answered.</p>
+
+<p>"Poor child!" said Charles, making a step into her room and leaning
+his back against the wall, "if that were so, he would never have let
+my father die; he would not let you live in this poor way; he would
+live otherwise himself."</p>
+
+<p>"But he owns Froidfond."</p>
+
+<p>"What is Froidfond worth?"</p>
+
+<p>"I don't know; but he has Noyers."</p>
+
+<p>"Nothing but a poor farm!"</p>
+
+<p>"He has vineyards and fields."</p>
+
+<p>"Mere nothing," said Charles disdainfully. "If your father had only
+twenty-four thousand francs a year do you suppose you would live in
+this cold, barren room?" he added, making a step in advance. "Ah!
+there you will keep my treasures," he said, glancing at the old
+cabinet, as if to hide his thoughts.</p>
+
+<p>"Go and sleep," she said, hindering his entrance into the disordered
+room.</p>
+
+<p>Charles stepped back, and they bid each other good-night with a mutual
+smile.</p>
+
+<p>Both fell asleep in the same dream; and from that moment the youth
+began to wear roses with his mourning. The next day, before breakfast,
+Madame Grandet found her daughter in the garden in company with
+Charles. The young man was still sad, as became a poor fellow who,
+plunged in misfortune, measures the depths of the abyss into which he
+has fallen, and sees the terrible burden of his whole future life.</p>
+
+<div1 type="file references">
+            <list>
+               			<item><xptr n="ls.00195" type="same novel"/></item>
+              	<item><xptr n="ls.00197" type="same novel"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

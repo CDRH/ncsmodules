@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00040">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Liberty Bell"</title>
+<title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1845">1845</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Moore">R.R.R. Moore</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00040</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 1-4 of the <hi rend="italic">Liberty Bell</hi>, for the year 1845.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Liberty Bell</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>R.R.R. Moore</author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>
+1844
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="libertybell" type="topic">Liberty Bell</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-10">10 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<lg type="stanza">
+	<l>Ring loud that hallowed Bell!</l>
+	<l>Ring it long, ring it long;</l>
+	<l>Through the wide world let it tell</l>
+<l>That Freedom's strong.</l>
+	</lg>
+	<lg type="stanza">
+<l>That the whole world shall be free&#8212;</l>
+<l>The mighty crowd, the mighty crowd&#8212;</l>
+<l>That the proud shall bend the knee,</l>
+<l>The haughty proud.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring, ring the mighty BELL,</l>
+<l>In the storm, in the storm!</l>
+<l>Brothers! it shall hearld well</l>
+<l>Fair Freedom's form.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring it Southward, till its voice</l>
+<l>For slavery toll, for slavery toll;</l>
+<l>And Freedom's wakening touch rejoice</l>
+<l>Both limb and soul.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring it o'er the negro's grave!</l>
+<l>Ring it deep, ring it deep;</l>
+<l>Its tones are sacred to the slave,</l>
+<l>In Freedom's sleep.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring it, till its startling tones</l>
+<l>Thrill young and old, young and old;</l>
+<l>Till despots tremble on their thrones,</l>
+<l>And their blood run cold.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring it, till the slave be free,</l>
+<l>Wherever chained, wherever chained;</l>
+<l>Till Universal Liberty</l>
+<l>For aye be gained.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring it, till the young arise</l>
+<l>To Freedom's fight, to Freedom's fight;</l>
+<l>Spring gladly toward the kindling skies,</l>
+<l>All clothed in light.</l>
+	</lg>
+	<lg type="stanza">
+<l>Ring it, till the bonds of sect</l>
+<l>Be torn away, be torn away;</l>
+<l>Till every man, as God's elect,</l>
+<l>Kneel down to pray.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Ring it, till the world have heard,</l>
+	<l>And <hi rend="italic">felt</hi>, at length, and felt, at length;</l>
+	<l>Till every living soul be stirred,</l>
+	<l>And clothed with strength.</l>
+	</lg>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00047" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

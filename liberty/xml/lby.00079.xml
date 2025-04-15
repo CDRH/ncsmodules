@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00079">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Subjection of Women</hi></title>
+<title level="c" type="chapter">from Chapter 4</title>
+<date type="original" value="1869">1869</date>
+
+            <title level="m" type="sub">electronic edition</title>
+<author name="Mill">John Stuart Mill
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00079</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the constitution.org text of John Stuart Mill's <hi rend="italic">The Subjection of Women</hi>.  Originally published in 1869.  </note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Subjection of Women</title>
+               <title level="m"></title>
+               <author>John Stuart Mill</author>
+               <imprint>
+                  <publisher>www.constituition.org
+
+</publisher>
+                  <pubPlace>
+</pubPlace>
+               </imprint>
+               <date>
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="history" type="genre">history</term>
+<term id="british" type="place">British</term>
+<term id="mill" type="topic">Mill</term>
+<term id="gender" type="topic">gender</term>
+<term id="emancipation" type="topic">emancipation</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	  <change>
+  <date value="2005-11-03">03 November 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>coding</item>
+</change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<p>He who would rightly appreciate the worth of personal independence as an element of happiness, should consider the value he himself puts upon it as an ingredient of his own. There is no subject on which there is a greater habitual difference of judgment between a man judging for himself, and the same man judging for other people. When he hears others complaining that they are not allowed freedom of action&#8212;that their own will has not sufficient influence in the regulation of their affairs&#8212;his inclination is, to ask, what are their grievances? what positive damage they sustain? and in what respect they consider their affairs to be mismanaged? and if they fail to make out, in answer to these questions, what appears to him a sufficient case, he turns a deaf ear, and regards their complaint as the fanciful querulousness of people whom nothing reasonable will satisfy. But he has a quite different standard of judgment when he is deciding for himself. Then, the most unexceptionable administration of his interests by a tutor set over him, does not satisfy his feelings: his personal exclusion from the deciding authority appears itself the greatest grievance of all, rendering it superfluous even to enter into the question of mismanagement. It is the same with nations. What citizen of a free country would listen to any offers of good and skilful administration, in return for the abdication of freedom? Even if he could believe that good and skilful administration can exist among a people ruled by a will not their own, would not the consciousness of working out their own destiny under their own moral responsibility be a compensation to his feelings for great rudeness and imperfection in the details of public affairs? Let him rest assured that whatever he feels on this point, women feel in a fully equal degree. Whatever has been said or written, from the time of Herodotus to the present, of the ennobling influence of free government&#8212;the nerve and spring which it gives to all the faculties, the larger and higher objects which it presents to the intellect and feelings, the more unselfish public spirit, and calmer and broader views of duty, that it engenders, and the generally loftier platform on which it elevates the individual as a moral, spiritual, and social being&#8212;is every particle as true of women as of men. Are these things no important part of individual happiness? Let any man call to mind what he himself felt on emerging from boyhood&#8212;from the tutelage and control of even loved and affectionate elders&#8212;and entering upon the responsibilities of manhood. Was it not like the physical effect of taking off a heavy weight, or releasing him from obstructive, even if not otherwise painful, bonds? Did he not feel twice as much alive, twice as much a human being, as before? And does he imagine that women have none of these feelings? But it is a striking fact, that the satisfactions and mortifications of personal pride, though all in all to most men when the case is their own, have less allowance made for them in the case of other people, and are less listened to as a ground or a justification of conduct, than any other natural human feelings; perhaps because men compliment them in their own case with the names of so many other qualities, that they are seldom conscious how mighty an influence these feelings exercise in their own lives. No less large and powerful is their part, we may assure ourselves, in the lives and feelings of women. Women are schooled into suppressing them in their most natural and most healthy direction, but the internal principle remains, in a different outward form. An active and energetic mind, if denied liberty, will seek for power: refused the command of itself, it will assert its personality by attempting to control others. To allow to any human beings no existence of their own but what depends on others, is giving far too high a premium on bending others to their purposes. Where liberty cannot be hoped for, and power can, power becomes the grand object of human desire; those to whom others will not leave the undisturbed management of their own affairs, will compensate themselves, if they can, by meddling for their own purposes with the affairs of others. Hence also women's passion for personal beauty, and dress and display; and all the evils that flow from it, in the way of mischievous luxury and social immorality. The love of power and the love of liberty are in eternal antagonism. Where there is least liberty, the passion for power is the most ardent and unscrupulous. The desire of power over others can only cease to be a depraving agency among mankind, when each of them individually is able to do without it: which can only be where respect for liberty in the personal concerns of each is an established principle.</p>
+<div type="file references">
+            <list>
+                           </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>
+

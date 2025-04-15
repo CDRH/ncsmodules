@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00058">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"A Rich Breech of Promise Case"</title>
+		<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+		<date type="original" value="1867">November 30, 1867</date>
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00058</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 3 of the November 30, 1867 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">A Rich Breach of Promise Case</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+November 30, 1867
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="breachofpromise" type="theme">breach of promise</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="class" type="theme">class</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>
+A RICH BREACH OF PROMISE CASE</head>
+
+	<head>
+The Story of the Fair Eleanor and the Heartless Lorenzo</head>
+
+	<head>
+ELEANOR'S WOUNDS ARE HEALED WITH $8,000 DAMAGES</head>
+
+	<head>
+A Sad Story of Love and Cruelty&#8212;Seduction and Adultery in High Life</head>
+
+            
+         <p>Augusta, Me., Nov. 25, 1867.&#8212;An occurrence has recently
+taken place in this city of which I find it my duty to keep the readers of the <hi rend="italic">National
+Police Gazette </hi>posted, since its columns are eagerly scanned in this
+vicinity for anything that is rich, rare, and racy. The item I refer to so
+much overtops all other local matters, that I hardly dare to mention anything
+else. It is comprised of a breach of promise case, which has been on trial for
+several days, but has now been finished. It has been one of the most interesting
+suits ever dragged into out Kennebec Courts, and the enormous damages which
+were claimed, together with the standing of the parties, drew an immense
+audience throughout the trial. The largest portion of the audience were of the
+crinoline sex, and some of them had hardly got out of pinafores.</p>
+
+         <p>The principals in this delicate difference of
+opinion are Miss Eleanor Lawrence and Mr. Lorenzo D. Cook. Eleanor is a
+spinster. When I say she is a spinster, I should also say a modest looking and
+by no means bad looking spinster&#8212;a spinster who has seen the snows fall and
+the grass grow for thirty-six winters and summers. A spinster who would not be
+so had it not been for the cruel fate which has decreed that others should
+enjoy the delights of the connubial state, while she should linger to an
+uncertain age, ignorant of bliss which she has doubtless dreamed of, but never
+felt. Lorenzo, the gay deceiver, the individual who aroused in Eleanor's breast
+that unquenchable fire, and in her heart burning hopes, is a man thirty-eight
+years of age. He is well to do in this world's good, a knight of the mortar
+and pestle, and has about $50,000 stowed snuggly away, from which his victim
+asked for a slice which to mend her broken heart. Both parties resided in
+Gardiner at the time that poor Eleanor was so ruthlessly deceived. </p>
+
+         <p>Eleanor Brought the action which has made this
+trial, declaring that this compounder of pills promised to wed her and nobody
+else, which promise he broke and espoused another, for which cruel and
+heartless act nothing short of $10,000 would assuage her grief and make her as
+good as new. Stamps, by the way, to heal a broken heart are often far more
+preferable to a cup of "cold pisen." In the trial, of course Eleanor was the
+important witness. In fact the promise to marry was simply a question of
+veracity between her and the faithless man whom she had so fondly, but not
+wisely loved. It was rich. She told the gushing story of her ardent passion,
+of her interviews with Lorenzo, of his many professions of affection and his
+ardent caresses, which she proved in the authority of Madame Young, a roving
+fortune teller. She told him she could have wedded two others, who are not
+apothecaries, but chose to stick to him; how many Sunday nights they had sat up
+together in sweet converse, and how many toilet articles he had seen fit to
+give her; all these tender little things she told in such a touching manner
+that from the start she won the hearts of the honest jurymen. She swore by her
+hopes of yet being a wife that once upon a time, when they were riding
+together, the faithless Lorenzo promised to wed her within a period of four
+years, which although her heart burned for a speedier consummation, she said
+was satisfactory. What joy thrilled her bosom then! They were engaged, she and
+her darling little son of Esculapeus. True love never runs smoothly, and at
+various times they had their sweet little lovers' quarrels, particularly when
+he danced and flirted with other girls, but those little ruffles were soon
+smoothed down, and no harm took place.</p>
+
+         <p>Whispers were floating in the air that Lorenzo
+was untrue, and that his love was going from herself to other idols. She could
+not believe herself at first, but finally the fearful truth burst upon her that
+he was engaged to the lady who is now the partner of his joys, and who,
+undoubtedly, does not much love Eleanor. At a public festival this alarming
+truth was disclosed to Eleanor's bewildered brain. She satisfied herself,
+beyond a doubt, that Lorenzo had gone back on her, and then consulted a
+lawyer. Revenge was sweet and stamps were sweeter, and Lorenzo must play or
+pay. Such was the story of her wrongs from her own sweet lips, in her artless and impressive manner. </p>
+
+         <p>Lorenzo denied the soft impeachment. The idea
+of marrying the maiden never entered his head, for he was not in that line of
+business, when he called upon her, and so he told her once when she asked him
+if he intended to lead her to the altar. His conduct toward her was the same
+that it had been towards a score of other female acquaintances, and not a few
+of such beauties he had upon a string, if we may judge by what he said; but
+that he was a suitor, never!</p>
+
+         <p>A host of witnesses were put upon the stand, and
+several sweet scented notes of chops and tomato-sauce order were introduced,
+purporting to have been written by Lorenzo. His witnesses were browbeaten,
+quizzed, and bullyragged to the crimson blush, and Gen. Shepley, his counsel,
+talked hard to save Lorenzo, but it was no go, and the jury brought in a
+verdict of damages for Eleanor to the tune of $8,000. The amount was something
+of a rib-roaster for interested parties, and made them look aghast. Exceptions
+have been taken, and the case goes up to the Supreme Court.</p>
+
+        
+      </body>
+   </text>
+</TEI.2>

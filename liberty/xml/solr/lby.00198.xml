@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00198</field>
+      <field name="title">"Tante Voss mit dem Besen" ("Aunt Voss with the Broom")</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">german</field>
+      <field name="topic">rev1848</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00070">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Adam Bede</hi>
+
+</title>
+		<title level="c" type="chapter">from Chapter 30, "The Delivery of the Letter"</title>
+		<date type="original" value="1859">1859</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Eliot">George Eliot</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00070</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of George Eliot's <hi rend="italic">Adam Bede</hi>, Chapter 30, "The Delivery of the Letter."  Originally published in 1859."
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Delivery of the Letter</title>
+               <title level="m"><hi rend="italic">Adam Bede</hi></title>
+               <author>George Eliot</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="wild" type="setting">wild</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="breachofpromise" type="theme">breach of promise</term>
+			<term id="premaritalsex" type="theme">premarital sex</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+<head type="editorial">Scene Three: Adam and Hetty in the Orchard</head>
+
+
+<p>It did not seem at all surprising that Adam said he would go too,
+and soon he and Hetty were left alone together on the walk by the
+filbert-trees, while the boys were busy elsewhere gathering the
+large unripe nuts to play at "cob-nut" with, and Totty was
+watching them with a puppylike air of contemplation. It was but a
+short time&#8212;hardly two months&#8212;since Adam had had his mind filled
+with delicious hopes as he stood by Hetty's side in this garden. 
+The remembrance of that scene had often been with him since
+Thursday evening: the sunlight through the apple-tree boughs, the
+red bunches, Hetty's sweet blush. It came importunately now, on
+this sad evening, with the low-hanging clouds, but he tried to
+suppress it, lest some emotion should impel him to say more than
+was needful for Hetty's sake.</p>
+
+<p>"After what I saw on Thursday night, Hetty," he began, "you won't
+think me making too free in what I'm going to say. If you was
+being courted by any man as 'ud make you his wife, and I'd known
+you was fond of him and meant to have him, I should have no right
+to speak a word to you about it; but when I see you're being made
+love to by a gentleman as can never marry you, and doesna think o'
+marrying you, I feel bound t' interfere for you. I can't speak
+about it to them as are i' the place o' your parents, for that
+might bring worse trouble than's needful."</p>
+
+<p>Adam's words relieved one of Hetty's fears, but they also carried
+a meaning which sickened her with a strengthened foreboding. She
+was pale and trembling, and yet she would have angrily
+contradicted Adam, if she had dared to betray her feelings. But
+she was silent.</p>
+
+<p>"You're so young, you know, Hetty," he went on, almost tenderly,
+"and y' haven't seen much o' what goes on in the world. It's
+right for me to do what I can to save you from getting into
+trouble for want o' your knowing where you're being led to. If
+anybody besides me knew what I know about your meeting a gentleman
+and having fine presents from him, they'd speak light on you, and
+you'd lose your character. And besides that, you'll have to
+suffer in your feelings, wi' giving your love to a man as can
+never marry you, so as he might take care of you all your life."</p>
+
+<p>Adam paused and looked at Hetty, who was plucking the leaves from
+the filbert-trees and tearing them up in her hand. Her little
+plans and preconcerted speeches had all forsaken her, like an ill-learnt lesson, under the terrible agitation produced by Adam's
+words. There was a cruel force in their calm certainty which
+threatened to grapple and crush her flimsy hopes and fancies. She
+wanted to resist them&#8212;she wanted to throw them off with angry
+contradiction&#8212;but the determination to conceal what she felt
+still governed her. It was nothing more than a blind prompting
+now, for she was unable to calculate the effect of her words.</p>
+
+<p>"You've no right to say as I love him," she said, faintly, but
+impetuously, plucking another rough leaf and tearing it up. She
+was very beautiful in her paleness and agitation, with her dark
+childish eyes dilated and her breath shorter than usual. Adam's
+heart yearned over her as he looked at her. Ah, if he could but
+comfort her, and soothe her, and save her from this pain; if he
+had but some sort of strength that would enable him to rescue her
+poor troubled mind, as he would have rescued her body in the face
+of all danger!</p>
+
+<p>"I doubt it must be so, Hetty," he said, tenderly; "for I canna
+believe you'd let any man kiss you by yourselves, and give you a
+gold box with his hair, and go a-walking i' the Grove to meet him,
+if you didna love him. I'm not blaming you, for I know it 'ud
+begin by little and little, till at last you'd not be able to
+throw it off. It's him I blame for stealing your love i' that
+way, when he knew he could never make you the right amends. He's
+been trifling with you, and making a plaything of you, and caring
+nothing about you as a man ought to care."</p>
+
+<p>"Yes, he does care for me; I know better nor you," Hetty burst
+out. Everything was forgotten but the pain and anger she felt at
+Adam's words.</p>
+
+<p>"Nay, Hetty," said Adam, "if he'd cared for you rightly, he'd
+never ha' behaved so. He told me himself he meant nothing by his
+kissing and presents, and he wanted to make me believe as you
+thought light of 'em too. But I know better nor that. I can't
+help thinking as you've been trusting to his loving you well
+enough to marry you, for all he's a gentleman. And that's why I
+must speak to you about it, Hetty, for fear you should be
+deceiving yourself. It's never entered his head the thought o'
+marrying you."</p>
+
+<p>"How do you know? How durst you say so?" said Hetty, pausing in
+her walk and trembling. The terrible decision of Adam's tone
+shook her with fear. She had no presence of mind left for the
+reflection that Arthur would have his reasons for not telling the
+truth to Adam. Her words and look were enough to determine Adam:
+he must give her the letter.</p>
+
+<p>"Perhaps you can't believe me, Hetty, because you think too well
+of him&#8212;because you think he loves you better than he does. But
+I've got a letter i' my pocket, as he wrote himself for me to give
+you. I've not read the letter, but he says he's told you the
+truth in it. But before I give you the letter, consider, Hetty,
+and don't let it take too much hold on you. It wouldna ha' been
+good for you if he'd wanted to do such a mad thing as marry you:
+it 'ud ha' led to no happiness i' th' end."</p>
+
+<p>Hetty said nothing; she felt a revival of hope at the mention of a
+letter which Adam had not read. There would be something quite
+different in it from what he thought.</p>
+
+<p>Adam took out the letter, but he held it in his hand still, while
+he said, in a tone of tender entreaty, "Don't you bear me ill
+will, Hetty, because I'm the means o' bringing you this pain. God
+knows I'd ha' borne a good deal worse for the sake o' sparing it
+you. And think&#8212;there's nobody but me knows about this, and I'll
+take care of you as if I was your brother. You're the same as
+ever to me, for I don't believe you've done any wrong knowingly."</p>
+
+<p>Hetty had laid her hand on the letter, but Adam did not loose it
+till he had done speaking. She took no notice of what he said&#8212;
+she had not listened; but when he loosed the letter, she put it
+into her pocket, without opening it, and then began to walk more
+quickly, as if she wanted to go in.</p>
+
+<p>"You're in the right not to read it just yet," said Adam. "Read
+it when you're by yourself. But stay out a little bit longer, and
+let us call the children: you look so white and ill, your aunt may
+take notice of it."</p>
+
+
+<p>Hetty heard the warning. It recalled to her the necessity of
+rallying her native powers of concealment, which had half given
+way under the shock of Adam's words. And she had the letter in
+her pocket: she was sure there was comfort in that letter in spite
+of Adam. </p>
+
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00069" type="same novel"/></item>
+			<item><xptr n="ls.00035" type="same novel"/></item>
+              	<item><xptr n="ls.00071" type="same novel"/></item>
+			<item><xptr n="ls.00036" type="same author"/></item>
+			<item><xptr n="ls.00072" type="same author"/></item>
+<item><xptr n="ls.00083" type="commentary on same author"/></item> 
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00069">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">The Progress of Liberty</hi></title>
+            <date type="original" value="1801">1801</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Robinson">Mary Robinson</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00069</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 1, 30-31, and 52 of the 1996 Routledge reprint edition of the original 1806 edition of <hi rend="italic">The Poetical Works of the Late Mrs. Mary Robinson</hi>.  <hi rend="italic">The Progress of Liberty</hi> first appeared in 1801.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a"><hi rend="italic">The Progress of Liberty</hi></title>
+               <title level="m"><hi rend="italic">The Poetical Works of the Late Mrs. Mary Robinson</hi></title>
+               <author>Mary Robinson</author>
+               <imprint>
+                  <publisher>Routledge</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1996
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+            <term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="dissenting" type="topic">dissenting</term>
+<term id="emancipation" type="topic">emancipation</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-07-13">13 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<lg type="poem">
+	<l>HAIL, LIBERTY SUBLIME! hail godlike pow'r,</l>
+	<l>Co&#235;val with the skies, to earth new born;</l>
+	<l>Thou parent of delight, thou source refin'd</l>
+	<l>Of human energy!  Thou fountain vast</l>
+	<l>From whose immortal stream the soul of man</l>
+	<l>Imbibes celestial fervour!  But for thee,</l>
+	<l>O! best and noblest attribute of God!</l>
+	<l>Who would the coil endure of mortal woe,</l>
+	<l>The frowns of fortune, or the taunts of pride</l>
+	<l>Float with the gale, or buffet with the storm;</l>
+	<l>Who labour thro' the busy dream of time,</l>
+	<l>War with oppression, or resist the base;</l>
+	<l>Opposing ever, and by each oppos'd,</l>
+	<l>To count succeeding conflicts; and to die?</l>
+	<l>Hail, LIBERTY! legitimate of Heav'n!</l>
+	</lg>
+	</div>
+	<div>
+	<lg type="poem">
+	<l>Shall the poor AFRICAN, the passive slave,</l>
+	<l>Born in the bland effulgence of broad day,</l>
+	<l>Cherish'd by torrid splendours, while around</l>
+	<l>The plains prolific teem with honey'd stores</l>
+	<l>Of Afric's burning soil; shall such a wretch</l>
+	<l>Sink prematurely to a grave obscure,</l>
+	<l>No tear to grace his ashes?  Or suspire,</l>
+	<l>To wear submission's long and goading chain,</l>
+	<l>To drink the tear, that down his swarthy cheek</l>
+	<l>Flows fast, to moisten his toil-fever'd lip,</l>
+	<l>Parch'd by the noontide blaze?  Shall he endure</l>
+	<l>The frequent lash, the agonizing scourge,</l>
+	<l>The day of labour, and the night of pain;</l>
+	<l>Expose his naked limbs to burning gales;</l>
+	<l>Faint in the sun, and wither in the storm;</l>
+	<l>Traverse hot sands, imbibe the morbid breeze,</l>
+	<l>Wing'd with contagion, while his blister'd feet,</l>
+	<l>Scorch'd by the vertical and raging beam,</l>
+	<l>Pour the swift life-stream?  Shall his frenzied eyes,</l>
+	<l>Oh! worst of mortal miseries! behold</l>
+	<l>The darling of his soul, his sable love,</l>
+	<l>Selected from the trembling, timid throng</l>
+	<l>By the wan tyrant, whose licentious touch</l>
+	<l>Seals the dark fiat of the slave's despair!</l>
+	<l>Humanity! from thee the suppliant claims</l>
+	<l>The meed of retribution!  Thy pure flame</l>
+	<l>Would light the sense opake, and warm the spring</l>
+	<l>Of boundless ecstacy; while NATURE'S laws</l>
+	<l>So violated, plead, immortal-tongu'd,</l>
+	<l>For her dark-fated children; lead them forth</l>
+	<l>From bondage infamous!  Bid reason own</l>
+	<l>The dignities of MAN, whate'er his clime,</l>
+	<l>Estate, or colour.  And, O! sacred TRUTH!</l>
+	<l>Tell the proud lords of traffic, that the breast</l>
+	<l>Thrice ebon-tinted, bears a crimson tide,</l>
+	<l>As pure, as clear as Europe's sons can boast.</l>
+	<l>Then, LIBERTY, extend thy thund'ring voice</l>
+	<l>To Afric's scorching climes, o'er seas that bound</l>
+	<l>To bear the blissful tidings, while all earth</l>
+	<l>Shall hail HUMANITY!  THE CHILD OF HEAV'N!</l>
+	</lg>
+	</div>
+	<div>
+	<lg type="poem">
+	<l>....REASON, pow'r sublime!</l>
+	<l>Accept the strain spontaneous from the MUSE,</l>
+	<l>Which nurs'd on Albion's cliffs, delights to sing</l>
+	<l>Of LIBERTY, and thee, her ALBION'S boast.</l>
+	<l>And tho' no flight sublime shall grace her toil,</l>
+	<l>No <hi rend="italic">classic</hi> lore expand her thinking mind,</l>
+	<l>Prophetic inspiration, rapt, shall pour</l>
+	<l>This mystic oracle.  The pendent globe</l>
+	<l>Shall greet, with p&#230;ans loud, the sacred claim</l>	
+	<l>To Britain's sons, by REASON ratified;</l>
+	<l>And when the God of nature, "trumpet-tongu'd,"</l>
+	<l>Shall check the fiery steeds that hurl the car</l>
+	<l>Of shouting vict'ry, time shall trace her course</l>
+	<l>On the proud tablet of eternal fame;</l>
+	<l>And nature, tow'ring 'mid the wrecks of war,</l>
+	<l>Shall bless her BRITISH shores, which grandly lift</l>
+	<l>Their rocky bulwarks o'er the howling main,</l>
+	<l>Firm and invincible, as BRITAIN'S sons,</l>
+	<l>The sons of REASON!  UNAPPALL'D and FREE!</l>
+	</lg>
+	</div>
+	      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00081">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Centenarian's Story"</title>
+<date type="original" value="1865">1865</date>
+
+            <title level="m" type="sub">electronic edition</title>
+<author name="Whitman">Walt Whitman
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00081</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Walt Whitman's <hi rend="italic">Drum Taps</hi>.  Originally published in 1865.              
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Centenarian's Story</title>
+               <title level="m">Drum Taps</title>
+               <author>Walt Whitman</author>
+               <imprint>
+                  <publisher>Project Gutenberg
+
+</publisher>
+                  <pubPlace>www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>2005
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="civilwar" type="topic">Civil War</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	  <change>
+  <date value="2005-11-05">05 November 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>coding</item>
+</change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head type="main">The Centenarian's Story</head>
+
+  <head><hi rend="italic">Volunteer of 1861-2, (at Washington Park, Brooklyn, assisting the Centenarian.</hi></head>
+	<div>
+	<lg type="stanza">
+  <l>Give me your hand old Revolutionary,</l>
+  <l>The hill-top is nigh, but a few steps, (make room gentlemen,)</l>
+  <l>Up the path you have follow'd me well, spite of your hundred and
+            extra years,</l>
+  <l>You can walk old man, though your eyes are almost done,</l>
+  <l>Your faculties serve you, and presently I must have them serve me.</l>
+  <l>Rest, while I tell what the crowd around us means,</l>
+  <l>On the plain below recruits are drilling and exercising,</l>
+  <l>There is the camp, one regiment departs to-morrow,</l>
+  <l>Do you hear the officers giving their orders?</l>
+  <l>Do you hear the clank of the muskets?</l>
+	</lg>
+	<lg type="stanza">
+  <l>Why what comes over you now old man?</l>
+  <l>Why do you tremble and clutch my hand so convulsively?</l>
+  <l>The troops are but drilling, they are yet surrounded with smiles.</l>
+  <l>Around them at hand the well-drest friends and the women,</l>
+  <l>While splendid and warm the afternoon sun shines down,</l>
+  <l>Green the midsummer verdure and fresh blows the dallying breeze,</l>
+  <l>O'er proud and peaceful cities and arm of the sea between.</l>
+  <l>But drill and parade are over, they march back to quarters,</l>
+  <l>Only hear that approval of hands! hear what a clapping!</l>
+		</lg>
+	<lg type="stanza">
+  <l>As wending the crowds now part and disperse&#8212;but we old man,</l>
+  <l>Not for nothing have I brought you hither&#8212;we must remain,</l>
+  <l>You to speak in your turn, and I to listen and tell.</l>
+	</lg>
+	</div>
+  <div>
+	<head><hi rend="italic">The Centenarian.</hi></head>
+	
+<lg type="stanza">
+  <l>When I clutch'd your hand it was not with terror,</l>
+  <l>But suddenly pouring about me here on every side,</l>
+  <l>And below there where the boys were drilling, and up the slopes they
+            ran,</l>
+  <l>And where tents are pitch'd, and wherever you see south and
+            south-east and south-west,</l>
+  <l>Over hills, across lowlands, and in the skirts of woods,</l>
+  <l>And along the shores, in mire (now fill'd over) came again and
+            suddenly raged,</l>
+  <l>As eighty-five years a-gone no mere parade receiv'd with applause of
+            friends,</l>
+  <l>But a battle which I took part in myself&#8212;aye, long ago as it is I
+            took part in it,</l>
+  <l>Walking then this hill-top, this same ground.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>Aye, this is the ground,</l>
+  <l>My blind eyes even as I speak behold it re-peopled from graves,</l>
+  <l>The years recede, pavements and stately houses disappear,</l>
+  <l>Rude forts appear again, the old hoop'd guns are mounted,</l>
+  <l>I see the lines of rais'd earth stretching from river to bay,</l>
+  <l>I mark the vista of waters, I mark the uplands and slopes;</l>
+  <l>Here we lay encamp'd, it was this time in summer also.</l>
+	</lg>
+
+<lg type="stanza">
+  <l>As I talk I remember all, I remember the Declaration,</l>
+  <l>It was read here, the whole army paraded, it was read to us here,</l>
+  <l>By his staff surrounded the General stood in the middle, he held up
+            his unsheath'd sword,</l>
+  <l>It glitter'd in the sun in full sight of the army.</l>
+	</lg>
+
+<lg type="stanza">
+  <l>'Twas a bold act then&#8212;the English war-ships had just arrived,</l>
+  <l>We could watch down the lower bay where they lay at anchor,</l>
+  <l>And the transports swarming with soldiers.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>A few days more and they landed, and then the battle.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>Twenty thousand were brought against us,</l>
+  <l>A veteran force furnish'd with good artillery.</l>
+  <l>I tell not now the whole of the battle,</l>
+  <l>But one brigade early in the forenoon order'd forward to engage the
+            red-coats,</l>
+  <l>Of that brigade I tell, and how steadily it march'd,</l>
+  <l>And how long and well it stood confronting death.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>Who do you think that was marching steadily sternly confronting
+            death?</l>
+  <l>It was the brigade of the youngest men, two thousand strong,</l>
+  <l>Raised in Virginia and Maryland, and most of them known personally to
+            the General.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>Jauntily forward they went with quick step toward Gowanus' waters,</l>
+  <l>Till of a sudden unlook'd for by defiles through the woods, gain'd at
+            night,</l>
+  <l>The British advancing, rounding in from the east, fiercely playing
+            their guns,</l>
+  <l>That brigade of the youngest was cut off and at the enemy's mercy.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>The General watch'd them from this hill,</l>
+  <l>They made repeated desperate attempts to burst their environment,</l>
+  <l>They drew close together, very compact, their flag flying in the
+            middle,</l>
+  <l>But O from the hills how the cannon were thinning and thinning them!</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>It sickens me yet, that slaughter!</l>
+  <l>I saw the moisture gather in drops on the face of the General.</l>
+  <l>I saw how he wrung his hands in anguish.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>Meanwhile the British manoeuvr'd to draw us out for a pitch'd battle,</l>
+  <l>But we dared not trust the chances of a pitch'd battle.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>We fought the fight in detachments.</l>
+  <l>Sallying forth we fought at several points, but in each the luck was
+            against us,</l>
+  <l>Our foe advancing, steadily getting the best of it, push'd us back to
+            the works on this hill,</l>
+  <l>Till we turn'd menacing here, and then he left us.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>That was the going out of the brigade of the youngest men, two
+            thousand strong,</l>
+  <l>Few return'd, nearly all remain in Brooklyn.</l>
+  <l>That and here my General's first battle,</l>
+  <l>No women looking on nor sunshine to bask in, it did not conclude with
+            applause,</l>
+  <l>Nobody clapp'd hands here then.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>But in darkness in mist on the ground under a chill rain,</l>
+  <l>Wearied that night we lay foil'd and sullen,</l>
+  <l>While scornfully laugh'd many an arrogant lord oft' against us
+            encamp'd,</l>
+  <l>Quite within hearing, feasting, clinking wineglasses together over
+            their victory.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>So dull and damp and another day,</l>
+  <l>But the night of that, mist lifting, rain ceasing,</l>
+  <l>Silent as a ghost while they thought they were sure of him, my
+            General retreated.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>I saw him at the river-side,</l>
+  <l>Down by the ferry lit by torches, hastening the embarcation;</l>
+  <l>My General waited till the soldiers and wounded were all pass'd over,</l>
+  <l>And then, (it was just ere sunrise,) these eyes rested on him for the
+            last time.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>Every one else seem'd fill'd with gloom,</l>
+  <l>Many no doubt thought of capitulation.</l>
+	</lg>
+
+	<lg type="stanza">
+  <l>But when my General pass'd me,</l>
+  <l>As he stood in his boat and look'd toward the coming sun,</l>
+  <l>I saw something different from capitulation.</l>
+	</lg></div>
+	<div>
+  <head><hi rend="italic">Terminus.</hi></head>
+	
+	<lg type="stanza">
+  <l>Enough, the Centenarian's story ends,</l>
+  <l>The two, the past and present, have interchanged,</l>
+  <l>I myself as connecter, as chansonnier of a great future, am now
+            speaking.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>And is this the ground Washington trod?</l>
+  <l>And these waters I listlessly daily cross, are these the waters he
+            cross'd,</l>
+  <l>As resolute in defeat as other generals in their proudest triumphs?</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>I must copy the story, and send it eastward and westward,</l>
+  <l>I must preserve that look as it beam'd on you rivers of Brooklyn.</l>
+		</lg>
+
+	<lg type="stanza">
+  <l>See&#8212;as the annual round returns the phantoms return,</l>
+  <l>It is the 27th of August and the British have landed,</l>
+  <l>The battle begins and goes against us, behold through the smoke
+            Washington's face,</l>
+  <l>The brigade of Virginia and Maryland have march'd forth to intercept
+            the enemy,</l>
+  <l>They are cut off, murderous artillery from the hills plays upon them,</l>
+  <l>Rank after rank falls, while over them silently droops the flag,</l>
+  <l>Baptized that day in many a young man's bloody wounds,</l>
+  <l>In death, defeat, and sisters', mothers' tears.</l>
+		</lg>
+
+		<lg type="stanza">
+  <l>Ah, hills and slopes of Brooklyn! I perceive you are more valuable
+            than your owners supposed;</l>
+  <l>In the midst of you stands an encampment very old,</l>
+  <l>Stands forever the camp of that dead brigade.</l>
+		</lg></div>
+<div type="file references">
+            <list><item><xptr n="lby.00080" type="same author"/>
+		</item>
+                           </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>
+
+

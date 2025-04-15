@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00011">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Lost Illusions</hi>
+
+</title>
+          <title level="c" type="chapter"></title>
+<date type="original" value="1837">1837</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Balzac">Honor&#233; Balzac
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00011</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Honor&#233; Balzac's <hi rend="italic">Lost Illusions</hi>.  Originally published in 1837.  Translation by Ellen Marriage, 1901.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a"></title>
+               <title level="m"><hi rend="italic">Lost Illusions</hi></title>
+               <author>Honor&#233; Balzac</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+2004
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="fiction" type="genre">fiction</term>
+<term id="french" type="place">French</term>
+<term id="rev1830" type="topic">1830 Revolutions</term>
+<term id="dissenting" type="topic">Dissenting Voices</term>
+<term id="liberalism" type="topic">Liberalism</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+
+<change>
+            <date value="2005-06-02">02 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>"The sonnet, monsieur," said he, "is one of the most difficult forms
+of poetry. It has fallen almost entirely into disuse. No Frenchman can
+hope to rival Petrarch; for the language in which the Italian wrote,
+being so infinitely more pliant than French, lends itself to play of
+thought which our positivism (pardon the use of the expression)
+rejects. So it seemed to me that a volume of sonnets would be
+something quite new. Victor Hugo has appropriated the old, Canalis
+writes lighter verse, Beranger has monopolized songs, Casimir
+Delavigne has taken tragedy, and Lamartine the poetry of meditation."</p>
+
+<p>"Are you a 'Classic' or a 'Romantic'?" inquired Lousteau.</p>
+
+<p>Lucien's astonishment betrayed such complete ignorance of the state of
+affairs in the republic of letters, that Lousteau thought it necessary
+to enlighten him.</p>
+
+<p>"You have come up in the middle of a pitched battle, my dear fellow;
+you must make your decision at once. Literature is divided, in the
+first place, into several zones, but our great men are ranged in two
+hostile camps. The Royalists are 'Romantics,' the Liberals are
+'Classics.' The divergence of taste in matters literary and divergence
+of political opinion coincide; and the result is a war with weapons of
+every sort, double-edged witticisms, subtle calumnies and nicknames <hi rend="italic">a
+outrance</hi>, between the rising and the waning glory, and ink is shed in
+torrents. The odd part of it is that the Royalist-Romantics are all
+for liberty in literature, and for repealing laws and conventions;
+while the Liberal-Classics are for maintaining the unities, the
+Alexandrine, and the classical theme. So opinions in politics on
+either side are directly at variance with literary taste. If you are
+eclectic, you will have no one for you. Which side do you take?"</p>
+
+<p>"Which is the winning side?"</p>
+
+<p>"The Liberal newspapers have far more subscribers than the Royalist
+and Ministerial journals; still, though Canalis is for Church and
+King, and patronized by the Court and the clergy, he reaches other
+readers.  Pshaw! sonnets date back to an epoch before Boileau's time,"
+said Etienne, seeing Lucien's dismay at the prospect of choosing
+between two banners. "Be a Romantic. The Romantics are young men, and
+the Classics are pedants; the Romantics will gain the day."</p>
+
+<p>The word "pedant" was the latest epithet taken up by Romantic
+journalism to heap confusion on the Classical faction.</p>
+
+
+      </body>
+   </text>
+</TEI.2>

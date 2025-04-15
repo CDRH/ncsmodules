@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00065">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "The Emancipation Proclamation"</title>
+           <title level="m" type="monograph"><hi rend="italic">Miscellanies</hi></title>
+<date type="original" value="1862">1862</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Emerson">Ralph Waldo Emerson</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00065</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 293-294 of the 1878 Houghton Mifflin edition of Ralph Waldo Emerson's <hi rend="italic">Miscellanies</hi>.  The address was first delivered in Boston in September, 1862. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"The Emancipation Proclomation: An Address Delivered in Boston in September, 1862"</title>
+               <title level="m"><hi rend="italic">Miscellanies</hi></title>
+               <author>Ralph Waldo Emerson</author>
+               <imprint>
+                  <publisher>Houghton Mifflin</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="lincoln" type="topic">Lincoln</term>
+<term id="civilwar" type="topic">Civil War</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-21">21 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>In so many arid forms which States incrust themselves with, once in a century, if so often, a poetic act and record occur.  These are the jets of thought into affairs, when, roused by danger or inspired by genius, the political leaders of the day break the else insurmountable routine of class and local legislation, and take a step forward in the direction of catholic and universal interests.  Every step in the history of political liberty is a sally of the human mind into the untried Future, and has the interest of genius, and is fruitful in heroic anecdotes.  Liberty is a slow fruit.  It comes, like religion, for short periods, and in rare conditions, as if awaiting a culture of the race which shall make it organic and permanent.  Such moments of expansion in modern history were the Confession of Augsburg, the plantation of America, the English Commonwealth of 1648, the Declaration of American Independence in 1776, the British emancipation of slaves in the West Indies, the passage of the Reform Bill, the repeal of the Corn-Laws, the Magnetic Ocean-Telegraph, though yet imperfect, the passage of the Homestead Bill in the last Congress, and now, eminently, President Lincoln's Proclamation on the twenty-second of September.  These are acts of great scope, working on a long future and on permanent interests, and honoring alike those who initiate and those who receive them.  These measures provoke no noisy joy, but are received into a sympathy so deep as to apprise us that mankind are greater and better than we know.  At such times it appears as if a new public were created to greet the new event.  It is as when an orator, having ended the compliments and pleasantries with which he conciliated attention, and having run over the superficial fitness and commodities of the measure he urges, suddenly, lending himself to some happy inspiration, announces with vibrating voice the grand human principles involved;&#8212;the bravos and wits who greeted him loudly thus far are surprised and overawed; a new audience is found in the heart of the assembly,&#8212;an audience hitherto passive and unconcerned, now at last so searched and kindled that they come forward, every one a representative of mankind, standing for all nationalities.</p>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00026" type="commentary on history"/>	      
+		<xptr n="lby.00037" type="same subject"/>
+		<xptr n="lby.00107" type="same subject"/>
+		
+		<xptr n="lby.00167" type="same subject"/>
+
+				</item>
+		</list>
+</div>
+
+	      </body>
+   </text>
+</TEI.2>

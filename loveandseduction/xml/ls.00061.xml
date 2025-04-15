@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00061">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Temptation</hi></title>
+		<title level="c" type="chapter">from Chapter XL</title>
+<title level="j" type="journal"><hi rend="italic">London Journal</hi></title>
+<date type="original" value="1854">1854</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Smith">John Frederick Smith</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00061</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+This Excerpt from John Frederick Smith's <hi rend="italic">Temptation</hi>is transcribed from pages 241-242 of the December 23, 1854 issue of <hi rend="italic">The London Journal</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Chapter XL</title>
+               <title level="m">Temptation</title>
+               <author>John Frederick Smith</author>
+               <imprint>
+                  <publisher>
+London Journal
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+December 23, 1854
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="piano" type="setting">piano</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="arrangedmarriage" type="theme">arranged marriage</term>
+			<term id="british" type="place">British</term>
+		<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <p>When Miss Wyndham heard the result of the visit
+which was to have introduced a rival in the heart of the heiress, her
+satisfaction nearly betrayed itself: not in words &#8212; the cold, calculating girl
+was far too cautious for that; but in the sudden flash of her eye and the
+scarcely suppressed smile upon her lips.</p>
+         <p>From the first hour of her entering the house of
+Miss Mendez, she had resolved to inherit her vast fortune &#8212; and circumstances
+second to favour her design.</p>
+         <p>"She must love some one!" she argued. "The
+heart cannot exist in solitude forever! A little patience and hypocrisy, and
+the golden prize will be mine!"</p>
+         <p>With this resolution, she devoted herself more
+assiduously than ever to win the confidence and regard which, by a singular
+perversity, as she considered it, appeared to retreat from her advances.</p>
+         <p>As for Clement Foster, with the natural
+gallantry of his age, he often indulged in unmeaning speeches and attentions,
+which the young lady flattered herself might ripen in time to a more serious
+attachment; but with all her art, she had hitherto failed in drawing from him
+an explicit declaration. He resembled the butterfly, which hovers round the
+flower without alighting on its stem. The youth was pleased with her beauty,
+her fascinating manners, and accomplishments &#8212; loved to hear her sing &#8212; to
+walk, to ride, to flirt with her; whilst his heart sill remained untouched &#8212;
+its voice had not spoken yet. Miss Wyndham called him cold. She little knew
+the depth of passion and devotion which nature had concealed within his
+breast. At times she compared it to a rock &#8212; but it was the rock of Hebron: once struck, the hidden streams of sympathy and affection would gush forth.</p>
+         <p>When we first introduced the youth to the
+acquaintance of our readers, we observed that his father had a strong desire
+that he should follow his own profession &#8212; the law: we say desire &#8212; for it was
+out of his power to control him: a maiden aunt &#8212; blessings on all such &#8212; they
+are the providence of most young men &#8212; had left him a fortune of twenty
+thousand pounds, of which he was to be the absolute master on reaching the age
+of twenty-one. Clement knew this &#8212; but, to do him justice, he never presumed
+upon it. So strong was his affection for his parent, that, despite his
+repugnance for the career marked out for him, he devoted himself with
+praiseworthy resignation to mastering the intricacies of conveyancing; and even
+Mr. Griffiths confessed that, considering his age, he had a pretty notion of
+Chancery practice. The lawyer was delighted; but the heart of the father
+watched the struggle between duty and inclination with solicitude and fear. Whenever he fancied that the cheek of Clement looked unusually pale, he bade
+him close his books and take a week's or fortnight's holiday in the country &#8212; a
+permission which his son eagerly seized: and hence his repeated visits to
+Brierly Grange &#8212; visits which the return of Martha to London had now put an end
+to.</p>
+         <p>"Clem will never make a lawyer!" observed the
+lady to Mr. Foster &#8212; who, with his son, had been dining with her in Harley Street.</p>
+         <p>"And why not?" said the gentleman, with a
+nervous smile.</p>
+         <p>"He has no vocation for the profession."</p>
+         <p>"It will come with time!"</p>
+         <p>"Resignation, or apathy, possibly!" replied his
+client; "but never that ardour which can alone secure success in an honourable
+pursuit! Poor boy!" she continued; "his heart is consuming itself! I cannot
+bear to see it! Do not be angry; but my regard, my gratitude compels me to
+speak!"</p>
+         <p>"He studies hard!" observed her guest, determined not to be convinced.</p>
+         <p> "To please his father!" answered Martha. "Come, Mr. Foster, be reasonable!" she added; "you know how deeply I have been indebted, on more than one occasion, to your son &#8212; that I owe my very life to his courage and gallantry! Remember that his happiness is at stake: from boyhood his heart and mind have been fixed upon the army!"</p>
+         <p>"And who is to succeed me in my office?" demanded the old man, sharply.</p>
+         <p>"Not Clement, Mr. Foster!" replied his client; "whilst you live it is possible &#8212; nay, I think probable &#8212; for he loves you
+dearly &#8212; that he will sacrifice himself to please you; but once master of his destiny, he will use his liberty! You know how much I esteem him! I am rich &#8212; fearfully rich!" she added; "if any pecuniary motive &#8212;"</p>
+         <p>The lawyer moved uneasily upon his chair.</p>
+         <p>"Do not speak of it!" he said; "pray do not speak of it! Money! I thought you knew me better than to suppose that it could influence me! Besides, Clem, on reaching the age of one-and-twenty &#8212; thanks to the weakness of a foolish old aunt &#8212; will be perfectly independent of his father!"</p>
+         <p>"Does he know this?" said the lady.</p>
+         <p>"Yes!"</p>
+         <p>"Then his conduct is even more noble than I imagined: for the sacrifice is more complete!"</p>
+         <p>"Sacrifice!" repeated Mr. Foster. "I really cannot &#8212;"</p>
+         <p>"Do not quarrel with me!" interrupted the lady; "You and he are my only friends, and I cannot afford to lose either of you! You must have observed &#8212; for you are his father &#8212; how thin and pale he is getting, and the almost painfully anxious expression of his once cheerful countenance!"</p>
+         <p>"I have observed them!" replied the gentleman.</p>
+         <p>"This law is killing him!"</p>
+         <p>The gentleman smiled incredulously.</p>
+         <p>"Not the law," he said; "but that which has upset the philosophy of older heads than his &#8212; love!"</p>
+         <p>It was now Miss Mendez's turn to look astonished. Clement Foster had been so frequently her guest &#8212; so domesticated with her &#8212; she had taken such an interest in studying his character and
+inclinations &#8212; fancied so many projects respecting him &#8212; that the feeling she experienced on hearing his father assert that he was in love was as nearly allied to disappointment as to surprise.</p>
+         <p>"In love!" she repeated; "why he is but a boy!"</p>
+         <p>"There are very few boys of seventeen in the world now!" observed the old gentleman, gravely; "there were such things in my time; but that is classed with the deluge and the heathen mythology! Is it possible you have not observed it?"</p>
+         <p>"Very possible!"</p>
+         <p>"Listen!" said the lawyer.</p>
+         <p>During the conversation, which had taken place in the front drawing-room, Clement and Miss Wyndham had been amusing themselves at the piano, in the apartment which communicated with it. The lady had just commenced a romance, and her companion was turning over the leaves of her music-book.</p>
+         <p>"His anxiety arises from the fear of my disapproval of his choice," continued the speaker; "and not, as you suppose,
+from distaste to the law! It is not exactly the match I should have selected;" he added, "but she is the daughter of an old friend! Clem loves her: I shall speak to him on the subject, and set his mind at rest!"</p>
+         <p>"It is possible," thought Martha &#8212; whose mind, for some reason best known to herself, felt considerably relieved by the
+explanation "that this man of the world &#8212; this shrewd, far-seeing lawyer, who
+has studied character all his life &#8212; should be so completely deceived?"</p>
+         <p>Perhaps it was that he had only studied the
+characters of those he came in contact with, and not their hearts.</p>
+         <p>"You are wrong!" she said; "positively wrong! Your son feels no love for Miss Wyndham, unless it be a brother's love; and, unless you persuade him that he does, never will!"</p>
+         <p>"Look at them!"</p>
+         <p>"He is fond of music!"</p>
+         <p>"See how animated he is!"</p>
+         <p>"Her society is a relief from unpleasant thoughts!"</p>
+         <p>"But &#8212;"</p>
+         <p>"But!" repeated his client; "will you be convinced? Shall I prove to you that Clement would be even more surprised than
+I was by such a supposition? And if I do prove it," she added, "will you promise to reflect seriously on what I have said?"</p>
+         <p>The promise was made &#8212; for Mr. Foster felt anxious to ascertain whether the suspicion of his son's attachment to the
+governess was well founded or not. The means which the speaker intended to
+take puzzled him. He could not comprehend her evident distaste to the affair.</p>
+         <p>"She can never be mad enough," he thought, "to
+think of him for herself! She is forty, at the very least, and Clem only
+seventeen!"</p>
+         <p>This was the only point on which the gentleman
+was not destined to be enlightened. Whatever the feelings, inclinations, or
+projects of Miss Mendez, she kept them to herself.</p>
+         <p>Calling the young people from the back
+drawing-room, the lady asked Miss Wyndham to play the overture to Don Juan. As she was a great admirer of Mozart, the request did not surprise the governess. Clem was about to return with her, when Martha, by a gesture of her hand, informed him that he was to remain.</p>
+         <p>"I wish to consult you!" she said.</p>
+         <p>The youth took an ottoman, and drew it to the side of the sofa on which the lawyer and the lady were sitting.</p>
+         <p>"We have been speaking of Miss Wyndham!" observed Martha, as soon as the first notes of the instrument assured her that, for ten minutes at least, they were secure from interruption. "Your father has
+an excellent match in view for her!"</p>
+         <p>The countenance of the supposed lover, which had
+hitherto been serious enough, suddenly became radiant with smiles. As the
+speaker said, if he had any love for the clever, artful girl, it was merely the
+love of a brother. He pitied her orphan, dependant position, and the idea of
+her marrying well afforded him unmixed satisfaction.</p>
+         <p>"Glad to hear it!" he replied; "fact is,
+provided the gentleman is worthy of her!"</p>
+         <p>"In every way!"</p>
+         <p>"Is he young?"</p>
+         <p>"Yes."</p>
+         <p>"And amiable?"</p>
+         <p>"Amiable and handsome!" replied Miss Mendez,
+with a glance of triumph at Mr. Foster, whose face expressed anything but
+satisfaction at the discovery of his son's indifference. He had hugged the
+idea that it was love, and not the law, which made Clement so miserable.</p>
+         <p>"I am very happy to hear it!" observed the young
+man. "It would be a thousand pities that so much sensibility and talent should
+be sacrificed to one who could not appreciate them! I feel certain that I
+shall like the fellow," he added, "if it is only for his generosity &#8212; for poor
+Harriet has every gift save that of fortune! May I ask his name?"</p>
+         <p>"Not yet!"</p>
+         <p>"When shall I be introduced to him?"</p>
+         <p>"All in good time!" replied his father, coming
+to the relief of Miss Mendez, who began to feel embarrassed how to answer the
+questions which followed in such rapid succession. "In the meantime," he
+added, "not a word to Miss Wyndham! The natural delicacy of her character
+might feel hurt at the well-meant solicitude of her friends! There &#8212; the
+overture is nearly over! She must not suspect that we have been speaking on
+such a subject!"</p>
+         <p>With a nod, as much as to say that he understood
+his wishes, Clement rose from the ottoman with the most unconcerned air
+imaginable, and returned to the piano.</p>
+         <p>"Are you convinced?" said Martha, in a low tone.</p>
+         <p>The lawyer replied only by a sigh.</p>
+         <p>"And you will reflect?"</p>
+         <p>"Yes &#8212; yes!" he muttered, impatiently; "I will
+reflect! It is hard to sacrifice the purpose of a life; but I will consider
+my project &#8212; my word is given!"</p>
+         <p>His client urged no more &#8212; she knew that he
+would keep it.</p>
+         
+<div1 type="file references">
+            <list>
+<item><xptr n="ls.00044" type="same author"/></item>
+               <item>
+                  <xptr n="ls.00061" type="fiction on image"/>
+               </item>
+               <item>
+                  <xptr n="ls.00115" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00116" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00117" type="image on fiction"/>
+               </item>
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

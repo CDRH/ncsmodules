@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00050">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Politicians Too"
+
+</title>
+
+<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name=""></author>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00050</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 7 of the June 15, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Politicians Too</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+June 15, 1878  
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="carriage" type="setting">carriage</term>
+			<term id="boudoir" type="setting">boudoir</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="beechertilton">Beecher-Tilton</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>POLITICIANS TOO</head>
+
+	<head>The Profession Scandalized by the Conduct of a Prominent Member, Who Patterns After</head>
+
+
+	<head>THE NAUGHTY PREACHERS</head>
+
+	<head>And From Whom, Too, he has Learned to Swear That he Didn't.  When she Brings Against him a Charge of</head>
+
+	<head>RAPE AND OTHER INDISCRETIONS</head>
+
+         <p>Waverly, O., June 4&#8212;The respectable inhabitants of Waverly
+and the neighboring village of Beavertown are considerably exercised over a
+case of scandal lately brought to light, the parties to which are members of
+prominent and respectable families. It is a case of bastardy and alleged rape,
+and the actors in it are Colonel T.W. Higgins, a prominent politician of this
+town, and Miss Mary Irons, daughter of Rev. Joseph Irons, of Beavertown.</p>
+
+         <p>Colonel Higgins has been until within the last two
+weeks a member of the County Board for the Examination of Schools, and in that
+capacity a little over a year ago met Miss Irons, who was undergoing an
+examination for the position of teacher of the Wickline Township School. This was in April, 1877, at which time, owing to some defect, Miss Irons failed to
+obtain a certificate. On August 24th of the same year she alleged
+that Colonel Higgins came out to her father's house in Beavertown, and telling
+them he could get her a certificate, asked her to come to Waverly with him for
+that purpose. She agreed, and drove with him in a buggy.</p>
+
+         <p>He had told her father he would take her to his own home,
+and that she could stay with his wife and daughters all night, and he would
+bring her back in the morning. Instead of this, when they arrived at Waverly,
+he affected to remember that there was company at his house and he could not
+take her there. So they went to the Emmit House, at that time kept by a lady
+named Cropper. Here he got a room for her and went out to get her certificate,
+as he promised. She states that she told the clerk when the Colonel came to
+send her words and she would come down in the parlor and receive him. Instead
+of doing this, she says that when the Colonel came back, about 9 o'clock in the
+evening, he crept up to her room without any one seeing him and entered the
+room before she had time to prevent him. He held the certificate in his hand
+and gave it to her to read; while doing so she alleges that he went to the
+window and closed the blinds, and when she asked him why he did so he laughed
+at it as a joke, and in the same playful manner blew out the light. He then,
+she says, caught hold of her and attempted to embrace her, at the same time
+making an indecent proposal to her. She resented this and struggled to get
+free. He overpowered her, however, and after quite a tussle threw her on the
+bed and accomplished his criminal purpose.  He staid in the room for a while and then went away.</p>
+
+         <p>She says the reason she did not call for help was
+that she thought she could prevent him from succeeding in his design, and was
+afraid of what people would say when they found she was alone with him in a
+dark room. Afterward she claims she thought nothing would result from the act,
+and that it would be better not to publish her shame to the world. She says on
+the day following she was so weak and prostrated from the struggle that she had
+had with him and the effects of the outrage that she was hardly able to reach
+her home. She went to teach school, however, on the certificate given her by
+Higgins, and never informed any one of the affair until March last. When her
+condition became serious she informed her parents, telling them the whole
+story.</p>
+
+         <p>Immediately on this her father sought out the
+Colonel and taxed him with it. The Colonel at first denied all knowledge of
+the matter according to her father's story, but afterward acknowledged having
+attempted the outrage, but claimed to have been unsuccessful.  Irons thereupon demanded that he resign his position, and
+though the Colonel demurred, he about two weeks ago consented, and handed his
+resignation to the board, and another man was appointed to the position. On
+Saturday last, however, Miss Irons swore out two warrants for his arrest, one
+charging him with rape and the other with bastardy. On the latter charge he
+was arrested this morning in Waverly by Constable Armintrout and taken to
+Beavertown, where he had a hearing this afternoon before Squire McAllister. He
+was accompanied by his counsel, Messrs. George D. Cole and H. James, and
+entered a plea of not guilty. Miss Irons was present with her father, and was
+also accompanied by counsel, Richard Dougherty, Esq.</p>
+
+         <p>At the examination Miss Irons testified under
+oath to the main points of the statement given above, and as far as it
+concerned the case on trial, and the Squire held Colonel Higgins on bond of
+$500, the limit allowed by law, saying when asked, that if the law made it
+$10,000, he would be justified in making it that amount. The Colonel promptly
+furnished the bond. Mr. B. Adams, of Beavertown, going his security. The
+Colonel denies the whole of the charges.  He bases his principal proof on the fact that it was the 9th
+of August on which he took Miss Irons to Waverly, and got her a room at the Emmit
+House. He claims she has not yet become a mother, and she says she never was
+alone with him since. The length of time that has elapsed would make this
+charge preposterous. He does not deny taking her to the Emmit House, but he
+says all their transactions there were above board. His counsel to-day, in
+their cross-examination of Miss Irons, endeavored to place the paternity of the
+child on Mr. Isaac Wickline, a member of the Board of School Directors, at
+whose house Miss Irons boarded while teaching school. The latter denies
+emphatically having ever had intercourse with Mr. Wickline, who is engaged in
+business with her father, or with any other man, except on the occasion with Colonel Higgins.</p>
+
+         <p>Colonel Higgins is a well-known politician here,
+and was Colonel of the Seventy-third Ohio Regiment during the war. He is about
+fifty years of age and married, having four children&#8212;one of whom, a daughter,
+a very estimable young lady, was married about three weeks ago to a respectable
+man in this place.</p>
+
+         <p>Public opinion is much divided on the subject
+around here. The Waverly people mostly believe Higgins' story and the
+Beavertown folks that of Miss Irons. The Squire's bond holds Colonel Higgins
+for his appearance at the first term of court here on the 17th of
+June. The Colonel to-night expressed his determination to institute
+proceedings against Mr. Irons for blackmail, and against Miss Irons for
+perjury. He also proposes to institute proceedings against the <hi rend="italic">Watchman, </hi>a
+journal published here, for criminal libel publishing the charge against him in
+to-day's issue. </p>
+
+        
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00101</field>
+      <field name="title">"Order Reigns in Warsaw"</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">belgian</field>
+      <field name="topic">russia</field>
+      <field name="topic">poland</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

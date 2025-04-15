@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00072">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Mill on the Floss</hi></title>
+
+		<title level="c" type="chapter">from Volume III, Book 6 "The Great Temptation," Chapter 6, "Illustrating the Laws of Attraction." </title>
+		<date type="original" value="1860">1860</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Eliot">George Eliot
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00072</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of George Eliot's <hi rend="italic">The Mill on the Floss</hi>, Volume III, Book 6 "The Great Temptation", Chapter 6, "Illustrating the Laws of Attraction."  Originally published in 1860.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Illustrating the Laws of Attraction</title>
+               <title level="m"><hi rend="italic">The Mill on the Floss</hi></title>
+               <author>George Eliot</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>
+2003
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="garden" type="setting">garden</term>
+               <term id="piano" type="setting">piano</term>
+			<term id="parlor" type="setting">parlor</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="editorial">Scene Two: Maggie and Stephen's erotic encounter, from music room to lawn</head>
+
+         <p>Maggie was seated in the
+drawing-room, alone, shortly after dinner, with Minny on her lap, having left
+her uncle to his wine and his nap, and her mother to the compromise between
+knitting and nodding, which, when there was no company, she always carried on
+in the dining-room till tea-time. Maggie was stooping to caress the tiny silken
+pet, and comforting him for his mistress's absence, when the sound of a
+footstep on the gravel made her look up, and she saw Mr. Stephen Guest walking
+up the garden, as if he had come straight from the river. It was very unusual
+to see him so soon after dinner! He often complained that their dinner-hour was
+late at Park House. Nevertheless, there he was, in his black dress; he had
+evidently been home, and must have come again by the river. Maggie felt her
+cheeks glowing and her heart beating; it was natural she should be nervous, for
+she was not accustomed to receive visitors alone. He had seen her look up
+through the open window, and raised his hat as he walked toward it, to enter
+that way instead of by the door. He blushed too, and certainly looked as
+foolish as a young man of some wit and self-possession can be expected to look,
+as he walked in with a roll of music in his hand, and said, with an air of
+hesitating improvisation,&#8212;</p>
+
+         <p>"You are surprised to
+see me again, Miss Tulliver; I ought to apologize for coming upon you by
+surprise, but I wanted to come into the town, and I got our man to row me; so I
+thought I would bring these things from the 'Maid of Artois' for your cousin; I
+forgot them this morning. Will you give them to her?"</p>
+
+         <p>"Yes," said
+Maggie, who had risen confusedly with Minny in her arms, and now, not quite
+knowing what else to do, sat down again.</p>
+
+         <p>Stephen laid down his hat,
+with the music, which rolled on the floor, and sat down in the chair close by
+her. He had never done so before, and both he and Maggie were quite aware that
+it was an entirely new position.</p>
+
+         <p>"Well, you pampered
+minion!" said Stephen, leaning to pull the long curly ears that drooped
+over Maggie's arm. It was not a suggestive remark, and as the speaker did not
+follow it up by further development, it naturally left the conversation at a
+standstill. It seemed to Stephen like some action in a dream that he was
+obliged to do, and wonder at himself all the while,&#8212;to go on stroking Minny's
+head. Yet it was very pleasant; he only wished he dared look at Maggie, and
+that she would look at him,&#8212;let him have one long look into those deep, strange
+eyes of hers, and then he would be satisfied and quite reasonable after that.
+He thought it was becoming a sort of monomania with him, to want that long look
+from Maggie; and he was racking his invention continually to find out some
+means by which he could have it without its appearing singular and entailing
+subsequent embarrassment. As for Maggie, she had no distinct thought, only the
+sense of a presence like that of a closely hovering broad-winged bird in the
+darkness, for she was unable to look up, and saw nothing but Minny's black wavy
+coat.</p>
+
+         <p>But this must end some
+time, perhaps it ended very soon, and only seemed long, as a minute's
+dream does. Stephen at last sat upright sideways in his chair, leaning one hand
+and arm over the back and looking at Maggie. What should he say?</p>
+
+         <p>"We shall have a
+splendid sunset, I think; sha'n't you go out and see it?"</p>
+
+         <p>"I don't know,"
+said Maggie. Then courageously raising her eyes and looking out of the window,
+"if I'm not playing cribbage with my uncle."</p>
+
+         <p>A pause; during which Minny
+is stroked again, but has sufficient insight not to be grateful for it, to
+growl rather.</p>
+
+         <p>"Do you like sitting alone?"</p>
+
+         <p>A rather arch look came
+over Maggie's face, and, just glancing at Stephen, she said, "Would it be
+quite civil to say yes?"</p>
+
+         <p>"It was
+rather a dangerous question for an intruder to ask," said Stephen,
+delighted with that glance, and getting determined to stay for another.
+"But you will have more than half an hour to yourself after I am
+gone," he added, taking out his watch. "I know Mr. Deane never comes
+in till half-past seven."</p>
+
+         <p>Another pause, during which
+Maggie looked steadily out of the window, till by a great effort she moved her
+head to look down at Minny's back again, and said,&#8212;</p>
+
+         <p>"I wish Lucy had not been obliged to go out. We lose our music."</p>
+
+         <p>"We shall have a new
+voice to-morrow night," said Stephen. "Will you tell your cousin that
+our friend Philip Wakem is come back.  I saw him as I went home."</p>
+
+         <p>Maggie gave a little
+start,&#8212;it seemed hardly more than a vibration that passed from head to foot in
+an instant. But the new images summoned by Philip's name dispersed half the
+oppressive spell she had been under. She rose from her chair with a sudden
+resolution, and laying Minny on his cushion, went to reach Lucy's large
+work-basket from its corner. Stephen was vexed and disappointed; he thought
+perhaps Maggie didn't like the name of Wakem to be mentioned to her in that
+abrupt way, for he now recalled what Lucy had told him of the family quarrel.
+It was of no use to stay any longer. Maggie was seating herself at the table
+with her work, and looking chill and proud; and he&#8212;he looked like a simpleton
+for having come. A gratuitous, entirely superfluous visit of that sort was sure
+to make a man disagreeable and ridiculous. Of course it was palpable to
+Maggie's thinking that he had dined hastily in his own room for the sake of
+setting off again and finding her alone.</p>
+
+         <p>A boyish state of mind for
+an accomplished young gentleman of five-and-twenty, not without legal
+knowledge! But a reference to history, perhaps, may make it not incredible.</p>
+
+         <p>At this moment Maggie's
+ball of knitting-wool rolled along the ground, and she started up to reach it.
+Stephen rose too, and picking up the ball, met her with a vexed, complaining
+look that gave his eyes quite a new expression to Maggie, whose own eyes met
+them as he presented the ball to her.</p>
+
+         <p>"Good-bye," said
+Stephen, in a tone that had the same beseeching discontent as his eyes. He
+dared not put out his hand; he thrust both hands into his tail-pockets as he
+spoke. Maggie thought she had perhaps been rude.</p>
+
+         <p>"Won't you stay?"
+she said timidly, not looking away, for that would have seemed rude again.</p>
+
+         <p>"No, thank you,"
+said Stephen, looking still into the half-unwilling, half-fascinated eyes, as a
+thirsty man looks toward the track of the distant brook. "The boat is
+waiting for me. You'll tell your cousin?"</p>
+
+         <p>"Yes."</p>
+
+         <p>"That I brought the music, I mean?"</p>
+
+         <p>"Yes."</p>
+
+         <p>"And that Philip is come back?"</p>
+
+         <p>"Yes." (Maggie did not notice Philip's name this time.)</p>
+
+         <p>"Won't you come out a
+little way into the garden?" said Stephen, in a still gentler tone; but
+the next moment he was vexed that she did not say "No," for she moved
+away now toward the open window, and he was obliged to take his hat and walk by
+her side. But he thought of something to make him amends.</p>
+
+         <p>"Do take my arm,"
+he said, in a low tone, as if it were a secret.</p>
+
+         <p>There is something
+strangely winning to most women in that offer of the firm arm; the help is not
+wanted physically at that moment, but the sense of help, the presence of
+strength that is outside them and yet theirs, meets a continual want of the
+imagination. Either on that ground or some other, Maggie took the arm. And they
+walked together round the grassplot and under the drooping green of the
+laburnums, in the same dim, dreamy state as they had been in a quarter of an
+hour before; only that Stephen had had the look he longed for, without yet
+perceiving in himself the symptoms of returning reasonableness, and Maggie had
+darting thoughts across the dimness,&#8212;how came he to be there?  Why had she come
+out?  Not a word was spoken. If it had been, each would have been less intensely
+conscious of the other.</p>
+
+         <p>"Take care of this step," said Stephen at last.</p>
+
+         <p>"Oh, I will go in
+now," said Maggie, feeling that the step had come like a rescue.
+"Good-evening."</p>
+
+         <p>In an instant she had
+withdrawn her arm, and was running back to the house. She did not reflect that
+this sudden action would only add to the embarrassing recollections of the last
+half-hour. She had no thought left for that. She only threw herself into the
+low arm-chair, and burst into tears.</p>
+
+         <p>"Oh, Philip, Philip, I
+wish we were together again&#8212;so quietly&#8212;in the Red Deeps."</p>
+
+         <p>Stephen looked after her a
+moment, then went on to the boat, and was soon landed at the wharf. He spent
+the evening in the billiard-room, smoking one cigar after another, and losing
+"lives" at pool. But he would not leave off. He was determined not to
+think,&#8212;not to admit any more distinct remembrance than was urged upon him by
+the perpetual presence of Maggie. He was looking at her, and she was on his arm.</p>
+
+         <p>But there came the
+necessity of walking home in the cool starlight, and with it the necessity of
+cursing his own folly, and bitterly determining that he would never trust
+himself alone with Maggie again. It was all madness; he was in love, thoroughly
+attached to Lucy, and engaged,&#8212;engaged as strongly as an honorable man need be.
+He wished he had never seen this Maggie Tulliver, to be thrown into a fever by
+her in this way; she would make a sweet, strange, troublesome, adorable wife to
+some man or other, but he would never have chosen her himself. Did she feel as
+he did?  He hoped she did&#8212;not. He ought not to have gone. He would master
+himself in future. He would make himself disagreeable to her, quarrel with her
+perhaps. Quarrel with her?  Was it possible to quarrel with a creature who had
+such eyes,&#8212;defying and deprecating, contradicting and clinging, imperious and
+beseeching,&#8212;full of delicious opposites?  To see such a creature subdued by love
+for one would be a lot worth having&#8212;to another man.</p>
+
+         <p>There was a muttered
+exclamation which ended this inward soliloquy, as Stephen threw away the end of
+his last cigar, and thrusting his hands into his pockets, stalked along at a
+quieter pace through the shrubbery. It was not of a benedictory kind.</p>
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00036" type="same novel"/></item>
+			<item><xptr n="ls.00035" type="same author"/></item>
+              	<item><xptr n="ls.00069" type="same author"/></item>
+			<item><xptr n="ls.00070" type="same author"/></item>
+			<item><xptr n="ls.00071" type="same author"/></item>
+<item><xptr n="ls.00083" type="commentary on same author"/></item> 
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

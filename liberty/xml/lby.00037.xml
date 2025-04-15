@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00037">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Lincoln: Seen and Heard</hi></title>
+<title level="c" type="chapter">Chapter 9, "The Poetry and Prose of the Emancipation Proclamation"</title>
+<date type="original" value="2000">2000</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Holzer">Harold Holzer</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00037</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 179-190 of Harold Holzer's <hi rend="italic">Lincoln:  Seen and Heard</hi>.  Published by the University Press of Kansas, 2000.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Poetry and Prose of the Emancipation Proclamation</title>
+               <title level="m"><hi rend="italic">Lincoln:  Seen and Heard</hi></title>
+               <author>Harold Holzer</author>
+               <imprint>
+                  <publisher>University Press of Kansas</publisher>
+                  <pubPlace>Lawrence
+</pubPlace>
+               </imprint>
+               <date>2000
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+            <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="lincoln" type="topic">Lincoln</term>
+<term id="radicalism" type="topic">radicalism</term>
+<term id="dissenting" type="topic">dissenting</term>         
+   <term id="civilwar" type="topic">Civil War</term>      </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>The Poetry and Prose of the Emancipation Proclamation</head>
+ 	<p>"The Scene was wild and grand," Frederick Douglass remembered of the day when the words of the final Emancipation Proclamation first came over the telegraph wires on January 1, 1863. "Joy and gladness exhausted all forms of expression, from shouts of praise to joys and tears." </p>
+<p>Yet eighty-five years later, looking back at those same words, Richard Hofstadter declared that they boasted "all the moral grandeur of a bill of lading" &#8212; a cargo receipt.  Mark E. Neely Jr. echoed that view in 1993: he condemned the text of the Emancipation Proclamation as "leaden legalese." And those modern assessments were not unlike the view that had been advanced a century earlier by an ardent Lincoln admirer named Karl Marx, who complained that the style of the proclamation called to mind the "mean pettifogging conditions which one lawyer puts to his opposing lawyer." Even Frederick Douglass conceded at the time, "It was not a proclamation of 'liberty throughout the land, unto all the inhabitants thereof,' such as we had hoped it would be, but was one marked by discriminations and reservations."</p> 
+<p>Such comments, from the recent and distant past alike, have understandably served to nourish a growing sense among modern Americans that Abraham Lincoln was at best a reluctant and uninspiring Emancipator&#8212;and, as others have added, a superfluous one as well, it is difficult to deny that the reputation of the Emancipation Proclamation has fallen into historical decline. </p>
+<p>Unenlightened on issues of race, the fashionable arguments go, Lincoln used emancipation as a desperate weapon of war only when it became clear that the Union could not be preserved without depriving the South of the "slave power" and without arming blacks in the North to put down the rebellion. Furthermore, critics suggest, Lincoln's document really had little effect: it freed slaves only where Lincoln had no power to free them and left them enslaved where he exercised the authority to break their chains. And finally, detractors assert, so many slaves were in the process of liberating <hi rend="italic">themselves</hi> by the time it was written, fleeing into Union lines throughout the South, that even if Lincoln had not proclaimed it, black freedom was inevitable anyway. As Barbara Fields has argued, "No human being alive could have held back the tide that swept toward freedom."</p>
+<p>But is it fair to imply that Lincoln simply did <hi rend="italic">not hold</hi> the tide of freedom? Exactly how and why has the Emancipation Proclamation faded from its original reputation as a revolutionary act? And, most important, does it deserve revisionist dismissal or renewed appreciation? </p>
+<p>As to why the proclamation has declined in prestige, five likely reasons may help explain the downward spiral. The first has to be the shocking absence of scholarship on the subject. Great acts call for great books, yet the Emancipation Proclamation has inspired a total of one: John Hope Franklin's slim, 130-page volume, issued for the centennial of the proclamation in 1963 and now more than thirty-five years old. Meanwhile, some 10,000 books on Lincoln have been published since emancipation took effect. As readers become more and more familiar with every other detail of Lincoln's personal and political life, the act he himself believed his greatest fades into memory&#8212;so seldom analyzed for so many generations that students and specialists alike reasonably infer from the scholarly vacuum that it did not deserve the attention it generated when it was first issued.</p> 
+<p>Second, what little has been published in recent years about the proclamation has been largely critical, cynical, or fictional. In his best-selling novel, <hi rend="italic">Lincoln</hi>, Gore Vidal maintains that Lincoln issued his proclamation merely to one-up his newspaper critics; Vidal's Lincoln was more a schemer than a dreamer. As for Lincoln's reputation among African Americans, much time has passed since Frederick Douglass called Lincoln "the first American President who . . . rose above the prejudice of his times." Martin Luther King did call emancipation "a joyous daybreak to end the long night of captivity." But more frequently quoted is Lerone Bennett Jr.'s seminal article in <hi rend="italic">Ebony Magazine</hi> declaring Lincoln "the embodiment . . . of a racist tradition" whose proclamation was designed to <hi rend="italic">delay</hi>, not <hi rend="italic">advance</hi>, the cause of liberation.</p> 
+<p>Problem number three: the proclamation's limited reach. It exempted loyal slaveholding states from its mandate, forever encouraging charges that it was a toothless, unenforceable document. At the time, even a common soldier like Sgt. Cyrenus G. Tyler of New York recognized that the proclamation seemed "rather lame in some points. I do believe in the theory of the thing," he wrote, "but the practical working as devised by President Lincoln I cannot see. The idea of giving liberty to bondsmen that are not within reach of his benificencies <hi rend="italic">[sic]</hi>, and in the same article withholding the same from those that are within reach seems to me rather mixed." But Tyler was writing only a month after the proclamation took effect. He could not yet know the impact it would have subsequently, giving the war new purpose and actually liberating hundreds of thousands of slaves as Union armies marched into the South, enforcing the proclamation in their wake.</p> 
+<p>But Lincoln enjoyed the constitutional authority to abolish slavery only in those areas in active rebellion against the federal government. He surely knew from the start of his deliberations about emancipation that a presidential proclamation would be a paper tiger unless and until Union armies overran the Confederacy and liberated the slave population, in much the same way the Declaration of Independence did not establish freedom for white Americans a century earlier, until the Continental army won the Revolutionary War. And to provide a "kings cure for all the evils" of slavery, as he put it, Lincoln made certain that the 1864 Republican (or National Union) party platform called for a constitutional amendment abolishing slavery <hi rend="italic">everywhere</hi>, thus giving to emancipation "legal form, and practical effect …in the joint names of Liberty and Union."</p> 
+<p>Problem number four was the way the proclamation was announced&#8212;or, to be more precise, the way it was <hi rend="italic">not</hi> announced. The first draft was read in private and kept secret for two months. The preliminary proclamation was published, but unaccompanied by the kind of public event that might have enshrined it in visual memory. And when he signed the final proclamation on January 1, 1863, Lincoln missed the chance for what surely would have been the greatest photo opportunity of the century. Unaware of the power of image-making, Lincoln made the proclamation official in his private office, before just a few witnesses. He made no speech that day, met no delegation of African Americans, visited no slave families, saw no abolitionists, presided over no ceremony.  The "Emancipation Moment," as one historian has called such milestones, reached its climax without Abraham Lincoln to consecrate it&#8212;a truly lost opportunity. </p>
+<p>The president had his own way of conducting public relations, and in that convoluted approach lies the root of problem number five. No leader ever cloaked a great act in more intentionally deceptive public relations and in more intensely stultifying prose. Lincoln overexplained it and underwrote it. To understand why is to suggest a new historiographical assessment of Lincoln's most important presidential act.</p> 
+<p>Why did the man capable of writing so dazzlingly, who counted Harriet Beecher Stowe, Leo Tolstoy, and Walt Whitman among his admirers, hold in check the power of his pen in writing the document he called, with rare bravado, "the great event of the nineteenth century"?</p>
+<p>There can be little justification for arguing that Abraham Lincoln failed to craft an undistinguished, uninspiring document, as some historians now maintain, because he was a reluctant Emancipator. "I am naturally anti-slavery," he reminded a Kentucky editor in April 1864. "If slavery is not wrong, nothing is wrong. I can not remember when I did not so think and feel." More likely, Lincoln wrote an undistinguished document because he was a deliberate, perhaps even a fearful Emancipator. A modern political leader once declared that political leadership requires 10 percent poetry and 90 percent prose&#8212;the poetry being the inspiration and the prose the perspiration. Lincoln had to choose between inspiration and perspiration for his most momentous state paper, and he intentionally chose function over form. Only when Lincoln's initial qualms evaporated did he temper the prosaic writing style of his document with some of the most masterful poetry he ever crafted&#8212;the kind of sublime rhetoric that should really be considered side by side with the document as part of his overall message of liberty. But at the time, as Gabor S. Boritt has noted, Lincoln's "largely nonmoral language 
+protected the Constitutional basis of the act" and "also reduced the hostility of Northern and border state conservatives."</p> 
+<p>To understand Lincoln's stubborn hesitation, and his subsequent use of confusing public statements and rigidly stilted prose, one must consider the hotly charged race issue in terms of his time, not ours &#8212;an age of rampant racism in which only a small percentage of white America supported emancipation and but a fraction of that minority would have tolerated, much less supported, the then-radical not ion of racial equality.</p> 
+<p>It is true that many leaders of the day urged prompter action on slavery, but many others cautioned against it, leaving Lincoln whipsawed by the conflicting demands from within the disparate elements of his fragile Union coalition. Abolitionists prodded him. Two generals &#8212;John C. Fremont and David Hunter&#8212;issued orders confiscating slave property in their respective military departments, and Lincoln promptly revoked them. Congress passed a confiscation act, and Lincoln questioned how Congress could act against an institution existing in the individual states and protected in the Constitution. Looking at the record from the vantage point of the new millennium, Lincoln seems to have <hi rend="italic">impeded</hi> liberty. But judged by public sentiment of his own time, he was merely postponing it. As Frederick Douglass understood, "While he hated slavery, and really desired its destruction, he always proceeded against it in a manner the least likely to shock or drive from him any who were truly in sympathy with the preservation of the Union."  If the Union died, Lincoln knew, so did any chance for democratic government or equal opportunity, here or throughout the world, then or in the future.</p> 
+<p>Lincoln had ample reason for concern. On the opposite end of the political spectrum were generals and politicians as committed to preventing emancipation as the progressives were committed to hastening it. With crucial, slaveholding border states teetering on the verge of secession or conquest, Lincoln worried that if an emancipation proclamation propelled them into the Confederacy, the city of Washington would be isolated, the balance of power roiled, and the Union lost irrevocably.  He nervously joked that he hoped to keep God on his side. But he simple had to keep Kentucky.</p> 
+<p>And so he took small steps. He signed one law abolishing slavery in the federal territories and another liberating slaves still held in the nation's capital. He implored the border states to accept gradual, compensated emancipation, although without success. But for a time, he felt he could not risk further action that might propel them into the Confederate orbit.</p> 
+<p>Nor had any war ever been reconsecrated while it was being fought, and Lincoln worried that the Union cause could not survive redefinition into an abolitionist crusade. As late as March 1862, the commanding general of the Army of the Potomac, George B. McClellan, warned him that "neither confiscation of property…or forcible abolition of slavery should be contemplated for a moment." McClellan could not easily be ignored; he perhaps had lost a few battles, but he might yet win the war.  In Washington, one Democrat took to the floor of Congress to thunder, "If emancipation means taxation on the free States, now lavishing their all for the Union and the Constitution ...I am opposed to that cause and here take my stand…against it."</p> 
+<p>Ultimately, the time did come: a confluence of moral belief, political opportunity, and "indispensable" military necessity. "Things had gone on from bad to worse," Lincoln admitted, "until I felt that we had reached the end of our rope... that we had about played our last card, and must change our tactics or lose the game!" As he put it: "We must free the slaves or ourselves be subdued."</p>
+<p>In late spring or early summer 1862, Lincoln began writing, and there is some evidence that he found it an agonizing process from the very beginning. One witness remembered him composing no more than a few words each day, "studying carefully each sentence," revising and re-revising each line, each word.</p>
+<p>On July 17, he assembled his cabinet to read them the rather tepid result: a brief executive order that called emancipation "a fit and necessary war measure" to restore federal authority. Cabinet ministers were accustomed to being asked to vote on major policy initiatives, but this time Lincoln told them he had "resolved upon this step." He sought neither advice nor consent.</p> 
+<p>Yet no proclamation was issued that day, because Secretary of State Seward counseled delay. The war was going poorly, and the country would most likely view a proclamation aimed at slavery as "the last measure of an exhausted government&#8212;a cry for help…our last <hi rend="italic">shriek</hi>, on the retreat." Lincoln saw the wisdom in this objection. He put aside his draft and waited for military victory.</p> 
+<p>Meanwhile, his cabinet actually kept the plan secret. Imagine such a thing happening in today's world of daily White House press briefings, all news all the time on CNN and MSNBC, and TV-camera stakeouts at the slightest hint of breaking stories. Lincoln enjoyed time to reflect&#8212;to rewrite&#8212;but also, most harmfully in terms of his reputation, to calculate and implement a public relations strategy designed to convince America that he was not prepared to do precisely what he had decided irrevocably to do as soon as his armies won a victory. It was a brilliant manipulation of popular sentiment at the time, but it left a paper trail of half hearted pronouncements that have dogged Lincoln's future reputation as a liberator.</p> 
+<p>One such opportunity arose in August when Horace Greeley, editor of the <hi rend="italic">New York Tribune</hi>, published an editorial, "The Prayer of Twenty Millions," condemning Lincoln as "strangely and disastrously remiss" for not acting to end slavery. Of course, Lincoln was prepared to act&#8212;just not prepared to say so. Instead, he seized on Greeley's attack as an opportunity to present a tenable rationale for emancipation to the public in advance.</p> 
+<p>His reply has often been cited as evidence of Lincoln's belief that emancipation was for him a secondary concern. But since he already knew that his course was leading irrevocably to emancipation, the letter should really be viewed as a shrewd, advance public relations effort to set the stage for the new initiative&#8212;to rally public support for the measure as a military, not a moral, imperative&#8212;so more people would accept it. Lincoln still worried that the white majority would not welcome the proclamation unless he couched it carefully.</p> 
+<p>"My paramount object in this struggle <hi rend="italic">is</hi> to save the Union, and is not either to save or destroy slavery," Lincoln wrote in his widely published letter to the editor. "If I could save the Union without freeing any slave, I would do it; and if I could save it by freeing all the slaves, I would do it; and if I could save it by freeing some and leaving others alone, I would also do that."  That, of course, is precisely what he had decided to do.</p>
+<p>Was Lincoln lying to the American people?  Certainly he was guilty of a sin of omission.  But he was struggling with what LaWanda Cox has called the simultaneous tug of "sweeping principle" and "limited authority."  To succeed, Lincoln felt he must sometimes "conceal his hand or [even] dissemble."</p>
+<p>Lincoln would not admit that emancipation was certain even to a delegation of free black citizens visiting the White House on August 24.  Instead, he virtually told them to move to Haiti or the Caribbean.  "It is better for us both…to be separated," he said.  "There is an unwillingness on the part of our people, harsh as it may be, for you free colored people to remain with us."  These were harsh words, to be sure.  But Lincoln knew that African Americans would cheer emancipation; this performance was again designed specifically for white audiences who might have been willing to accept a militarily necessary emancipation, he reasoned, but not an integrated society.</p>
+<p>Just as Lincoln hoped, the speech was quickly published verbatim in newspapers across the North.  To the detriment of his future reputation, Lincoln had set the stage for releasing his proclamation beyond the controversial realm of humanitarianism, by advocating colonization&#8212;a flirtation he soon abandoned.  It was a risky strategy, if Lincoln was worried about his legacy.  He might have contributed more by beginning to educate Americans about the inevitability of a biracial society.  But this he calculated he could not do without losing the border states, the military, the Congress, and, as he put it, proclamation or no, "the whole game."  Ultimately, he left record of cautionary and intentionally misleading caveats; and some observers seem to take them far more seriously today than his reminder to Horace Greeley that he still wished privately that "all men every where could be free."  Gabor S. Boritt has called this and other examples of Lincoln's "avoidance"&#8212;especially of the colonization issue he professed to embrace at the time, most likely to placate conservatives fearful that emancipation would lead to equality and integration&#8212;his "detour from reality."</p> 
+<p>The dissembling continued a bit longer.  As late as September 13, Lincoln asked a group of religious leaders visiting the White House, "What good would a proclamation of emancipation from me do?...Would my word free the slaves when I cannot even enforce the Constitution in the rebel states?"  Once again he was skillfully provoking false expectations of government inertia on slavery, ending the meeting by admitting, "I have not decided <hi rend="italic">against</hi> a proclamation of liberty to the slaves, but hold the matter under advisement."  Here was yet another untruth, this time illuminated by a faint ray of hope. If he took any action at all, he cautioned, it would come "as a practical war measure, to be decided upon according to the advantages and disadvantages it may offer to the suppression of the rebellion."</p> 
+<p>The military success that Lincoln needed as a prerequisite for emancipation finally came on September 17 at the Battle of Antietam. Five days later, he assembled his cabinet again, read aloud his new preliminary proclamation, and issued it publicly, though without fanfare, that very day. "It is now for the country and for the world to pass judgment on it," Lincoln told a small crowd of serenaders a few days after its release. He could not have been pleased with the first of those judgments. They more than justified his worst fears about public reaction. For example, although there are scholars who believe that Lincoln issued the proclamation solely to prevent Europe from joining the war on the Confederate side, the evidence suggests otherwise. Workingmen's groups applauded, but the British prime minister, Lord Palmerston, denounced the proclamation as "trash," declaring the government that issued it "utterly…contemptible." The <hi rend="italic">London Times</hi> blasted it as incendiary.  And William Gladstone predicted it would result in "certain Confederate independence." From a French newspaper came the charge of "barbarity…God Grant that this error not produce new convulsion more terrible than those which already rend the country."</p> 
+<p>At home, reaction was equally troubling, just as Lincoln had predicted. One soldier  wrote home, "I sware I wish that all the abolissions sons of bitches had to come downe here and take the front…and all Git blowd to hell." A regiment from the president's own home state of Illinois promptly deserted, defiantly vowing to "lie in the woods until moss grew on their backs rather than help free slaves." Illinois political leaders added fuel to the fire by declaring, "We will not render support to the present administration in carrying on its wicked abolition crusade against the south." </p>
+<p>There was praise, to be sure&#8212;but mostly from the abolitionists, and most of them were angry that the document offered an escape clause&#8212;100 days notice for the Confederate states to end the rebellion, in return for which they could keep their slaves after all.</p> 
+<p>Approbation appeared in the Northern press, of course, which was no more surprising than the denunciation Lincoln received from newspapers in the South. But plenty of Northern journals assailed the proclamation as well. Reaction ultimately split along predictable party lines. Lincoln, the Democratic papers charged, was "adrift on the current of radical fanaticism." To the <hi rend="italic">Chicago Times</hi>, the proclamation was a "monstrous usurpation, a criminal wrong, and an act of national suicide."</p>
+<p>In issuing the proclamation, Lincoln had admitted, "I hope for greater gain than loss; but of this, I was not entirely confident, By the time his vice president wrote to him to praise the proclamation as "the great act of the age," Lincoln's lack of confidence seemed entirely justified. "Stocks have declined, and troops come forward more slowly than ever," he wrote confidentially. "This, looked soberly in the face, is not very satisfactory" The worst political aftershock was yet to come:  the fall 1862 congressional elections. Lincoln's Republicans took a severe beating.</p> 
+<p>Lincoln had been proven politically correct in his decision to couch the proclamation as a military necessity and to lay a groundwork that sidestepped the moral imperative for liberty. The result of his strategy, however, was a document that does little retrospectively to inspire historical acknowledgment of his considerable, and probably essential, cunning. For the greatest writer among American presidents constructed his grandest document with the literary flair of a subpoena. He intentionally chose the format of the rigid presidential proclamation&#8212;and he had written many of them, on subjects ranging from Thanksgiving holidays to military conscription to suspension of the writ of habeas corpus&#8212;most of them deadly dull.</p> 
+<p>For emancipation, he created a legally sound document that African Americans could later use, "if necessary, to establish judicially their title of freedom," as LaWanda Cox has argued. Ralph Waldo Emerson, noting that the document was a "dazzling success," conceded that it was an act "without inflation or surplusage," that demonstrated that "Liberty is a slow fruit." He was not certain, not in September 1862, that the courts would even uphold the proclamation and keep slaves, in the words of the most quotable line of the document, "thenceforward and forever free." Lincoln had carefully rejected the impulse to place the proclamation on "high moral grounds," as the <hi rend="italic">New York Times</hi> insightfully detected, and framed it instead "as a war measure from the Commander-in-Chief of the Army, but not…one issuing from the bosom of philanthropy." That was the only way he could defend it to border states, Democrats, even Northern racists vital to the Union coalition. The poetry could wait.</p> 
+<p>So while our historic literature boasts a Declaration of Independence that ringingly begins, "When in the course of human events," and a Constitution starting memorably with "We the people, in order to form a more perfect Union," the first sentence of the preliminary Emancipation Proclamation began, "I, Abraham Lincoln. President of the United States and commander-in-chief of the Army and Navy thereof." The rest of the text features such words as "hereafter" and "heretofore" and "aforesaid" and offers such prosaic phrases as "attention is hereby called," "I do hereby enjoin," and "in witness whereof, I have hereunto set my hand," writing that not only does not inspire but practically paralyzes.</p> 
+<p>The final Emancipation Proclamation, issued on January 1, 1863, did not add much to the vocabulary of freedom. Its first word was "whereas." "Thereof," "hereby," "hereafter," and "heretofore" clutter the document. Space is devoted to a list of the states and counties exempted from the order. The most inspiring sentence&#8212; "I invoke the considerable judgment of mankind, and the gracious favor of Almighty God"&#8212; was suggested by someone else.  At least Lincoln did insert his belief that it was "sincerely believed to be an act of Justice," hastily adding, "warranted by the Constitution, based upon military necessity." "Old Abe," an abolitionist critic complained, "seems utterly incapable of a really grand action."</p> 
+<p>But eventually, Lincoln did provide the poetic accompaniment he initially resisted. In his annual message to Congress that December one finally hears the voice of a genuine liberator declaring, "We cannot escape history….The fiery trial through which we pass, will light us down, in honor or dishonor, to the latest generation.... In giving freedom to the slave, we assure freedom to the free, honorable alike in what we give and what we preserve. We shall nobly save, or meanly lose the last, best hope of earth."</p> 
+<p>There were more ringing statements to come. By the time Lincoln rose at Gettysburg to consecrate the soldiers' cemetery that November, pettifogging legalities had yielded to great literature. "The great task remaining before us," he declared, now promised nothing less than a "new birth of freedom."</p>
+<p>Yet another moment of high drama and glorious prose came with Lincoln's magnificent apology for the sin of slavery, at his Second Inaugural Address on March 4, 1865. More than a century and a quarter later, in 1998, President Clinton issued his own formal statement of regret for slavery in Africa, noticeably stopping short of a full apology. "Going back to the time before we were even a nation, European-Americans received the fruits of the slave trade," Mr. Clinton stated. "And we were wrong in that." </p>
+<p>This was not exactly poetry either, yet the criticism it ignited was swift and severe. Republican Congressman Tom DeLay of Texas promptly railed, "Here's a flower child with gray hairs doing exactly what he did in the sixties: he's apologizing for the actions of the United States….It just offends me." And Pat Buchanan, calling Clinton "America's sorry apologist," devoted a column to defending America's innocence in the African slave trade. But criticism was heard from the left as well; Clinton had not gone far enough. Apparently not much has changed; race can still be a blazing issue. The wisest comment may have come from a "senior White House aide," who insisted, "Lincoln already apologized in his second inaugural. Why duplicate what Lincoln said? It's as definitive and eloquent an apology for slavery as you can get."</p> 
+<p>Indeed it was. Best remembered today for its conciliatory ending, urging "malice toward none" and "charity for all," the second inaugural also boasts a thunderbolt invocation of a vengeful God who "gives to North and South, this terrible war, as the woe due those by whom the offence came"&#8212;the "offence" being slavery. Lincoln showed&#8212;in perhaps the most epic of all the poetry he produced to accompany his prose proclamation&#8212;exactly what kind of national apology the sin of slaver required:
+<q rend="block">Fondly do we hope&#8212;fervently do we pray&#8212;that this mighty scourge of war may speedily pass away. Yet, if God wills that it continue, until all the wealth piled up by the bond-man's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said "the judgments of the Lord, are true and righteous altogether."</q></p>
+<p>Our judgment of history must be true as well. And though it is true that the words of the Emancipation Proclamation itself do not resonate with the passion and beauty of Abraham Lincoln's greatest public statements, sometimes, even with the greatest writer of all presidents, actions do speak louder than words.</p> 
+<p>Frederick Douglass, who more than any leader of the day understood the restraints on Lincoln and his heroic response in spite of them, knew the document would never stand the test of time as literature, line by line. But Douglass read between the lines. Even though the proclamation had been inspired, Douglass said, by "the low motive of military necessity," he realized at once that it was "a little more than it purported." As he put it, "I saw that its moral power would extend much further." In that dry document Frederick Douglass sensed a "spirit and power far beyond its letter."</p> 
+<p>Beyond its letter is clearly where modern readers must look for the true meaning of this second Declaration of Independence: beyond the conflicting public relations statements that preceded it, past the lifeless prose that characterized it, and on to the grand oratory that defended it. </p>
+<p>The day he signed the final emancipation, Lincoln took up his pen, then stopped abruptly and put it down, fingers quivering from hours of handshaking that New Year's morning. "My hand is almost paralyzed," he told the few onlookers gathered in his office. "If my name ever goes down in history, it will be for this act, and my whole soul is in it. If my hand trembles when I sign the Proclamation, all who examine the document will say, 'He hesitated'" When it counted, he did not.  After a few moments, the president took up the pen again, and as one witness remembered, "slowly, firmly wrote that 'Abraham Lincoln' with which the whole world is now familiar. He looked up, smiled, and said: 'That will do.'"</p>
+<p>Perhaps it should do for us as well. Lincoln may have used too much perspiration and too little inspiration to guarantee that America's slaves would be "thenceforward and forever free."  But that should not fool all of the people all of the time. The Emancipation Proclamation surely was the greatest act of Lincoln's age. And its legally necessary, politically expedient prose was, after all, garnished soon enough by unforgettable poetry.</p> 
+
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00026" type="commentary on history"/>	      
+		<xptr n="lby.00065" type="same subject"/>
+		<xptr n="lby.00107" type="same subject"/>
+		<xptr n="lby.00107" type="same subject"/>
+
+				</item>
+		</list>
+</div>
+
+
+	      </body>
+   </text>
+</TEI.2>

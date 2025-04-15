@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00088">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Silent Woman, Speaking Fiction:  Charles Reade's <hi rend="italic">Griffith Gaunt</hi> (1866) at the Adultery trial of Henry Ward Beecher"</title>
+		<title level="m" type="monograph"><hi rend="italic">The New Nineteenth Century:  Feminist Readings of Underread Victorian Novels</hi></title>
+		<date type="original" value="1996">1996</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Korobkin">
+Laura Hanft Korobkin
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00088</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+These excerpts from Laura Hanft Korobkin's "Silent Woman, Speaking Fiction:  Charles Reade's <hi rend="italic">Griffith Gaunt</hi> (1866) at the Adultery trial of Henry Ward Beecher" are transcribed from pages 45, 47-48, 50, 51, 53, 57 of <hi rend="italic">The New Nineteenth Century:  Feminist Readings of Underread Victorian Novels</hi>, edited by Barbara Leah Harman and Susan Meyer.  Published by Garland, 1996.
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">"Silent Woman, Speaking Fiction:  Charles Reade's <hi rend="italic">Griffith Gaunt</hi> (1866) at the Adultery trial of Henry Ward Beecher"
+</title>
+               <title level="m"><hi rend="italic">The New Nineteenth Century:  Feminist readings of Underread Victorian Novels</hi></title>
+               <author>Laura Hanft Korobkin</author>
+               <imprint>
+                  <publisher>
+Garland
+</publisher>
+                  <pubPlace>
+New York
+</pubPlace>
+               </imprint>
+               <date>
+1996
+</date>
+               <idno type="ISBN">
+081533589x
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+						<term id="fictioninpress">fiction in press</term>
+			<term id="beechertilton">Beecher-Tilton</term>
+			<term id="popularpress" type="theme">popular press</term>
+						<term id="seduction" type="theme">seduction</term>
+			<term id="adultery" type="theme">adultery</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+                     <head>1. </head><p>"Melodramatic, socially conscious, and erotically
+charged, the sensationalist novels of Charles Reade (1814-1884), including <hi rend="italic">It
+Is Never Too Late to Mend </hi>(1853), <hi rend="italic">Hard Cash </hi>(1863), <hi rend="italic">Griffith
+Gaunt </hi>(1866) and <hi rend="italic">The Cloister and the Hearth </hi>(1861), were hugely
+successful. Reade used notebooks of newspaper clippings to fashion his "matter
+of fact romances," which also protested oppressive conditions in prisons,
+mental asylums, and merchant ships....Though little known today, Reade enjoyed a
+contemporary reputation equal to that of Wilkie Collins and just behind those
+of Dickens and Eliot, well deserving of Henry James's praise for 'those great
+sympathetic guesses with which a real master attacks the truth'" (45).</p>
+</div>
+<div>
+            <head>2. </head><p>"At the Beecher-Tilton trial, Theodore Tilton
+testified that in July 1870, his wife Elizabeth tearfully confessed to him
+that, after long resistance, she had given in to Beecher's passionate
+importunities and had carried on an affair with him for close to eighteen
+months. Her confession, and Beecher's alleged admission of the affair to
+Tilton and others, were evidenced to the jury only through the second-hand
+recitals of Tilton and his witnesses. Not surprisingly, Beecher denied every
+word. Part of Theodore's claim was based on Elizabeth's own words, however.
+He alleged that reading <hi rend="italic">Griffith Gaunt </hi>had convinced Elizabeth for the
+first time to reject Beecher's claim that their adultery was so "pure" that it
+did not violate her marriage vows. As proof, Tilton introduced a letter Elizabeth had written to him about a year after her initial confession. This key document
+merits full quotation:</p>
+<text type="correspondence">
+	<body>
+	<opener>
+         <dateline>June 29, 1871</dateline>
+
+         <salute>My dear Theodore</salute></opener> 
+
+<p>
+To-day, through the ministry of Catherine Gaunt, a character of fiction, my eyes have been opened, for the first time in my experience, so that I see clearly my sin. It was when I knew that I was loved, to suffer it to grow to a passion. A virtuous woman should
+check instantly an absorbing love. But it appeared to me in such false light.
+That the love I felt and received could harm no one, not even you, I have believed
+unfalteringly until 4 o'clock this afternoon, when the heavenly vision dawned on
+me. I see now, as never before, the wrong I have done you, and hasten
+immediately to ask your pardon, with a penitence so sincere that henceforth (if reason
+remains) you may trust me implicitly. Oh! my dear Theo., though your opinions are
+not restful or congenial to my soul, yet my own integrity and purity are a
+sacred and holy thing to me. Bless God, with me, for Catherine Gaunt, and for all the
+sure leadings of an all-wise and loving Providence. Yes; now I feel quite
+prepared to renew my marriage vow with you, to keep it as the Savior requireth,
+who looketh at the eye and the heart. Never before could I say this. I know not
+that you are yet able, or ever will be, to say this to <hi rend="italic">me. </hi>Still, with what
+profound thankfulness that I am come to this sure foundation, and that my feet are
+planted on the rock of this great truth you cannot at all realize.</p>
+
+         <p>When you yearn toward me with any
+true feeling, be assured of the tried, purified and restored love of ELIZABETH.</p>
+	</body>
+	</text>
+
+         <p>Responding to Elizabeth's epistolary assertion that Reade's
+novel had triggered a profound moral reevaluation of her past life, lawyers for
+both sides described and interpreted the novel at length to the jury. In a
+three-link chain of interactive analysis, arguments about the novel's meaning
+were used to interpret the letter" (47-48).</p>
+</div>
+<div>
+         <head>3. </head><p>"Elizabeth Tilton approached the burning passions
+and bigamous illegitimacies of <hi rend="italic">Griffith Gaunt </hi>with a set of skills and
+expectations developed through her participation in mid-Victorian sentimental
+and religious culture. Significantly, the most striking aspect of her
+"Catherine Gaunt" letter is its spirituality, a response that presumes an
+overpoweringly moral stimulus" (50).</p>
+</div>
+<div>
+         <head>4. </head><p>"Modern and Victorian critics identify the novel's
+steaminess as its most salient characteristic. And while they may disagree
+heartily about the advisability of encouraging female readers toward a more
+assertive sexuality, both sets of critics agree that, like other sensational bestsellers,
+<hi rend="italic">Griffith Gaunt </hi>did just that. But if many readers found the work more
+salacious than seemly, Elizabeth Tilton was not among them. Her letter
+suggests that, for one reader at least, the novel's signifying center was
+precisely its capacity not just to render but to judge sexuality" (51).</p>
+</div>
+<div>
+         <head>5. </head><p>"The semiotic slippage reflected in Elizabeth's
+letter, its circulation of signification between heroine and reader, fictional
+and factual life story, was of course exactly what made it useful for Beecher's
+and Tilton's attorneys at trial...William Maxwell Evarts, Beecher's lead counsel,
+treated <hi rend="italic">Griffith Gaunt </hi>as a black-letter narrative of the relations
+between Elizabeth, her husband, and Beecher. For him, the correspondence
+between fictional heroine and actual woman was absolute: Elizabeth was
+sexually faithful to her husband because Catherine Gaunt did not commit
+adultery with her priest" (53).</p>
+</div>
+<div>
+         <head>6. </head><p>"While it was the legal order that excluded her
+testimony from the trial, a decision permitting her to speak would not have
+been likely to produce any truly authentic self-expression. Elizabeth Tilton's
+correspondence and her out-of-court statements are a stunning record of
+inconsistency, registering throughout an urgent desire to be and to say what
+the men in her life wanted to have and to hear. Indeed, her various
+confessions and retractions must ultimately be read as the ventriloquized
+statements of whichever men happened to be dictating at the time" (57). </p>
+</div>
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+	
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00033" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

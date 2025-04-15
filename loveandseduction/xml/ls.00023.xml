@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00023">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"A Devout Debaucher"
+
+</title>
+
+<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name=""></author>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00023</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 10 of the May 11, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">A Devout Debaucher</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+May 11, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="carriage" type="setting">carriage</term>
+			<term id="boudoir" type="setting">boudoir</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                     <head>
+A DEVOUT DEBAUCHER</head>
+		<head>
+How a Nice young Christian Man Improved the Shining Hours of a Sunday School Convention</head>
+		<head>BY THE SEDUCTION</head>	
+		<head>
+Of a Fair Young Fellow-Member at the Hotel Where the Brethren and Sisters Put Up</head>
+		<head>
+BUT, LIKE BEECHER, HE DENIES</head>
+
+                  <p>Greensburg, Ind., May 1 &#8212; Greensburg is enjoying another bit
+of scandal, the dimensions of which are alarming. It is a case of
+"nest-hiding," and the Elizabeth Tilton Beecher in it has confessed. The
+matter has not yet found its way into court, but it will probably reach there
+ere many days. By it the Christian Church is brought into notoriety, all
+parties interested being members of that organization, and also of "high-toned"
+society, the gentler party of the first part being no less a personage than
+Miss Hannah white, step-daughter of Mr. Samuel McLaughlin, one of the most
+highly-honored citizens of Decatur county. Miss White is a blooming maiden of
+twenty-one summers&#8212;old enough to know better&#8212;is a tall, handsome brunette,
+and has moved in Greenburg's best society, indeed has been regarded as a
+veritable belle.</p>
+
+         <p>The sterner party to the questionable
+transaction, or at least the young man upon whom the responsibility threatens
+to rest, and who has already received an invitation to walk up to the
+clergyman's office&#8212;marriage license in hand&#8212;and settle, is a dashing young
+widower of about thirty-five years, Mr. Newton Hazelrigg, of the well-known
+carriage manufacturing firm of Crawford &amp; Hazelrigg.</p>
+
+         <p>A few months since, say three or four, the
+family physician of McL. was called upon to attend Miss Hannah, her health
+being declared in a precarious condition. The Doctor pronounced the case one
+of "dropsy," and treated it accordingly, until about the first of last week.
+At that time it happened that a party was held at the residence of one of the
+brethren, and the ladies very naturally discussed the fortunes and misfortunes
+of their own sex. The conversation finally turning upon Miss White, one of the
+ladies remarked she "guessed the dropsy would soon fall into Hannah's arms."  This remark naturally impressed the Doctor's wife, and when
+she returned home she related to him what she had heard at the party. Availing
+himself of this information, he declared that he would immediately visit his patient
+and make an effort to extort from her the truth as to her condition.</p>
+
+         <p>Putting the question squarely to Miss Hannah,
+she confessed that she was <hi rend="italic">enceinte</hi>, had been since September last, and
+then related the history of her trouble. At the time the mischief was done,
+she says she was at Rushville, Ind., in company with other members of the
+Christian Church, in attendance upon a Sunday school convention &#8212; among the
+number the reputed father of the child. She says that he coaxed so hard to
+occupy the same room with her at the hotel that she finally consented, and the
+result was the casting of a shadow.</p>
+
+         <p>The close proximity of the period when she
+should become a mother demanded that something should be done to save her from
+the disgrace that would inevitably attach to her. The reputed father, or
+rather the man whom Miss White designates as her room-mate at Rushville,
+Hazelrigg, was at Columbus, Ind., on business. Last week, a couple of friends
+of the family procured a carriage and went after him. The <hi rend="italic">denouement </hi>made,
+he declared that it was the first intimation he had received of the condition
+of the young lady. Returning home with them on Saturday night he called at the
+McLaughlin residence, and found out "what was the matter with Hannah." He was
+convinced of the truth of what he had heard. The mother, keenly smarting under
+the development, sternly demanded that he should marry her daughter; that he
+was the author of her ruin, and was in honor bound to make all possible reparation.  He protested that he was not the father of the child; that
+others &#8212; one a married man&#8212;had also been guilty of too close an intimacy with
+Miss Hannah; that they had "put up a job" on him for the purpose of screening
+themselves. He said to your reporter to-day that he knew he could not be the
+father of the prospective child, and that he would fight to the bitter end any
+attempt to make him appear as such. He acknowledged that he was with Miss
+White at Rushville, and that like the characters in the Dickey-Tyrus drama,
+they had taken a pleasant ride in a carriage. He even went so far as to say
+that he knew beyond peradventure that Miss White had become familiarly
+acquainted with other young men in town as with himself, that indeed one of
+these young men had first intimated to him that Miss W. was not possessed of
+moral compunctions, and that through these very intimations and insinuations he
+had been led to seek a further acquaintance with the lady in question. It is
+alleged that inducements were offered in the shape of a house, furniture, and
+considerable cash, if Hazelrigg would marry the young lady; that he obstinately
+repelled their offers; and declared that if they attempted to force him by
+litigation he would make revelations that would cause "other hearts to ache." 
+He claims even that one or two other members of the church have also been
+guilty of the same indiscretion that he has.</p>
+
+         <p>As yet the trouble has not appeared in court,
+nor have any preliminary papers been filed, but it is fair to suppose that the
+friends of the poor girl, occupying as they do a proud social position, will
+not suffer her misfortunes to go unrevenged. Some kind of redress will likely
+be sought. Of the 5,000 people in Greenville probably about 4,900 are
+discussing the merits of the case. It is, perhaps, proper to add that the
+fingers have all been counted in Greenburg, and it is said that on or about the
+5th of next month the trouble will culminate.</p>
+         <div1 type="file references">
+            <list>
+		<item><xptr n="ls.00014" type="same subject"/></item>
+
+               	<item><xptr n="ls.00003" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00033" type="same subject"/></item>
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+
+      </body>
+   </text>
+</TEI.2>

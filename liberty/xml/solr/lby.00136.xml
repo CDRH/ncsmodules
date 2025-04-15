@@ -1,0 +1,14 @@
+<add>
+   <doc>
+      <field name="id">lby.00136</field>
+      <field name="title">Major General Comte Jean de Rochambeau</field>
+      <field name="project">liberty</field>
+      <field name="place">american</field>
+      <field name="genre">sculpture</field>
+      <field name="place">french</field>
+      <field name="topic">americanrevolution</field>
+      <field name="topic">gender</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

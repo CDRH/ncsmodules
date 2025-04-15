@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00095">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Natural History of Courtship</hi></title>
+		<title level="c" type="chapter">"The Rationale of Match-making"</title>
+
+		<title level="j" type="journal"><hi rend="italic">Punch</hi></title>
+		<date type="original" value="1842">1842</date>
+
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Wills">W.H. Wills
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00095</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 25-26 of the original 1842 publication of <hi rend="italic">Punch</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Rationale of Match-making</title>
+               <title level="m">The Natural History of Courtship</title>
+               <author>anonymous</author>
+               <imprint>
+                  <publisher>
+Punch
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+1842
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="publicspace" type="setting">public space</term>
+               <term id="dance" type="setting">dance</term>
+			<term id="courtship" type="theme">courtship</term>
+			<term id="class" type="theme">class</term>
+			<term id="arrangedmarriage" type="theme">arranged marriage</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-25">25 February 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+ 
+         <p>The genius who would indite a poem on Salisbury
+Plain, and forget to mention Stonehenge &#8212; the manager who might cause "Hamlet"
+to be performed, and inadvertently omit to bring forward the Prince of Denmark
+ a Br&#233;guet or a Barwise, who should turn a watch out of hand in a state of
+exquisite completeness, all but the main-spring &#8212; deserves, I am told, no
+greater ridicule than he who, in particularizing the "Implements of Courtship,"
+leaves out its busiest agent; in many instances its <hi rend="italic">primum mobile </hi> &#8212;
+Match-making.</p>
+
+         <p>First on the list of match-makers is the
+undisguised professor of the art, whom Fashion, borrowing a sly hint from
+Satire, has named the "Chaperon" &#8212; that is to say, the hood, the blind, the
+blinker, the masked-battery from behind which Beauty discharges her arrows.
+She is, in most cases, a widow, having accumulated a large experience in love
+affairs during the "getting off" all her own daughters; in which she has
+admirably succeeded. Match-making has consequently become her passion &#8212; the
+grand excitement of existence &#8212; what hazard is to the gamester. She cannot
+live without it, and therefore becomes matrimonial agent to less experienced
+mothers, who are blessed with daughters to be "provided for."</p>
+
+         <p>Out of the legion of this class I could name,
+the Honourable Mrs. Couple takes unquestionably the foremost place, from her
+unmatched proficiency in matrimonial strategetics. I happened to be her
+partner the other evening, at the Watertons', in a rubber. Playing at whist
+is, with her, all a pretence; other people play for amusement, she shuffles and
+cuts upon business. The stakes, nominally, were half-a-crown points, &#8212; really
+her venture was one of our adversaries himself &#8212; a rich young baronet! She opens
+the game at the very first deal, thus: &#8212;</p>
+
+         <p>"It really <hi rend="italic">is </hi>kind of you, Sir Charles,
+to settle down to whist, while the attractions in the ball-room are so far
+superior; where &#8212;"</p>
+
+         <p>"Hearts are trumps, I think," interrupted Sir
+Charles's partner.</p>
+
+         <p>"No, diamonds. I have heard immense things of
+your waltzing, Sir Charles. My young friend, Miss Rose Robinson, is also a
+lovely <hi rend="italic">danseuse &#8212; </hi>(my play&#8212; a thousand pardons). By-the-bye, Mr.
+Buss, what has become of your friend, Mr. Kennedy?"</p>
+
+         <p>"Five minutes ago I saw him dancing with the
+lady you mention," I replied.</p>
+
+         <p>"Well," responded Mrs. Couple, looking straight
+at the baronet to watch the effect of her words, "I must say they are an
+extremely handsome couple."</p>
+
+         <p>Sir Charles Simper looked up, bit his lip, and
+lost three tricks by a revoke!</p>
+
+         <p>The lady's point was gained &#8212; her game so far
+won. Rose Robinson had excited an interest in Sir Charles; a foundation <hi rend="italic">did
+</hi>exist for the superstructure of maneuvering by which she intended to
+complete the match. His emotion on her mentioning the name of another in the
+same breath with Rose's was conclusive.</p>
+
+         <p>Meanwhile Miss Robinson, who in the last chapter
+was in doubt how to act concerning certain <hi rend="italic">billets, </hi>was, when our whist
+party broke up, waltzing right furiously with their author, Mr. Frank Kennedy.
+An ordinary chaperon would have swooned at the inauspicious sight; but Mrs.
+Couple knew better; her experience told her that for fanning the slow burning
+flame of a doubtful or recently kindled passion there is nothing so effectual
+as a rival. She was right. Sir Charles claimed Rose's hand for the next
+dance, and seemed very unwilling to resign it to a new partner.</p>
+
+         <p>Those who compose the second class, become
+match-makers entirely from a spirit &#8212; said to be peculiarly strong in the fair
+sex &#8212; of mischief; from feeling that mitigation of suffering, or increase of
+happiness which is experienced by getting other people into the same scrape
+they find themselves in; from, in short, longing to see their <hi rend="italic">femme sole </hi>friends
+married as well as themselves. This desire appears to take the fastest hold in
+wives whose matrimonial age amounts to from one to three years &#8212; for example &#8212;:</p>
+
+         <p>Pelham Plumer, who, as he has often declared to
+me, met Miss Murray by the merest accident in life, will be extremely
+astonished, if he sees these papers, and learns that the whole accident was an <hi rend="italic">affaire
+arrang&#233;e, </hi>got up under the able management of the damsel's married cousin,
+in manner following: &#8212; One evening Mrs. Keppel met Plumer at a party, was
+struck with the extreme neatness of his dress, the precision of his demeanour,
+and the very comfortable-in-circumstances aspect of his whole appearance. She
+at once decided that he would make an unexceptionable husband for her cousin
+and confidante Maria Murray.</p>
+
+         <p>In a few days, the spinster, then at Brighton,
+received a letter from Mrs. Keppel, to which a postscript was appended to the
+effect that &#8212; "Talking of men, an exceedingly grave good-looking personage
+appeared at the S&#8212;'s last night, whom I ascertained holds a superior office
+in the Treasury (say seven hundred a year). He resides at Mrs. Scraper's
+Boarding-house in our Square, and walks in the enclosure every morning from
+nine till ten. I shall certainly get him into our set, <hi rend="italic">if, </hi>dearest
+Maria, you will come and spend the next month with us."</p>
+
+         <p>One of the results of this intimation, our
+readers know; another was, that in the fourth of the morning walks &#8212; by which
+time the eye-conversation had been carried to its utmost limits &#8212; Mrs. Keppel
+accompanied her cousin, and claimed acquaintance with Plumer upon the strength
+of having met him once at the S&#8212;'s. A speaking <hi rend="italic">connaissance </hi>was thus
+established between Pelham and the young lady from Brighton, which promised to
+be a lasting one; for, true to her word, Mrs. Keppel asked him to her next <hi rend="italic">soir&#233;e.</hi>
+         </p>
+
+         <p>A third kind of match-making, is that
+negociated between the Court and the City &#8212; between rank and riches &#8212; between
+the coronet and the counter. Electioneering, or some other expensive
+amusement, has driven the Earl of Lumberton frequently to Lombard-street.
+Amongst our City news, he hears of a rich heiress or a <hi rend="italic">pass&#233;e </hi>widow with
+"a plum." An introduction is speedily procured for his eldest son, Lord Tom, a
+dashing fellow, who receives orders to make love to the fortune. All is soon
+arranged, and in a month or two, the whole catastrophe appears in the <hi rend="italic">Morning
+Post, </hi>under the head of "A Marriage in High Life." When city fortunes are
+very immense indeed, they become celebrated, and are spoken of in the same
+terms one mentions the Arcot Diamond or the Duke of Northumberland. Royalty
+itself has interfered in such cases. A Duke and a banker's widow have, before
+now, been united by sovereign agency; so that match-making is not so ignoble an
+employment after all!</p>
+
+         <p>A purely city match comes next. The fathers are
+the match-makers and the courtship is carried on by means of bankers' cheques
+and ledgers. George Bacon must "have" Mary Hammon, because both their parents
+are provision-dealers, so that the business connexions may be joined as well as
+the young people; &#8212;that is to say, if the money accounts can be satisfactorily
+adjusted. "These kind of people," says the Baron Moratin, "take a pen, and
+make out on a sheet of paper, a statement of the property. Four and two make
+six; eight and seven make fifteen; add so much, deduct so much, and there
+remains so much. They cast up the account at the foot of the page, and,
+according to its total amount, so there is, or is not &#8212; a marriage."</p>
+
+         <p>This is also the case with many "county"
+matches; but, instead of employing accountants in this instance, land-surveyors
+are called on; and, upon their report, the "happy event" is made to depend.</p>
+	
+	<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00055" type="same fiction"/></item>
+
+		<item><xptr n="ls.00096" type="same fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00143" type="image on fiction"/></item>
+		<item><xptr n="ls.00144" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00145" type="image on fiction"/></item>
+		<item><xptr n="ls.00146" type="image on fiction"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

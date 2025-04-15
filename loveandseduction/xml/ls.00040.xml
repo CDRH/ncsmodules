@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00040">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Life and Work of Henry Ward Beecher</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapters XIX and XX, "The Great Scandal"</title>
+<title level="m" type="monograph"></title>
+<author name="Knox">Thomas W. Knox</author>
+<date type="original" value="1887">1887</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00040</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 400-435 of the original 1887 publication of Thomas W. Knox's <hi rend="italic">Life and Work of Henry Ward Beecher</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapters XIX and XX, "The Great Scandal"</title>
+               <title level="m"><hi rend="italic">Life and Work of Henry Ward Beecher</hi></title>
+               <author>Thomas W. Knox</author>
+               <imprint>
+                  <publisher>
+The Hartford Publishing Company
+
+</publisher>
+                  <pubPlace>
+Hartford, Connecticut
+
+</pubPlace>
+               </imprint>
+               <date>
+1887
+
+</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="seduction" type="theme">seduction</term>
+               <term id="adultery" type="theme">adultery</term>
+			<term id="popularpress" type="theme">popular press</term>
+			<term id="history" type="media">history</term>
+			<term id="american" type="place">American</term>
+			<term id="parlor" type="setting">parlor</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-07">07 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>	
+
+<head>Chapter XIX:  The Great Scandal</head>
+
+<p>In
+1851, a bright young stenographer, only sixteen years of age, Theodore Tilton
+by name, came into Plymouth Church to take down Mr. Beecher's sermons for
+publication, a practice which was then a novelty. He was engaged by Henry C.
+Bowen, one of the founders of the church, upon <hi rend="italic">The Independent</hi> of which
+journal Mr. Bowen was a proprietor, and in 1861 he succeeded Mr. Beecher as
+editor-in-chief of the paper.  He developed considerable power as a writer and
+speaker, especially in the anti-slavery contest, and gained the warm friendship
+of Mr. Beecher, who regarded him as "one of my boys." Towards 1870
+some difference arose between Mr. Bowen, then sole proprietor of <hi rend="italic">The Independent</hi>,
+and Mr. Beecher. Meanwhile Mr. Tilton's domestic life was not a happy one. In
+December, 1870, Mrs. Tilton left her husband's house and sought her mother's
+protection. Mr. Beecher was consulted, and finally counselled a separation,
+and the rupture between Tilton and Mr. Beecher was complete. Mr. Tilton
+obtained possession of his infant child in its mother's absence, and then the
+mother returned to him. At this time Mr. Tilton had retired from the editorship
+of <hi rend="italic">The Independent</hi>, to which, however, he still continued to contribute,
+and was editor-in-chief of the <hi rend="italic">Brooklyn Union</hi>, of which Mr. Bowen was
+one of the proprietors. To Mr. Bowen came stories prejudicial to Tilton's moral
+character, and he meditated dismissing him.</p>
+
+
+<p>An interview was held on December 26, 1870, in
+the course of which the conversation passed from the immediate topic to the
+necessity of frequent notices of Plymouth Church and its pastor in the <hi rend="italic">Brooklyn
+Union</hi>. Tilton objected, and charged Mr. Beecher with "dishonorable
+conduct toward his wife." Bringing pen and paper, Mr. Bowen invited Tilton
+to write a letter demanding that Mr. Beecher resign from Plymouth Church and leave <hi rend="italic">The Christian Union</hi>. Tilton did so. Mr. Bowen took the letter to Mr.
+Beecher, who read it and said: "This is sheer insanity; this man is
+crazy." Soon afterward Tilton was dismissed from both the positions
+which he held. It was now necessary for him to submit evidence against Mr.
+Beecher or to confess himself a slanderer. He sought this from his wife. As
+to what the precise confession then obtained from her was the testimony
+conflicted. The letter was two years afterward destroyed. The progress of
+events was not rapid. Mrs. Tilton retracted in Mr. Beecher's presence every
+accusation made against him; Francis D. Moulton appeared as the "mutual
+friend;" Mr. Beecher made a tumultuous expression of grief and shame, of
+which Mr. Moulton took down a statement; Mr. Tilton and Mr. Beecher met, and a
+reconciliation was effected. A new paper called <hi rend="italic">The Golden Age,</hi> was
+started, with Tilton at its head, for which purpose Mr. Beecher and friends of
+Mr. Moulton contributed sums of money.</p>
+
+
+<p>On April 2, 1872 the "tripartite covenant"
+between Beecher, Bowen, and Tilton was signed, promising silence as to the past
+and goodwill for the future. But ugly rumors began to be heard. Tilton aided
+their distribution, Mr. Beecher's friends became uneasy, and in 1873 he broke
+silence with a card of denial. Tilton was charged in the church with being a
+slanderer of his pastor, and his name was stricken from the rolls. But more was
+demanded.  An ecclesiastical council was called, nominally in regard to the
+irregularity of this proceeding, really to make some attempt at an
+investigation. Its work amounted to nothing, except to deepen the uneasy
+feeling that some great scandal was about to be brought to light. Then Tilton,
+to clear himself, published the Bacon letter, the first of the statements
+preceding the trial, in which he quoted from Mr. Beecher's alleged confession
+of January 1, 1871. Mr. Beecher at once took action and demanded an
+investigation, which six well-known members of Ply mouth Church were appointed
+to conduct. Another effort to compromise the matter was made in vain, and at
+last, in August, 1874, four years and more after the wrong was charged to have
+been committed, Tilton brought his suit, placing his damages at $100,000. The
+charge of adultery was first publicly preferred in July, 1874, and the
+complaint served in August, when issue was immediately joined. The trial was
+begun in January, 1875. Subjects were dealt with extending over five or six
+years. About two hundred and fifty documents were introduced and analyzed. More
+than one hundred different interviews were examined into, and in respect to
+many of them the sworn testimony of witnesses was in irreconcilable disagreement.  Printed
+in small type, the testimony that was published filled three thousand foolscap
+pages, and the report of the proceedings would fill four or five large legal
+volumes. Over one hundred and fifty distinct rulings on points of law were
+made by the judge, which were noted by the defendant's counsel, and nearly as
+many questions were raised and decided during the defendant's presentation of
+his case.</p>
+
+
+<p>Judge Neilson sat upon the bench. The most
+eminent counsel were employed on either side. For Tilton appeared Mr. Pryor, a
+man of wide learning and active mind, Mr. Fullerton, a master of the art of
+cross-questioning, and Mr. Beach, a sharp, pithy, and forcible speaker.</p>
+
+
+<p>Mr. Beecher was represented by Mr. Evarts, who
+gained new laurels as an advocate before a jury; Austin Abbott, distinguished
+for his legal learning and the publications bearing his name, whose foresight
+and system were apparent in the presentation of the defendant's case; Mr.
+Porter, quick to see and decide upon knotty points; and Mr. Tracy, an effective
+orator. The positions of the persons interested, the differing characteristics
+of the multitudinous witnesses, the crowds of prominent men from all parts of
+the country who packed the courtroom daily, and the wholesale publicity given
+by the press, all conspired to make this trial a striking and unprecedented
+event. From January until June the lawyers struggled, and a curious public
+gloated over the daily details of the great scandal. Then came the summing up
+on each side and the judge's charge.  The deliberations of the jury continued
+for eight days. Fifty-two ballots were taken, the first and last being nine
+for Mr. Beecher and three for Tilton. On one ballot the jury stood eleven to
+one, and on another seven to five, in favor of Mr. Beecher. </p>
+
+
+<p>After the close of this trial the matter was
+taken up by the Grand jury, which called Mr. Beecher as a witness and found an
+indictment against Francis D. Moulton for libel. The District Attorney,
+however, never brought the case to trial, and after he had officially indicated
+this decision by entering a <hi rend="italic">nolle prosequi</hi>, Moulton brought a suit
+against Mr. Beecher for malicious prosecution. Mr. Beecher's counsel
+defended him vigorously, and Moulton abandoned his suit. Questions then arose
+respecting the regularity of the proceedings in Plymouth Church by which Mr.
+Beecher had been acquitted, and a council of Congregational churches and
+ministers, said to be the largest that ever assembled, was called to advise with
+Plymouth Church respecting its proceedings. This council did not undertake a
+direct examination of the charges. It simply examined into the history of the
+action of Plymouth Church, and in this inquiry spent nearly a week. The result
+was that Christian fellowship was extended to Mr. Beecher, the confidence of
+the council in his integrity was affirmed, and a tribunal of eminent jurists
+was appointed to investigate any charges that might be laid before them, though
+none were ever laid.</p>
+
+<p>To many who hated Mr. Beecher for political or
+theological reasons, "the great scandal" was an opportunity to
+despise him for which they were not ungrateful. But many who loved him and
+honored him were obliged to feel that the evidence of his own hand convicted
+him of a shameful fault. Guilty or innocent, his was a fearful trial, and
+nothing in his life became him like his bearing of it. It was terrible to meet
+him then upon the street, he seemed so bowed and broken; his once cheerful face
+was so worn and weary with the sorrow of his heart. It is a patent fact that
+never after that did he have the weight, the influence, the authority in
+political or religious matters that he had before. It is equally patent that
+the afterthought of many whose judgment was at first adverse to him grew less
+and less so as the years went on. And it is certain that few who are not
+willing to think evil of him for the basest reasons would now hesitate to say
+that whatever may have been his fault, it is still true that in the general
+sweep and tenor of his life he was a man devoted to all excellent and useful
+ideas. It is equally certain that there are many others, and a much greater
+number, who have not and who never had a doubt of his complete and perfect
+innocence. And furthermore, a very great majority of those who personally knew
+him believed in his innocence, while comparatively few of those who supported
+the accusation were acquainted with Mr. Beecher or had ever exchanged a word
+with him.</p>
+
+<p>[The following account of the trial has been carefully
+and impartially abridged from the official report.]</p>
+
+<p>The answer to Mr. Tilton's complaint was a
+general and unqualified denial, and was made August 29, 1874. On the 17th of
+the following October judge Neilson, Chief justice of the City Court of Brooklyn,
+granted an order requiring the plaintiff to deliver to the defendant's
+attorneys a statement in writing of the particular times and places at which he
+expected or intended to prove that any acts of adultery or criminal intercourse
+had taken place between the defendant and the wife of the plaintiff, and of the
+particular times and places at which he expected or intended to prove that the
+defendant confessed any such act of adultery, or show cause why such bill of
+particulars should not be delivered, and why the plaintiff should not be
+precluded from giving evidence on the trial of any such acts or confessions not
+specified in such bill of particulars. In the affidavit accompanying the order
+attention was called to an alleged confession of Mr. Beecher and Mrs. Tilton,
+and it was emphatically denied that any such confession had ever been made.</p>
+
+<p>The motion for a bill of particulars was argued
+at a special term of the City Court of Brooklyn, October 30, 1874, before Chief
+justice Neilson, and was denied without costs. The defendant's attorneys
+appealed from the order of Judge Neilson to the General Term of the City Court,
+and the appeal was heard by Judges Reynolds and McCue. The order denying the
+bill of particulars was affirmed, without costs, Judge Reynolds writing the
+opinion. A dissenting opinion was written by Judge McCue.</p>
+
+<p>From the decision of the General Term an appeal
+was taken to the Court of Appeals, and the decision of the General Term of the
+City Court was reversed. The counsel for the defendant then renewed their
+application for a bill of particulars before Judge McCue, at a Special Term of
+the City Court, December 10, 1874, and the application was granted. From this
+decision the plaintiff appealed to the General Term, and the appeal having been
+heard before Judges Neilson and Reynolds, an order was entered on December
+29th, reversing Judge McCue's order. The order for a bill of particulars having
+been finally refused, the suit went to trial upon Mr. Tilton's original
+complaint, made on August 21, 1874.</p>
+
+<p>The cause was called on Monday, January 4, 1875,
+by Judge McCue, in the Brooklyn City Court, Part I. Mr. Beecher and his counsel
+were present, but as the case was called two hours before the time understood
+by the plaintiff's counsel, Mr. Tilton was not represented, except by Mr.
+Pearsall, whose attendance was accidental. He answered to the call, but
+insisted on an adjournment till the next day. Judge McCue, by right of
+assignment, should have held the term, but there had been an implied understanding
+that the case should be sent to Judge Neilson. In the preliminary contests in
+which Judge McCue had granted a bill of particulars, and Judge Neilson had
+denied it, the opinion of both judges as to the nature of the evidence to be
+admitted on this particular case was foreshadowed. Naturally, Mr. Beecher's
+counsel were anxious that the case should be tried before Judge McCue, while
+the plaintiff preferred Judge Neilson. It was thought on this first day that
+Judge McCue would preside, but in accordance with Mr. Pearsall's desire the
+case was adjourned till 11 a.m. next day, and the matter left undecided. On
+Tuesday, January 5th, after hearing the arguments of the counsel on both sides,
+and after consulting with his associates, Judge McCue decided to send the case
+to the other part of the Court, presided over by Judge Neilson. By Friday,
+January 8th, the impanelling of the jury was completed.</p>
+
+<p>The trial may be said to have really commenced
+on Monday, January 11th, with the address of ex-Judge Morris. The main points
+touched on in this address were the alleged confessions of Mr. Beecher and Mrs.
+Tilton to Mr. Tilton, Mrs. Moulton, and others; the correspondence of Mr. Beecher;
+the letters of Mrs. Tilton and Mrs. Morse; the alleged clandestine correspondence
+between Mr. Beecher and Mrs. Tilton; and the circumstantial evidence in the
+efforts which Mr. Beecher made for concealment.</p>
+
+<p>Every seat in the court was occupied, admission
+being allowed by ticket only. All eyes turned to the door-way as Mr. Beecher,
+accompanied by Mrs. Beecher, entered the court-room.</p>
+
+<p>The opening address was closed on the morning of
+January 13th, and two witnesses were called to the stand &#8212;Augustus Maverick and
+Francis D. Moulton. The former gave unimportant testimony in relation to Mr.
+Tilton's marriage. Mr. Moulton's testimony related to the first meeting between
+Mr. Tilton and Mr. Beecher at his house, the circumstances under which the
+apology was written, and the subsequent interview between himself and Mr.
+Beecher on the subject of Mrs. Tilton's retraction. He identified the various
+documents, letters, etc., that had become part and parcel of the case, including
+Mr. Tilton's demand that Mr. Beecher should leave the ministry, Mrs. Morse's
+letter to Mr. Beecher and his reply, sundry letters from Mr. Beecher to Mr.
+Moulton, Mrs. Tilton, and what were termed the <hi rend="italic">clandestine letters</hi>; also Mr.
+Beecher's letter to Mr. Moulton, in which Mr. Tilton's character was analyzed.
+At one point in his testimony the witness stated that Mr. Tilton threatened to
+shoot Mr. Beecher if the resignation of the pastorate should be published,
+because it would disgrace the Livingston Street household. The letter of Mrs.
+Victoria C. Woodhull to the <hi rend="italic">World</hi>, May 22, 1871, was put in as evidence, and
+Mr. Beecher's cards challenging Mrs. Woodhull or anyone else who had letters
+of his to publish them; also the West specifications against Mr. Tilton, and
+the tripartite agreement between Mr. Beecher, Mr. Tilton, and Henry C. Bowen. The
+scenes in the Plymouth controversy were reviewed, and the effect of the
+publication of the Bacon letter. It was the object of the plaintiff's counsel
+to present the witness to the jury in the light of Mr. Beecher's friend;
+whereas, the defence, in the cross-examination, introduced him as the school-mate
+and life-long friend of Mr. Tilton. His cross-examination related to his
+acquaintance with Mrs. Woodhull, his accounts with Mr. Beecher, his stock in
+<hi rend="italic">The Golden Age</hi>, and other matters.</p> 
+
+<p>Mrs. Martha A. Bradshaw, William F. West,
+and Franklin Woodruff gave evidence, and then Mr. Tilton was called. The
+defence at once objected, on the ground that a husband was incompetent to prove
+his wife's dishonor. The senior counsel, Mr. Evarts, made the appeal, citing
+authorities and examples in proof of the claim set up. General Roger A. Pryor,
+of counsel for the plaintiff, answered the argument of Mr. Evarts, and was
+followed by Mr. Beach, Mr. Tilton's senior counsel, in further proof of the
+competency of his client to testify. Mr. Evarts replied, and Judge Neilson
+decided that the plaintiff was a competent witness, but that he could not
+testify to confidential communications.</p>
+
+
+<p>Thereupon, on the morning of the sixteenth day
+of the proceedings, Mr. Tilton was sworn, and proceeded to give his evidence.</p>
+
+<p>He told the story of his early career, and
+related the story of the memorable interviews between himself and Mr. Beecher
+on December 30, 1870, and subsequently. The contents of the letter of
+confession offered from memory by the witness were ruled out. He swore
+that instead of being a bankrupt in 1871 he owned property valued at $30,000. He
+said that on the evening in December, 1870, when Mr. Moulton had brought Mr.
+Beecher to his house, he and Mr. Beecher had a private interview. He had then
+told Mr. Beecher that he might consider the letter he had written demanding the
+former's retirement from the pulpit as unwritten, and that the interview was
+held in the confidence of his wife and in her behalf. Mr. Beecher had said
+that Mr. Moulton had shown him no statement, but that he understood in general
+terms the object of the interview, and he expressed his thanks for the
+withdrawal of the letter. He had then informed Mr. Beecher that Mr. Bowen had
+made a statement that "You have been guilty of adulteries with numerous
+members of your congregation ever since your Indianapolis pastorate, all down
+through these twenty-five years; that you are not a safe man to dwell in a
+Christian community; that he knows numerous cases where you have shipwrecked
+the happiness of Christian homes; that he is determined you shall no longer
+edit <hi rend="italic">The Christian Union</hi>; that you shall no longer speak in Plymouth Church;
+and he says distinctly that you are a wolf in the fold and that you should be
+extirpated."</p>
+
+<p>Mr. Beecher was amazed that Mr. Bowen should
+have so spoken, as he had appeared to be friendly. Witness informed Mr.
+Beecher that after his interview with Mr. Bowen he had narrated the substance
+of the interview to his wife, who was ill, and the intelligence had filled her
+with profound distress, and she had instantly said that he was violating the
+promise he had made her&#8212;that he would never do Mr. Beecher any harm or ever
+assist in any exposure of his secret to the public. She had said that if Mr.
+Bowen made war upon Mr. Beecher, and if he (witness) joined in it, everybody
+sooner or later would know the reason, and that would be to her shame and the
+children's, and she could not endure it. Mr. Beecher had asked him what he
+meant by speaking of his wife in that way, and he had then read him a copy of
+Mrs. Tilton's confession, the original of which was in Mr. Moulton's
+possession. That confession had been destroyed after the tripartite agreement
+had been signed.</p>
+
+<p>The next interview he had had with Mr. Beecher
+was about January 3, 1871, at Mr. Moulton's house. He had not then wished to
+speak to Mr. Beecher, who had ruined his wife and broken up his home, but at
+Mr. Moulton's request he said "Good-morning" to him. Mr. Beecher
+said that he did not marvel that witness did not feel like speaking to him, but
+that he felt more dread in being spoken to than he could possibly feel
+repugnance in speaking, and that he hoped witness had found it in his heart to
+accept the communication which he had made through Mr. Moulton&#8212;that he had
+dictated it out of heart-break and anguish.</p>
+
+<p>The next interview with Mr. Beecher was in February,
+1872, when Mr. Beecher had called at his house, and, in reply to his query, had
+positively assured him that there was no dishonor attaching to the birth of the
+boy Ralph. Mrs. Tilton had come into the room at that time, and bursting into
+tears, had corroborated Mr. Beecher.</p>
+  
+<p>The witness described at length his relations
+with Mrs. Woodhull, and stated that Mrs. Woodhull's biography had been written
+by her husband, and that she had brought it to him and asked him to rewrite it.
+He had done so, leaving out many extravagant statements, and she had been
+dissatisfied. In June, 1873, there was a stormy interview between himself and
+Mr. Moulton, after he had learned that Mr. Beecher had expressed an intention
+to resign from Plymouth Church. Witness was very angry, and told Mr. Moulton
+that if Mr. Beecher resigned at that time, thus reflecting on the children of
+witness, he would shoot him. The charges of Mr. West against Mr. Tilton, as a
+member of Plymouth Church, for slandering the pastor, were very fully reviewed,
+and in connection therewith, a letter written by witness to Samuel E. Beecher,
+as member of the Examining Committee, just before the meeting of the Church was
+held at which Mr. Tilton's name was dropped from the rolls, was introduced and
+read. In that letter, witness wrote that he had not accused Mr. Beecher
+falsely. In relation to the Bacon letter, he had met and told Mr. Beecher that
+Dr. Bacon had called him (Mr. Tilton) a knave, and a liar, and a creature of
+Mr. Beecher's magnanimity, and had added that Mr. Beecher must deny Dr. Bacon's
+statements or he (witness) would. Mr. Beecher had walked away without replying,
+and they had not met since. In regard to any improper conduct on his part with
+the young girl Bessie Turner, or Lizzie McDermott, the witness stated
+emphatically that there was "not a word of truth in it, nor a fact for its
+foundation."</p>
+
+<p>Mr. Evarts took up the cross-examination of the
+witness, and questioned him closely on the subject of his religious views, and
+whether his change in belief had caused his wife much sorrow, and whether there
+was also a great difference in the religious views of witness and Mr. Beecher.
+The political controversies between the two men were next taken up, and the
+events following the Cleveland Convention, when witness had severely attacked
+Mr. Beecher, were reviewed. An entire day was occupied in reading the
+correspondence of Mr. and Mrs. Tilton. The relations between Mr. Bowen and Mr.
+Tilton were thoroughly sifted, and a searching inquiry was made into the
+so-called confession of Mrs. Tilton, and the copy of it made by Mr. Tilton,
+both of which, the witness said, were destroyed &#8212; the first by his wife, the
+copy by himself. The witness was also minutely cross-examined as to
+the subject-matter of the "True Story" written by him in the latter
+part of 1872, subsequent to the publication of Mrs. Woodhull's story.</p>
+
+<p>On his redirect examination, Mr. Tilton was
+examined as to his religious views &#8212; his early belief, the cause, time, and
+nature of the change in them; and finally on the question as to how he
+reconciled the statement that his wife loved everything good and hated
+everything bad with the fact that she was charged with adultery, he replied
+that he had known his wife since she was ten years old, had married her at
+twenty, and during fifteen years of married life he had held her in reverence
+almost to the point of making her an idol; when she fell, it was the necessity
+of his own heart to find some excuse for her, and that excuse he had found in
+the fact that she had been wrapped up in her religious teacher and guide, and
+had surrendered her convictions to him; she followed his lead trustingly, and
+would go after him like one blinded. He thought she had sinned as one in a
+trance, and she was not a free agent, and she would have done her teacher's
+bidding if, like the heathen priest in the Hindoo land, he had bade her fling
+her child into the Ganges or cast herself under the juggernaut. That was his
+excuse for his wife. The examination of Mr. Tilton ended with the
+twenty-eighth day of the proceedings.</p>
+
+<p>Mrs. Catherine Carey, who had been nurse in Mr.
+Tilton's family in 1869, was called, and gave evidence relative to the conduct
+of Mr. Beecher with Mrs. Tilton.</p>
+
+<p>Mr. George A. Bell, a member of Plymouth Church, gave evidence regarding the interview between himself, Mr. Halliday, and
+Mr. Tilton.</p>
+
+<p>Mr. Evarts made an eloquent appeal for the
+admittance of testimony showing that Mr. Beecher had been called to advise in
+the troubles between Mr. and Mrs. Tilton, but he was ruled out.</p>
+
+<p>Mr. Joseph H. Richards (Mrs. Tilton's brother),
+Mr. Jeremiah P. Robinson, Mr. William M. Marston, and Mrs. Francis D. Moulton
+gave evidence, and on the thirty-first day of the proceedings the plaintiff's
+counsel rested their case.</p>
+	</div>
+<div>
+	
+<head>Chapter XX:  The Great Scandal&#8212;Continued</head>
+
+<p>On
+Wednesday, February 24, 1875, Mr. Tracy made the opening address for the
+defence. He began by tracing Mr. Beecher's life and labors from the pastorate
+in the West to the culmination of his popularity in Brooklyn. Then he took up
+the career of Theodore Tilton, speaking of him as one who had fallen from an
+eminence seldom attained by men of his age to the very bottom of an abyss. With
+stinging emphasis he referred to the plaintiff as one who, "if he could
+realize the sad truth that he was morally dead, would still rejoice in this
+post-mortem investigation of his character. But we propose," he added, 
+"to dissect him first in the interest of truth and bury him afterward in the
+interest of decency."</p>
+
+<p>The evidence of the plaintiff was minutely
+reviewed, and referring to Mrs. Tilton, who, he said, was the true defendant in
+the case, the speaker drew a touching picture of her affection for her husband,
+"giving her whole life to him without murmur as to her own
+self-sacrifice." Mr. Tilton's views on marriage and divorce were commented
+on, and it was argued that while the plaintiff was the editor of a religious
+newspaper he was an advocate of free lust. The alleged trouble in Mr. Tilton's
+family, on account of which Mr. Beecher was said to have advised separation,
+was discussed; the plaintiff and Mr. Moulton were accused of conspiracy and
+perjury; Catherine Carey-Smith was said to be a woman of bad character; and
+Joseph H. Richards' testimony was criticised.</p>
+
+<p>Referring to the so-called letter of confession
+of Mrs. Tilton, Mr. Tracy remarked on its non-production, and stated that the
+defence would produce an unimpeachable witness to prove that Mr. Tilton, after
+the Woodhull publication, had read to the witness what he said was a copy of
+the alleged confession of Mrs. Tilton, and that that copy did not contain a
+charge of adultery; also that Mr. Tilton told the witness that the original
+confession was in the hands of Francis D. Moulton, and this not-withstanding
+Mr. Tilton and Mr. Moulton had sworn that the confession had been destroyed at
+the time of the signing of the tripartite agreement some months before. Mr.
+Tilton was stigmatized as a blackmailer, and Mr. Tracy concluded his address on
+the thirty-fifth day of the proceedings with a long and affecting tribute to
+the Plymouth pastor, and a promise to the jury of evidence that would prove him
+guiltless.</p>
+
+<p>Edward J. Ovington, the first witness for the
+defence, testified that the plaintiff had told him that his wife would say
+anything for her husband. Rufus E. Holmes testified to improprieties of the
+plaintiff at Winsted, Conn. Mrs. Ovington related conversations she had had
+with the Tiltons, and stated that Mrs. Tilton had denied to her that Mr. Beecher had offered her any impropriety. Mrs. Sarah C. D. Putnam gave evidence of the
+devotion of Mrs. Tilton to her husband, and Mr. Tilton's strictures on the
+church, and his waning faith in Mr. Beecher's powers. Samuel E. Beecher and Mr.
+McKelway testified to the statements made by Mr. Tilton concerning the charge
+against Mr. Beecher. Then followed testimony concerning the plaintiff's
+relations with Mrs. Woodhull, one witness testifying that the Woodhull scandal
+had been discussed in Mr. Tilton's presence before its publication.</p>
+
+<p>The tripartite covenant was explained by Samuel
+Wilkinson; Mr. Moulton's evidence was contradicted in many instances by Mr.
+Archibald Baxter, who stated that in various conversations between them Mr.
+Moulton had declared Mr. Beecher to be innocent. Reuben W. Ropes, Abner H.
+Davis, Edward A. Biden, William B. Barber, and Charles H. Caldwell swore to Mr.
+Moulton's denial of the Woodhull story about Mr. Beecher and Mrs. Tilton.
+Several witnesses testified to Mr. Tilton's opinions on marriage and divorce,
+and Mr. Halliday stated that in 1873 Mr. Tilton had said to him, "My case
+against Mr. Beecher is wholly irrespective of my wife."  Witnesses
+were examined in the Plymouth Church Records, and then Miss Bessie Turner was called,
+and testified to Mr. Tilton's eccentricities and "moods," his
+unkindness to his wife, and his attempts on herself. Three colored servants of
+Mrs. Woodhull gave evidence of Mr. Tilton's personal relations with that lady
+in support of Mr. Tracy's declaration, in the opening address, that the defence
+would show conspiracy between them to publish the scandal. Evidence was given
+of Mr. Tilton's determination to "smash" his wife and Mr. Beecher;
+also further evidence in reference to the tripartite agreement, including the
+evidence of Charles Storrs and James Freeland. Several witnesses testified
+generally on the case; Mr. and Mrs. Robert T. Moore impeached Mrs. Carey; and
+James Redpath related the manner in which he had obtained the "True
+Story."</p>
+
+<p>On the fifty-sixth day of the proceedings, April
+1, 1875, Henry Ward Beecher was called and took the oath in the New England form &#8212; "I swear by the ever-living God." He gave an abridged history
+of his early life and struggles, his subsequent religious and political
+services, his domestic relations, and his intimacy with Mr. Bowen, Mr. Tilton,
+and Mr. Moulton, taking in the period from the time of his birth down to
+December, 1870, when, according to the theory of the defence, the conspiracy
+began. The growth of Plymouth Church from embyro to its then
+magnitude, with between twenty-five hundred and three thousand communicants;
+the building up of <hi rend="italic">The Independent</hi> and <hi rend="italic">The Christian Union</hi> (the
+latter from a circulation of six hundred to thirty thousand copies in a single
+year); the rapid production of thirty-five volumes&#8212;all these labors were
+merely mentioned as ordinary events. The great help which his wife had given
+him during all the years of their married life was, however, more fully dwelt
+on and emphasized.</p>
+
+<p>An account of his first acquaintance with Mrs.
+Tilton was given. He had known of her when she was a girl, but had had no
+personal acquaintance with her until her marriage to Mr. Tilton, when he had
+called on her, at her husband's request. He stated that in December,
+1870, he had advised Mrs. Tilton to separate from her husband on account of the
+great unhappiness in the family and her treatment by her husband. He
+denied in the most positive and emphatic terms the commission by him of any
+offence against Mr. Tilton or of any crime against his wife. Briefly and
+emphatically he denied the statements of the nurse, Mrs. Carey; he did not
+remember ever having seen Mr. Richards while on a visit to Mr. Tilton's house;
+and he denied the truth of Mr. Tilton's allegations concerning his acts on
+October 10 and 17, 1868. During his entire acquaintance with Mrs. Tilton, there
+had never been any undue personal familiarity between that lady and himself,
+nor had he at any time, directly or indirectly, solicited improper favors from
+her.</p>
+
+
+<p>The scene with Mr. Bowen on December 26, 1870,
+was rehearsed, and the witness stated that Mr. Bowen, in delivering Mr.
+Tilton's letter requiring Mr. Beecher's resignation, had taken pains to
+represent that he was a voluntary messenger and ignorant of the contents of the
+letter. On reading that letter, Mr. Bowen had been as indignant as he was
+himself, and a conversation had followed, in which it was revealed that both
+gentlemen had heard of many matters discreditable to Mr. Tilton, and witness
+had emphatically declared to Mr. Bowen that the retention of Mr. Tilton on <hi rend="italic">The
+Independent</hi> and <hi rend="italic">Union</hi> could not but be injurious to both journals.
+This, witness stated, was the first and only offence committed against Mr.
+Tilton, and the injury to him professionally which followed in his discharge by
+Mr. Bowen a few days later was the only injury the plaintiff had received,
+although witness was led at the time of the signing the apology to imagine that
+there were other grounds of complaint.</p>
+
+
+<p>On the night of December 30, 1870, accompanied
+by Mr. Moulton, witness had called on Mr. Tilton, who had then withdrawn the
+letters he had written, and recited to witness his troubles with Mr. Bowen; he
+had then charged witness with abetting in his removal by Mr. Bowen, with having
+superseded him in his family, with alienating the affections of his wife, with
+corrupting his wife and teaching her deceitfulness, and finally, with having
+solicited her to immoral relations. After an objection by the plaintiff, the
+whole conversation with Mrs. Tilton was admitted, and the witness described
+with great minuteness how Mrs. Tilton, after hearing Mr. Beecher's story of
+what her husband had told him, had declared that "she could not help it;"
+that "she had been worried out with his importunities;" and
+that the charge was "not true."</p>
+
+
+<p>At his suggestion, but not at his dictation, she
+had then taken a pen and written the letter of retraction, and had of her own
+volition added the postscript, which specifically denied the charge of "
+improper solicitation." On December 31st, in an interview at witness'
+house, Mr. Moulton reproached him with having taken an unfair advantage in
+getting a retraction from Mrs. Tilton, and he read a letter from her asking
+that both her confession to her husband and her letter of retraction should be
+returned, in order that she might destroy them. Mr. Moulton assured witness
+that there would be no further trouble, and on his representations the letter
+was given up.</p>
+
+<p>In narrating the story of the interview between
+himself and Mr. Moulton on January 1st, Mr. Beecher described the grief which
+had overwhelmed him at that time as coming from three sources: his sorrow at
+having spoken evil of Mr. Tilton, his remorse at having believed the scandalous
+stories against his friend, and his self-reproach when Mr. Moulton had assured
+him that they were false; and lastly, his mortification and sorrow on coming to
+the conclusion, to which Mr. Moulton's declarations urged him, that through his
+want of foresight and prudence he had won the affection of Mrs. Tilton and come
+between her and her husband. Mr. Moulton had suggested that if Mr. Tilton could
+hear him talking in the strain he had been talking that evening there would be
+peace once more between them, and he asked permission of witness to make a
+memorandum of what he had said, so that he might read it to Mr. Tilton.</p>
+
+<p>Mr. Moulton had then written some sentences on
+separate slips of paper, and asked witness to sign what he had written, but he
+refused. Mr. Moulton had then urged him to put his name, so as to let Mr.
+Tilton know that it really came from him, and without reading or knowing what
+was on the paper, he had written near the bottom of the sheet, "I have
+intrusted this to Frank Moulton in confidence," and had written his name
+to that separate note. He denied emphatically that anything in the so-called
+letter of contrition was his, beyond that foot-note, and that anything he had
+said resembled or warranted the expressions therein contained. Contradictions
+were given to the evidence of Mr. Tilton and Mr. Moulton on important
+particulars, and it was indignantly and emphatically denied that reference had
+ever been made by Mr. Tilton to the offence then charged. In reference to the
+plaintiff's testimony relating to the interview about the child Ralph, the
+witness said that it was a monstrous and absolute falsehood that there had been
+any such conversation, or anything out of which such a conversation could be
+made or imagined.</p>
+
+<p>The witness then proceeded with an explanation
+of sundry letters and interviews, Mr. Moulton's first suggestions about money
+to help out Mr. Tilton, witness' acquaintance with Mrs. Woodhull, and her
+attempt to blackmail him previous to the publication of the Wood-hull scandal.
+He further stated that until July, 1874, he had been ignorant that adultery had
+been ever referred to or charged, and reference was made to attempts on the
+part of Mr. Moulton and General Butler to control the Investigating Committee.
+In his cross-examination, when asked whether he anticipated sudden death in
+1873, the witness said that his fears of death were consequent upon periods of
+depression. Counsel for the plaintiff put in an application for a policy of
+insurance on the life of Mr. Beecher in March, 1874.</p>
+
+<p>The re-direct examination followed, and on the
+sixty-ninth day of the proceedings, April 21, 1875, Mr. Beecher's testimony was
+concluded.</p>
+
+<p>Henry M. Cleveland stated that his business
+connection with <hi rend="italic">The Christian Union</hi> and Mr. Beecher had ceased after
+January 1, 1874, and he swore that on June 2, 1873, between eleven and twelve
+o'clock in the morning, he had had an interview with Mr. Beecher at <hi rend="italic">The Christian Union</hi> office in New York, and Mr. Beecher had then directed him
+to address letters to him in care of Bigelow &amp; Kennard in Boston. He did
+not see Mr. Beecher again until the Friday evening of the following week. The
+Rev. W. H. H. Murray, of Boston, preached in Plymouth Church on the Sunday
+following June 2d, and Mr. Beecher was not present. The tendency of
+this evidence was to directly contradict the alleged interview between Mrs.
+Moulton and Mr. Beecher on June 2, 1873.</p>
+
+<p>Mr. Moulton was recalled by the defence for
+cross-examination, and was succeeded by Mr. Partridge, the former cashier of Woodruff
+&amp; Robinson, who contradicted the evidence of the previous witness. General
+Tracy, of counsel for the defence, testified in contradiction of statements of
+Mr. Tilton and Mr. Moulton.</p>
+
+<p>On the seventy-seventh day of the proceedings, a stir was created by Mrs. Tilton
+standing up in court and desiring that a communication from her should be
+read. She handed the following letter to Judge Neilson:</p>
+
+<text type="correspondence">
+<body>
+<opener>
+<dateline>MAY 3, 1875.</dateline>
+</opener>
+
+<p>"JUDGE NEILSON : I ask the privilege from
+you for a few words in my own behalf. I feel very deeply the in-justice of my
+position in the law and before the court now sitting; and while I have
+understood and respected from the beginning Mr. Evarts' principle in the
+matter, yet since your last session I have been so sensible of the power of my
+enemies, that my soul cries out before you, and the gentlemen of the jury, that
+they beware how, by a divided verdict, they consign to my children a false and
+irrevocable stain upon their mother! For five years past I have been
+the victim of circumstances most cruel and unfortunate; struggling from time to
+time only for a place to live honorably and truthfully. Released for some
+months from the <hi rend="italic">will</hi> by whose power unconsciously I criminated myself again and
+again, I declare solemnly before you, without fear of man and by faith in God,
+that I am innocent of the crimes charged against me. I would like to tell my
+<hi rend="italic">whole</hi> sad story <hi rend="italic">truthfully</hi> &#8212;to acknowledge the frequent falsehoods wrung from
+me by compulsion&#8212;though at the same time unwilling to reveal the secrets of my
+married life, which only the vital importance of my position makes necessary.
+I assume the entire responsibility of this request, unknown to friend or
+counsel of either side, and await your Honor's honorable decision. With great
+respect,</p>
+
+<closer>"ELIZABETH R.
+TILTON."</closer>
+</body>
+</text>
+
+<p>Judge Neilson considered the letter, and sent
+the lady a written reply in which he pointed out the impossibility of her
+request being granted. Mr. Henry C. Bowen was called, and gave evidence in
+rebuttal of Mr. Beecher's testimony. The plaintiff was recalled, and gave
+evidence in rebuttal generally of the testimony on the side of the defence, and
+the eighty-fifth day of the proceedings saw the termination of the taking of
+the testimony.</p>
+
+<p>On May 19, 1875, judge Porter began the summing
+up for the defence. With emphatic denunciations of Mr. Tilton, the learned
+counsel condemned in strong language Mr. Moulton and other witnesses, and
+cleverly contrasted the life and character of the plaintiff and defendant. Miss
+Turner's character was extolled, the scenes between herself and plaintiff were
+reviewed, and her testimony favorably compared with the statements of Mr.
+Tilton's witnesses. The correspondence between Mr. and Mrs. Tilton was
+carefully gone over, and Henry C. Bowen's evidence was analyzed in view of
+showing points of agreement between that evidence and Mr. Beecher's. Referring
+again to Mr. Tilton and Mr. Moulton, Mr. Tilton was declared to be the master
+and Mr. Moulton the minion. The letter of contrition was analyzed, and modes
+of expression therein declared to be unlike those of Mr. Beecher, and several
+famous phrases were ascribed to the pen of Mr. Tilton. Mrs. Moulton was
+declared to have sworn falsely on account of her husband.</p> 
+
+<p>Six days were occupied in the summing up, the
+evidence of every witness being carefully dissected and commented on, the
+learned counsel concluding with a tribute to Judge Neilson, and the belief
+expressed to the jury that the verdict would be one which would gladden the
+hearts of many, and which would illuminate Brooklyn Heights; a verdict which
+would send an electric thrill of joy through Christendom.</p>
+
+<p>Mr. Evarts likewise summed up for the defence. His
+argument commenced on the ninety-second day of the proceedings, and ended with
+the close of the ninety-ninth day.</p>
+
+<p>Mr. Beach commenced his argument for the plaintiff
+on Wednesday, June 9, 1875. He eloquently described the feelings of a husband
+whose wife's honor had been stolen away, and referred to the influence that had
+been brought to bear in support of the defendant during the trial. "I
+have seen," said the learned counsel, "the zealots and the parasites
+gathering around Henry Ward Beecher in this trial, and shedding their influence
+both in and out of this court in his favor." The foreman of the jury
+was addressed in reference to personal appeals that had been made to him by the
+counsel for the defendant, and an earnest appeal was made to the jury to decide
+the case strictly according to their oaths.</p>
+
+<p>The argument proper was mostly confined to
+answering Judge Porter's summing up for Mr. Beecher. Mr. Tilton was eulogized,
+but the counsel said he would not indulge in denunciations of Mr. Beecher. The
+publication of Mrs. Tilton's letters was explained in a way favorable to the
+plaintiff, and various points that had been touched upon by Judge Porter were
+gone over in detail. Mr. Beecher was asserted to have been a party to the
+policy of silence. The anticipations of triumph indulged in by the defendant's
+counsel were treated with severe denunciation, and in referring to the power
+possessed by the party of the defendant, the orator said that Mr. Evarts 
+"had more than the hundred eyes of Argus, more than the hundred arms of
+Briareus, and also the gold of Midas, which had been placed where it would have
+the best effect."</p>
+
+<p>There was an excited colloquy between Judge Porter
+and Mr. Beach concerning the treatment of the charge of improper proposals, and
+then Mr. Beach applied himself with renewed energy to the sifting of the
+evidence and a review of Mr. Bowen's relations to the case. Mr. Moulton's
+conduct was vigorously defended, and the interview of December 30th and the
+alleged confession of Mrs. Tilton which had been destroyed were brought under consideration,
+and the doctrines and sentiments attributed to Mr. Beecher in the corruption of
+Mrs. Tilton were minutely set forth.</p>
+
+<p>The learned counsel agreed with Mr.
+Evarts unreservedly in his reverential estimate of the motive, the ability, and
+the success of Mr. Beecher's grand performance in England on behalf of the
+great question of servitude and freedom, but with Mr. Evarts' deductions therefrom
+in regard to the present issue he was compelled to differ entirely. Was it
+possible that they had become so low in the administration of justice that they
+could not pronounce judgment against great and noble men for fear of the scoffs
+of the aristocracy of England. In that case, he begged God to help justice
+and American institutions.</p>
+
+<p>The Woodhull publication was taken up and
+discussed, and it was asserted that Mr. Tilton had no part in that publication,
+nor had the information therein contained come from him concerning Mr. Tilton's
+connection with Mrs. Woodhull. Mr. Beach further said that he knew of no
+evidence in the case which tended to show that Mrs. Woodhull's character was so
+bad as to make all association with her disreputable. A tribute of respect was
+paid to Mrs. Beecher's character for her undeviating faith in her husband and
+her actions as a ministering angel to him in his hour of suffering and sorrow,
+and then the affirmative portion of the argument was taken up.</p>
+
+<p>Mr. Beach censured the attendance in court of
+Mrs. Tilton and Mrs. Beecher, and the alleged theatric exhibitions and displays
+on the part of Plymouth Church, as all designed to influence in an indirect and
+insidious mode the conclusions of the court. If Mr. Beecher were innocent, he
+would have needed no such trappings or aid, but he could have bravely met the
+accusations with out any of those policies or stratagems. The letters of Mrs.
+Tilton to her husband were considered, their expressions analyzed, and their
+bearings on the relations of the parties to the suit shown. That Christianity
+was in any way at stake in the trial was altogether scouted by the counsel, and
+there need be no fear, he said, of the consequences of Henry Ward Beecher's
+fall upon the progress of Christian civilization or Christian influence.</p>
+
+<p>The West charges were gone into, and the alleged
+evidence of Mr. Beecher's efforts to suppress the scandal; and in relation to
+the theory of blackmail, the counsel argued that all the evidence and
+probabilities were against such an hypothesis. Mr. Beecher's denial of guilt
+was unsupported, and they had the confronting testimony of three witnesses,
+and of circumstantial evidence. The issue of the case was an action by a
+husband alleging himself to have been wronged in his dearest relations against
+the alleged wrong-doer. They did not ask for damages, as "Theodore
+Tilton disdains the idea of touching the gold of Henry Ward Beecher."</p>
+
+
+<p>The letters of Retraction and Contrition were
+analyzed, and counsel argued that both were dictated by Mr. Beecher, and that
+similar phrases in both documents were identical with expressions in the
+defendant's early works. It was Mr. Beecher's duty to have confessed his sin
+and asked forgiveness of Plymouth Church and the Christian world. Bessie
+Turner's evidence was referred to as intrinsically incredible, and as being
+immaterial so far as the vital point of the case was concerned.  In the closing
+point of his argument, Mr. Beach called the good faith of the jury into
+question, and declared that he had evidence that jurymen had been improperly
+approached. This was met by indignant denials both from the jury and the
+counsel of defendant.</p>
+
+<p>Continuing, counsel charged Mr. Beecher with
+perjury, and criticised the want of orthodoxy in his sermons; and in concluding
+he declared that the duty he had had to perform had been most unwelcome and
+painful, and he would leave the case in the hands of the jury, filled with
+unaffected admiration and veneration for the magnificent genius of the defendant.
+But rich as the defendant was in mental endowments, and prodigal as his labors
+had been, they could shelter no offence against the law. "Genius as lofty,
+learning more rare and profound, could not save Bacon. He sinned and fell, and
+upon his memory history has written the epitaph, 'The greatest and the meanest
+of mankind.'" With a final appeal to the jury, the learned counsel closed
+his argument on the one hundred and ninth day of the proceedings.</p>
+
+<p>On Thursday, June 24, 1875, Judge Neilson
+delivered his charge, which was devoted to the nature and rules of evidence,
+the character and credibility of the witnesses, and rules for the guidance of
+the jury.</p>
+
+<p>The jury retired, and on the one hundred and
+twelfth day of the proceedings, July 2, 1875, they returned into court, and
+stated their inability to agree on a verdict; whereupon, after receiving the
+thanks of the court for the careful attention they had shown throughout the
+trial, they were discharged.</p>
+	</div>
+
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+	
+			<item><xptr n="ls.00033" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

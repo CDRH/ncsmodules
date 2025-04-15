@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00089">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Culture and Adultery:  the Novel, the Newspaper, and the Law, 1857-1914</hi></title>
+		<title level="c" type="chapter">from Chapter One</title>
+		<date type="original" value="1999">1999</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Leckie">Barbara Leckie
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00089</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 1 and 3 of Barbara Leckie's <hi rend="italic">Culture and Adultery:  the Novel, the Newspaper, and the Law, 1857-1914</hi>.  Published by the University of Pennsyalvania Press, 1999.
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"><!-- INSERT ANALYTIC TITLE  --> </title>
+               <title level="m"><hi rend="italic">Culture and Adultery:  the Novel, the Newspaper, and the Law, 1857-1914</hi></title>
+               <author>Barbara Leckie</author>
+               <imprint>
+                  <publisher>
+University of Pennsylvania Press
+</publisher>
+                  <pubPlace>
+Philadelphia
+</pubPlace>
+               </imprint>
+               <date>
+1999
+</date>
+               <idno type="ISBN">
+0812234987
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+			<term id="popularpress" type="theme">popular press</term>
+			<term id="adultery" type="theme">adultery</term>
+			            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+                    <head>1. </head><p>"....Between 1857 and 1914 adultery was . . .
+everywhere in English print culture: it was discussed in parliamentary debates;
+it was a front-page 'Divorce Court' story in most of the daily newspapers at
+least twice a week for over fifty years; it was a topic of heated discussion in
+literary and cultural interest reviews; it was represented in popular novels,
+and it was a central feature of novels that were eventually canonized as 'great'"
+(1).</p></div>
+<div>
+
+         <head>2. </head><p>"....a common misconception prevails that a 'censorship of sex' was in place and that talking about sex was, therefore, an act of contestation.  Foucault's comments on the tension between the theoretical invisibility of sexuality and its visibility in practice correspond closely to what I have witnessed in Victorian interpretations of adultery:  a discursive explosion of representations of
+adultery exists alongside claims that adultery and the representation of
+adultery were nonexistent and that any attempt at representation was,
+therefore, rare and dangerously transgressive." (3).</p>
+</div>
+
+
+      </body>
+   </text>
+</TEI.2>

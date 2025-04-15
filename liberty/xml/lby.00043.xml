@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00043">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Liberty Bell"</title>
+            <title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1847">1847</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Madden">R.R. Madden</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00043</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 1-4 of the <hi rend="italic">Liberty Bell</hi>, for the year 1847.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Liberty Bell</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>R.R. Madden</author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>1847
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="libertybell" type="topic">Liberty Bell</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+<term id="washington" type="topic">Washington</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2008-04-07">07 April 2008</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Correct transcription error(s)</item>
+         </change>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-10">10 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<lg type="stanza">
+	<l>The bell! the bell! the glorious bell</l>
+	<l>Whose merry chimes delight the ear!</l>
+<l>An ever cheering tale they tell,</l>
+<l>That all true men exult to hear.</l>
+	</lg>
+	<lg type="stanza">
+<l>The glorious bell of Liberty!</l>
+<l>Another peal comes booming o'er</l>
+<l>The wide Atlantic, charged with glee</l>
+<l>And tidings glad, to each heart's core.</l>
+	</lg>
+	<lg type="stanza">
+<l>The soul-awakening sounds of old!</l>
+<l>They rouse up all life's hopes anew:</l>
+<l>I know them well;&#8212;I heard them tolled,</l>
+<l>In lands where Freedom's friends are few.</l>
+	</lg>
+	<lg type="stanza">
+<l>I gave that bell a pull of yore,</l>
+<l>And though forsooth a feeble one,</l>
+<l>And I may never ring it more,</l>
+<l>My fingers stir as if each tone</l>
+	</lg>
+	<lg type="stanza">
+<l>To instant action called again,</l>
+<l>In Freedom's cause&#8212;and thoughts arise</l>
+<l>Of noble deeds, and dauntless men,</l>
+<l>That swell the heart and fill the eyes.</l>
+	</lg>
+	<lg type="stanza">
+<l>The peal of THIRTY-FOUR! the peal</l>
+<l>That made the tropics dance for joy!</l>
+<l>Again I seem to hear and feel,</l>
+<l>Bliss without bounds, without alloy.</l>
+	</lg>
+	<lg type="stanza">
+<l>The tocsin now that roused the land</l>
+<l>Of Tell, in every fibre thrills,</l>
+<l>And bravery seems of heart and hand</l>
+<l>An instinct there that Freedom wills.</l>
+	</lg>
+	<lg type="stanza">
+<l>The tyrant's knell, in every clime</l>
+<l>Where bondage lays its curse on earth,</l>
+<l>The bell of death&#8212;is tolled, for crime.</l>
+<l>Against the land that gave him birth.</l>
+	</lg>
+	<lg type="stanza">
+<l>Oh for a glorious peal at last</l>
+<l>Of the true bell of Liberty!</l>
+<l>To rend the air, and strike aghast</l>
+<l>The moster might of Slavery.</l>
+	</lg>
+	<lg type="stanza">
+<l>Oh! for a swing of that great tongue,</l>
+<l>To shake the proud oppressor's throne,</l>
+<l>Where'er it's set: with one ding-dong</l>
+<l>To bring the potent despot down.</l>
+	</lg>
+	<lg type="stanza">
+<l>Oh! for a burst of that deep bell</l>
+<l>Of Mafra's tower, to fright away</l>
+<l>The people's foes, and ring the knell</l>
+<l>Of giant Mammon's godless sway:</l>
+	</lg>
+	<lg type="stanza">
+<l>To smile with fear the fiends who trade</l>
+<l>In human flesh and blood,&#8212;the knaves</l>
+<l>Who give the gold to make the <hi rend="italic">raid</hi>,</l>
+<l>And rail at those who vend the slaves;</l>
+	</lg>
+	<lg type="stanza">
+<l>To save the land that holds the graves</l>
+<l>Of Franklin, Washington, and Penn,</l>
+<l>From laws that make her millions slaves,&#8212;</l>
+<l>And, worse than brutes, of Christian men.</l>
+</lg>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00047" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

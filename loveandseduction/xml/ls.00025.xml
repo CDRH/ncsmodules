@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00025">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Henry Shaw: His Life and Legacies</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name="Faherty">William Barnaby Faherty
+</author>
+<date type="original" value="1987">1987</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00025</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 97-108 of William Barnaby Faherty's<hi rend="italic">Henry Shaw: His Life and Legacies</hi>, University of Missouri Press, 1987.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">Chapter 12, "Female Friends and Would-Be Wife"</title>
+               <title level="m"><hi rend="italic">Henry Shaw: His Life and Legacies</hi></title>
+               <author>William Barnaby Faherty</author>
+               <imprint>
+                  <publisher>
+University of Missouri Press
+
+</publisher>
+                  <pubPlace>
+Columbia
+</pubPlace>
+               </imprint>
+               <date>
+1987
+
+</date>
+               <idno type="ISBN">
+0-8262-0644-1
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="piano" type="setting">piano</term>
+               <term id="breachofpromise" type="theme">breach of promise</term>
+			<term id="premaritalsex" type="theme">premarital sex</term>
+			<term id="prostitution" type="theme">prostitution</term>
+			<term id="history" type="media">history</term>
+			<term id="american" type="place">American</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-07">07 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+         
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+  <head>Female Friends and Would-Be Wife</head>
+         <p>To
+understand the breach of promise suit filed in the St. Louis Court of Common
+Pleas against Henry Shaw as he was preparing to open his garden, a look at his
+social attitudes and interests is imperative. In his sketch of Shaw's life,
+Thomas Dimmock attributed to historian Frederick L. Billon, a friend of Henry,
+the remark that Shaw "seemed to avoid making acquaintances among the
+girls. . . . He intended marrying some English girl."' Nowhere in his
+extant writings, however, did Shaw give such an indication. He never discussed
+his cousin Henry Hoole's suggestions that he marry "Cousin Mary," and
+he ignored his sister Sarah's recommendation of several lovely Guernsey girls.</p>
+
+         <p>On
+one occasion, as already stated, Caroline suggested that she, Sarah, and Henry
+would probably remain "spinsters." And Shaw doubted that his cousin
+Francis Hoole's impending marriage with Alathea Tattershal would bring him any
+great happiness. Shaw's remark seemed to transcend Francis's choice of marriage
+partner and to take a derogatory view of married life in general. While Henry
+traveled through Europe, on the other hand, he received letters from Demosthenes
+("Demo") Simos that spoke of young ladies they had met; and Shaw's
+cousin Henry Hoole joked about the Missourian's amorous adventures on the
+Continent. Shaw himself' wrote in his journal of the many young ladies he saw
+on his travels and spoke most warmly of a lovely Caroline he met on his first
+visit to Vienna.</p>
+
+         <p>Among his miscellaneous letters, Shaw kept several from
+friendly French girls, such as Aim&#233;e Dupont, to whom he sent gifts after his
+return to St. Louis and some from a St. Louis woman by the name of Honorine
+Douard, written in 1849. The latter explained in one of her letters that she
+wrote in English because others were present in the room. French was presumably
+her native language. She misspelled several words and seemed at times ill at
+ease with English. She called herself "your little Honorine" and
+suggested that their relationship was close. She apologized for the deception
+in not telling him that she was married. "If you wish to aid me, as you
+promised, [you] will enclose the rest of the money you promised me. . . . My
+husband is in a situation that he can give me no money now. "
+A short time later, signing herself Honorine Beranger, presumably her
+married name, she thanked him for the money and for his wishes for her
+happiness. "My dear friend," she went on, "you say you will see
+me at Mrs. Harmony's, but if possible I would prefer that you will see me
+tomorrow at my sister's at two o'clock."  </p>
+
+         <p>
+These female relationships were temporary and more or less
+private. A later one gained national notoriety for
+Shaw. As Shaw walked in his garden one morning, he saw a young woman whom he
+later described to a friend as "not only a pretty woman but a fascinating
+one." After he got acquainted, she came regularly to the garden.
+When she did not come, she would send him a note (none of which he kept). In early
+February 1856 this young woman, whose name was Effie Carstang borrowed $100
+from Shaw to be returned on demand. Slightly over a year later, she borrowed
+another $100. In August 1857, Effie rented from Shaw for one dollar a month a
+rosewood piano made in Baltimore.  She agreed to send it back on recall. Shaw
+later took the piano back, but that was not the last word on the musical
+instrument from Miss Carstang.</p>
+
+         
+<p>On 19 July 1858, Effie Carstang sued Henry Shaw in
+the St. Louis Court of Common Pleas for breach of promise of marriage. She alleged
+that a friendship had grown between them and that in November 1856 she had
+promised to marry him and Shaw in turn had promised to marry her. She remained
+willing to marry the defendant. In the original claim, she asked damages to the
+amount of $20,000 but then scratched over that figure and wrote $100,000 in the
+line above with the approval of the court. 
+</p>
+
+         <p>
+In a response three months later, Henry Shaw denied that
+on any day in November 1856 or on any other day before or since had he ever
+promised to marry Miss Carstang or asked her to marry him. He denied that she
+had sustained any damages of any amount whatsoever. Shaw, in fact, had a
+counterclaim. He held two promissory notes&#8212;one of 28 February 1856 and one of 19 May 1857. In each instance Effie had borrowed $100
+from him and agreed to pay on demand. Shaw insisted she had not paid.
+Strangely, Henry never alluded to the rental of the rosewood piano, even though
+Effie and her sister both mentioned the "gift" of a piano that Shaw
+took back sometime later.
+</p>
+
+         <p>The <hi rend="italic">
+Missouri
+Democrat 
+</hi>described Effie as a young woman of about thirty, tall and
+graceful, with dark hair, brilliant eyes, blonde complexion, and "a mouth
+expressive of great firmness and decision of character." The same edition
+described Henry Shaw as "about sixty years of age, with hair somewhat
+grey, rather sharp features, but with an expression of countenance anything but
+disagreeable. He was a man of great wealth, and his Tower Grove home was one of
+the finest residences in the neighborhood of St. Louis." The article
+concluded, "Mr. Shaw is one of our oldest citizens and during a long
+residence here he has sustained a character hitherto unimpeachable."</p>
+
+         <p>Years
+later, <hi rend="italic">
+Reedy's Mirror, 
+</hi>the one St. Louis-based
+periodical to win a reputation beyond the borders of the United States for pungent literary criticism and the discovery of new authors, described Henry and
+Effie in an unexcelled way:
+
+         <q rend="block">Henry
+Shaw was a hardware man ... a nailing good one. By close application to
+business, attention to judiciously advertising his wares, an incessant working
+of the scissors in clipping coupons, he amassed a competency which later he
+invested in St. Louis dirt. Then his eye, 'in a fine frenzy rolling,' turned from
+the dreary monotony of spikes and mauls to the heavenly ecstasy of flowers ...
+and engaged in what Bacon declared the most pleasing occupation of
+man-gardening.... an Englishman, stolid, dogmatic, lettered - a man of strong
+conviction, few intimate friendships but genial with those who succeeded in
+getting into his charmed circle.... Somewhere and under some strange
+concatenation of circumstances, Henry Shaw met Effie Carstang. Tall and willowy
+was Effie. Her entire get-up, her <hi rend="italic">tout
+ensemble</hi>, . . . was gorgeous.
+She possessed a pair of orbs that made diamonds look like cobblestones, cheeks
+that caused roses to look up ... a form that set artists to climbing poles, a
+voice that threw musicians into conniptions, lips&#8212;now by the beard of the
+Prophet&#8212;she had lips.</q></p>
+
+         <p>    Such
+were the principals in a stirring court drama. Lawyers for the plaintiff were
+Maj. Uriel L. Wright, state legislator and spellbinding criminal lawyer, and L.
+M. Shreve. Judge Edward Bates, John R. Shepley, and Judge James R. Lackland
+defended Shaw. While the other four were well known locally, Bates, nephew of
+an early Missouri gover-nor and a national figure, had represented Missouri in
+the U.S. Congress, served in the state senate, and, after declining a position
+in the administration of President Millard Fillmore, became judge of the St.
+Louis Land Court. He had presided at the Whig National Convention m Baltimore in 1856; as one of the Republican candidates in 1860, he would amass almost half
+as many votes as Abraham Lincoln on the first ballot at the convention in Chicago. The following year Lincoln would name him attorney general of the United States.</p>
+
+         <p>On
+the opening day of the trial, Friday, 27 May 1859, before Judge Sam
+Reber, the sister of Miss Carstang, Mrs. Marie Seaman, testified in Effie's
+behalf. She spoke of Shaw's visits and gifts, including the piano and books on
+botany, and the interpretation she and her sister placed on these favors. On
+Saturday, 28 May, the second day, the courtroom was crowded during the long
+testimony, most of it evidence for the plaintiff. The counsel for the defense
+extensively cross-examined Mrs. Seaman.</p>
+
+         <p>The
+  <hi rend="italic">Missouri
+Republican 
+</hi>generally gave much less
+attention to the trial than the <hi rend="italic">
+Democrat 
+</hi>did,
+but on 30 May the <hi rend="italic">
+Republican 
+</hi>quoted at length the long
+speech of Shaw's attorney Shepley. Surprisingly, Shepley admitted the costly
+gifts that his client had given Effie: valuable jewelry as a token of his
+affection and the best fruits of his garden in Tower Grove. On Wednesday a man
+by the name of Canese from Charleston, South Carolina, testified that Effie had
+resided at an establishment frequented by "dashing fellows." But
+Effie's counsel brought contrary evidence. Especially strong was that of judge
+Alexander Hamilton, who said that the sisters were good tenants and prompt in
+paying rent. From his business associations with them, he knew nothing
+disagreeable about them. Everything, in fact, indicated the contrary. Another
+witness, John Brady, also praised Miss Carstang.</p>
+
+         <p>On
+Thursday, 2 June, the sixth day of the case, the huge crowd again assembled.
+The judge instructed the jury that it was not necessary to have clear evidence
+of mutual consent of the respective parties; the jurors could infer a promise
+of marriage from the circumstances of the relationship; no mutual expressions
+of intention were needed, nor was any third-party witness. The judge also
+directed them to make any monetary decision not simply on financial values, but
+to consider any psychological or other difficulties the young woman had
+endured.</p>
+
+         <p>After
+the judge had instructed the jury, Major Wright introduced testimony for the
+plaintiff from a man in South Carolina to counter the remarks of Mr. Canese of
+the day before. This gentleman testified that Effie's character was not
+tarnished as alleged. Major Wright proposed to introduce a further witness, but
+Bates and Shepley objected that no new witnesses should be introduced. The
+judge sustained the objection.</p>
+
+         <p>At
+some time during the trial a letter became public that Effie had allegedly sent
+to Henry. (Three weeks after the trial, William McHenry, commercial editor of
+the <hi rend="italic">Missouri
+Republican, 
+</hi>stated that during the
+trial, a counsel for Miss Carstang had pointed to such a letter, wanting the
+jury to read it, but the court had excluded it.) In this letter
+Effie stated that Shaw had visited her in her home. He had sent her flowers,
+fruit, and other presents and seemed to desire that their relationship should
+be made public. He sent a piano as a gift. She claimed he named a marriage time
+and then postponed it because of arrangements at the Garden. Then he took the
+piano back to his own house under the plea of a party to be held there. Finally
+he ceased to visit her. Presuming he might be sick, she called on him at his
+house, only to have him insult her with an indecent proposition. Effie
+concluded her letter, "Had you called me as a gentleman and offered a
+reasonable excuse or simply asked me to release you from this engagement and
+assigned a reason, I trust I should have had too much pride not
+to have complied at once. But your desertion, as it is, deserves whatever punishment
+the opinion of a just public may visit upon its author."</p>
+
+         <p>On
+the seventh day of the trial, Friday, 3 June, the crowd was larger than ever.
+Judge Bates "bombarded his hearers," to use the <hi rend="italic">Missouri
+Democrat's
+
+</hi>words, from 10:15 to 12:15.
+Following this, Major Wright summarized the case in a speech that lasted
+two and three-quarters hours. The <hi rend="italic">
+Democrat 
+</hi>described
+it as the most eloquent speech ever made by the distinguished advocate. The crowded
+courtroom burst continuously into noisy applause. Judge Reber admonished the
+spectators for this excessive demonstration and ordered the sheriff to arrest
+disturbers; only then did they grow quiet.</p>
+
+         <p>At
+four o'clock the jury gave its unanimous verdict&#8212;for Effie Carstang. The
+crowd vented its full joy in the rotunda.  The <hi rend="italic">MissouriDemocrat</hi> believed that the decision was a popular one. The Missouri 
+<hi rend="italic">
+Republican 
+</hi>
+had little comment on the day of the verdict, but early the next year was
+to speak favorably of the decision and of the plaintiff. Judge Sam Reber
+awarded Effie damages of 
+$100,000.
+</p>
+
+         <p>In his diary for
+4 June, a day later, Attorney Bates wrote, "This atrocious verdict has
+excited, as it ought, the indignant denunciation of the public. We have moved
+for a new trial. . . . Jurors were so stupid or wicked, or both."   The
+evidence, Bates felt, all pointed to a verdict for the defendant. "Yet we
+were all astonished that a verdict was rendered, after but a few minutes
+deliberation, for the plaintiff, with an assessment of damages of
+$100,000." Bates presumed that judge Reber would want to cleanse his
+record of so vile a blot upon the administration of justice. "The
+abominable verdict shocked the moral sense of the community and made most men
+fear for the safety of property and character."</p>
+
+         <p>Perhaps
+Bates judged the situation properly, perhaps not. To the wealthy people it was
+a bad verdict; to the average poor person of the city, and of course there were
+many more of them, the verdict seemed a good one, at least if one may judge
+from the words of the <hi rend="italic">MissouriDemocrat</hi>. On the same day that Bates
+wrote those words in his diary, Shepley joined him in asking for a new trial,
+citing many reasons. They claimed that the verdict was against the law,
+evidence, truth, and decency. They claimed, on the one hand, that the
+instructions of the court were not followed; and on the other, that the court
+admitted improper testimony and excluded proper testimony. They alleged that
+the jurors were prejudiced against the defendant and reached their decision by
+bargain and compromise, not by judgment. The Records of the Court of Common
+Pleas asserted:
+
+         <q rend="block">The
+plaintiff in the progress of the trial was guilty of a gross&#8212;impropriety and contempt of court in causing to be published in a newspaper, a
+letter purporting to be from the plaintiff to the defendant, which had been
+offered in evidence by the <hi rend="italic">
+plaintiff 
+</hi>and
+ruled out by the court; and the publication of which was well calculated if not
+designed to bring bias and mislead the jury. The amount of the damages assessed
+by the jury is excessive&#8212;unjustly and preposterously large&#8212;unsupported by
+testimony and, of itself, proof of prejudice, passion and misconduct on the
+part of the jurors.</q></p>
+
+         <p>On
+8 June, Moritz Stienbach, one of the jurors, stated that he did not understand
+English well, did not believe the verdict righteous, did not understand
+American practice, and thought he had to go along with the majority. Six days
+later another original juror, G. W. Chadwick, countered by notifying Wright
+that Shepley had clearly questioned Stienbach as to his understanding and
+command of English and was satisfied. And, Chadwick continued, when the jury
+had retired to the jury room, "All agreed at once to a verdict&#8212;except Mr.
+Stienbach, and he did not object because of any proofs in the case," but
+because a German newspaper the day before had questioned Effie's conduct in Charleston. After explanation, Stienbach agreed that he was for a verdict of $100,000.
+Chadwick notarized the letter the same day and submitted it to the attorneys,
+but the plea for a new trial prevailed.</p>
+
+         <p>As
+soon as the court agreed to a retrial, the attorneys for the beleaguered
+bachelor set to work. On 6 June, two days after Shaw's lawyers had submitted
+their appeal, a certain A. H. Smith of Sing Sing, New York, offered to bring
+proof of Effie's bad character. Fourteen days later he wrote that his wife knew
+of the sour reputation of both Effie and her sister, Marie Seaman, and offered
+names of parties for evidence. Many other letters came in June or July of that
+year that dealt in a negative way with the character, background, or
+antecedents of Effie Carstang. A New Yorker by the name of J. Nichols stated
+that some time before her father's death Effie had sued a certain Young Brown
+for breach of promise. Another resident of New York, Peter Heiler, wrote that
+Effie had brought suit against an otherwise unidentified Captain Williams.
+Three letters came from Brooklyn: John Samow claimed that he had facts to set
+aside the first judgment; John Holdreth accused Effie of improper conduct in
+church &#8212; she had smiled during the sermon (horror of horrors!); and Thomas J.
+Berry, a Brooklyn sailmaker, listed five men who "spoke lightly" of
+Effie. An attorney in Cincinnati, R. D. Henry, also claimed that he had facts
+to set aside the first judgment.</p>
+
+         <p>The
+magnitude of the initial verdict made the case a national concern. The <hi rend="italic">
+New
+York Illustrated News 
+</hi>called it "the largest sum ever
+awarded in this country in such an action." When the appeal came to court
+in March 1860, <hi rend="italic">
+Harper's Weekly 
+</hi>reminded its readers that
+this was the great breach of promise case of the previous year that gave a
+verdict of $100,000 damages for the plaintiff. The article added a few personal
+items about Effie and Shaw. She was attractive; her father, a widower,
+Methodist, and businessman, had died ten years before. Effie had met Shaw in
+1856, and the alleged promise of marriage had come in November of the following
+year. Henry Shaw had lived in St. Louis forty-one years; he was a merchant with
+great wealth, was of medium height, had a hardy complexion with blue eyes, and
+possessed a great suavity of manners; in fact, he was one of the politest men
+in St. Louis. His wealth was estimated at between one-and-a-half and two
+million dollars. He had turned a barren prairie into an Eden.</p>
+
+         <p>Marie
+Seaman testified again that Shaw had begun to visit her sister, who lived with
+her, two or three times a week in 1856. He gave her jewelry, a piano, gloves,
+fruit, flowers, and other gifts. Generally he brought a gift at each visit. He
+brought books about botany, since he wanted Effie to know botany before they
+married. Shaw told Marie that he intended to marry Effie, and she began to
+prepare for the wedding in 1857. When she and Effie visited Shaw, she never saw
+any white person at his residence. Cross-examination avoided Mrs. Seaman's
+allegations and concentrated on her divorce to cast suspicion on her
+personally. </p>
+
+         <p>At
+least three different men, Joseph Havener, Moses Abbott, and Thomas Yostic,
+said that John Carter, one of the jurors, had publicly stated in their presence
+that Effie was not a decent woman and that Shaw was unjustly condemned in the
+first trial. Carter denied having made such a statement.</p>
+
+         <p>As counsel for
+the defendant, Shepley summarized his position in this way: Effie sought Shaw's
+acquaintance for the purpose of entrapping him. Hence most of the twenty days
+of the trial consisted of depositions and testimony from men who claimed that
+Effie had engaged in prostitution in Brooklyn, Cincinnati, and Charleston. Most of them said that they had <hi rend="italic">
+heard 
+</hi>she
+was "a wanton woman." At least one of the men, Steven Birch, was so
+confused under cross-examination that he testified that Effie was both a good
+and a bad woman at the same time. The most damaging statement against Effie's
+character came from James I. Cochran of Cincinnati on the eighteenth day.
+Cochran had bad things to say about Effie; personally, he had kissed her, but
+would not admit to having had intercourse with her.</p>
+
+         <p>Effie
+Carstang's counsel had been allowed to take a deposition from John Forbush, a
+crippled man in Cincinnati who knew Cochran. Forbush stated that Cochran was a
+perennial liar and known to be such. As to the allegation that Effie was a
+woman of easy virtue, he had never heard anyone make such a statement. He
+stated under questioning, "Neither Miss Carstang nor anyone else offered
+to pay me anything for testifying in this case."</p>
+
+         <p>Judge
+Reber excluded testimony that called into question the veracity of several
+witnesses for Shaw, and he did not allow the letter from Effie to Shaw to be
+used. The <hi rend="italic">
+Missouri Democrat 
+</hi>felt that the letter's
+publication in the <hi rend="italic">
+Republican 
+</hi>had really formed the basis
+for successful application for a new trial.</p>
+
+         <p>The
+verdict against Effie came on Saturday, 31 March 1860, the twentieth day of the
+trial. The <hi rend="italic">
+Missouri Democrat 
+</hi>stated flatly that the
+decision "on the whole surprised the community . . . . Even people in Cincinnati thought she would win and people questioned the impartiality of the jury as others
+did in earlier decisions. For instance, allegedly the foreman of the jury was
+seen going to Shaw's house before the verdict. The majority of people seemed to
+think that Effie should have gotten something, at least court costs." The  <hi rend="italic">Missouri
+Republican 
+</hi>gave less space to the verdict in the case than to judge
+Bates's candidacy for the presidency. It did comment on the throng in the
+courtroom, and it praised Major Wright for his summary as a "burst of
+oratory sparkling in wit and humor and sharp edged sarcasms . . . [and]
+historical allusions."</p>
+
+         <p>Effie
+submitted her request for a new trial on 2 June 1860,
+basing her petition on the fact that several jurors were prejudiced, among them
+John Carter and Charles Schuler, who allegedly stated that he had made 
+up his mind and would not change his view no matter
+what Major Wright or anyone else said.
+</p>
+
+         <p>While
+the feature writer for the <hi rend="italic">
+New York Illustrated News 
+</hi>expected
+a new trial, he took an ambivalent view on the one just completed. He thought
+the whole Union should show its appreciation to the jury for its common sense
+"in the face of lovely women ... immense legal talent, every possible
+technicality . . . [and] every known precedent, unlike most juries in his
+neighborhood that have hitherto been notorious for their liberal donations to
+female plaintiffs of other people's money. " In the
+same issue, ten pages later, the writer spoke of Shaw's "scandalous means
+of defense. He ransacked the country to destroy forever the character of a more
+youthful, humble and poor antagonist." But the writer agreed that Shaw
+had no alternative under the initial verdict. Shaw was "prompted by a hope
+of neutralizing the strong feeling the people of St. Louis seemed to entertain
+toward the plaintiff " The writer saw no real disgrace in proposing
+marriage and then backing off. He felt that "Shaw was smarting under the
+heavy verdict in the first trial."
+</p>
+
+         <p>The
+<hi rend="italic">
+St. Louis Times 
+</hi>expressed joy that the case
+was over and noted the general regret that the plaintiff did not get something.
+It saw Shaw in a "most unenviable position" and concluded that both
+lost. Effie appeared as "an <hi rend="italic">
+intriguante 
+</hi>and
+adventurer of the most dangerous type" and Shaw "as a libertine of
+seventy [sic]." The incidents revealed "more meanness than passion."</p>
+
+         <p>Shaw's
+counselor, Edward Bates, had left a vehement denunciation of the first verdict
+in his diary. That journal&#8212;at least in the printed edition - did not even
+mention the second trial. On the day of the verdict, in fact, Bates wrote
+highly critical analyses of President James Buchanan's forays into the field of
+lawmaking.</p>
+
+         <p>Judge
+Bates, who in reality did little at either hearing, received $250 in fees for
+each of the two trials; Shepley's fees for both suits amounted to $1,425.
+Disbursement by Judge J. R. Lackland reached $2,079 for travel and expenditures
+in rounding up testimony. Shaw's entire expenditure on the case totaled
+$15,358.81 at first counting.</p>
+
+         <p>The
+difference between the fees of Shepley and Bates and the disbursements of
+Lackland on the one hand and the total expenses on the other leave unaccounted
+about $10,000. Why this strange discrepancy?  <hi rend="italic">
+Reedy's Mirror, 
+</hi>many
+years later, said it went to Charles E Cady. The article stated:
+
+         <q rend="block">. . . Charlie Cady . . . one of the legal staff . . .
+packed his grip and made a bee-line for the city down on the Atlantic seaboard.
+Better than his education as a lawyer was his experience as a
+"rounder" on such a mission. He turned Charleston upside down, in and
+out, secured enough depositions to load a freight car, and sufficient testimony
+of a damaging character to blacken and blast and smash and utterly annihilate
+the reputation of all the saints in the calendar. Then he returned to St.
+Louis, walked into court with a countenance as innocent of guile as a babe's,
+and began to open up and read document after document of such salaciousness of,
+and concerning the said Effie Carstang, she and her heirs and assigns forever,
+as to cause bald heads of that day and generation to clutch at their whiskers,
+to marvel that doings of the kind described could be carried on in a free and
+enlightened republic. Effie Carstang didn't get her hands on a cent on account
+of her suit against Shaw, but Charlie Cady did. He pocketed Ten Thousand in
+very cool, exceeding cool cash.</q>
+</p>
+
+         <p>Cady
+did not get the full $10,000, though. He accounted for almost half that much
+money: $2,526.37 in rounding up testimony, $1,525 in salary for his efforts.
+The destination of the other six thousand remains one of the few unaccounted
+outlays in Shaw's account book.</p>
+
+         <p>This
+proved the most sensational, but not the last court case involving Henry Shaw.
+His business papers show 122 court cases, usually involving minor questions of
+property. They would begin in 1870 and reach a high of fifteen in 1880, with
+the second highest number, eight, in 1888, the last full year of Shaw's life.</p>
+
+         <p>Effie
+Carstang and her sister Marie Seaman presumably moved away from St. Louis shortly after the trial. During several previous years the <hi rend="italic">
+St.
+Louis Directory 
+</hi>had listed Mrs. M. Seaman as residing at 123 N. 5th St. Effie resided with her sister in property rented from judge Alexander
+Hamilton. After the trial the name of Mrs. M. Seaman no longer appeared in the <hi rend="italic">
+St. Louis Directory. 
+</hi>
+         </p>
+
+         <p>Though
+he never married, Shaw did have a true and lasting love, according to the
+testimony of a man who held the post of head gardener for the last twenty years
+of Shaw's life. In an interview years later, the gardener told a woman reporter
+for the <hi rend="italic">
+Republic, 
+</hi>"She was an American
+girl and neither he nor she ever married." One day when they were past
+seventy, she called on Shaw, and the gardener saw them walking arm in arm
+through the Garden in the moonlight. The gardener thought they would at last
+marry. When asked why they had never done so, he responded,
+"That I know, but I shall never tell you or anyone." The gardener, no
+doubt, kept his word.
+</p>
+<div1 type="file references">
+            <list>
+
+
+			
+              	<item><xptr n="ls.00142" type="image on history"/></item>
+
+
+
+	</list>
+         </div1>
+</body>
+   </text>
+</TEI.2>

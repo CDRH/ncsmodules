@@ -1,0 +1,97 @@
+body {margin: 0px; padding: 0px; font-family: Times New Roman, Serif; font-size: 1em; margin-left: 20px; margin-right: 20px; background-color: white; }
+
+div#menu {display: none; }
+div#menu ul { margin-bottom: 30px; }
+div#menu li{text-align: right; margin-right:6px; margin-bottom: 7px; font-family: verdana, sans-serif; font-size: .8em; margin-left: 0px;}
+div#menu a:link{color: black; font-family: verdana, sans-serif; font-size: 1em;}
+div#menu a:visited{color: black; font-family: verdana, sans-serif; font-size: 1em;}
+div#menu a:hover{color: black; font-family: verdana, sans-serif; font-size: 1em; text-decoration: underline}
+
+
+div#body { }
+div#body p {padding-left: 20px;} 
+
+
+div#related { margin: 35px 0px 20px 10px; border-top: solid 1px; }
+div#related h1 {padding-bottom: 0px; margin-bottom: 0px; }
+div#related ul { margin: 0px; padding: 0px;}
+div#related li { padding: 10px; margin: 0px;}
+div#related ul.subject{ padding: 20px; margin: 0px; }
+div#related ul.subject li { font-family: verdana, sans-serif; font-size: .8em; padding: 0px;}
+div#related div ul { border: solid 1px #7E7E7E; margin-top: 0px; margin-bottom: 20px }
+div#related a {font-size: 1em; }
+div#related div {font-family: verdana; width: 250px;  font-size: .8em; margin-right: 20px; margin-top: 20px; padding: 0px;}
+
+div#head {background-color: #E36666; padding: 0px; margin:0px;}
+div#head h1 { padding-bottom: 0px; font-size: 1.3em;  }
+div#head h2 { padding-top: 0px; font-size: 1.1em; }
+
+div.article { background-color: white; padding: 0px; margin: 0px;}
+
+div.corresp {border: solid 1px #999999; margin: 30px; padding: 15px;}
+
+div.corresp p {text-indent: 2em;}
+
+p.opener {text-indent: 4em;}
+
+p.dateline { text-align: right;  }
+
+p.closer { text-align: right; }
+
+
+
+h1{padding-left: 20px; padding-right: 20px; font-family: georgia, serif; color: #222222; font-size: 1.5em; font-weight: normal; background-color: #D6DAC3;}
+h1.top {margin-top: 0px;}
+h2, h3, h4 {padding-left: 20px; font-family: Times New Roman, serif; color: #333333; font-weight: bold;}
+h2 {font-size: 1.3em; font-weight: normal;}
+h3 {font-size: .9em;}
+h4 {{font-size: .9em; font-weight: normal;}}
+i {font-family: times;}
+ul {list-style: none}
+p {font-size: .85em; line-height: 1.4em; color: #202020; } 
+a {font-family: verdana; font-size: .8em; color: #AE1900; text-decoration: none;}
+a:link {font-family: verdana; font-size: .8em; color: #AE1900; text-decoration: none;}
+a:visited{font-family: verdana; font-size: .8em; color: #5A1B3A; text-decoration: none;}
+a:hover { text-decoration: underline }
+
+
+
+p.search { color: #9F5D4E; text-align: right; margin-right: 6px;}
+p.search img{ vertical-align: middle; }
+
+
+.center { text-align: center }
+
+p.description {margin: 20px; padding: 5px; background-color: #EEEEEE; font-family: verdana, sans-serif; font-size: .6em; color: black;}
+
+ul.description {margin: 20px; padding: 5px; list-style: none; background-color: #EEEEEE}
+ul.description li {  font-family: verdana, sans-serif; font-size: .6em; padding-bottom: 5px; padding-left: 5px;}
+
+a img {border: 0px; }
+p.unl {text-align: left;}
+p.icons {text-align: right; margin: 0px; padding: 2px; font-size: .8em; font-family: verdana, sans-serif; color: #D6DAC3; }
+
+p.intro { border: solid 1px #999999; margin: 30px; margin-top: 15px;padding: 15px; text-indent: 3em; background-color: #EEEEEE}
+
+p.block { border: solid #C9C9C9; border-width: 0px 1px 0px 1px; margin: 30px 60px 30px 60px; padding: 15px; font-family: Perpetua, georia, serif; font-size: 1em;}
+
+ul.category {margin-left: 40px;}
+ul.category li {padding-bottom: 15px;}
+
+ul.category a:link { font-weight: bold; color: #55201C;}
+ul.category a:visited { font-weight: bold; color: #794E4B;}
+
+img.thumb { margin: 5px; padding: 5px; border: solid 1px black; }
+
+h1.setting { background-color: white; font-size: 1.3em; padding-left: 5px;}
+div.setting { margin-left: 40px; }
+ul.boudoir { border-color: #E36666; }
+ul.countrywalk { border-color: #ECEB66; }
+ul.garden { border-color: #74A066; }
+ul.parlor { border-color: #E9D7BC; }
+ul.dance { border-color: #666697; }
+ul.piano { border-color: #914F42; }
+ul.publicspace { border-color: #66B8E8; }
+ul.carriage { border-color: #8E8E8E; }
+ul.urbanwalk { border-color: #ACCDB5; }
+ul.wild { border-color: #FF9A40; }

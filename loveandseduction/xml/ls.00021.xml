@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00021">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"A Cheeky Chicago-un"
+
+</title>
+
+<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name=""></author>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00021</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 6 of the May 21, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">A Cheeky Chicago-un</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+May 21, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="divorce" type="theme">divorce</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="class" type="theme">class</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>A CHEEKY CHICAGO-UN</head>
+
+	<head>Amours of a Festive Railroad Man of O'Learyville, who Established his Legitimate Home</head>
+	<head>IN A QUIET LITTLE TOWN</head>
+
+	<head>But who had his Harems all Along the Line; and now his Admiring Neighbors Promise him</head>
+	<head>A TAR AND FEATHER ULSTER</head>
+
+                     <p>Hinsdale, Ill., May 14.&#8212;A domestic cyclone, bearing on its
+wave the secrets of a home and the shattered reputations of several frail but gushing
+and voluptuous females, has struck this little town, situated on the line of
+the Chicago, Burlington and Quincy railroad, and some eighteen miles west of
+Chicago. Its twelve or fourteen hundred staid, steady and God-fearing citizens stand
+bewildered at the lascivious doings of one of their number. The developments of
+the present case bring to the surface the loyalty of and fidelity of a prudent
+wife, and go to show the depths of suffering that sometimes lie hidden in the
+breast of a good woman, to be brought forth from its hiding-place only at the
+demand of public justice, and when it can no longer, be hidden from unsavory
+whisperings and disgusting comments. The prominent figure in the present
+scandal which has struck Hinsdale with the force of an earthquake is embodied
+in Henry L. Estabrooks, traveling auditor of the Chicago, Burlington and Quincy railroad, with headquarters at Chicago. If the innumerable stories of this gentleman's
+escapades be true, there can be little doubt that the mantle of the late Mr.Young,
+with the proclivities of a Beecher ensconced in the folds of the garment, had
+fallen upon him. During this festive gentleman's eight years' residence in Hinsdale it is claimed that he has persistently and brutally violated his marriages vows.</p>  
+
+<p>He did not, however, confine his operations to the shady
+suburb of Hinsdale, but covered a section of country bounded by the home
+residence and Lake Michigan, with a large section of country in and around Chicago yet to be heard from. As is natural to suppose, many of the residents of Hinsdale
+and those along the line of road leading to Chicago, strongly objected to this.
+After mature consideration about a year ago on the part of several of the
+citizens of the pleasant western suburb, it was deemed necessary, in the
+interest of morality, to request the gentleman to pack his grip-sack and locate
+in other fields. This conclusion was conveyed to the railroad man, but
+trusting in the protection of law-abiding citizens, he declined with thanks.
+The wife of the peculiarly constituted gentleman, an estimable lady, the mother
+of two children, and who is respected and loved by the citizens for her many
+excellent qualities, has recently separated from the husband, after many years
+of harsh and brutal treatment, it is said.</p>
+
+         <p>Her application for a divorce is
+now in the hands of a well-known Chicago attorney, and will be vigorously
+prosecuted. It is claimed by the abused wife that for years she has been unable
+to retain a domestic in her employ, from the fact of the husband's propensity
+to chloroform her (the wife), and then devote the hours of her unconsciousness
+to the scullery maid. An instance of late date is related, where the wife
+visited her mother, in Chicago, and during her absence placed the home in
+charge of a domestic, engaged the day preceding her leaving. The wife, at the
+solicitation of the husband, remained from her home several days, during which
+time the girl says she was subjected to repeated attacks of an indecent
+character from Estabrooks. It is related by the domestic that he proposed
+marriage to her several times, but she declined to preside over his domestic
+affairs, as well as others of a seductive nature.</p>
+
+         <p>His importunities gained strength and frequency from her
+every refusal. One night he was unusually demonstrative; he declared his
+undying, fierce, consuming love for her in the strongest terms, and, when she
+refused, he talked of shooting himself, and told her he could save his life and
+hers only by consenting to smile across the tea-table. She consented, for she had
+a fear of firearms, and the anticipations of the mangled corpse which should
+contain his heart, sort of froze her with terror. The railroad man was so
+jubilant over his success in this case that he couldn't or didn't avoid
+speaking of it. After a time the fact came to the ears of the domestic that he
+had spoken of his strong will, and how he had conquered her, and this so moved
+her that she gave the railroad man "dead away" to his wife and every scullery maid
+in Hinsdale. He tried, the girl states, to win her back, but she was
+inflexible. Then, as the last method he could think of, he resorted to letter
+writing, and succeeded in setting up a rather dramatic model for the literature
+of lovers. In his epistles to the girl he asks forgiveness for all the trouble he
+had caused her; assures her of forgiveness for all the trouble she has caused;
+rehearses his agony, which is unbearable; tells her that he would be out of it
+quick, only that he wanted to make his property over to parties who would protect
+it from the claims of his wife. In one of these letters to the servant the
+gentleman becomes tired of life, and proposes to blow out his brains, after which
+he asks her to remain in the village that morning so as to get the news early.
+He requests her to destroy his letters when he has passed away, and not forget
+to visit his last resting-place, and concludes with the assurance that he is "hers while life lasts."</p>
+
+         <p>This was about the form adopted by the diplomatic railroad
+man in "working up the cases" of the several domestics who came into his
+household, and they, without an exception, have invariably "given him away,"
+not only to the abused and suffering wife, but have spread the fact among the
+domestics of the suburb, and they in turn have given the facts, highly
+embellished, no doubt, into higher circles, until the man has become loathed
+and abhorred by the entire community.</p>
+
+         <p>Sometime during the early part of
+the present month Mrs. B. again visited her relations in Chicago. During her
+absence the recently-employed domestic was, as she says, subjected to such
+gross usage at the hands of Estabrooks that she was compelled to seek refuge in
+an adjoining residence, where she remained until Mrs. E.'s return, when the
+full facts were laid before her. The latest act of the man had become generally
+well known throughout the town, and the matter of his compulsory leaving the neighborhood
+or being subjected to an artistic coat of tar and feathers was freely
+discussed. As before, law and order prevailed. The residents of the town,
+without an exception, it is believed, have openly espoused the cause of the wronged
+wife in her application for a separation, and express a determination to make
+the gentleman "move out" at an early date.</p>
+
+         <p>This cherub of a husband, it is
+related by the unfortunate woman, has repeatedly beaten her, and once, while
+pregnant, she was knocked down and kicked, until the neighbors came to her
+assistance and ejected him from the house. A daughter, ten years of age, has
+also been subjected to brutal punishment from the father. Estabrooks afterward
+justified these acts of brutality by the statement that he was a martyr, to the
+toothache. There are other acts charged against the husband and father equally
+damaging. For instance, it is asserted by the wife, and substantiated by those
+who had an opportunity of knowing the truthfulness of the assertion, that the
+wife and children were frequently compelled to submit to indecent exposures.  In addition to all this it is given as a notorious fact that
+the family of a harmless fellow placed in a subordinate position by Estabrooks,
+in one of the offices of the Chicago, Burlington and Quincy railroad, has been
+debauched by the patron. </p>
+
+         <p>The family resided at Western
+Springs for a couple of years, during which time the liaison between Estabrooks
+and the wife was openly conducted, and to such an extent as to be freely
+commented upon by the railroad employees and others who were daily observers of
+the shameful conduct of both parties. The conduct of the wife became so glaring
+that the husband finally applied for a divorce on the ground of the wife's
+adultery with Estabrooks. The divorce was granted, and the ex-wife, It is
+claimed, is now scratching a living on Wabash avenue, in the vicinity of Twelfth street.</p>
+
+         <p>There is a scarlet woman, too, in
+the case, and she comes in the form of a seductive grass-widow, the relic of an
+ex-railroad official. She is a blonde, a pronounced one, and like Mr.
+Sparkler's various flames, this particular blonde has "no bigged nonsense about
+her."  When a wife comes in her path, and interferes with her prey, she strikes
+from the shoulder. Mr. Estabrooks, it is stated, has long been an ardent
+admirer of the voluptuous blonde, and has had her domiciled in his home at Hinsdale for several weeks in succession, against the repeated protests of his wife and
+children. The grass-widow has been in daily attendance at the offices of the Chicago and Burlington road in this city, and is well-known to the officials. The wife
+states that during a visit, in company with her little boy, to her husband's office
+in Chicago, this woman was found comfortably quartered in his embrace.  The incident is related by Mrs. Estabrooks in this way: On
+gaining the floor on which her husband's office was located, she stopped in the
+hall to converse with a lady acquaintance, while the child entered the office
+in search of his papa. The boy immediately returned with the request that his
+"mamma come quick." Mama did "come quick," and stopped quicker. A scene followed&#8212;one
+that developed from tragic prose to pallor and surprise with words of
+recrimination and worse.</p>
+
+         <p>"My husband, who is this?" gasped
+the wife. It was plain to any employee and railroad official who in
+immediately gathered in the vicinity of the auditor's department, who "this"
+was for it wore a look caught from the inner walls of a house of ill-fame; it
+had the stamp of the harlot upon it. When the clapper smote it brazen interior
+it gave forth its harsh sound with a prostitute's word and accent. The recreant
+lord clutched his desk and stood pale and angered for a few moments in the
+presence of his wife and child and a score or so of the railroad employees.</p>
+
+         <p>Other instances of like character
+are quoted, and, the residents of Hinsdale are unanimous in the belief that a
+great injury has been perpetrated upon an estimable wife and mother, who has
+labored long to suppress the irregularities of an unworthy husband. </p>
+
+         <p>And the end is not yet. Tar and
+feathers are nightly expected. </p>
+
+         <div1 type="file references">
+            <list>
+		<item><xptr n="ls.00014" type="same subject"/></item>
+
+               	<item><xptr n="ls.00003" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+
+			<item><xptr n="ls.00023" type="history on history"/></item>
+			<item><xptr n="ls.00033" type="same subject"/></item>
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

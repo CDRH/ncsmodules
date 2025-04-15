@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00090">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Holman Hunt and the Light of the World</hi></title>
+		<title level="c" type="chapter">from Chapter 3, "A Light Industry"</title>
+		<date type="original" value="1984">1984</date>
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Maas">Jeremy Maas
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00090</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 46-47 of Jeremy Maas' <hi rend="italic">Holman Hunt and the Light of the World</hi>.  Published by Scolar Press, 1984.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"><!-- INSERT ANALYTIC TITLE  --> </title>
+               <title level="m"><hi rend="italic">Holman Hunt and the Light of the World</hi></title>
+               <author>Jeremy Maas</author>
+               <imprint>
+                  <publisher>
+Scolar Press
+</publisher>
+                  <pubPlace>
+London
+</pubPlace>
+               </imprint>
+               <date>
+1984
+</date>
+               <idno type="ISBN">
+0859676838
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+			            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>1. </head><p>"Hunt's gratification when he heard of Carlyle's
+'positive praise' encouraged him to repeat the invitations to see the Christ
+picture. First Carlyle peered at <hi rend="italic">The Awakening Conscience </hi>and spoke
+approvingly of it, while completely misinterpreting the reflection of some
+green foliage on a shining table by congratulating Hunt on the moonlight
+effect. And then, in tones of disdain, his voice sometimes rising to a treble,
+he spoke at great length, discouraging interruption on <hi rend="italic">The Light of the
+World:</hi>
+         </p>
+
+         <q rend="block">You call that thing, I ween, a picture of
+Jesus Christ. Now you cannot gain any profit to yourself, except in mere pecuniary sense, or
+profit any one else on earth, in putting into shape a mere papistical fantasy like that, for
+it can only be an inanity, or a delusion to every one that may look on it. It is a poor
+misshaped presentation of the noblest, the brotherliest, and the most heroic-minded Being
+that ever walked on God's earth. Do you ever suppose that Jesus walked about bedizened
+in priestly robes and a crown and with yon jewels on his breast, and a gilt aureole
+round His head? Ne'er crown nor pontifical robe did the world e'er give to such as Him.
+Well &#8212; and if you mean to represent Him as been travestied from the beginning by worldlings
+who have recorded their own ambitions as His, repeating Judas's betrayal to the high
+priests. You should think frankly of His antique heroic soul, if you realized His
+character at all you wouldn't try to make people go back and worship the image that the priests
+have invented of Him, to keep men's silly souls in meshes of slavery and darkness. Don't
+you see that you're helping to make people believe what you know to be false, what
+y' don't believe yourself? The picture I was looking at just now of the shallow idle fool
+and his wretched victim had to do with reality; this is only empty make-believe, mere
+pretended fancy, to do the like of which is the worst occupations for a man to take to.</q>
+
+         <p>In vain did Hunt protest that he believed in the
+idea that he had painted and that he could prove from his, Carlyle's, writings
+that <hi rend="italic">he </hi>did too. At this the sage's voice rose to a scream which Mrs.
+Carlyle, standing behind him, quelled by shaking her head and a finger. The
+storm of words continued unabated, it seemed, for nearly half an hour, and then
+the great flow of rhetoric ceased as suddenly as it had begun. Turning to go,
+Carlyle pointed to a drawing on the wall. 'And pray who may that shrewd
+looking man be with the domed and ample cranium? He ought to be a man of
+mark.' That, said Hunt, was his father, whom he 'regarded as a man of very
+exceptional intellect.'"</p>
+
+<div1 type="file references">
+            <list>               <item>
+                  <xptr n="ls.00041" type="commentary on image"/>
+               </item>   
+
+               <item>
+                  <xptr n="ls.00100" type="image on image"/>
+               </item>
+             
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

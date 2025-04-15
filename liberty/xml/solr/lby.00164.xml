@@ -1,0 +1,15 @@
+<add>
+   <doc>
+      <field name="id">lby.00164</field>
+      <field name="title">Liberty &amp; Washington</field>
+      <field name="project">liberty</field>
+      <field name="genre">paintings</field>
+      <field name="place">american</field>
+      <field name="topic">washington</field>
+      <field name="topic">americanrevolution</field>
+      <field name="topic">gender</field>
+      <field name="topic">icon</field>
+      <field name="topic">libertycap</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

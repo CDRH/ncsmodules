@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00076">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"An Elopement in a Carriage"</title>
+		<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<date type="original" value="1845">1845</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author>
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00076</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 83 of the November 1, 1845 issue of the <hi rend="italic">National Police Gazette</hi>."
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">An Elopement in a Carriage</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+               <author></author>
+               <imprint>
+                  <publisher>
+<hi rend="italic">National Police Gazette</hi>
+</publisher>
+                  <pubPlace>
+New York
+</pubPlace>
+               </imprint>
+               <date>
+November 1, 1845
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="policegazette">police gazette</term>
+               <term id="american" type="place">American</term>
+			<term id="history" type="media">history</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="adultery" type="theme">adultery</term>
+			<term id="premaritalsex" type="theme">premarital sex</term>
+			<term id="popularpress" type="theme">popular press</term>
+			<term id="carriage" type="setting">carriage</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-30">30 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                        <head>An Elopement
+in a Carriage</head>
+
+         <p>A scoundrel named John Right has recently
+seduced a young girl at Wyethville, Va. and eloped with her to the west or
+south. The poor and infatuated young girl, whom this destroyer has thus made
+the dupe of his bribes and artifices and faithless promises, is Margaret E.
+Oury, the daughter of Thomas Oury, of Wyethville, and about 15 or 16 years of
+age. We have understood they are making their way towards Lynchburg or Richmond, and will probably change their course and pass through Franklin county and the
+state of North Carolina to the south. They represent they were married in
+Wyethville, a statement which is utterly false. They are traveling in a two
+horse barouche, with a cover on it, driven by a likely mulatto man. He came
+from Knoxville, Tennessee, where he has a young wife now living, and suffering
+the unspeakable pangs of his remorseless and inhuman conduct, and spent the
+summer at the Grayson Sulphur Springs.</p>
+
+
+      </body>
+   </text>
+</TEI.2>
+           

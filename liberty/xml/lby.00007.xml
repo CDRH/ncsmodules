@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00007">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Les Miserables</hi>
+</title>
+            <title level="c" type="chapter">from Volume III, Book IV, Chapter I, "A Group that Nearly Became Historical"</title>
+<date type="original" value="1862">1862</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Hugo">Victor Hugo
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00007</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law.  Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 120-122 of the 1899 Little, Brown edition of Victor Hugo's <hi rend="italic">Les Miserables</hi>, Volume III, Book IV, Chapter I, "A Group that Nearly Became Historical." Translated by Sir Lascelles Wraxall.  Originally published in 1862.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">BOOK IV</title>
+               <title level="m">Les Miserables</title>
+               <author>Victor Hugo</author>
+               <imprint>
+                  <publisher>Little, Brown, &#38; Company
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1899
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="french" type="place">French</term>
+<term id="poland" type="topic">Poland</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-17">17 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">CHAPTER IV.</head>
+<head type="sub">THE FRIENDS OF THE A.B.C.</head>
+<head type="sub">CHAPTER I.</head>
+<head type="sub">A GROUP THAT NEARLY BECAME HISTORICAL</head>
+
+<gap reason="sampling" extent=""/>
+
+<p>Feuilly was a journeyman fan-maker, doubly an orphan, who laboriously earned three francs a day, and had only one idea,&#8212;to deliver the world. He had another preoccupation as well, instructing himself, which he called self-deliverance. He had taught himself to read and write, and all that he knew he had learned alone. Feuilly had a generous heart, and hugged the world. This orphan had adopted the peoples, and as he had no mother, he meditated on his country. He had wished that there should not be in the world a man who had no country, and he brooded over what we now call the "idea of nationalities" with the profound divination of the man of the people. He had studied history expressly that he might be indignant with a knowledge of the fact, and in this youthful assembly of Utopians who were specially interested about France, he represented the foreign element. His speciality was Greece, Poland, Roumania, Hungary, and Italy; he pronounced these names incessantly, in season and out of season, with the tenacity of right. The violations committed by Turkey on Greece and Thessaly, of Russia on Warsaw, and Austria on Venice, exasperated him, and above all the great highway robbery of 1772 aroused him. There can be no more sovereign eloquence than truth in indignation; and he was eloquent with that eloquence. He never left off talking about the infamous date 1772, the noble and valiant people suppressed by treachery, this crime committed by three accomplices, and the monstrous ambush, which is the prototype and pattern of all those frightful suppressions of states, which have since struck several nations, and have, so to speak, erased their name from the baptismal register. All the social assualts of the present day emanate from the division of Poland, and it is a theorem to which all our political crimes are corollaries. There is not a despot or a traitor who for a century past has not revised, confirmed, contersigned, and margined with the words <hi rend="italic">ne varietur</hi>, the division of Poland. When we consult the list of modern treasons this appears the first, and the Congress of Vienna consulted this crime ere it consummated its own; 1772 sounds the view-halloo, and 1815 witnesses the quarry of the stag. Such was Feuilly's usual text. This poor workman had made himself the guardian of Justice, and she rewarded him by making him grand. In truth, there is an eternity in justice, and Warsaw can no more be Tartar than Venice can be Teutonic. Kings lose their time and their honor over such things. Sooner or later the submerged country floats on the surface and reappears. Greece becomes Greece once more, and Italy, Italy. The protest of right against deeds persists forever, and there is no law of limitations for the robbery of a nation. Such superior swindles have no future, and the mark cannot be taken out of a nation like a handkerchief.</p>
+
+<gap reason="sampling" extent=""/>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00006" type="Same novel"/>
+               </item>
+               <item>
+                  <xptr n="lby.00008" type="Same novel"/>
+               </item>
+               <item>
+                  <xptr n="lby.00009" type="Same novel"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

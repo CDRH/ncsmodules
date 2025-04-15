@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00065">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Wetton Scandal"</title>
+		<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+		<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00065</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 2 of the April 27, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Wetton Scandal</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+April 27, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="carriage" type="setting">carriage</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <head>
+The Wetton Scandal</head>
+
+	<head>The Hero of the Mobile Sensation Arrested for Bigamy</head>
+
+
+
+
+         <p>The Indianapolis, Ind., <hi rend="italic">News </hi>relates
+the following later developments in the Wetton scandal sensation of Mobile, Ala., an account of the first exposure of which appeared with illustrations in the <hi rend="italic">Gazette
+</hi>some weeks since.</p>
+
+
+         <p>Last night C. Albert Wetton, ex-auditor of one
+of the Mobile railroads, was arrested in this city by Chief of Police Travis
+and Captain Forbes on a warrant based on a grand jury indictment against the
+gentleman for bigamy. Wetton and his wife lived happily together for several
+years in Mobile, and as he was in receipt of a salary of 5,000 they were
+enabled to maintain a fine establishment. About a year ago he formed the
+acquaintance of Mrs. Mary Jane Hartpence, the wife of an Indianapolis printer
+by the name of Walter Hartpence. Last fall he obtained a Utah divorce from his
+wife without notifying her of the fact, and after having, as he supposed,
+legally ridden himself of her, persuaded her to take a trip to California. He parted with her at St. Louis on Friday, November 16, 1877, leaving her to
+make the journey alone, and started back in the general direction of Mobile. By some means the suspicions of the wife became aroused and instead of going on to the Golden State she returned to the South after a delay of a day or two. On leaving his wife Wetton came to this city and late Saturday night routed up County Clerk Brown from whom he obtained a marriage license, Receiver Hunt, of
+the Grand Hotel, making the necessary affidavits. Mary Hartpence had been
+granted a decree of divorce during the previous September by Judge Julian, and
+both supposing that every legal bar to their union had been removed, were
+married on the afternoon of Sunday, November 18, in the parlors of the Second
+Presbyterian Church, Rev. W. A. Bartlett officiating. The singularly married
+couple went South, and it so chanced that they encountered wife No. 1 in a
+sleeping car. A scene followed which was graphically illustrated in the <hi rend="italic">Police
+Gazette </hi>shortly after. Wetton lost his situation by reason of the scandal
+growing out of this episode, and removed to Ohio with wife No. 2.</p>
+
+
+         <p>At the last term of the grand jury in this city
+a bill for bigamy was returned against Wetton, and several days ago his true
+wife came here with the expressed purpose of prosecuting her unfaithful
+husband. She decoyed him to this city by giving him to understand that she
+wanted to arrange with him for the procurement of a legitimate divorce. He fell
+into the trap readily, arriving from Cincinnati last evening. He had been
+expected on the noon train but missed connections. The outraged wife was very
+anxious to have him arrested, but once in the hands of the police she appeared
+very solicitous to get him out of trouble.</p>
+
+
+         <p>This morning Wetton was visited by his wife, who
+is now only too willing to compromise provided her husband will give up the
+"other woman," get employment and take her back to his arms again. The case
+has gone beyond her control. Wetton's bail was fixed at $1,000, which he has
+been unable to furnish. The prisoner is a man about thirty-five years of age,
+of very prepossessing appearance and fine address. He is much torn up over his
+arrest. </p>
+
+
+      </body>
+   </text>
+</TEI.2>

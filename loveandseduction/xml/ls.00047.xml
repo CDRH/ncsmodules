@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00047">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Norwood</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter III, "Rachel Liscomb"</title>
+<title level="m" type="monograph"></title>
+<author name="Beecher">Henry Ward Beecher</author>
+<date type="original" value="1868">1868</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00047</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 9-11 of the original 1868 publication of Henry Ward Beecher's <hi rend="italic">Norwood</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter III, "Rachel Liscomb"</title>
+               <title level="m"><hi rend="italic">Norwood</hi></title>
+               <author>Henry Ward Beecher</author>
+               <imprint>
+                  <publisher>
+Charles Scribner
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+1868
+
+</date>
+                         </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="publicspace" type="setting">public space</term>
+               <term id="urbanwalk" type="setting">urban walk</term>
+			<term id="courtship" type="theme">courtship</term>
+			<term id="american" type="place">American</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-25">25 February 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+		<head>CHAPTER III:  Rachel Liscomb</head>
+
+         <p>Rachel Liscomb, daughter of Deacon
+Liscomb&#8212;tall, slender, straight, with black hair and dark eyes, a
+brunette&#8212;looked at him one day as they walked home from meeting, with a look
+that he never got over.  She was one of the few without gifts of speech,
+whose bearing and looks are a full equivalent for speech. A farmer's
+daughter&#8212;she was well-practised in work. But, a New-England woman, she was
+of a deep moral nature and reflectively intelligent. One who looked
+for attractive manners would pass her
+by unseen. Like a geode, the exterior was homely, the crystals were
+dark-chambered within.</p>
+
+         <p>Upon
+her rested the thoughts of Abiah Cathcart. She went but little from home,
+except on Sunday to church, and to the singing-school. But twice had Cathcart
+visited her father's house, and yet for a year, when they met, both hid or
+strove to hide a sensibility of which neither was ashamed, but which each was ashamed to feel without some sign that the
+other felt it too. Our finer feelings are like the evening primrose, all the
+sunlight but shuts them closer. And yet, when evening comes and dews are
+falling, if you will watch, you shall see the twilight with gentle influence
+unroll them one by one, with visible motion, each blossom throwing forth, as it
+opens, its offering of delicate odor.</p>
+
+         <p>They
+were walking silently and gravely home one Sunday afternoon, under the tall
+elms that lined the street for half a mile. Neither had spoken. There had been
+some little parish quarrel, and on that afternoon the text was, "A new
+commandment I write unto you, that you love one another." But, after the
+sermon was done, the text was the best part of it. Some one said that Parson
+Marsh's sermons were like the meeting house&#8212;the steeple was the only thing that folks could see after they got home.</p>
+
+         <p>They walked slowly, without a
+word. Once or twice 'Biah essayed to speak, but was still silent. He plucked a flower from between the pickets of the fence, and unconsciously pulled it to pieces, as, with
+troubled face, he glanced at Rachel, and then, as fearing she would catch his
+eye, he looked at the trees, at the clouds, at the grass, at everything, and
+saw nothing&#8212;nothing but Rachel. The most solemn hour of human experience is not
+that of death; but of Life&#8212;when the heart is born again, and from a natural heart becomes a heart
+of Love!  What wonder that it is a silent hour and perplexed?</p>
+
+         <p>Is the soul confused? Why
+not, when the divine spirit, rolling clear across the aerial ocean, breaks upon
+the heart's shore with all the mystery of heaven?  Is it strange that
+uncertain lights dim the eye, if above the head of him that truly loves hover
+clouds of saintly spirits?  Why should not the tongue stammer and
+refuse its accustomed offices, when all the world&#8212;skies, trees, plains, bills,
+atmosphere, and the solid earth&#8212;spring forth in new colors, with strange
+meanings, and seem to chant for the soul the glory of that mystic Law with
+which God has bound to himself his infinite realm&#8212;the law of Love!  Then,
+for the first time, when one so loves that love is sacrifice, death to self,
+resurrection, and glory, is man brought into harmony with the whole universe;
+and like him who beheld the seventh heaven, hears things unlawful to be uttered!</p>
+
+         <p>The
+great elm trees sighed as the fitful breeze swept their tops. The soft shadows
+flitted back and forth beneath the walker's feet, fell upon them in light and
+dark, ran over the ground, quivered, and shook, until sober Cathcart thought that
+his heart was throwing its shifting network of hope and fear along the ground
+before him!</p>
+
+         <p>How strangely his voice
+sounded to him as, at length, all his emotions could only say, "Rachel&#8212;how did you like the sermon?"</p> 
+	<p>Quietly she answered&#8212;</p>
+
+         <p>"I liked the text."</p>
+
+         <p>"'A new commandment I write unto you, that ye love one another.' Rachel, will you help me keep it?"</p>
+
+         <p>At first she looked down and lost a little color; then, raising her face, she turned upon him her large eyes, with a look both clear and tender. It was as if some painful restraint had given way, and her eyes blossomed into full beauty.</p>
+
+         <p>Not another word was spoken. They
+walked home hand in hand.  He neither smiled nor exulted. He saw neither the trees, nor the long level rays of sunlight that were slanting across the fields. His soul was overshadowed with a cloud as if God were drawing near. He had never felt
+so solemn. This woman's life had been entrusted to him!</p>
+
+         <p>Long
+years&#8212;the whole length of life&#8212;the eternal years beyond, seemed in an
+indistinct way to up in his imagination. All that he could say, as he left her
+at the door, was:</p>
+
+         <p>"Rachel, this is
+forever&#8212;forever."</p>
+
+         <p>She
+again said nothing, but turned to him with a clear and open face, in which joy
+and trust wrought beauty.  It seemed to him as if a light fell upon him
+from her eyes.  There was a look that descended and covered him as with
+an atmosphere; and all the way home he was as one walking in a luminous cloud. He
+had never
+felt such personal dignity as now. He that wins such love is
+crowned, and may call himself king. He did not feel the earth under
+his feet. As he drew near his lodgings, the sun went down. The children began
+to pour forth, no longer restrained. Abiah turned to his evening chores.
+No animal that night but had reason to bless him.  The children found him
+unusually good and tender. And
+Aunt Keziah said to her sister:</p>
+
+         <p>"Abiah's keen goin' to meetin' very regular for
+some weeks, and I shouldn't wonder, by the way he looks, if he had got a hope.
+I trust he ain't deceivin' himself." </p>
+
+         <p>He had a hope, and he was
+not deceived; for in a few months, at the close of the service one Sunday
+morning, the minister read from the pulpit: "Marriage is intended between
+Abiah Cathcart and Rachel Liscomb, both of this town, and this is the first publishing of the banns."  Which notice was duly repeated for two
+successive Sunday mornings.  Then old Uncle Bascom, the town clerk,
+issued the marriage certificate. Uncle Bascom had been town clerk, the
+boys used to think, ever since there was a town; so long that that town,
+without Giles Bascom as clerk, wouldn't be recognized. It was one of
+the marks, like the meeting-house, the brick store, and Gallup's tavern, by
+which people knew that this was the town of Dennis.</p>
+
+         <p>One
+day there appeared in the county paper two lines: <hi rend="italic">"Married:&#8212;On&#8212;, at the home of the bride's father, Abiah Cathcart
+and Rachel Liscomb."</hi>
+
+         </p>
+
+
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+	
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00033" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00034">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Lectures on the Philosophy of History</hi></title>
+            <title level="c" type="chapter">from Part IV, "The German World," Chapter III, "The Exlaircissement and Revolution"</title>
+<date type="original" value="1823">c. 1823-1827</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Hegel">G.W.F. Hegel
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00034</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 472-477 of the 1872 Bell and Daldy edition of G.W.F. Hegel's <hi rend="italic">Philosophy of History</hi>.  Translated from the Third German Edition by J. Sibree.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The German World: The Modern Time</title>
+               <title level="m"><hi rend="italic">Lectures on the Philosophy of History</hi></title>
+               <author>G.W.F. Hegel</author>
+               <imprint>
+                  <publisher>
+Bell and Daldy
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+1872
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+            <term id="history" type="genre">history</term>
+<term id="german" type="place">German</term>
+<term id="french" type="place">French</term>
+<term id="british" type="place">British</term>
+<term id="frenchrevolution" type="topic">French Revolution</term>
+<term id="napoleon" type="topic">Napoleon</term>
+<term id="liberalism" type="topic">liberalism</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-07">07 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>We have now to consider the French Revolution in its organic connection with the <hi rend="italic">History of the World</hi>; for in its substantial import that event is World-Historical, and that contest of Formalism which we discussed in the last paragraph must be properly distinguished from its wider bearings.  As regards outward diffusion its principle gained access to almost all modern states, either through conquest or by express introduction into their political life.  Particularly all the Romanic nations, and the Roman Catholic World in special&#8212;<hi rend="italic">France, Italy, Spain</hi>&#8212;were subjected to the dominion of Liberalism.  But it became bankrupt everywhere; first, the grand firm in France, then its branches in Spain and Italy; twice, in fact, in the states into which it had been introduced.  This was the case in Spain, where it was first brought in by the Napoleonic Consitution, then by that which the Cortes adopted,&#8212;in Piedmont, first when it was incorporated with the French Empire, and a second time as the result of internal insurrection; so in Rome and in Naples it was twice set up.  Thus Liberalism as an abstraction, emanating from France, traversed the Roman World; but Religious slavery held that world in the fetters of political servitude.  For it is a false principle that the fetters which bind Right and Freedom can be broken without the emancipation of conscience&#8212;that there can be a Revolution without a Reformation.  These countries, therefore, sank back into their old condition&#8212;in Italy with some modifications of the outward political condition.  Venice and Genoa, those ancient aristocracies which could at least boast of legitimacy, vanished as rotten despotisms.  Material superiority in power can achieve no enduring results:  Napoleon could not coerce Spain into freedom any more than Philip II could force Holland into slavery.</p>
+	<p>Contrasted with these Romanic nations we observe the other powers of Europe, and especially the Protestant nations.  <hi rend="italic">Austria</hi> and <hi rend="italic">England</hi> were not drawn within the vortex of internal agitation, and exhibited great, immense proofs of their internal solidity.  <hi rend="italic">Austria</hi> is not a Kingdom, but an Empire, <hi rend="italic">i.e.</hi> an aggregate of many political organizations.  The inhabitants of its chief provinces are not German in origin and character, and have remained unaffected by "ideas."  Elevated neither by education nor religion, the lower classes in some districts have remained in a condition of serfdom, and the nobility have been kept down, as in Bohemia; in other quarters, while the former have continued the same, the barons have maintained their despotism, as in Hungary.  Austria has surrendered that more intimate connection with Germany and the Netherlands.  It now takes its place in Europe as a distinct power, involved with no other.  <hi rend="italic">England</hi>, with great exertions, maintained itself on its old foundations; the English <hi rend="italic">Constitution</hi> kept its ground amid the general convulsion, though it seemed so much the more liable to be affected by it, as a public Parliament, that habit of assembling in public meeting which was common to all orders of the state, and a free press, offered singular facilities for introducing the French principles of Liberty and Equality among all classes of the people.  Was the English nation too backward in point of culture to apprehend these general principles?  Yet in no country has the question of Liberty been more frequently a subject of reflection and public discussion.  Or was the English constitution so entirely a Free Constitution&#8212;had those principles been already so completely realized in it, that they could no longer excite opposition or even interest?  The English nation may be said to have approved of the emancipation of France; but it was proudly reliant on its own constitution and freedom, and instead of imitating the example of the foreigner, it displayed its ancient hostility to its rival, and was soon involved in a popular war with France.</p>
+	<p>The Constitution of England is a complex of mere <hi rend="italic">particular Rights</hi> and particular privileges:  the Government is essentially administrative&#8212;that is, conservative of the interests of all particular orders and classes; and each particular Church, parochial district, county, society, takes care of itself, so that the Government, strictly speaking, has nowehere less to do than in England.  This is the leading feature of what Englishmen call their Liberty, and is the very antithesis of such a centralized administration as exists in France, where down to the least village the Marie is named the Ministry or their agents.  Nowhere can people less tolerate free action on the part of others than in France:  there the Ministry combines in itself all admistrative power, to which, on the other hand, the Chamber of Deputies lays claim.  In England, on the contrary, every parish, every subordinate division and association has a part of its own to perform.  Thus the common interest is concrete, and particular interests are taken cognizance of and determined in view of that common interest.  These arrangements, based on particular interests, render a general system impossible.  Consequently, abstract and general principles have no attraction for Englishmen&#8212;are addressed in their case to inattentive ears.  The particular interests above referred to have positive rights attached to them, which date from the antique times of Feudal Law, and have been preserved in England more than in any other country.  By an inconsistency of the most startling kind, we find them contravening equity most grossly; and of instiutions characterised by real freedom there are nowhere fewer than in England.  In point of private right and freedom of possession they present an incredible deficiency:  sufficient proof of which is afforded in the rights of primogeniture, involving the necessity of purchasing or otherwise providing military or ecclesiastical appointments for the younger sons of the aristocracy.</p>
+	<p>The <hi rend="italic">Parliament governs</hi>, although Englishmen are unwilling to allow that such is the case.  It is worthy of remark, that what has been always regarded as the period of corruption of a republican people, presents itself here; viz. election to seats in parliament by means of bribery.  But this also they call freedom&#8212;the power to sell one's vote, and to purchase a seat in parliament.</p>
+	<p>But this utterly inconsistent and corrupt state of things has nevertheless one advantage, that it provides for the possibility of a government&#8212;that it introduces a majority of men into parliament who are statesmen, who from their very youth have devoted themselves to political business and have worked and lived in it.  And the nation has the correct conviction and perception that there must be a government, and is therefore willing to give its confidence to a body of men who have had experience in governing; for a general sense of particularity involves also a recognition of that form of particularity which is a distinguishing feature of one class of the community&#8212;that knowledge, experience, and facility acquired by practice, which the aristocracy who devote themselves to such interests exclusively possess.  This is quite opposed to the appreciation of principles and abstract views which every one can understand at once, and which are besides to be found in all Constitutions and Charters.  It is a question whether the Reform in Parliament now on the tapis, consistently carried out, will leave the possibility of a Government.</p>
+	<p>The material existence of England is based on commerce and industry, and the English have undertaken the weighty responsibility of being the missionaries of civilization to the world; for their commericial spirit urges them to traverse every sea and land, to form connections with barbarous peoples, to create wants and stimulate industry, and first and foremost to establish among them the conditions necessary to commerce, viz. the relinquishment of a life of lawless violence, respect for property, and civility to strangers.</p>
+	<p><hi rend="italic">Germany</hi> was traversed by the victorious French hosts, but German nationality delivered it from this yoke.  One of the leading features in the political condition of Germany is that code of Rights which was certainly occasioned by French oppression, since this was the especial means of bringing to light the deficiencies of the old system.  The fiction of an Empire has utterly vanished.  It is broken up into sovereign states.  Feudal obligations are abolished, for freedom of property and of person have been recognized as fundamental principles.  Offices of State are open to every citizen, talent and adaptation being of course the necessary conditions.  The government rests with the official world, and the personal decision of the monarch constitutes its apex; for a final decision is, as was remarked above, absolutely necessary.  Yet with firmly established laws, and a settled organization of the State, what is left to the sole arbitrement of the monarch is, in point of substance, no great matter.  It is certainly a very fortunate circumstance for a nation, when a sovereign of noble character falls to its lot; yet in a great state even this is of small moment, since its strength lies in the Reason incorporated to it.  Minor states have their existence and tranquility secured to them more or less by their neighbours:  they are therefore, properly speaking, not independent, and have not the fiery trial of war to endure.  As has been remarked, a share in the government may be obtained by every one who has a competent knowledge, experience, and a morally regulated will.  Those who know ought to govern&#8212;not ignorance and the presumptuous conceit of "knowing better."  Lastly, as to Disposition, we have already remarked that in the Protestant Church the reconciliation of Religion with Legal Rights has taken place.  In the Protestant world there is no sacred, no religious conscience in a state of separation from, or perhaps even hostility to Secular Right.</p>
+	<p>This is the point which consciousness has attained, and these are the principal phases of that form in which the principle of Freedom has realized itself; for the History of the World is nothing but the development of the Idea of Freedom.  But Objective Freedom&#8212;the laws of <hi rend="italic">real</hi>Freedom&#8212;demand the subjugation of the mere contingent Will&#8212;for this is in its nature formal.  If the Objective is in itself Rational, human insight and conviction must correspond with the Reason which it embodies, and then we have the other essential element&#8212;Subjective Freedom&#8212;also realized.  We have confined ourselves to the consideration of that progress of the Idea [which has led to this consummation], and have been obliged to forego the pleasure of giving a detailed picture of the prosperity, the periods of glory that have distinguished the career of peoples, the beauty and grandeur of the character of individuals, and the interest attaching to their fate in weal or woe.  Philosophy concerns itself with the glory of the Idea mirroring itself in the History of the World.  Philosophy escapes from the weary strife of passions that agitate the surface of society into the calm recognition of the process of development which the  Idea has passed through in realizing itself&#8212;<hi rend="italic">i.e.</hi> the Idea of Freedom, whose reality is the consciousness of Freedom and nothing short of it.</p>
+	<p>That the History of the World, with all the changing scenes which its annals present, is this process of development and the realization of Spirit&#8212;this is the true <hi rend="italic">Theodic&#230;a</hi>, the justification of God in History.  Only <hi rend="italic">this</hi> insight can reconcile Spirit with the History of the World&#8212;viz., that what has happened, and is happening every day, is not only not "without God," but is essentially His Work.</p>   
+
+
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00049">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Plump, Pretty and Pious"
+
+</title>
+
+<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name=""></author>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00049</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 3 of the May 11, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Plump, Pretty and Pious</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+May 11, 1878   
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="breachofpromise" type="theme">breach of promise</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>AND ANOTHER</head>
+
+
+	<head>Which is From the Very Quiet and Moral Little Town of Oxford, Ohio, and of Course she is</head>
+
+	<head>PLUMP, PRETTY AND PIOUS</head>
+
+	<head>He Doesn't Pan Out Much on the First, But Then he is Awfully Pious and so Respectable</head>
+
+	<head>BUT&#8212;THEY ALL DO IT</head>
+
+            
+         <p>Oxford, O., May 1&#8212;Some months ago it was
+rumored that a well-known young unmarried lady of this place, whose family
+connections were of a high social standing, was <hi rend="italic">enceinte.</hi> This was only
+known to a few, and by them kept from becoming general. In fact, when the
+truth became known last Friday week that she had given birth to a fine,
+bouncing girl baby weighing twelve pounds, it fell like a thunderbolt upon the
+masses of the good villagers. The young lady upon whom this misfortune fell is
+one Mary E. Morris, a lady of twenty five years of age, and the daughter of the
+late Mr. Morris, who died some five years ago, leaving a wife and six children,
+all of whom are living. No sooner had the fact become known that Miss Mary had
+given birth to an illegitimate child than people began to make inquiry as to
+who the father was. In this promiscuous casting about for the male parent a
+rumor was set afloat that Dr. Hill, a man of high respectability, of good
+report, a member and an officer in the Presbyterian Church, married, with a
+grown family, was the responsible party and the father of the child. No sooner
+had it reached his ears than he pronounced it a base falsehood, and, calling a
+meeting of the Session of the Church, demanded a full and public
+investigation. The Session was called, and he, being stated clerk of the same
+refused to act as such, when another member was elected to fill his place. A
+committee was then appointed, consisting of Rev. Dr. Robert D. Morris, an uncle
+of the unfortunate girl, and Rev. F.M. Wood, pastor of the Presbyterian Church,
+to visit the lady and ascertain who was the father of the child, Miss Mary
+Morris is also a member of the Presbyterian Church, but not what they call an
+active member&#8212;taking no part in the Sunday school work and but rarely
+attending church. The above committee, on Friday, April 17th,
+waited upon Miss Morris, and took with them Professor R.H. Bishop, a Notary
+Public, at which time she made the following affidavit, which exonerates Dr.
+Hill and charges the parentage of the child upon one R.A. Morten, a young man of twenty:</p>
+
+	<text type="correspondence">
+		<body>
+		<opener>"State of Ohio, County of Butler, ss.:</opener>
+
+         <p>"Before me, R.H. Bishop, a Notary Public in and
+for said county, personally came Mary E. Morris, of the village of Oxford, in
+said county and state, who, being by me duly sworn, deposes and says that she
+is now pregnant, and that she became so in or about the third week in July
+last; that the father of the unborn child is R.A. Morten jun., of said village
+of Oxford, and that neither previous to nor since the time mentioned above has
+she had sexual intercourse with any man, except the said R.A. Morten jun., and
+further this deponent saith not.</p>
+
+         <closer>"Mary E. Morris"</closer>
+
+         <closer>"Witness: F.M. Woodward and R.D. Morris."</closer>
+
+         <closer>"Sworn to and subscribed before me this 17th
+day of April, A.D. 1878.         R.H. Bishop."</closer>
+
+         <closer>"[seal] Notary Public for Butler County Ohio."</closer>
+
+		</body>
+		</text>
+
+         <p>This affidavit was presented to a meeting of the
+Session as exonerating Dr. Hill from the charges and rumors connecting his name
+with being the father of the child.</p>
+
+         <p>Morten jun., the young man whom the parentage of
+the child has been sworn by Miss Morris, is the son of R.A. Morten, a farmer
+living just on the outskirts of the village and is only twenty years of age.
+He is emphatic in his denial of being its father. He says he has often called
+upon Miss Mary's sister, but not upon her. That some two weeks before the
+birth of the child a friend came to him and told him of the condition of Miss
+Mary, and as he had been calling at the house, there were rumors afloat that he
+was the father. He says that on the same day he called at her house, when she
+met him at the door; that they went into the house where he told her what had
+been said, and wanted to know if it was true she was reporting him to be the
+father; that she said, "No, your name will be the last mentioned in this
+affair." He said that he then went away, thinking it was all right. As soon
+as the affidavit was made laying the charge to him, Revs. Morris and Wood called
+upon R.A. Morten, sen., and informed him of the fact. Mr. Morten went out to
+where his son was working and told him of the affidavit, when the son assured
+him he was not guilty, and Morten, sen., returned and informed the gentlemen
+that he believed his son innocent, and would fight it out to the bitter end.  The son then went before a Notary Public, and made the
+following counter affidavit, which, together with a statement from his father
+will be laid before the meeting of the session tomorrow.</p>
+
+	<text type="correspondence">
+		<body>
+		
+         <opener>"State of Ohio, Butler county, ss:</opener>
+
+         <p>"Before me, R.H. Bishop, a Notary Public in and
+for said county and state, personally came R.A. Morten, jun., aged twenty
+years, who made the solemn oath that he had been credibly informed that one
+Mary Morris had made affidavit charging him, the said R.A. Morten, jun., with
+being the father of her unborn child; and this affiant further testifies that
+he is not the father of said Mary Morris' unborn child nor any other child,
+born or unborn; and, further, that he never at any time or place had sexual
+intercourse with the said Mary Morris.</p>
+<closer>R.A. Morten, Jun.</closer>
+
+         <closer>"Sworn to and subscribed before me this 19th day
+of April, A.D. 1878.    R.H. Bishop</closer>
+
+         <closer>"Notary Public Butler county."</closer>
+		</body>
+		</text>
+
+         <p>The father of young Morten is deeply impressed
+with the truth of his son's assertion of his innocence, and proposes to see him
+through, as he calls it. He is a well-preserved man of seventy-eight years of
+age, and is highly respected by all who know him. He was formerly resident of Carthage, of which village he was at one time mayor. The following is his statement
+submitted in writing to the session.  </p>
+
+         <p>"I knew nothing about the Dr. Hill slander until
+I was visited by Rev. Dr. Robert Morris and Rev. Mr. Wood, Wednesday afternoon,
+April 17, 1878, who gave me the astounding information that Miss Morris had
+made solemn oath in which she charges my son, R.A. Morten, jun., with being the
+father of her unborn child, and that she further states under oath that said
+unborn child was begotten at the house of Mrs. Ray in July last, while Mrs. Ray
+was at Connersville. The said Mary Morris was keeping house and taking care of
+her (Mrs. Ray's) children during her absence. And Mr. Wood further stated that
+Dr. Hill was charged with it, and that he (Dr. Hill) would not go himself, but
+got Mr. Furgerson, Miss Morris' grandfather, to get her affidavit to clear him of this charge.  Miss Ray says that she was not away from home in July, but
+in September she went to Connersville, Ind., to a county fair at said place.</p>
+
+         <p>Mr. Morten, sen., says that, if necessary, the
+above statement can be proven by members of their own church.</p>
+
+         <p>A call was made upon a near relative of the
+unfortunate lady, who was loath to talk about the matter. He said the young
+lady's mother was suffering most keenly from her daughter's disgrace, and that
+he was afraid her health and mind were affected beyond recovery; that they were
+in needy circumstances, and that since the death of her husband he had been
+supporting them; that whoever the guilty party was he should have manliness
+enough about him to come forward and offer them some assistance in this great
+trial. To the question as to whether any lawsuits would grow out of the
+affair, he said no, he thought there would not, as he should oppose anything of
+the kind. The affair is the topic of conversation in the village, and, of
+course, both sides have ardent friends and defenders, and a few there are who
+deeply sympathize with the unfortunate girl, while all do so for the stricken
+mother of the erring woman, whose downfall may bring her mother to an early
+death. There are all kinds of stories afloat of how certain parties had been
+followed after night and seen entering the lady's house, and that said parties
+were married men, etc., but how much truth there may be in them one cannot
+tell. It is expected the church investigation, if not a sham, gotten up to
+whitewash some one, will prove or disprove the many and damaging stories
+connecting a certain party's name with the scandal.</p>
+
+         <p>In conversation with Miss Morris' relative, a
+gentleman, he said that young Morten visited Miss Mary about two weeks before
+her confinement and told her that he would not desert her but see her safely
+through her trouble, and told her she should not want for anything. </p>
+
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00057">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Letter to Colonel William Duane</title>
+          
+<date type="original" value="1811">1811</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Jefferson">Thomas Jefferson</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00057</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 613 of the 1944 Modern Library edition of <hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi>, edited by Adrienne Koch and William Peden.</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Letter to Colonel William Duane&#8212;March 28, 1811</title>
+               <title level="m"><hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi></title>
+               <author>Thomas Jefferson</author>
+               <imprint>
+                  <publisher>Random House</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1944
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="jefferson" type="topic">Jefferson</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-16">16 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+	<head>To Colonel William Duane</head>
+
+		<dateline>Monticello, March 28, 1811</dateline>
+	
+	
+	<p>....The last hope of human liberty in this world rests on us.  We ought, for so dear a state, to sacrifice every attachment and every enmity.  Leave the President free to choose his own coadjutors, to pursue his own measures, and support him and them, even if we think we are wiser than they, honester than they are, or possessing more enlarged information of the state of things.  If we move in mass, be it ever so circuitously, we shall attain our object; but if we break into squads, every one pursuing the path he thinks most direct, we become an easy conquest to those who can now barely hold us in check.  I repeat again, that we ought not to schismatize on either men or measures.  Principles alone can justify that.  If we find our government in all its branches rushing headlong, like our predecessors, into the arms of monarchy, if we find them violating our dearest rights, the trial by jury, the freedom of the press, the freedom of opinion, civil or religious, or opening on our peace of mind or personal safety the sluices of terrorism, if we see them raising standing armies, when the absence of all other danger points to these as the sole objects on which they are to be employed, then indeed let us withdraw and call the nation to its tents.  But while our functionaries are wise, and honest, and vigilant, let us move compactly under their guidance, and we have nothing to fear.  Things may here and there go a little wrong.  It is not in their power to prevent it.  But all will be right in the end, though not perhaps by the shortest means....</p>
+
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00056" type="same author"/>	      
+		<xptr n="lby.00058" type="same author"/>
+		<xptr n="lby.00059" type="same author"/>
+		<xptr n="lby.00060" type="same author"/>
+		</item>
+		</list>
+		</div>
+		      </body>
+   </text>
+</TEI.2>

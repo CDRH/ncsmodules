@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00203">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">War and Peace</hi>
+</title>
+
+<title level="c" type="chapter">from Book I, Part 3, Chapter 2</title>
+
+<author name="Tolstoy">Leo Tolstoy</author>
+<date type="original" value="1869">1869</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00203</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 261-66 of the 1968 Signet edition of Leo Tolstoy's <hi rend="italic">War and Peace</hi>.  Originally published in 1869.  This translation by Ann Dunnigan.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Book I, Part 3, Chapter 2</title>
+               <title level="m"><hi rend="italic">War and Peace</hi></title>
+               <author>Leo Tolstoy</author>
+               <imprint>
+                  <publisher>Signet
+
+</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1968
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+						<term id="russian" type="place">Russian</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>Scene One:  Initial attractions in the parlor</head>
+
+<p>On Ellen's name day a small party of only their nearest and dearest, as his wife said, met for supper at Prince Vasily's. All these friends and relations had been given to understand that the fate of the young princess was to be decided on that evening. The guests were seated at supper. Princess Kuragina, a portly, imposing, once beautiful woman, was sitting at the head of the table. On either side of her sat the most honored guests&#8212;an elderly general and his wife, and Anna Pavlovna Scherer; at the other end of the table were the younger and less important guests, and thereto, as members of the family, were Pierre and Ellen side by side. Prince Vasily was not having supper: he moved around the table in a convivial mood, setting down now by one, now by another of the guests. To each of them, except for Pierre and Ellen, whom he seemed not to notice, he made some casual, pleasant remark. He was the life of the party. The wax candles burned brightly, the silver and crystal on the table gleamed, as did the ladies' attire and the gold and silver of the men's epaulettes; servants in scarlet livery threaded their way in and out around the table, and the clatter of knives, plates, and glasses mingled with the hum of several animated conversations. At one end of the table an elderly chamberlain was heard assuring an aging baroness of his ardent love, while she laughed; at the other, someone was recounting the misfortunes of a certain Marya Viktorovna. In the middle, Prince Vasily held the attention of his listeners as, with a facetious smile on his lips, he told the ladies about last Wednesday's meeting of the Imperial Council at which Sergei Kuzmich Vyasmitinov, the new military Governor General of Petersburg, had received and read the rescript, much talked of at the time, which the Emperor Aleksandr Pavlovich had sent to him from the army, saying that from all sides he was recevining declarations of the people's devotion, that the testimy from Petersburg was particularly gratifying to him, that he was proud of the honor of being at the head of such a nation and would endeavor to be worthy of it. This rescript began with the words: "Sergei Kuzmich: From all sides reports reach me," and so on. </p>
+
+<p>"And I suppose he got no further than 'Sergei Kuzmich'?" asked one of the ladies.</p>
+
+<p>"No, not a syllable," answered Prince Vasily, laughing. "'Sergei Kuzmich . . . From all sides . . . From all sides . . . Sergei Kuzmich . . .' Poor Vyazmitinov could not go on. Several times he started the letter again, but no sooner did he utter the word 'Sergei' than&#8212;sniff. 'Kuz&#8212;mich'&#8212;tears, and 'from all sides'&#8212;&#8212;choked with sobs and could go no furhter. And again the handkerchief, and again: 'Sergei Kuzmich: From all sides'. . . and tears, till finally someone else was asked to read it."</p>
+
+<p>"Kuzmich . . . from all sides . . . and then tears," some repeated, laughing.</p>
+
+<p>"Don't be unkind!" said Anna Pavlovna from the other end of the table, shaking her finger at him. "He is such a worthy, excellent man, our good Vyazmitinov. . . ."</p>
+
+<p>Everyone laughed heartily. At the head of the table, where the honored quests sat, everyone appeared to be in high spirits and under the sway of a variety of stimulating moods. Only Pierre and Ellen sat silently side by side at the other end of the table, a restrained smile brightening both their faces, a smile that had nothing do do with Sergei Kuzmich&#8212;a smile of shyness at their own emotions. However much the others talked, laughed, and jested, however much they enjoyed the Rhine wine, the saut&#233;, and the ices, and regarldess of how they seemd to avoid looking at the young couple , to be heedless and unobservant of them, it was somehow felt from the occasional glances in their direction that the anecode about Sergei Kuzmich, the laughter, and the food, were all a pretext, and that the whole attention of the compnay was directed to that pair&#8212;Pierre and Ellen.</p>
+
+<p>Even as Prince Vasily mimicked the sobbing of Sergei Kuzmich, his glance strayed to his daughter, and when he laughed, his epxression seemed to say: "Yes, it's all going well, it will all be settled tonight." Anna Pavlovna shook her finger at him for laughing at "our good Vyazmitinov," but in her eyes, which at that moment darted a glance at Pierre, Prince Vasily read congratulations on his future son-in-law and his daughter's happiness. The old Princess, pensively sighing as she offered wine to the lady next to her, looked crossly at her daughter, and her sigh seemed to say: "Yes, there's nothing left for you and me, my dear, but to sip sweet wine, now that the time has come for these young ones to be so boldly, flagrantly happy!" . . . "And what nonesense all this is that I am talking; as if it interests me . . ." thought a diplomat, glancing at the happy faces of the lovers. "Now <hi rend="italic">that</hi> is happiness!"</p>
+
+<p>Into the midst of the inconsequential, petty, artificial interests uniting that company had fallen the simple feeling of the attraction of a handsome, healthy young man and woman for each other. And this human feeling predominated over everything else and soared above all their affected chatter. Jests fell flat, news was not interesting, the animation was patently forced. Not only the guests but the footmen waiting at table seemed to feel this and were unmindful of their duties as they looked at the beautiful Ellen with her radiant face, and at Pierre's broad, red, happy if uneasy countenance. It seemed as if even the candlelight was concentrated on those two happy faces.</p>
+
+<p>Pierre felt that he was the center of it all, and his position both pleased and embarrassed him. He was like a man absorbed in some activity. He neither heard, saw, nor understood anything clearly, Only now and then fragments of thoughts and impressions of reality flashed unexpectedly into his mind.</p>
+
+<p>"So it is all over!" he thought. "And how has all this happened? And so quickly! Now I know that not for her alone, not for me alone, but for everyone, <hi rend="italic">it</hi> must inevitably come about. They will expect <hi rend="italic">it</hi>, are all so confident it will happen that I cannot, cannot, disappoint them. But how will it be? I do not know; but it certainly will be!" thought Pierre, glancing at those gleaming shoulders directly under his eyes.</p>
+
+<p>Then all at once he began to feel ashamed. He felt awkward at being the object of everyone's attention, at being considered a lucky man and, with his homely face, to be regarded as a kind of Paris in possession of a Helen. "But probably it has always been and must be so. And yet, what I have I done to bring it about? When did it begin? I traveled from Moscow with Prince Vasily. There was nothing then. Afterward, what reason was there for not staying at his house? Then I played cards with her, picked up her reticule, went driving with her. When did it begin, how did it all come about?" And here he was sitting beside her as her betrothed, hearing, seeing, feeling her closeness, her breathing, her movements, her beauty. Then it suddnely seemed to him that it was not she but he who was so extraordinarly beautiful, that that was why they were all looking at him, and, elated by the general admiration, he drew himself up, raised his head, and rejoiced in his good fortune.</p>
+
+<p>Suddenly he heard a familiar voice saying something to him for the second time. But Pierre was so preoccupied he did not understand what was said.</p>
+
+<p>"I am asking you when you last heard from Bolkonsky," Prince Vasily repeated for the third time. "How absent-minded are you, my dear boy!"</p>
+
+<p>Prince Vasily smiled, and Pierre noticed that everyone was smiling at him and Ellen. "Well, what of it, since you all know," thought Pierre. "What of it? It's the truth," and he himself smiled his gentle, childlike smile, and Ellen smiled too."</p>
+
+<p>"When did you receive the letter? Was it from Olmutz?" repeated Prince Vasily, as if he wanted to know in order to settle a dispute.</p>
+
+<p>"Is it possible to talk and think of such trifles?" Pierre wondered.</p>
+
+<p>"Yes, from Olmutz," he answered, with a sigh.</p>
+
+<p>After supper Pierre and his partner followed the others into the drawing room. The guests began to take their leave, several going without saying good-bye to Ellen. Others, as if reluctant to distract her from serious concerns, approached her for a moment, then hurried away, refusing to let her see them off. The diplomat left the drawing room in mournful silence. He was picturing the futility of his diplomatic career compared to Pierre's happiness. The elderly general muttered angrily at his wife when she asked how his leg was. "Oh, the old fool!" the thought. "Now, that Elena Vasilyevna, she'll still be beautiful when she's fifty."</p>
+
+<p>"It seems I may congratulate you," whispered Anna Pavlovna to Princess Kuragina, kissing her warmly. "If it were not for this migraine, I'd have stayed on."</p>
+
+<p>The Princess did not reply; she was tormented by envy of her daughter's happiness.</p>
+
+<p>While the guests were taking their leave, Pierre remained a long time alone with Ellen in the little drawing room where they had been sitting. He had often before, during the last six weeks, been left alone with her, but had never spoken to her of love. Now he felt that it was obligatory, but he could not make up his mind to take this final step. He felt ashamed; it seemed to him that he was occupying someone else's place here beside Ellen. "This happiness is not for you," some inner voice said to him. "This happiness is for those who do not have within them what you have." But he had to say something, and he began by asking whether she had enjoyed the evening. She replied with her habitual simplicty that for her this name day had been one of the most pleasant she had ever had.</p>
+
+<p>Some of the nearest relations had not yet left. They were sitting in the large drawing room. Prince Vasily languidly approached Pierre. Pierre rose and said that it was getting late. Prince Vasily gave him a look of stern inquiry, as if what he had just heard was so strange that he could not believe his ears. But then the expression of severity changed and Prince Vasily took Pierre's hand, smiled affectionately, and made him sit down beside him.</p>
+
+<p>"Well, Lyolya?" he asked, instantly addresing his daughter in that casual tone of habitual tenderness natural to parents who have pampered their children from infancy, but which Prince Vasiliyi had acquired only by imitating other parents.</p>
+
+<p>And again he turned to Pierre. "<hi rend="italic">'Sergei Kuzmich . . . from all sides . . .'</hi>" he repeated, unbuttoning the top button of his waistcoat.</p>
+
+<p>Pierre smiled, but from his smile it was clear that he realized that the anecdote about Sergei Kuzmich was not what interested Prince Vasilty at that moment, and Prince Vasily saw that Pierre understood this. All at once Prince Vasily mumbled something and went away. It seemd to Pierre that even Prince Vasily was disconcerted. The sight of this elderly man of the world losing his composure touched Pierre; he glanced at Ellen&#8212;and she too appeared to be disconcerted, and her look seemed to say: "Well, it's you who are to blame."</p>
+
+<p>"I must inevitably take the step, but I cannot, I cannot," thought Pierre, and again commenced speaking of irrelevant matters, and asking what was the point of the story about Sergeiz Kuzmich, as he had not caught all of it. Ellen replied with a smile that she too had missed it.</p>
+
+<p>When Prince Vasily returned to the drawing room the Princess, his wife, was talking in subdued tones to an elderly lady about Pierre.</p>
+
+<p>"Of course, it's a brilliant match, but happiness, <hi rend="italic">ma ch&#232;re</hi> . . ."</p>
+
+<p>"Marriages are made in heaven," replied the elderly lady.</p>
+
+<p>Prince Vasily, as though not hearing the ladies, walked to the farthest corner of the room and sat down on a sofa. He closed his eyes and seemd to be dozing; on the verge of nodding, he roused himself.</p>
+
+<p>"Aline, go and see what they are doing," he said to his wife in French.</p>
+
+<p>The Princess went to the door, and, walking by it with a casual but significant air, glanced into the little drawing room. Pierre and Ellen sat talking as before.</p>
+
+<p>"Still the same," she said to her husband.</p>
+
+<p>Prince Vasily frowned; his mouth was drawn to one side, his cheeks twitched, and his face assumed the coarse, disagreeable expression peculiar to him. He shook himself, got up, threw back his head, and with a resolute step walked past the ladies and into the little drawing room. He went up to Pierre with joyous haste. When Pierre caught sight of his extraordinarily jubilant expression, he rose in alarm.</p>
+
+<p>"Thank God!" said Prince Vasily. "My wife just told me everything!" he put one arm around Pierre and the other around his daughter. "My dear boy . . . Lyolya . . . I am very, very glad!" His voice was unsteady. "I loved your father . . . and she will make you a good wife . . . God bless you!"</p>
+
+<p>He embraced his daughter, then Pierre again, and kissed him with his old man's lips. His cheeks were actually wet with tears.</p>
+
+<p>"Princess, come here!" he called.</p>
+
+<p>The old Princess came in and also wept. The elderly lady put her handkerchief to her eyes. They kissed Pierre, and he kissed the beautiful Ellen's hand several times. Presently they were left alone again.</p>
+
+<p>"All this had to be and could not have been otherwise," thought Pierre, "so it's useless to ask whether it is good or bad. It's good in that it's definite, and there is no longer that tormenting doubt."</p>
+
+<p>Pierre sat in silence, holding his betrothed's hand and gazing at the rise and fall of her beautiful bosom.</p>
+
+<p>"Ellen!" he said aloud, and stopped.</p>
+
+<p>"There is something special that is always said on these occasions," he thought, but could not remember what it was. He glanced at her face. She moved nearer to him. Her face was flaming.</p>
+
+<p>"Oh, take off those . . . those . . ." she pointed to his spectacles.</p>
+
+<p>Pierre took them off, and his eyes, besides the strange look people's eyes always have when their eyeglasses are removed, had a frightened, inquiring look. He was about to bend over her hand and kiss it, but with a precipitant, brutal movement, she intercepted his lips and met them with her own. Pierre was shocked by the change in her face, by its unpleasantly abandoned expression.</p>
+
+<p>"It's too late now, it's done; besides, I love her," thought Pierre.</p>
+
+<p>"<hi rend="italic">Je vous aime</hi>!" he said, remember what it was that had to be said on these occasions.</p>
+
+<p>But the words sounded so inadequate that he felt ashamed of himself.</p>
+
+<p>Six weeks later he was married and settled in the large, newly furnished mansion of Counts Bezukhov in Petersburg, the forunate possessor, as people said, of a beautiful wife and millions.</p>
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00204" type="same novel"/></item>
+			<item><xptr n="ls.00205" type="same author"/></item>
+              	<item><xptr n="ls.00206" type="same author"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,14 @@
+<add>
+   <doc>
+      <field name="id">ls.00125</field>
+      <field name="title">"The Interview"</field>
+      <field name="nationality">british</field>
+      <field name="category">image</field>
+      <field name="theme">popularpress</field>
+      <field name="setting">wild</field>
+      <field name="theme">seduction</field>
+      <field name="text">InterviewW. Gorway, "The Interview," London Journal, September 18, 1858IllustratorW. GorwaySeptember 18, 1858London Journal
+         Illustration 
+      </field>
+   </doc>
+</add>

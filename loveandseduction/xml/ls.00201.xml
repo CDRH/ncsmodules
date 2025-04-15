@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00201">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Novel of Female Adultery:  Love and Gender in Continental European Fiction, 1830-1900</hi>
+</title>
+
+<title level="c" type="chapter">from Chapter 1, "Female Adultery, Ideology and the Nineteenth-Century"</title>
+<author name="Overton">Bill Overton</author>
+<date type="original" value="1996">1996</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00201</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 11-15 of Bill Overton's <hi rend="italic">The Novel of Female Adultery: Love and Gender in Continental European Fiction, 1830-1900</hi>.  Published by Macmillan, 1996.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">"Female Adultery, Ideology and Nineteenth-Century Fiction"</title>
+               <title level="m"><hi rend="italic">The Novel of Female Adultery</hi></title>
+               <author>Bill Overton</author>
+               <imprint>
+                  <publisher>Macmillan
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1996
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+                             			<term id="class" type="theme">class</term>
+			<term id="adultery" type="theme">adultery</term>
+			<term id="french" type="place">French</term>
+<term id="commentary" type="media">commentary</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>The novel of female adultery was born in France in the 1830s.  Though the most famous French example did not appear until the serialization in 1856-7 of <hi rend="italic">Madame Bovary</hi>, the theme which Flaubert chose for his novel, and which was to attract so many other Continental European writers during the next half century, was by then already hackneyed.  Indeed, not the least of its attractions for Flaubert was precisely that in France it had become a fictional clich&#233;.  In discussing the rise of the novel of female adultery, it is therefore necessary to consider why it arose in France and how it developed initially.</p>
+	<p>The factors which favoured the emergence of this kind of novel in the France of the 1830s are multiple and complex, but it is possible to group them under four main headings.  First, the years of Revolution, Empire and Restoration had produced vast social changes, which included improvements, quickly reversed, in the position of women; second, behind those changes was the rise of the bourgeoisie, which by 1830 had achieved more social power and influence in France than anywhere else in Europe; third, the libertine literature of the previous century had already established a tradition and an acceptance of writing about sex; fourth, all these conditions reinforced by economic, social and technological developments, including increased literacy and a massive expansion in the output of printed writings of all kinds, which further assisted the bourgeoisie in achieving hegemony.</p>
+	<p>The changes which occured in France between the Revolutions of 1789 and 1848 mixed public and private spheres, national and domestic politics, in especially complicated ways.  Demography shows one massive shift which took place.  As Claire Goldberg Moses has recognized [in <hi rend="italic">A Long Time Burning</hi>],
+	<q rend="block">In most European countries, fertility did not diminish until after 1880.  France, however, was unique.  There the decline in fertility rates began before the end of the eighteenth century.  By the mid-nineteenth century, the two-child household was commonplace throughout France.  This may have been the most important change in the lives of women in the nineteenth century as compared to those of the <hi rend="italic">ancien r&#233;gime</hi>.</q>
+Moses draws two crucial inferences from demographic evidence.  One main reason for the early decline in the French birth rate was, she notes, that 
+	<q rend="block">by the first decades of the 1800s family limitation was already widely practiced.  The result was to split sexuality from reproduction and to transform the meaning of motherhood, which opened up a far-ranging debate on sexual behaviour, family structure, and the nature of mothering.</q>
+What Moses calls the splitting of sexuality from reproduction had especially far-reaching effects.  Not only were large numbers of women able for the first time to avoid repeated confinements and child-bearing.  At the same time, the possibility of sex for its own sake, without risking pregnancy, could only heighten male fears of female sexuality.  Such an influence should not be over-emphasized, as the main method of contraception was withdrawal&#8212;not always satisfactory either in avoiding pregnancy or in enabling pleasure.  Nevertheless, the ability to limit reproduction unquestionably affected both the practice and the perception of sex.  It is important to recognize, however, that the meaning of motherhood was probably transformed less radically than Moses' phrasing suggests.  Indeed, from one point of view it is possible to understand the exaltation of motherhood as a way of channelling female energies away from sex.  In the absence of frequent child-bearing, and, for many women, of other non-domestic employment inside or outside the home, motherhood was represented as offering the paramount role for female fulfilment.</p>
+	<p>The idelaization of motherhood was also part of an increasingly gendered separation of the private from the public sphere.  As Joan Landes declares [in <hi rend="italic">Women and the Public Sphere in the Age of the French Revolution</hi>], 'It is not enough to say...that we own the origin of a new family ideology in the West to the rise of the bourgeoisie and to the corresponding decline of an older code of aristocratic sociability.'  Men both on the political right and left feared the participation of women in public life, and they reacted accordingly.  This was not only an outcome of the Revolution, although, as Landes observes, 'the militant participation of women provoked a violent and fearful response on the part of most men.'  It also sprang from an already established and powerful suspicion of the influence imputed to women in the salons of the Old Regime.  On the one hand, Landes points out, 'In the eyes of male radicals, "impudent" revolutionary women were often indistinguishable from the queen, aristocratic emigr&#233;s, or Girondin intriguers.'  Thus, women as free and equal public and private beings', and 'liberty and equality came to be overshadowed by fraternity.'  On the other hand, as Moses has shown,
+	<q rend="block">Conservative thinkers such as Louis de Bonald and Joseph de Maistre had come to believe that it was the family lifestyle of eighteenth-century aristocrats that had brought down the <hi rend="italic">ancien r&#233;gime</hi> and that the strength of the restored monarchy depended on 'the authority of the husband, the subordination of the wife, and the dependancy of the children.'  No less so than those republicans who had advocated a 'republicanized' family, conservatives also saw themselves as reformers:  the subjugation of wives to husbands and the confinement of wives to the domestic sphere&#8212;practices that we might call 'traditional'&#8212;were espoused as reforms to an aristocratic way of life that, according to Bonald and Maistre, had permitted the undue prominence of women in public life.</q>
+As Linda M. Shires has succinctly put it [in "Of maenads, mothers, and feminized males: Victorian Readings of the French Revolution"], middle and upper class women were consigned 'to domestic space.'  That space was at the same time the domain of repression and a vacuum seeking to be filled.  The ideological prescription was that women should become, in the words of Estelle B. Freedman and Erna Olafson Hellerstein, 'specialists in emotional and spiritual life, protecting traditions and providing a stable refuge from the harsh, impersonl public sphere that men now entered in increasing numbers.'  Furthermore, the same two commentators add, as life expectancy increased, and the marriages of many couples lasted longer, nineteenth-century women 'may well have looked for greater emotional satisfaction from these lengthy marriages than their ancestors had, for a new emphasis on romantic love as a basis for union raised expectations for marital happiness.'  Such expectations created obvious dangers when marriage failed to meet them, even or especially when it was based on romantic love.</p>
+	<p>The novel of female adultery is a form stemming from social tensions concerning the role of women in marriage, motherhood, the family and the transmission of property.  The form first developed in France not only because of the historical factors outlined above, but because French culture of the period enabled a freedom of thought and expression, at least on sexual matters, impossible elsewhere in Europe.  Claire Goldberg Moses suggests that 'the collapse of the power and influence of religion&#8212;also unique in France at this time&#8212;explains the special French experience'  While this probably exaggerates the extent to which Church power in France declined, a strong anticlerical tradition inhibited censorship on grounds of morality, though it could not wholly prevent it.  Moses goes on to remark that 'French Romantic literature makes clear that the French, unlike the English or the Americans of the same period, continued to recognize women's innate sexuality and to fear its potential for social disruption.'  Although this statement is too sweeping&#8212;and although the phrase 'innate sexuality' is misleading&#8212;it calls attention to a fact which was critical to the development of the novel of female adultery.  For there could be no such form without both an explicit recognition of female sexuality, and at least a qualified licence to represent it.  Furthermore, it is likely that there would have been no novel of female adultery at all if men had not repsonded to an acute sense of female sexuality as disruptive" (11-15).</p>
+
+
+
+      </body>
+   </text>
+</TEI.2>

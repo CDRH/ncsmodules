@@ -1,0 +1,14 @@
+<add>
+   <doc>
+      <field name="id">ls.00110</field>
+      <field name="title">"The Party in the Drawing-Room"</field>
+      <field name="nationality">british</field>
+      <field name="category">image</field>
+      <field name="theme">popularpress</field>
+      <field name="setting">dance</field>
+      <field name="theme">courtship</field>
+      <field name="text">PartyW. Gorway, "The Party in the Drawing-Room," London Journal, January 8, 1853IllustratorW. GorwayJanuary 8, 1853London
+         Journal Illustration 
+      </field>
+   </doc>
+</add>

@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00044">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Minnigrey</hi>,
+
+</title>
+
+<title level="j" type="journal"><hi rend="italic">The London Journal</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name="Smith">John Frederick Smith</author>
+<date type="original" value="1852">1852</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00044</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 17-19 of the original publication of John Frederick Smith's <hi rend="italic">Minnigrey</hi> which appeared in the March 20, 1852 issue of <hi rend="italic">The London Journal</hi>. 
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+                <title level="m"><hi rend="italic">Minnigrey</hi></title>
+               <author>John Frederick Smith</author>
+               <imprint>
+                  <publisher>
+<hi rend="italic">London Journal</hi>
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+March 20, 1852
+
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="carriage" type="setting">carriage</term>
+               <term id="dance" type="setting">dance</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="premaritalsex" type="theme">premarital sex</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+         <p>WHAT
+the speaker most feared was an encounter between the young men &#8212; a thing to be
+avoided at any risk: not that Edward Howard lacked animal courage &#8212; he was too
+proud for that; proud men are seldom cowards. It was his grandfather who
+trembled for the result, not he. A shot well aimed, and in an instant the
+schemes and toils of years were baffled.</p>
+
+         <p>"No,"
+he muttered, "that must be prevented at any risk."</p>
+
+         <p>A few nights
+after Hanway's interview with Mendez and his grandson, Gus, Frank
+Wilton, and a party of officers adjourned from the mess-table to the Gran
+Teatro. The Senora Pascata appeared in Spontini's opera of <hi rend="italic">The Vestal</hi>; never had the passionate, frail priestess of Vesta found a more beautiful or
+intellectual representative; her energy and wild despair, when the sacred fire
+was extinguished was terrific. But the last act was the climax of her triumph.
+The guilty vestal is entombed alive;
+just as she is expiring with famine, the massive vault is broken in, and her lover, at the head of his
+legion, arrives to rescue her.</p>
+
+         <p>Poor Gus, who had never before witnessed
+the representation of a lyrical drama, was excited to the highest degree of
+enthusiasm: the look of love contending with the agony of death &#8212; the triumph
+of finding the man for whom she had sacrificed herself true to her &#8212; were admirably
+depicted by the <hi rend="italic">artiste</hi>, who, at the fall of the curtain, was twice
+recalled by the enthusiastic audience, and retired each time amid a shower of
+bouquets and bravo.</p>
+
+         <p>As
+the actress left the scene the last time her eyes encountered those of Gus
+fixed with intense admiration upon her expressive countenance: the glance seemed
+to slightly trouble her. Her eyelids fell as she reached the wing; either by
+coquetry or design she raised them for an instant, and the heart of our hero
+was on fire. His companions laughingly congratulated him upon his conquest.</p>
+
+         <p>"Ridiculous!"
+he said, blushing deeply; "the regard was merely accidental."</p>
+
+         <p>"Accidental!"
+repeated Frank Wilton. "My dear fellow, such accidents look very much like
+design. I would give a month's pay, which, <hi rend="italic">par parenth&#232;se</hi>," he added,
+"I have never yet touched, "that the <hi rend="italic">belle</hi> vestal had favoured
+me with such a glance."</p>
+
+         <p>His
+friend remained silent; but during the rest of the evening he thought of Senora
+Pascata &#8212; he even dreamt of her instead of Minnie; a treason which, however it
+may be blamed by our readers of the gentler sex, will be looked upon with a
+more lenient eye by their brothers and lovers.</p>
+
+         <p>I
+am afraid that men, after all, are naturally inconstant, especially at twenty:
+Nature has formed the heart of such impressionable stuff, a lovely form is sure
+to leave its image.</p>
+
+         <p>Perhaps
+it is a question for casuists to decide, whether women do not share the sin of
+man's inconstancy: were they less beautiful, we should be less fickle. Of
+course we do not mean to insinuate
+that they share it in any other sense &#8212; gallantry forbids. Heigho! What says
+experience?</p>
+
+         <p>The
+next day Gus, took occasion to inquire of a Portuguese gentleman, with whom he
+had become acquainted some particulars of the history of Senora Pascata - from
+a sentiment of curiosity, as he observed &#8212; of course nothing more.</p>
+
+         <p>"I
+need not tell you she is beautiful," replied the person to whom he had
+addressed himself &#8212; "your eyes have convinced you of that &#8212; or talented. I
+saw you at the last representation of <hi rend="italic">The Vestal</hi>. She is one of those strange compounds," he added, "which defy description. She has ruined the
+fortunes of half the young fellows of Lisbon; but she has her caprices. Would
+you believe it, the Infant Don Pedro, previous to his departure for Brazil, courted her three months in vain?  If you value your happiness, avoid her."</p>
+
+         <p>For two days our hero tried to forget the being who had so fascinated his attention; and imagined that he had succeeded, because he did not converse about her. The next night he suffered himself to be entrapped to a <hi rend="italic">bal masque</hi>, at the Opera. Like the whole of his brother officers, he was in uniform. As he entered the portico of the theatre, his attention was struck by a sister of mercy, who,
+in the costume of the order, was leaning against one of the columns. The
+capuchin prevented his seeing her face; but there was something which attracted
+him in the figure &#8212; he fancied he had seen it before. Before he had time to
+remember when or where, the crowd of masks and visitors compelled him to
+proceed; and in the brilliant scene which met his gaze in the interior of the
+Opera House the solitary nun was quickly forgotten.</p>
+
+         <p>We pity the man who has not been at a masquerade at least once in his life.
+Remember, we do not advise it twice. A masquerade is an epitome of the world,
+in which the different nations are passed in review; it is a scene of joy, excitement,
+tumult, passion, dissipation, languor, fatigue, disgust.</p>
+
+         <p>Gus,
+who had only arrived at the second stage, had purposely separated himself from
+his companions, in order to analyse the various sensations as they presented
+themselves. He had been several minutes occupied in regarding a group of
+dancers, when a hand was laid upon his shoulder.</p>
+
+         <p>He started,and turned.</p>
+
+         <p>A female in
+the costume of a gipsy &#8212; such as is generally worn by the wandering Bohemians
+of Spain and Portugal &#8212; was by his side. Masses of long, curling hair fell open
+her neck and shoulders, but her countenance was effectively concealed by a
+velvet mask. A scarlet petticoat, sufficiently short to display a well-turned
+ankle, a dark boddice and gaudily striped mantle, completed the dress of the
+fair intruder.</p>
+
+         <p>"You must be an
+Englishman?" she said.</p>
+
+         <p>"Why so?" demanded
+the young man, with a smile.</p>
+
+         <p>"Because none but an
+Englishman, in a scene like this, would stop to analyse the nature of his
+pleasures whilst the essence escaped him."</p>
+
+         <p>Gus felt suddenly
+interested. He knew not why, but there was something in the tone of the
+speaker's voice which made his heart vibrate. Besides, he had felt her hand
+tremble as she laid it upon his arm.</p>
+
+         <p>"It is the first
+time," he observed, "that I ever assisted at such a scene. No wonder that I am
+bewildered."</p>
+
+         <p>"And if you are
+wise," said the unknown, with a sigh, "it will be the last."</p>
+
+         <p>"Why the last?"</p>
+
+         <p>"Because, with
+everything to excite the senses, there is nothing to occupy the heart."</p>
+
+         <p>"And yet you are here?" observed the young man.</p>
+
+         <p>"It is the privilege
+of sorrow," hastily interrupted the mask, "to drown woe by every means within
+its reach. Perhaps I am here," she added, "with the intention of doing good."</p>
+
+         <p>"I do not understand you," said Gus.</p>
+
+         <p>"My dress," continued the lady, pointing to her gipsy costume, "entitles me to be oracular &#8212; to warn the heedless."</p>
+
+         <p>"You are too young to
+act the part of Mentor; you more resemble Calypso."</p>
+
+         <p>There was more truth
+than the speaker imagined in the observation, which in the simplicity of his
+heart, was intended for a compliment, but which was felt as an epigram.</p>
+
+         <p>The fair mask sighed,
+and was about to retire.</p>
+
+         <p>"Stay &#8212; pray stay!"
+exclaimed our hero, struck by the glance of a pair of beautiful dark eyes fixed
+reproachfully upon him. He had seen those eyes before, and felt that it was
+impossible he could be mistaken. "I have offended you?"</p>
+
+         <p>"I have no right to feel offended," was the sad reply.</p>
+
+         <p>"And
+yet you leave me!" he urged. "Oh! If I dared, I would entreat of you to be
+my companion, my guide in this motley scene."</p>
+
+         <p>"Men
+dare everything under a mask," replied the unknown; "it is worn as frequently
+in real life as in a carnival."</p>
+
+         <p>"You accept, then?"</p>
+
+         <p>"I accept."</p>
+
+         <p>The
+gipsy, with a frankness well suited to the character she had assumed, took the
+arm of the young man, and commenced with him a tour of the theatre. It was
+impossible not to be struck by the brilliant tone of her conversation &#8212; the
+extraordinary powers of observation her mind displayed. Statesmen, nobles,
+generals, were rapidly passed in review &#8212; their foibles or qualities hit off
+with an unsparing hand.</p>
+
+         <p>"You
+seem to know every one," observed Gus; "but there is one celebrity whom I would
+fain become acquainted with, whom you have not named &#8212; one whose genius has
+delighted me, whose beauty has captivated me."</p>
+
+         <p>The arm of the mask trembled.</p>
+
+         <p>"I am sure," added the speaker, "you could paint her portrait delightfully."</p>
+
+         <p>"Her name?"</p>
+
+         <p>"Senora Pascata."</p>
+
+         <p>"And
+do you really wish to know her?" demanded the gipsy.</p>
+
+         <p>"More
+than I ever desired to become acquainted with any woman yet. I am sure her
+mind must be noble, and her heart generous: mine longs to tell her so."</p>
+
+         <p>His
+companion slowly raised her mask: the idol of the opera &#8212; the subject of his
+dreams &#8212; Senora Pascata, stood beside him.</p>
+
+         <p>"The
+vestal!" murmured Gus, gazing on her with eyes eloquent with passion.</p>
+
+         <p>A
+smile, half of triumph and half of sadness, lit the countenance of the
+beautiful creature; who, in the midst of vice and degradation, still retained
+some portion of the angel in her nature.</p>
+
+         <p>"I see you remember me," she whispered.</p>
+
+         <p>"Remember
+you!" repeated the youth; "from the moment I beheld you, to the present hour,
+your image has not been divorced from my heart: it has haunted my pillow 
+&#8212;accompanied me like my shadow in my waking hours. How happy must he be," he
+added, with a sigh, "who wins the love of such a woman!"</p>
+
+         <p>"Words
+&#8212; words!" exclaimed the syren; "I have listened to them often, and once
+believed them. Man's love is like his nature, selfish and inconstant; woman's,
+the creature of sense, credulous and trusting. And what is her recompense? 
+Oblivion. Like a thoughtless prodigal, she lavishes the rich treasure of her
+affections, and meets in return contempt &#8212; neglect &#8212; indifference!" </p>
+
+         <p>"All men are not so."</p>
+
+         <p>"All
+whom I have known," interrupted the senora, with a sigh. "But come!" she
+added, "be frank; you wished to see the admired actress nearer, divested of the
+interest of the scene, as men desire to observe some cunning work of art, or
+strange caprice of nature. You have mistaken curiosity for interest &#8212; a
+passing admiration for a tender passion. Such is not the love I seek.
+Farewell!"</p>
+
+         <p>One
+of the closest observers of nature has observed how prodigal the soul is when
+passion prompts. Poor Gus! &#8212; he was only twenty, so we trust our readers will
+not be too severe in judging him &#8212; was fascinated by the singular beauty and
+original turn of mind of the speaker. In the excitement of the moment the
+image of Minnigrey was forgotten, not displaced from its temple in his heart.
+With an eloquence which astonished even himself, he vindicated the nature of
+his sentiments, protested his sincerity, and implored her to remain.</p>
+
+         <p>"Let
+me gaze upon you!" he said. "even if you condemn me to silence; words should
+not offend which spring from the heart."</p>
+
+         <p>There
+was something novel in the mingled boyish timidity and manly energy of the
+young soldier, which most probably recalled to the senora some tender
+recollection of the past; for her countenance became troubled, she shrank from
+the task she had undertaken, and yet a fatal necessity compelled her to pursue
+it. She had much rather that her destined victim had approached her with the
+stale flattery &#8212; the lip homage &#8212; she had so often listened to and despised.
+There was a freshness in his admiration &#8212; a respect in his passion &#8212; which
+touched her; and for the first time in years she experienced a pang of remorse.</p>
+
+         <p>"You
+are young in the character you have undertaken," she observed, "and recite your
+lesson with an air of truthfulness which might deceive a less experienced
+actress than myself."</p>
+
+         <p>"By
+heavens you wrong me!" exclaimed our hero. "I love &#8212; "</p>
+
+         <p>"Love!" interrupted Pascata; "ay, as most men
+love, but not as I understand it. What love can exist between one of my
+profession and the proud young English noble?"</p>
+
+         <p>"There, again, you are in error," observed Gus,
+with a smile. "Like you, I have risen from the ranks of the people. I owe my
+commission to my sword, and not to birth or fortune."</p>
+
+         <p>The actress regarded him with increased
+interest: there was something noble in the pride which repudiated adventitious
+means of success, and relied on its own energies.</p>
+
+         <p>"Sprung from the people, too!" she murmured;
+"and I &#8212; "</p>
+
+         <p>The rest of the phrase died upon her lips; it
+was evident that a struggle was taking place between her evil and her better
+nature.</p>
+
+         <p>"At least," she said, "we will not separate yet;
+the motley scene is new to you; I will be your guide."</p>
+
+         <p>It were needless to say that our hero eagerly
+agreed; and offering his arm to the speaker, who resumed her mask, they made
+the tour of the brilliant assembly together.</p>
+
+         <p>The influence which a clever woman exercises
+over the mind of a young man uninitiated in the deceits and maneuvers of the
+world, is good or ill in proportion as the character of the female is elevated
+or base. There is a spell in her smile which youth seldom can resist, and
+which even age but rarely guards against. The observations of the actress were
+full of tact and finesse. Gus was fascinated; and yet at times he detected an
+under current of scorn and bitterness which startled him. In his simplicity,
+he could not understand how one so young and beautiful could have been led to
+analyse so deeply that mystery of all mysteries &#8212; the human heart.</p>
+
+         <p>Fixing his eyes upon her, he observed, in a tone
+of regret, that she must have suffered much.</p>
+
+         <p>"Why should you think so?" demanded the senora.</p>
+
+         <p>"From your words."</p>
+
+         <p>"True," said the actress; "illusion after
+illusion has vanished, and yet fresh illusions," she added, with a smile, "take
+their place. Youth is but a change of dreams; those only are happy who die
+before they wake!"</p>
+
+         <p>"It is a sad thought."</p>
+
+         <p>"And yet a true one," she continued. "Look on
+me &#8212; men call me beautiful."</p>
+
+         <p>"And you are beautiful!" interrupted Gus, gazing
+on her with passionate tenderness; "beautiful not only in person but in genius
+ beautiful in that intellectual grace &#8212; "</p>
+
+         <p>"Which is bought by suffering," observed La
+Pascata, as she was generally called in Lisbon. &#8212; "Would you believe it&#8212; my
+success as an <hi rend="italic">artiste, </hi>which was coldly brilliant while I was happy, has
+become an enthusiasm with the public since I have been wretched. As I grew
+indifferent to the plaudits of the crowd, they redoubled; my admirers became
+worshippers!"</p>
+ <p>"I think I can understand you," observed our hero.</p>
+
+         <p>His companion regarded him with an inquiring
+eye.</p>
+
+         <p>"Genius in some natures is like the perfume of
+certain flowers: it must be crushed before the gift appears!"</p>
+
+         <p>The actress bent her head. Had not the mask
+concealed her features, her companion would have seen that her brilliant eyes
+were dimmed with tears.</p>
+
+         <p>"True," she murmured; then suddenly raising her
+head, and shaking the cloud of clustering curls from her brow, she added, "Our
+conversation is too dull for a scene like this, where pleasure reigns. The
+orchestra is sounding for a waltz. You are a strange caballero &#8212; you have not
+yet invited me to dance."</p>
+
+         <p>The hint was not thrown away. The next minute
+saw our hero with his arm, which trembled with passionate emotion, twined round
+the form of the syren, whose graceful movements, as her fairy feet fell to the
+lively measure, excited the admiration of all present.</p>
+
+         <p>What a glorious thing is youth! Full of warm
+confidence, high hopes, and generous feelings, flowing from the heart like a
+gush of music from an angel's harp. How keen are its enjoyments, how novel its
+sensations, how exquisite its appreciation of the true and beautiful! </p>
+
+         <lg type="poem">
+	<l>Pity the world should ever wake</l>
+
+	<l>The young heart from so fair a vision,</l>
+
+         <l>Or time the rosy fetters break</l>
+
+         <l>Which hold it in that gentle prison.</l>
+		</lg>
+
+         <p>But so unfortunately it is! With time we begin to analyse
+our sensations, examine the petals of the flower, and let the odour escape,
+till, one by one, the leaves fade and fall, and the withered stem alone is left
+in the gazer's hand.</p>
+
+         <p>Fortunately for our hero, he had not reached
+that sad period of existence. His heart was still as young as hope, as
+passionate as love. He saw in the gifted being by his side the ideal realized,
+read in her dark, melting eyes that he was not indifferent to her. Happy in
+the intoxication of the moment, he neither thought nor inquired further.</p>
+
+         <p>It was nearly day-break when he left the
+ballroom. As he conducted La Pascata to her carriage, he was struck by the
+appearance of the sister of mercy whom he had noticed on his arrival. She was
+still leaning against the column at the entrance, her capuchin drawn over her
+countenance. As the vehicle drove off, she rushed forward, as if urged by some
+irresistible impulse. It was too late &#8212; the horses had started. Pressing her
+hand upon her heart, as if to control its emotion, she slowly disappeared down
+the Strada d' Alcantra.</p>
+
+         <p>Wilton, who had watched the proceedings of his
+friend, left the joyous scene at the same time. The act of the sister surprised
+him. He noticed her emotion with anxiety, and as propriety did not allow of
+his following Gus, he determined to keep the <hi rend="italic">religieuse </hi>in view. He had
+not pursued her many yards when, hearing a footstep, she suddenly turned, and,
+with the air of a person who fears to be recognized, drew the white linen veil
+yet closer over her features.</p>
+
+         <p>"In mask, fair sister?" said Frank.</p>
+
+         <p>"Ay," said the nun, with a sigh, "even as the
+shroud is the mask of death."</p>
+
+         <p>The deep tone of sadness struck the young
+soldier forcibly. It was in vain that he tried to catch a glimpse of her
+countenance &#8212; the screen was impenetrable. </p>
+
+         <p>"You are the friend," she observed, "of the
+young officer who has just left the ballroom with &#8212; with that woman?"</p>
+
+         <p>"True."</p>
+
+         <p>"And you love him?"</p>
+
+         <p>"As my own brother," replied Frank Wilton. "But
+why these questions?"</p>
+
+         <p>"Because his honor and his life are both in
+peril. Nay, start not," she added, "nor think that words are the idle
+pleasantry of a light heart. It is long since a smile was seen upon the lips
+which warn you of his danger. If you wish to save him, follow him to the hotel
+of La Pascata &#8212; you see I know her name &#8212; and do not lose sight of him for an instant."</p>
+
+         <p>"And what can I say to excuse such an
+indiscretion?" demanded the young man, undecided in his own mind whether the
+speaker merely sought to disembarrass herself to the intruder, or that the
+warning was real.</p>
+
+         <p>"Friendship," replied the nun, "needs no excuse
+when those we love are in danger. Do you still hesitate? Reflect. Ask yourself
+if your friend has not a bitter, uncompromising enemy."</p>
+
+         <p>"True. But &#8212; "</p>
+
+         <p>"But," impatiently repeated the <hi rend="italic">religieuse, </hi>"Oh,
+the cold calculating hesitation of man! Listen," she said, "and be convinced."</p>
+
+         <p>Approaching Frank Wilton, she laid her hand upon
+his arm, and whispered in his ear the name of Hanway and the words Casa Giulio;
+then satisfied that her warning was no longer disbelieved, she walked slowly
+on.</p>
+
+         <p>"Stay!" exclaimed the young man, deeply
+agitated. "You have indeed pronounced names of dreadful import. One word more."</p>
+
+         <p>"Not one."</p>
+
+         <p>"Where lives the Senora Pascata ?"</p>
+
+         <p>"Strada Nuova. And now away," she
+added; "I have done my duty, do not neglect yours."</p>
+
+         <p>The next moment the sister of mercy disappeared
+down the street which led to the convent of her order.</p>
+
+         <p>When Gus arrived at the hotel of the senora, and
+had handed her from the carriage, the lady bade him good night, with a half-mocking,
+half-relenting smile upon her lips.</p>
+
+         <p>"And must I bid you good night?" he said, imploringly.
+"Consider how late the hour, and that I have half the city to traverse before I
+arrive at my quarters."</p>
+
+         <p>"Would you have asked that question," demanded
+the actress, "of the daughter of the Governor of Lisbon, or one of the titled
+dames of the court?  No. I perceive," she added, haughtily, "that you mistake me
+for one of those whose cheek knows no blush, whose brow no shame. You are
+mistaken. It is possible I might be won, but not for the mere asking, senor.</p>
+
+         <p>It was our hero's first adventure, and he was
+timid; an experienced libertine would have found a thousand reasons. Gus only
+faltered an excuse, and asked, in requital of his obedience; to be permitted to
+call upon her in the morning. The request was readily granted; and, raising the
+hand of the syren to his lips, he bade her good night.</p>
+
+         <p>The actress entered the hotel with a slow step
+and heavy heart. She began to regret the part she had undertaken. There was
+something in the freshness of the young man's feelings and respectful manner
+which touched her. A second time she murmured to herself, as she mounted the
+staircase, "Sprung from the people, too."</p>
+
+         <p>For her it was the link in the chain of sympathy
+between them.</p>
+
+<div1 type="file references">
+            <list>                <item>
+                  <xptr n="ls.00061" type="same author"/>
+               </item>        
+
+               <item>
+                  <xptr n="ls.00105" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00106" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00107" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00108" type="image on fiction"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

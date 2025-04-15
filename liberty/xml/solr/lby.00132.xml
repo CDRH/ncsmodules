@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00132</field>
+      <field name="title">Model for Statue of Freedom</field>
+      <field name="project">liberty</field>
+      <field name="genre">sculpture</field>
+      <field name="place">american</field>
+      <field name="topic">icon</field>
+      <field name="topic">statueofliberty</field>
+      <field name="text">Illustrator </field>
+   </doc>
+</add>

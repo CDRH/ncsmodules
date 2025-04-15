@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00021">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Why I am a Liberal"</title>
+
+<date type="original" value="1886">1886</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Browning">Robert Browning
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00021</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 948 of the 1895 Houghton Mifflin edition of Robert Browning's <hi rend="italic">Complete Poetic and Dramatic Works</hi>. </note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Why I am a Liberal</title>
+               <title level="m">Complete Poetical and Dramatic Works</title>
+               <author></author>Robert Browning
+               <imprint>
+                  <publisher>Houghton Mifflin
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1895
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="liberalism" type="topic">Liberalism</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-25">25 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">WHY I AM A LIBERAL</head>
+
+<p>Contributed to a volume edited by Andrew Reid, in which a number of leaders of English thought answered the question, "Why I am a Liberal?"</p>
+
+<lg>
+<l>"WHY?" Because all I haply can and do,</l>
+<l>All that I am now, all I hope to be,&#8212;</l>
+<l>Whence comes it save from fortune setting free</l>
+<l>Body and soul the purpose to pursue,</l>
+<l>God traced for both? If fetters, not a few,</l>
+<l>Of prejudice, convention, fall from me,</l>
+<l>These shall I bid men&#8212;each in his degree</l>
+<l>Also God-guided&#8212;bear, and gayly, too?</l>
+</lg>
+<lg>
+<l>But little do or can the best of us:</l>
+<l>That little is achieved through Liberty.</l>
+<l>Who, then, dares hold, emancipated thus,</l>
+<l>His fellow shall continue bound? Not I,</l>
+<l>Who live, love, labor freely, nor discuss</l>
+<l>A brother's right to freedom. That is</l>
+<l>"Why."</l>
+</lg>
+
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

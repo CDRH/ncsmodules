@@ -1,0 +1,15 @@
+<add>
+   <doc>
+      <field name="id">ls.00112</field>
+      <field name="title">"The Abduction of Lady Moretown's Child"
+         
+      </field>
+      <field name="nationality">british</field>
+      <field name="category">image</field>
+      <field name="theme">popularpress</field>
+      <field name="setting">parlor</field>
+      <field name="text">Lady Moretown"The Abduction of Lady Moretown's Child," London Journal, December 10, 1853
+         IllustratorDecember 10, 1853London Journal Illustration 
+      </field>
+   </doc>
+</add>

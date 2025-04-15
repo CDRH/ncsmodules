@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00052">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">A Land Without Castles: The Changing Image of America in Europe, 1780-1830</hi></title>
+            <title level="c" type="chapter">from Chapter 4, "Symbols of America in Europe"</title>
+<date type="original" value="">2001</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Murphy">Thomas K. Murphy</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00052</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 88-89 of Thomas K. Murphy's <hi rend="italic">A Land Without Castles: The Changing Image of America in Europe, 1780-1830</hi>.  Published by Lexington Books, 2001.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Symbols of America in Europe</title>
+               <title level="m"><hi rend="italic"><hi rend="italic">A Land Without Castles: The Changing Image of America in Europe, 1780-1830</hi></hi></title>
+               <author>Thomas K. Murphy</author>
+               <imprint>
+                  <publisher>Lexington Books
+</publisher>
+                  <pubPlace>Lanham
+
+</pubPlace>
+               </imprint>
+               <date>2001
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="washington" type="topic">Washington</term>
+<term id="icon" type="topic">icon</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading and terms</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-15">15 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>George Washington played a unique role in developing the image of America, standing as a mythic figure, a sage and a resolute military and civilian leader who had brought about and then preserved the liberty of the United States.  Washington commanded a degree of respect in European literature unmatched even by Jefferson and Franklin.  More typical are the comments by Benjamin La Trobe, an Englishman later to become the first architect of the U.S. Capitol building, who described Washington as having "something uncommonly majestic in his walk, his address, his figure and his countenance."  Washington stood in a category of his own, as perhaps <hi rend="italic">the</hi> symbol of the recent success of the colonies.  David D'Angers articulated this very well when he exclaimed that "France admires the glory, that of the conquest on your soil of America&#8212;next to the immortal Washington, and for the defense of your noble rights."  In an influential work, <hi rend="italic">Voyage en Amerique</hi>, Fran&#231;ois-Ren&#233; de Chateaubriand described meeting with Washington in the United States.  The meeting took place in Philadelphia, and Chateaubriand, because of scheduling difficulties, was forced to wait fifteen days after his arrival for the meeting.  His first observation upon meeting the American president was to comment on his simplicity:  "When I went to carry my letter of recommendation to this great man, I discovered the simplicity of an old Roman."  Thus Washington's image (as personified by character and demeanor) was, as with Franklin, naturally disposed to the cult of simplicity prevalent during the French Revolution.</p>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00072" type="commentary on history"/>	      
+				</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

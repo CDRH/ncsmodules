@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00045">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Blithedale Romance</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter VI, "Coverdale's Sick Chamber"</title>
+<title level="m" type="monograph"></title>
+<author name="Hawthorne">Nathaniel Hawthorne</author>
+<date type="original" value="1852">1852</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00045</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Nathaniel Hawthorne's <hi rend="italic">The Blithedale Romance</hi>, Chapter VI, "Coverdale's Sick Chamber."  Originally published in 1852.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter VI, "Coverdale's Sick Chamber</title>
+               <title level="m"><hi rend="italic">The Blithedale Romance</hi></title>
+               <author>Nathaniel Hawthorne</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+2000
+
+</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="american" type="place">American</term>	
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="editorial">Scene One: The male view of the exotic and alluring woman</head>
+
+<p>Zenobia was truly a magnificent woman. The homely simplicity of her
+dress could not conceal, nor scarcely diminish, the queenliness of
+her presence. The image of her form and face should have been
+multiplied all over the earth. It was wronging the rest of mankind
+to retain her as the spectacle of only a few. The stage would have
+been her proper sphere. She should have made it a point of duty,
+moreover, to sit endlessly to painters and sculptors, and preferably
+to the latter; because the cold decorum of the marble would consist
+with the utmost scantiness of drapery, so that the eye might chastely
+be gladdened with her material perfection in its entireness. I know
+not well how to express that the native glow of coloring in her
+cheeks, and even the flesh-warmth over her round arms, and what was
+visible of her full bust,&#8212;in a word, her womanliness incarnated,
+compelled me sometimes to close my eyes, as if it were not quite
+the privilege of modesty to gaze at her. Illness and exhaustion, no
+doubt, had made me morbidly sensitive.</p>
+
+<p>I noticed&#8212;and wondered how Zenobia contrived it&#8212;that she had always
+a new flower in her hair. And still it was a hot-house flower,&#8212;an
+outlandish flower,&#8212;a flower of the tropics, such as appeared to have
+sprung passionately out of a soil the very weeds of which would be
+fervid and spicy. Unlike as was the flower of each successive day to
+the preceding one, it yet so assimilated its richness to the rich
+beauty of the woman, that I thought it the only flower fit to be worn;
+so fit, indeed, that Nature had evidently created this floral gem,
+in a happy exuberance, for the one purpose of worthily adorning
+Zenobia's head. It might be that my feverish fantasies clustered
+themselves about this peculiarity, and caused it to look more
+gorgeous and wonderful than if beheld with temperate eyes. In the
+height of my illness, as I well recollect, I went so far as to
+pronounce it preternatural.</p>
+
+<p>"Zenobia is an enchantress!" whispered I once to Hollingsworth. "She
+is a sister of the Veiled Lady. That flower in her hair is a
+talisman. If you were to snatch it away, she would vanish, or be
+transformed into something else."</p>
+
+<p>"What does he say?" asked Zenobia.</p>
+
+<p>"Nothing that has an atom of sense in it," answered Hollingsworth.
+"He is a little beside himself, I believe, and talks about your being
+a witch, and of some magical property in the flower that you wear in
+your hair."</p>
+
+<p>"It is an idea worthy of a feverish poet," said she, laughing rather
+compassionately, and taking out the flower. "I scorn to owe anything
+to magic. Here, Mr. Hollingsworth, you may keep the spell while it
+has any virtue in it; but I cannot promise you not to appear with a
+new one to-morrow. It is the one relic of my more brilliant, my
+happier days!"</p>
+
+<p>The most curious part of the matter was that, long after my slight
+delirium had passed away,&#8212;as long, indeed, as I continued to know
+this remarkable woman,&#8212;her daily flower affected my imagination,
+though more slightly, yet in very much the same way. The reason must
+have been that, whether intentionally on her part or not, this
+favorite ornament was actually a subtile expression of Zenobia's
+character.</p>
+
+<p>One subject, about which&#8212;very impertinently, moreover&#8212;I perplexed
+myself with a great many conjectures, was, whether Zenobia had ever
+been married. The idea, it must be understood, was unauthorized by
+any circumstance or suggestion that had made its way to my ears. So
+young as I beheld her, and the freshest and rosiest woman of a
+thousand, there was certainly no need of imputing to her a destiny
+already accomplished; the probability was far greater that her coming
+years had all life's richest gifts to bring. If the great event of a
+woman's existence had been consummated, the world knew nothing of it,
+although the world seemed to know Zenobia well. It was a ridiculous
+piece of romance, undoubtedly, to imagine that this beautiful
+personage, wealthy as she was, and holding a position that might
+fairly enough be called distinguished, could have given herself away
+so privately, but that some whisper and suspicion, and by degrees a
+full understanding of the fact, would eventually be blown abroad.
+But then, as I failed not to consider, her original home was at a
+distance of many hundred miles. Rumors might fill the social
+atmosphere, or might once have filled it, there, which would travel
+but slowly, against the wind, towards our Northeastern metropolis,
+and perhaps melt into thin air before reaching it.</p>
+
+<p>There was not&#8212;and I distinctly repeat it&#8212;the slightest foundation
+in my knowledge for any surmise of the kind. But there is a species
+of intuition,&#8212;either a spiritual lie or the subtile recognition of a
+fact,&#8212;which comes to us in a reduced state of the corporeal system.
+The soul gets the better of the body, after wasting illness, or when
+a vegetable diet may have mingled too much ether in the blood.
+Vapors then rise up to the brain, and take shapes that often image
+falsehood, but sometimes truth. The spheres of our companions have,
+at such periods, a vastly greater influence upon our own than when
+robust health gives us a repellent and self-defensive energy.
+Zenobia's sphere, I imagine, impressed itself powerfully on mine, and
+transformed me, during this period of my weakness, into something
+like a mesmerical clairvoyant.</p>
+
+<p>Then, also, as anybody could observe, the freedom of her deportment
+(though, to some tastes, it might commend itself as the utmost
+perfection of manner in a youthful widow or a blooming matron) was
+not exactly maiden-like. What girl had ever laughed as Zenobia did?
+What girl had ever spoken in her mellow tones? Her unconstrained and
+inevitable manifestation, I said often to myself, was that of a woman
+to whom wedlock had thrown wide the gates of mystery. Yet sometimes
+I strove to be ashamed of these conjectures. I acknowledged it as a
+masculine grossness&#8212; a sin of wicked interpretation, of which man is
+often guilty towards the other sex&#8212;thus to mistake the sweet,
+liberal, but womanly frankness of a noble and generous disposition.
+Still, it was of no avail to reason with myself nor to upbraid myself.
+Pertinaciously the thought, "Zenobia is a wife; Zenobia has lived
+and loved! There is no folded petal, no latent dewdrop, in this
+perfectly developed rose!"&#8212;irresistibly that thought drove out all
+other conclusions, as often as my mind reverted to the subject.</p>
+
+
+
+      </body>
+   </text>
+</TEI.2>

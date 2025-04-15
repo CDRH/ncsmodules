@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00066">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Woman in Black"</title>
+		<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author></author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00066</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 12 of the May 11, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">The Woman in Black</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+May 11, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="beechertilton">Beecher-Tilton</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <head>The Woman in Black</head>
+		
+<head>A Mysterious Female who Wanted to Argue a Point with Beecher</head>
+
+
+         <p>A matronly woman about thirty-five
+years old, with glossy curls falling over her shoulder, wrapped a light mantle
+about her in the Plymouth lecture room a few nights since and took a seat in
+the front row, right under Henry Ward Beecher's shadow. She was neatly dressed
+in black alpaca, with lace ruffles at her throat and at her wrists, and her
+hands were clothed with a fresh pair of black kids. She was a stranger, and her
+bold advance into a section of the room reserved by custom for those who bask
+in Mr. Beecher's radiance attracted attention. Mr. Beecher strode leisurely in
+as though feeling a touch of spring fever, looked nervously at a quadrilateral
+made of gas pipes, erected for private exhibition, and turned for comfort to the basket of flowers that a lady had sent for his table. When
+Dr. Edward Beecher prayed he referred to the fact that the church was
+surrounded by malign enemies and yet had as companions a legion of angels of
+light. The woman in black arose, tiptoed so close to him that her drapery
+almost brushed him, and passed down the aisle to the rear door. When Mr.
+Beecher began to talk, she tiptoed her way back, took her seat leisurely, folded
+her arms, and fixed her black eyes intently on Mr. Beecher.</p>
+
+         <p>The talk was about the requisites of a Christian life, his
+argument being that it was only necessary to dedicate oneself to Christ as Master.
+He said: "Will you make your whole life amenable to the commands of Christ? That
+is the simple question."</p>
+
+
+         <p>The woman in black leaned forward,
+her black eyes glistening with excitement, and said in a shrill voice, "Will
+you let a woman answer it?"</p>
+
+
+         <p>"When I get through, if it is
+proper, you may," said Mr. Beecher.</p>
+
+
+         <p>"Oh, excuse me. I thought you would
+hear me now," continued the woman.</p>
+
+
+         <p>Mr. Beecher was embarrassed, but he
+did not lose possession of his idea for a minute, and rattled on, amplifying
+the argument and picturing it with a quaint illustration. The woman in black
+eyed him, with a derisive smile on her face, and she seemed to be intently
+anxious to get an opportunity to give her views. Mr. Beecher said that a man
+became a Christian as soon as he accepted the Master hand of the Lord Jesus
+Christ, and promised that he would hereafter conform his life to Christ's life
+and his spirit to Christ's spirit. The woman in black laughed, showing her
+pearly teeth, and turned for sympathy to her neighbors, but they stared at her in surprise.</p>
+
+         <p>As soon as Mr. Beecher ceased to
+talk, the lady threw her mantle back, and prepared to respond to Mr. Beecher's
+expected invitation to speak. The invitation didn't come. Mr. Beecher gave out
+"Nearer my God to thee," and the black-robed woman waved her head, keeping time
+with the pianist's prelude, but kept her eyes riveted on Mr. Beecher, whose gaze
+was lost in the Plymouth collection. The sardonic smile on the face of the
+woman in black suddenly changed to an angry pout as the benediction was
+pronounced. She didn't bow her bead as Mr. Beecher implored "Grace, mercy, and
+peace," and glared at him defiantly. As he closed she pounced over to the
+reporters and said excitedly: "I will answer him yet. He has his platform; I
+will have mine. He refused to hear me tonight, but he must hear me some time.
+He has crucified me here."</p>
+
+
+         <p>She sat down with as much energy as
+she had got up, pulled on her over-shoes, and hastened out, muttering angrily
+all the way.</p>
+
+
+         <p>The Examining Committee remained to
+receive applications for membership in Plymouth Church. Mr. S. V. White said
+that the committee had not yet received any charges against Mrs. Tilton, and he
+did not know that any were to be prefereed. Three persons out of every four believed
+that Mrs. Tilton was crazy, and it was a forgone conclusion that she must leave
+the church. Some way would be adopted to get her out of the church with as
+little excitement as possible, but it was undisputed that she must go.</p>
+
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+	
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00033" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

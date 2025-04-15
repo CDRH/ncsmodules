@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00018">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Ode to Liberty"</title>
+
+<date type="original" value="1820">1820</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Shelley">Percy Bysshe Shelley
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00018</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 249-261 of the 1839 Edward Moxon edition of Percy Bysshe Shelley's <hi rend="italic">Poetical Works</hi>, Volume III. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Ode to Liberty</title>
+               <title level="m">Poetical Works, Volume III</title>
+               <author>Percy Bysshe Shelley</author>
+               <imprint>
+                  <publisher>Edward Moxon
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1839
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="italy" type="topic">Italy</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-24">24 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">ODE TO LIBERTY.</head>
+
+<epigraph>
+<l>Yet, Freedom, yet they banner torn but flying,</l>
+<l>Streams like a thunder-storm against the wind.</l>
+<bibl><author>BYRON.</author></bibl>
+</epigraph>
+
+<lg n="I." type="stanza">
+<l>A GLORIOUS people vibrated again</l>
+<l>The lightning of the nations: Liberty</l>
+<l>From heart to heart, from tower to tower, oer Spain,</l>
+<l>Scattering contagious fire into the sky,</l>
+<l>Gleamed. My soul spurned the chains of its dismay,</l>
+<l>And, in the rapid plumes of song,</l>
+<l>Clothed itself, sublime and strong;</l>
+<l>As a young eagle soars the morning clouds among,</l>
+<l>Hovering in verse oer its accustomed prey;</l>
+<l>Till from its station in the Heaven of fame</l>
+<l>The Spirits whirlwind rapped it, and the ray</l>
+<l>Of the remotest sphere of living flame</l>
+<l>Which paves the void, was from behind it flung,</l>
+<l>As foam from a ships swiftness, when there came</l>
+<l>A voice out of the deep: I will record the same.</l>
+</lg>
+
+<lg n="II." type="stanza">
+<l>The Sun and the serenest Moon sprang forth:</l>
+<l>The burning stars of the abyss were hurl'd</l>
+<l>Into the depths of Heaven. The d&#230;dal earth,</l>
+<l>That island in the ocean of the world,</l>
+<l>Hung in its cloud of all-sustaining air:</l>
+<l>But this divinest universe</l>
+<l>Was yet a chaos and a curse,</l>
+<l>For thou wert not: but, power from worst producing worse,</l>
+<l>The spirit of the beasts was kindled there,</l>
+<l>And of the birds, and of the watery forms,</l>
+<l>And there was war among them, and despair</l>
+<l>Within them, raging without truce or terms:</l>
+<l>The bosom of their violated nurse</l>
+<l>Groaned, for beasts warred on beasts, and worms on worms,</l>
+<l>And men on men; each heart was as a hell of storms.</l>
+</lg>
+
+<lg n="III." type="stanza">
+<l>Man, the imperial shape, then multiplied</l>
+<l>His generations under the pavilion</l>
+<l>Of the Suns throne: palace and pyramid,</l>
+<l>Temple and prison, to many a swarming million</l>
+<l>Were, as to mountain-wolves their ragged caves.</l>
+<l>This human living multitude</l>
+<l>Was savage, cunning, blind, and rude,</l>
+<l>For thou wert not; but oer the populous solitude,</l>
+<l>Like one fierce cloud over a waste of waves,</l>
+<l>Hung Tyranny; beneath, sate deified</l>
+<l>The sister-pest, congregator of slaves;</l>
+<l>Into the shadow of her pinions wide,</l>
+<l>Anarchs and priests who feed on gold and blood,</l>
+<l>Till with the stain their inmost souls are dyed,</l>
+<l>Drove the astonished herds of men from every side.</l>
+</lg>
+
+<lg n="IV." type="stanza">
+<l>The nodding promontories, and blue isles,</l>
+<l>And cloud-like mountains, and dividuous waves</l>
+<l>Of Greece, basked glorious in the open smiles</l>
+<l>Of favouring Heaven: from their enchanted caves</l>
+<l>Prophetic echoes flung dim melody</l>
+<l>On the unapprehensive wild.</l>
+<l>The vine, the corn, the olive mild</l>
+<l>Grew savage yet, to human use unreconciled;</l>
+<l>And, like unfolded flowers beneath the sea,</l>
+<l>Like the mans thought dark in the infants brain,</l>
+<l>Like aught that is which wraps what is to be,</l>
+<l>Arts deathless dreams lay veiled by many a vein</l>
+<l>Of Parian stone; and, yet a speechless child,</l>
+<l>Verse murmured, and Philosophy did strain</l>
+<l>Her lidless eyes for thee; when oer the &#198;gean main</l>
+</lg>
+
+<lg n="V." type="stanza">
+<l>Athens arose: a city such as vision</l>
+<l>Builds from the purple crags and silver towers</l>
+<l>Of battlemented cloud, as in derision</l>
+<l>Of kingliest masonry: the ocean-floors</l>
+<l>Pave it; the evening sky pavilions it;</l>
+<l>Its portals are inhabited</l>
+<l>By thunder-zoned winds, each head</l>
+<l>Within its cloudy wings with sun-fire garlanded,</l>
+<l>A divine work! Athens diviner yet</l>
+<l>Gleamed with its crest of columns, on the will</l>
+<l>Of man, as on a mount of diamond, set;</l>
+<l>For thou wert, and thine all-creative skill</l>
+<l>Peopled with forms that mock the eternal dead</l>
+<l>In marble immortality, that hill</l>
+<l>Which was thine earliest throne and latest oracle.</l>
+</lg>
+
+<lg n="VI." type="stanza">
+<l>Within the surface of Times fleeting river</l>
+<l>Its wrinkled image lies, as then it lay</l>
+<l>Immoveably unquiet, and for ever</l>
+<l>It trembles, but it cannot pass away!</l>
+<l>The voices of thy bards and sages thunder</l>
+<l>With an earth-awakening blast</l>
+<l>Through the caverns of the past;</l>
+<l>Religion veils her eyes; Oppression shrinks aghast:</l>
+<l>A winged sound of joy, and love, and wonder,</l>
+<l>Which soars where Expectation never flew,</l>
+<l>Rending the veil of space and time asunder!</l>
+<l>One ocean feeds the clouds, and streams, and dew;</l>
+<l>One sun illumines heaven; one spirit vast</l>
+<l>With life and love makes chaos ever new,</l>
+<l>As Athens doth the world with thy delight renew.</l>
+</lg>
+
+<lg n="VII." type="stanza">
+<l>Then Rome was, and from thy deep bosom fairest,</l>
+<l>Like a wolf-cub from a Cadm&#230;an M&#230;nad,</l>
+<l>She drew the milk of greatness, though thy dearest</l>
+<l>From that Elysian food was yet unweaned;</l>
+<l>And many a deed of terrible uprightness</l>
+<l>By thy sweet love was sanctified;</l>
+<l>And in thy smile, and by thy side,</l>
+<l>Saintly Camillus lived, and firm Atilius died.</l>
+<l>But when tears stained thy robe of vestal whiteness,</l>
+<l>And gold profaned thy Capitolian throne,</l>
+<l>Thou didst desert, with spirit-winged lightness,</l>
+<l>The senate of the tyrants: they sunk prone</l>
+<l>Slaves of one tyrant: Palatinus sighed</l>
+<l>Faint echoes of Ionian song; that tone</l>
+<l>Thou didst delay to hear, lamenting to disown.</l>
+</lg>
+
+<lg n="VIII." type="stanza">
+<l>From what Hyrcanian glen or frozen hill,</l>
+<l>Or piny promontory of the Arctic main,</l>
+<l>Or utmost islet inaccessible,</l>
+<l>Didst thou lament the ruin of thy reign,</l>
+<l>Teaching the woods and waves, and desert rocks,</l>
+<l>And every Naiads ice-cold urn,</l>
+<l>To talk in echoes sad and stern</l>
+<l>Of that sublimest lore which man had dared unlearn?</l>
+<l>For neither didst thou watch the wizard flocks</l>
+<l>Of the Scalds dreams, nor haunt the Druids sleep.</l>
+<l>What if the tears rained through thy shattered locks,</l>
+<l>Were quickly dried? for thou didst groan, not weep,</l>
+<l>When from its sea of death to kill and burn,</l>
+<l>The Galilean serpent forth did creep,</l>
+<l>And made thy world an undistinguishable heap.</l>
+</lg>
+
+<lg n="IX." type="stanza">
+<l>A thousand years the Earth cried, Where art thou?</l>
+<l>And then the shadow of thy coming fell</l>
+<l>On Saxon Alfreds olive-cinctured brow:</l>
+<l>And many a warrior-peopled citadel.</l>
+<l>Like rocks which fire lifts out of the flat deep,</l>
+<l>Arose in sacred Italy,</l>
+<l>Frowning oer the tempestuous sea</l>
+<l>Of kings, and priests, and slaves, in tower-crowned majesty;</l>
+<l>That multitudinous anarchy did sweep,</l>
+<l>And burst around their walls, like idle foam,</l>
+<l>Whilst from the human spirits deepest deep,</l>
+<l>Strange melody with love and awe struck dumb</l>
+<l>Dissonant arms; and Art, which cannot die,</l>
+<l>With divine want traced on our earthly home</l>
+<l>Fit imagery to pave Heavens everlasting dome.</l>
+</lg>
+
+<lg n="X." type="stanza">
+<l>Thou huntress swifter than the Moon! thou terror</l>
+<l>Of the worlds wolves! thou bearer of the quiver,</l>
+<l>Whose sunlike shafts pierce tempest-winged Error,</l>
+<l>As light may pierce the clouds when they dissever</l>
+<l>In the calm regions of the orient day!</l>
+<l>Luther caught thy wakening glance;</l>
+<l>Like lightning, from his leaden lance</l>
+<l>Reflected, it dissolved the visions of the trance</l>
+<l>In which, as in a tomb, the nations lay;</l>
+<l>And Englands prophets hailed thee as their queen,</l>
+<l>In songs whose music cannot pass away,</l>
+<l>Though it must flow forever: not unseen</l>
+<l>Before the spirit-sighted countenance</l>
+<l>Of Milton didst thou pass, from the sad scene</l>
+<l>Beyond whose night he saw, with a dejected mien.</l>
+</lg>
+
+<lg n="XI." type="stanza">
+<l>The eager hours and unreluctant years</l>
+<l>As on a dawn-illumined mountain stood,</l>
+<l>Trampling to silence their loud hopes and fears,</l>
+<l>Darkening each other with their multitude,</l>
+<l>And cried aloud, Liberty! Indignation</l>
+<l>Answered Pity from her cave;</l>
+<l>Death grew pale within the grave,</l>
+<l>And desolation howled to the destroyer, Save!</l>
+<l>When like heavens sun, girt by the exhalation</l>
+<l>Of its own glorious light, thou didst arise,</l>
+<l>Chasing thy foes from nation unto nation</l>
+<l>Like shadows: as if day had cloven the skies</l>
+<l>At dreaming midnight oer the western wave,</l>
+<l>Men started, staggering with a glad surprise,</l>
+<l>Under the lightnings of thine unfamiliar eyes.</l>
+</lg>
+
+<lg n="XII." type="stanza">
+<l>Thou Heaven of earth! what spells could pall thee then,</l>
+<l>In ominous eclipse? A thousand years,</l>
+<l>Bred from the slime of deep oppressions den,</l>
+<l>Dyed all thy liquid light with blood and tears,</l>
+<l>Till thy sweet stars could weep the stain away;</l>
+<l>How like Bacchanals of blood</l>
+<l>Round France, the ghastly vintage, stood</l>
+<l>Destructions sceptred slaves, and Follys mitred brood!</l>
+<l>When one, like them, but mightier far than they,</l>
+<l>The Anarch of thine own bewildered powers</l>
+<l>Rose: armies mingled in obscure array,</l>
+<l>Like clouds with clouds, darkening the sacred bowers</l>
+<l>Of serene Heaven. He, by the past pursued,</l>
+<l>Rests with those dead, but unforgotten hours,</l>
+<l>Whose ghosts scare victor kings in their ancestral towers.</l>
+</lg>
+
+<lg n="XIII." type="stanza">
+<l>England yet sleeps: was she not called of old?</l>
+<l>Spain calls her now, as with its thrilling thunder</l>
+<l>Vesuvius wakens &#198;tna, and the cold</l>
+<l>Snow-crags by its reply are cloven in sunder:</l>
+<l>Oer the lit waves every &#198;olian isle</l>
+<l>From Pithecusa to Pelorus</l>
+<l>Howls, and leaps, and glares in chorus:</l>
+<l>They cry, Be dim, ye lamps of Heaven suspended oer us.</l>
+<l>Her chains are threads of gold, she need but smile</l>
+<l>And they dissolve; but Spains were links of steel,</l>
+<l>Till bit to dust by virtues keenest file.</l>
+<l>Twins of a single destiny! appeal</l>
+<l>To the eternal years enthroned before us</l>
+<l>In the dim West; impress us from a seal,</l>
+<l>All ye have thought and done! Time cannot dare conceal.</l>
+</lg>
+
+<lg n="XIV." type="stanza">
+<l>Tomb of Arminius! render up thy dead,</l>
+<l>Till, like a standard from a watch-towers staff,</l>
+<l>His soul may stream over the tyrants head!</l>
+<l>Thy victory shall be his epitaph,</l>
+<l>Wild Bacchanal of truths mysterious wine,</l>
+<l>King-deluded Germany,</l>
+<l>His dead spirit lives in thee.</l>
+<l>Why do we fear or hope? thou art already free!</l>
+<l>And thou, lost Paradise of this divine</l>
+<l>And glorious world! thou flowery wilderness!</l>
+<l>Thou island of eternity! thou shrine</l>
+<l>Where desolation, clothed with loveliness,</l>
+<l>Worships the thing thou wert! O Italy,</l>
+<l>Gather thy blood into thy heart; repress</l>
+<l>The beasts who make their dens thy sacred palaces.</l>
+</lg>
+
+<lg n="XV." type="stanza">
+<l>Oh, that the free would stamp the impious name</l>
+<l>Of **** into the dust! or write it there,</l>
+<l>So that this blot upon the page of fame</l>
+<l>Were as a serpents path, which the light air</l>
+<l>Erases, and the flat sands close behind!</l>
+<l>Ye the oracle have heard:</l>
+<l>Lift the victory-flashing sword.</l>
+<l>And cut the snaky knots of this foul gordian word,</l>
+<l>Which, weak itself as stubble, yet can bind</l>
+<l>Into a mass, irrefragably firm,</l>
+<l>The axes and the rods which awe mankind;</l>
+<l>The sound has poison in it, tis the sperm</l>
+<l>Of what makes life foul, cankerous, and abhorred;</l>
+<l>Disdain not thou, at thine appointed term,</l>
+<l>To set thine armed heel on this reluctant worm.</l>
+</lg>
+
+<lg n="XVI." type="stanza">
+<l>O, that the wise from their bright minds would kindle</l>
+<l>Such lamps within the dome of this dim world,</l>
+<l>That the pale name of PRIEST might shrink and dwindle</l>
+<l>Into the hell from which it first was hurled,</l>
+<l>A scoff of impious pride from fiends impure;</l>
+<l>Till human thoughts might kneel alone,</l>
+<l>Each before the judgement-throne</l>
+<l>Of its own aweless soul, or of the Power unknown!</l>
+<l>O, that the words which make the thoughts obscure</l>
+<l>From which they spring, as clouds of glimmering dew</l>
+<l>From a white lake blot Heavens blue portraiture,</l>
+<l>Were stripped of their thin masks and various hue,</l>
+<l>And frowns and smiles and splendours not their own,</l>
+<l>Till in the nakedness of false and true</l>
+<l>They stand before their Lord, each to receive its due.</l>
+</lg>
+
+<lg n="XVII." type="stanza">
+<l>He who taught man to vanquish whatsoever</l>
+<l>Can be between the cradle and the grave</l>
+<l>Crowned him the King of Life. Oh, vain endeavour!</l>
+<l>If on his own high will a willing slave,</l>
+<l>He has enthroned the oppression and the oppressor.</l>
+<l>What if earth can clothe and feed</l>
+<l>Amplest millions at their need,</l>
+<l>And power in thought be as the tree within the seed?</l>
+<l>Or what if Art, an ardent intercessor,</l>
+<l>Driving on fiery wings to Natures throne,</l>
+<l>Checks the great mother stooping to caress her,</l>
+<l>And cries: Give me, thy child, dominion</l>
+<l>Over all height and depth? if Life can breed</l>
+<l>New wants, and wealth from those who toil and groan,</l>
+<l>Rend of thy gifts and hers a thousandfold for one!</l>
+</lg>
+
+<lg n="XVIII." type="stanza">
+<l>Come Thou, but lead out of the inmost cave</l>
+<l>Of mans deep spirit, as the morning-star</l>
+<l>Beckons the Sun from the Eoan wave,</l>
+<l>Wisdom. I hear the pennons of her car</l>
+<l>Self-moving, like cloud charioted by flame;</l>
+<l>Comes she not, and come ye not,</l>
+<l>Rulers of eternal thought,</l>
+<l>To judge with solemn truth, lifes ill-apportioned lot?</l>
+<l>Blind Love, and equal Justice, and the Fame</l>
+<l>Of what has been, the Hope of what will be?</l>
+<l>O Liberty! if such could be thy name</l>
+<l>Wert thou disjoined from these, or they from thee:</l>
+<l>If thine or theirs were treasures to be bought</l>
+<l>By blood or tears, have not the wise and free</l>
+<l>Wept tears, and blood like tears? The solemn harmony</l>
+</lg>
+
+<lg n="XIX." type="stanza">
+<l>Paused, and the Spirit of that mighty singing</l>
+<l>To its abyss was suddenly withdrawn;</l>
+<l>Then as a wild swan, when sublimely winging</l>
+<l>Its path athwart the thunder-smoke of dawn,</l>
+<l>Sinks headlong through the aerial golden light</l>
+<l>On the heavy sounding plain,</l>
+<l>When the bolt has pierced its brain;</l>
+<l>As summer clouds dissolve, unburthened of their rain;</l>
+<l>As a far taper fades with fading night,</l>
+<l>As a brief insect dies with dying day,</l>
+<l>My song, its pinions disarrayed of might,</l>
+<l>Drooped; oer it closed the echoes far away</l>
+<l>Of the great voice which did its flight sustain,</l>
+<l>As waves which lately paved his watery way</l>
+<l>Hiss round a drowners head in their tempestuous play.</l>
+</lg>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00015" type="Same author"/>
+                  <xptr n="lby.00016" type="Same author"/>
+                  <xptr n="lby.00017" type="Same author"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

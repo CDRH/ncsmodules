@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00083">
+   <teiHeader>
+
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Dinah's Blush, Maggie's Arm:  Class, Gender, and Sexuality in George Eliot's Early Novels"</title>
+		<title level="m" type="monograph">Sexualities in Victorian Britain</title>
+		<date type="original" value="1996">1996</date>
+
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Homans">
+Margaret Homans
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00083</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+These excerpts from Margaret Homans's "Dinah's Blush, Maggie's Arm:  Class, Gender, and Sexuality in George Eliot's Early Novels" is transcribed from pages 34-35 of <hi rend="italic">Sexualities in Victorian Britain</hi>, eds. Andrew Miller and James Eli Adams.  Published in 1996 by Indiana University Press.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+
+<bibl>
+               <title level="a">"Dinah's Blush, Maggie's Arm:  Class, Gender, and Sexuality in George Eliot's Early Novels"</title>
+               <title level="m"><hi rend="italic">Sexualities in Victorian Britain</hi></title>
+               <author>Margaret Homans</author>
+               <imprint>
+                  <publisher>
+Indiana University Press
+
+</publisher>
+                  <pubPlace>
+Bloomington and Indianapolis
+
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+               <idno type="ISBN">
+025333066
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+
+<keywords>
+<term id="garden" type="setting">garden</term>
+<term id="seduction" type="theme">seduction</term>
+<term id="commentary" type="media">commentary</term>
+<term id="class" type="theme">class</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+        
+
+                    <head>1. </head> <p>
+"Maggie's [Maggie Tulliver of George Eliot's <hi rend="italic">The Mill on the Floss</hi>] sexuality&#8212;what would seem to be most
+natural about her&#8212;is further commodified and channeled into the work of class
+demarcation in a sequence of passages about her arms, which serve as genteel
+metonymies for her breasts.  Euphemistically described as 'broad-chested' as an adolescent, Maggie irritates her Aunt Pullet by having shoulders too broad to fit into her old clothes. . . Just prior to this scene Maggie has begun to fulfill her desire to learn how to row.  Maggie becomes a strong rower, as befits a miller's daughter; her arms express not only sexual energy but also her connection to the older economy in which women of her class were not afraid of manual work.</p>
+
+         <p>
+            In her encounters with Stephen [Guest], by contrast, relying on his firm arm is one of her intoxicating pleasures.  The sensation of relative weakness defines her desire for Stephen as a signifier of leisure class status. . . .At the dance, Maggie wears the hand-me-down that
+had to be altered to expose her too-large arms, sometimes strong, now
+deferentially weak, and Stephen passionately kisses one of them in a passage that
+defines his desire too as that of the leisured consumer (of things, and also in
+his case of women, or rather of women as things). As they walk in the
+conservatory, itself a sign of conspicuous consumption, the narrative
+fetishizes Maggie's arm on Stephen's behalf: <q rend="block">
+Stephen . . . was incapable of putting a sentence together, and Maggie bent her arm a little upward towards the large, half-opened rose that had attracted her.  Who has not felt the beauty of a woman's arm?  The unspeakable suggestions of tenderness that lie in the dimpled elbow, and all the varied gently lessening curves down to the delicate wrist, with its tiniest, almost imperceptible nicks in the firm softness.  A woman's arm touched the soul of a great sculptor two thousand years ago so that he wrought an image of it for the Parthenon which moves us still as it clasps lovingly the timeworn marble of a headless trunk.  Maggie's arm was such an arm, and it had the warm tints of life.  A mad impulse seized on Stephen; he darted towards the arm and showered kisses on it, clasping the wrist. . . . </q> </p>
+
+         <p>
+           It is an important feature of the class meanings
+of this scene that Maggie protests against the kiss. To accept it
+uncomplainingly, much less to reciprocate it, would be the act of a lower-class
+woman, and Maggie's feeling of 'humiliation' ('what right have I given you to
+insult me?') makes it clear that she wishes to be understood as Stephen's
+equal. Her sense of equality depends on a desired but impossible erasure of
+class boundaries; in actuality they can be equals morally or erotically, but
+not socially. That Maggie nonetheless imagines their social equality
+contributes to the novel's consolidation of middle-class dominance by
+representing middle-class values, such as the propriety and respectability
+Maggie adheres to, as cross-class ideals. Her natural instincts are also
+middle-class ones. Stephen seeks to consume Maggie much as Arthur [in Eliot's earlier novel, <hi rend="italic">Adam Bede</hi>] purchases
+Hetty, but Maggie's resistance makes her the middle-class&#8212;that is, classless&#8212;figure Hetty can never be" (34-35).</p>
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00036" type="same novel"/></item>
+			<item><xptr n="ls.00035" type="same author"/></item>
+              	<item><xptr n="ls.00069" type="same author"/></item>
+			<item><xptr n="ls.00070" type="same author"/></item>
+			<item><xptr n="ls.00071" type="same author"/></item>
+<item><xptr n="ls.00072" type="same author"/></item>
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

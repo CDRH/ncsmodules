@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00030">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Social Liberty and Free Agency: Some Ambiguities in
+               Mill's Conception of Freedom"</title>
+            <title level="m" type="monograph">
+               <hi rend="italic">J.S. Mill On Liberty in Focus</hi>
+            </title>
+            <title level="c" type="chapter"/>
+            <date type="original" value="1991">1991</date>
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Smith">G.W. Smith</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00030</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century
+               Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in
+                  the Archive may be shared in accordance with the Fair Use provisions of U.S.
+                  copyright law. Redistribution or republication on other terms, in any medium,
+                  requires express written consent from the editors and advance notification of the
+                  publisher, the Center for Digital research in the Humanities. Permission to
+                  reproduce the graphic images in this archive has been granted by the owners of the
+                  originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project"> This excerpt from G.W. Smith's "Social Liberty and Free Agency:
+               Some Ambiguities in Mill's Conception of Freedom" is transcribed from pages 247-251
+               of <hi rend="italic">J.S. Mill On Liberty in Focus</hi>, edited by John Gray and G.W.
+               Smith. Published by Routledge, 2000. </note>
+         </notesStmt>
+         <sourceDesc>
+
+            <bibl>
+               <title level="a">Social Liberty and Free Agency</title>
+               <title level="m"><hi rend="italic">J.S. Mill</hi> On Liberty <hi rend="italic">in
+                     focus</hi></title>
+               <author>G.W. Smith</author>
+               <imprint>
+                  <publisher>Routledge </publisher>
+                  <pubPlace>London </pubPlace>
+               </imprint>
+               <date>1991 </date>
+
+               <idno type="ISBN"> </idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+            <keywords>
+               <term id="commentary" type="genre">commentary</term>
+               <term id="british" type="place">British</term>
+               <term id="individual" type="topic">individual</term>
+               <term id="liberalism" type="topic">liberalism</term>
+               <term id="mill" type="topic">Mill</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2005-09-01">01 September 2005</date>
+            <respStmt>
+               <name>Mike Page and Linda Pratt</name>
+            </respStmt>
+            <item>terms into document</item>
+         </change>
+         <change>
+            <date value="2005-07-21">21 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header redo and Related Files</item>
+         </change>
+
+         <change>
+            <date value="2005-06-01">01 June 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main">SOCIAL LIBERTY AND FREE AGENCY: Some ambiguities in Mill's conception of
+            freedom</head>
+         <head type="sub">CONDITIONAL FREEDOM AND THE PRINCIPLE OF LIBERTY</head>
+
+         <p>Before examining the adequacy of Mill's position as a solution to the traditional
+            problems of freedom and determinism, let us consider the implications of construing the
+            liberty invoked in the principle along these lines. The idea is positive in four main
+            respects:</p>
+         <list>
+            <item n="1">It involves what Berlin holds to be a crucial element in all positive
+               versions of freedom &#8212; that of self-mastery or self-determination.</item>
+            <item n="2">Rather than mere absence of impediments to action, it is a matter of the
+               possession of abilities and powers for self-development.</item>
+            <item n="3">Self-development is clearly for Mill a prized achievement&#8212;there is
+               nothing 'value-neutral' about the notion, as there is about freedom <hi rend="italic"
+                  >qua</hi> uncoerced satisfaction of wants, whatever they might be for.</item>
+            <item n="4">The impediments to self-mastery explicitly mentioned by Mill are
+               'internal' rather than 'external'&#8212;psychological defects of character such
+               as weakness of will or subjection to habit, not coercion by others. On the other
+               hand, it remains negative in two important respects:</item>
+         </list>
+         <list>
+            <item n="1">The actual achievement of self-mastery is not a condition of freedom. The
+               conformist, the lazy, even the vicious, may still on this definition be free. Mill
+               insists that we may 'yield to temptation' and remain free&#8212;just so long as
+               we could resisit, if we wished. Freedom thus remains basically liberal in that it is
+               a matter of enjoying opportunities rather than of actual positive achievements.</item>
+            <item n="2">Because the actual attainment of Mill's ideal of personality development is
+               not presented as a necessary condition of freedom, he manages to sustain a
+               distinction, often held particularly dear by orthodox liberals, between
+               liberty&#8212;the opportunity to do something arising from the possession of the
+               requisite powers&#8212;and what makes freedom useful or valuable: the actual
+               doing or achieving of that thing.</item>
+         </list>
+         <p>Clearly, the dichotomoy of <hi rend="italic">either</hi> negative <hi rend="italic"
+            >or</hi> positive freedom is simply misleading when applied to such a notion. Yet
+            conditional freedom is precisely the idea at work when Mill makes the points he does
+            about the value of a sphere of 'self-regarding' action, as it captures just those
+            persons whom he is usually understood particularly to want to protect, namely those who
+            may be presumed to be capable of forming their own personalities, and who may also be
+            taken to want to do to so, but who are likely to feel inhibited by the prospect of
+            social disapproval from expressing themselves in the way in which they feel they need to
+            do. These likely exponents of individuality are to be guaranteed 'liberty of action,'
+            that is to say, the Principle of Liberty ensures them a sphere of freedom within which
+            they may, if they wish, take the opportunity to exercise their powers of
+            self-development by practising 'experiments in living', where these do not harm others.
+            This conception of freedom also squares with liberty <hi rend="italic">qua</hi> 'letting
+            people alone to pursue their <hi rend="italic">own</hi> good in their <hi rend="italic"
+               >own</hi> way', (p. 33) as well as with the orthodox liberal view of the proper
+            function of the state, with which Mill is usually associated, that is, as protecting or
+            conserving a freedom which individuals are presumed already to possess.</p>
+         <p>However, though the conditional notion of free agency undoubtedly represents the core of
+            Mill's understanding of liberty, additional complexities ar revealed by considering the
+            implications of a common criticism of his Compatibilist solition to the problem of
+            freedom and determinism. It is often argued that, strictly speaking, Mill has no right
+            to a notion of freedom as self-development because his empiricist theory of personal
+            identity, which resolves the self into a Humean 'bundle of impressions', cannot account
+            for the possibility of an enduring self maintaining a persisting identity through a
+            series of developmental changes. Mill is in fact rather less dogmatic about
+            associationism, at least as far as its implications for self-identity are concerned,
+            than is sometimes represented. But it cannot be denied that this represents a void at
+            the centre of his philosophical system, in that his official epistemology commits him to
+            precisely that attenuated conception of personality which gives plausibility to the
+            standard liberal notion of freedom as non-frustration of wants. For, if the self is
+            nothing more than a bundle of perceptions and desires, nothing more than their
+            unhindered satisfaction can properly be demanded in the name of liberty. However, the
+            criticism which raises philosophically more promising issues for Mill is connected not
+            so much with his theory of personal identity as with his ideal of personal autonomy. It
+            is contended that the basic flaw in Mill's theory of freedom lies in his admission that
+            'the will to alter our own character is given us, not by any effort of ours, but by
+            circumstances we cannot help: it comes to us from external causes, or not at all'. An
+            admission that any clear-minded determinist can scarecely avoid, yet the fallacy seems
+            manifest: if we cannot <hi rend="italic">actually</hi> determine our character unless we
+               <hi rend="italic">actually desire</hi> to do so, and if the desire for self-mastery
+            cannot (as Mill admits) be self-induced, are we not all ultimately heteronomously
+            motivated, and hence by his own criterion unfree?</p>
+         <p>Mill makes no direct response to this challenge, and perhaps there is none to be made,
+            though there may be more to his position than some critics have been prepared to allow.
+            There is something of an irony here, however, in that the deficiencies of his answer to
+            Owen at the purely metaphysical level point him in a potentially very fruitful direction
+            in his social philosophy. It is simply that, if the desire for self-reform cannot be
+            self-induced, the external (i.e. social) circumstances which either stimulate or inhibit
+            its occurance take on crucial significance for the individual's actual engagement in the
+            process of self-development&#8212;even if this latter cannot, in strict metaphysical
+            terms, lay claim to being a fully or genuinely autonomous condition of character. Though
+            there is no explicit evidence that Mill clearly registers the implications of his
+            position, the way in which he treats Owenite social fatalism as a real threat to freedom
+            (and not simply as a misguided intellectual position) suggests that he implicitly slides
+            from taking the desire for self-development as merely a hypothetical requirement of
+            freedom to invoking it categorically, at least in the sense that anyone prevented from
+            conceiving the wish for self-reform is to be classed with those whose desire is
+            frustrated as being unfree <hi rend="italic">tout court</hi>. The context of this vital
+            elision is to be found in Mill's comments upon the deplorable effect, as he sees it, of
+            swallowing Owen's account of human impotence. One the one hand, it might 'depress' or
+            'paralyse' the will of someone who already wants to engage in character self-reform, as
+            do uncontrollable impulses and inveterate habits. But it can also prevent someone who
+            could reform himself if he wished from even desiring to do so, by encouraging him
+            falsely to think that he could not succeed even if he tried. On a strict construal of
+            Mill's original condition formulation the former is, of course, unfree whereas the
+            latter remains free. Mill, however, treats them as being essentially similar: in both
+            cases individuals who might othewise successfully amend their own characters are
+            prevented from so doing by the influence of a false ideology. Though the impediments to
+            self-reform operate by way of different psychological routes, they originate in the same
+            social phenomenon and eventuate in the same effect. Hence Mill's implicit elision of two
+            conditions which, according to his preliminary account of conditional freedom, are quite
+            distinct.</p>
+         <p>By implicitly broadening the concept in this way Mill is, of course, enabled to embrace
+            a far wider set of social circumstances as possible threats to liberty than could his
+            liberal predecessors. It cannot, however, be over-emphasized that Mill's mind remains
+            far from clear as to the precise logical contours and implications of the revolutionary
+            idea of freedom which he develops as a response to social fatalism &#8212; a fact
+            which, as we shall see, bears important consequences for an understanding of the central
+            doctrine of <hi rend="italic">On Liberty</hi>. Nevertheless, Mill in effect is operating
+            with a three-factor conception of freedom, one positive, two negative. 'Complete
+            freedom', as he calls it, presupposes:</p>
+         <list>
+            <item n="(a)">Possession of the capacity to alter one's character, if one wishes.</item>
+            <item n="(b)">Absence of impediments upon the exercise of this capacity when one does
+               not wish to exercise it.</item>
+            <item n="(3)">Absence of conditions inhibiting the occurance of the desire so to
+            do.</item>
+         </list>
+         <p>The logical kernal of the idea lies in (a), and it is developed by Mill in response to
+            Owen's social fatalism and offered as a form of modified Compatibilism as a solution to
+            the metaphysical problem of 'free will'. When considering the kinds of constraints
+            &#8212; (b) &#8212; upon the exercise of powers of self-development, Mill
+            alludes in the <hi rend="italic">Logic</hi> to internal psychological defects of
+            character; but external impediments are mentioned in connection with the threat of
+            Owenite fatalism, and everything Mill says in <hi rend="italic">On Liberty</hi> about
+            the dangers of coercive public opinion to freedom implies that he takes external
+            constraints as relevant too. But it is in regard to (c) that Mill's worries about the
+            peculiarly modern threat to freedom really take form. And it is this condition which
+            bears fundamentally upon the Principle of Liberty in the essay.</p>
+
+         <div type="file references">
+            <list>
+               <item> </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

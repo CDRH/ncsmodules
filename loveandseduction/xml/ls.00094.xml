@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00094">
+   <teiHeader>
+
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Seduction, Prostitution, and Moral
+Reform in New York, 1830-1860.</hi>
+</title>
+		<title level="c" type="chapter">Chapter 8, "Moral Reform:  From Suasion to Coercion"</title>
+<date type="original" value="1997">1997</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Whiteaker">
+Larry Whiteaker
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00094</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 141-43 of Larry Whiteaker's <hi rend="italic">Seduction, Prostitution, and Moral Reform in New York, 1830-1860.</hi>  Published by Garland, 1997.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">Chapter 8, "Moral reform:  From Suasion to Coercion"</title>
+               <title level="m"><hi rend="italic">Seduction, Prostitution, and Moral
+Reform in New York, 1830-1860.</hi>
+</title>
+               <author>Larry Whiteaker</author>
+               <imprint>
+                  <publisher>
+Garland Publishing, Inc.
+
+</publisher>
+                  <pubPlace>
+New York and London
+
+</pubPlace>
+               </imprint>
+               <date>
+1997
+
+</date>
+               <idno type="ISBN">
+0815328737
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+
+<keywords>
+<term id="seduction" type="theme">seduction</term>
+<term id="american" type="place">American</term>
+<term id="commentary" type="media">commentary</term>
+<term id="premaritalsex" type="theme">premarital sex</term>
+<term id="popularpress" type="theme">popular press</term>
+<term id="prostitution" type="theme">prostitution</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+                    <head>1. </head><p>"As 'guardians' of the virtuous, the Female Moral Reform Society members were determined to make life miserable for those men&#8212;and women&#8212;who deliberately chose (or remained in) a licentious course.  Attacking the double standard just as McDowall had done, the women demanded social ostracism of immoral males and females.  They admonished virtuous women to shun the company of known (or even suspected) seducers and to exclude them from the family circle.  Virtuous men were advised not only to keep seducers away from their families, but to avoid contact with them in all public places, even in their businesses.  Despite these admonitions, the moral purifiers knew that seduction still occurred.  Also, they perceived that the females involved still bore the largest share of the shame and punishment imposed by the community.  To make the licentious male suffer as much as the licentious female&#8212;to end the double standard&#8212;the Female Moral Reform Society in the late 1830s began to petition the state legilature for laws to punish seducers. . . . </p>
+
+
+<p>[By 1841,] opposition to the proposal continuted to thwart the law's passage.  The responses made to the requests to sign the petitions were essentially the arguments made against the bill.  Female moral reformers were told that women should have 'nothing to do with the subject [licentiousness].'  A concern about seduction was 'out of their sphere' and 'unlady-like.'   The most common reasons for opposing the anti-seduction law were that nothing could be done to end sexual immorality, that 'it was a necessary evil,' and that even if laws against seduction were enacted, they would be impossible to enforce.</p><p>
+The argument that anti-vice laws could not be
+enforced was based on the contention that people cannot be made moral by
+legislation. The same belief had motivated much of the opposition to other
+reforms designed to improve morals. Anti-temperance people argued that
+prohibition laws had many inconsistencies, divided communities, created more
+lawbreakers than they prevented, and turned people into spies against their
+neighbors. Like some prohibition advocates the moral purifiers replied that
+although legislation could not produce a morally-pure society by itself, when
+combined with other reform measures legislation could help to achieve such a
+morally-pure state. The moral purifiers argued that at least legislation could
+make the people who broke the laws <hi rend="italic">wish </hi>that they had been more moral.</p>
+
+         <p>During the 1840s, city newspapers gave
+increasing support to the anti-seduction law campaign. To some degree, the
+endorsements proffered by newspapers which once had attacked the moral
+reformers indicate that the reformers had had success in changing attitudes
+toward seduction. The newspapers' support put additional pressure on the
+legislature to pass the law. More pressure arose in 1845 when female reformers
+in Massachusetts persuaded the legislature to pass a law against abducting
+women for sexual purposes. In 1848, New York lawmakers made seduction a 'crime
+against society'. Those men convicted of seducing 'an unmarried female of
+previous chaste character' faced imprisonment for a maximum of five years and a
+fine of not more than a thousand dollars. The testimony of the seduced female,
+however, had to be supported by 'other evidence.'</p>
+
+         <p>One would expect that with the law secured the
+moral purifiers would have immediately filled the court dockets with seduction
+cases. This did not happen for several reasons. First, as some critics had
+predicted, the law was difficult to enforce. Seduced women were often
+reluctant to press charges against their seducers. Moral reformers and their
+critics did agree on one thing&#8212;that it was shameful and humiliating for a
+woman to admit her loss of chastity. Furthermore, the admission in court of
+loss of chastity by a woman would have exposed her to family and community
+censure. Such a possibility no doubt kept many women out of the courts. Also,
+there was a fallacious assumption in the attitude toward seduction: that
+seduction involved a villain and a victim. Unless rape was involved, all cases
+of seduction consisted of 'two parties consenting.' The 'seduced woman' in
+other words, was <hi rend="italic">not a victim. </hi>'It argues but a mean opinion of the
+sex,' one critic of anti-seduction law stated, 'to view them as but passive
+subjects of the wiles of men,&#8212;as beings void of understanding, having neither
+power nor will of their own.' By depicting the female as a 'victim,' the
+anti-seduction statute imposed another double standard. The male was punished
+for having illicit sex, while the female was not. Still further hampering the
+law's enforcement was the phrase of 'previous chaste character.' This gave the
+accused seducer's lawyers an opening to challenge the woman's character&#8212;in
+other words, to put <hi rend="italic">her </hi>on trial. For every character witness that she
+produced, the accused would be able to counter with witnesses who called her
+reputation into question" (141-43). </p>
+
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                                 </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

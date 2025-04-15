@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00067">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Hidden Hand</hi>                     
+</title>
+		<title level="c" type="chapter">from Chapter XLIX, "The Awful Peril of Capitola"</title>
+		<date type="original" value="1859">1859</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Southworth">E.D.E.N. Southworth
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00067</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Build-A-Book Initiative e-text of E.D.E.N. Southworth's <hi rend="italic">The Hidden Hand</hi>, Chapter XLIX, "The Awful Peril of Capitola."  Originally published in 1859.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Awful Peril of Capitola</title>
+               <title level="m"><hi rend="italic">The Hidden Hand</hi></title>
+               <author>E.D.E.N. Southworth</author>
+               <imprint>
+                  <publisher>
+Build-a-Book Initiative
+
+</publisher>
+                  <pubPlace>
+www.digital.library.upenn.edu/women/southworth/hand/hand.html
+
+</pubPlace>
+               </imprint>
+               <date>
+?
+
+</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="boudoir" type="setting">boudoir</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="american" type="place">American</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+        
+         <head type="editorial">Scene Two: Another villain attempts rape on the heroine in her boudoir</head>
+
+         <p>CAPITOLA's blood
+seemed turned to ice, and her form to stone by the sight! Her first impulse was
+to scream and let fall the waiter! She controlled herself and repressed the
+scream though she was very near dropping the waiter. </p>
+         <p>Black Donald looked
+at her and laughed aloud at her consternation, saying with a chuckle: </p>
+         <p>"You did not
+expect to see me here to-night, did you now, my dear?" </p>
+         <p>She gazed at him in
+a silent panic for a moment. </p>
+         <p>Then her faculties,
+that had been suddenly dispersed by the shock, as suddenly rallied to her
+rescue. </p>
+         <p>In one moment she
+understood her real position. </p>
+         <p>Black Donald had
+locked her in with himself and held the key&#8212;so she could not hope to get out. </p>
+         <p>The loudest scream
+that she might utter would never reach the distant chamber of Major Warfield,
+or the still more remote apartment of Mrs. Condiment; so she could not hope to
+bring any one to her assistance. </p>
+         <p>She was, therefore,
+entirely in the power of Black Donald. She fully comprehended this, and said to
+herself: </p>
+         <p>"Now, my dear
+Cap, if you don't look sharp your hour is come! Nothing on earth will save
+you, Cap, but your own wits! For if ever I saw mischief in any one's face, it
+is in that fellow's that is eating you up with his great eyes at the same time
+that he is laughing at you with his big mouth! Now, Cap, my little man, be a
+woman! Don't you stick at trifles! Think of Jael and Sisera! Think of Judith
+and Holofernes! And the devil and Doctor Faust, if necessary, and don't you
+blanch! All stratagems are fair in love and war&#8212;especially in war, and most
+especially in such a war as this is likely to be&#8212;a contest in close quarters for
+dear life!" </p>
+         <p>All this passed
+through her mind in one moment, and in the next her plan was formed. </p>
+         <p>Setting her waiter
+down upon the table and throwing herself into one of the armchairs; she said: </p>
+         <p>"Well, upon my word! I think a gentleman might let a lady know when he means to pay her a
+domiciliary visit at midnight!" </p>
+         <p>"Upon <hi rend="italic">my</hi> word,
+I think you are very cool!" replied Black Donald, throwing himself into
+the second armchair on the other side of the stand of refreshments. </p>
+         <p>"People are
+likely to be cool on a December night, with the thermometer at zero, and the
+ground three feet under the snow," said Cap, nothing daunted. </p>
+         <p>"Capitola, I
+admire you! You are a <hi rend="italic">cucumber</hi>! That's what you are, a <hi rend="italic">cucumber</hi>!" </p>
+         <p>"A pickled one?" asked Cap. </p>
+         <p>"Yes, and as
+pickled cucumbers are good to give one an appetite, I think I shall fall to and
+eat." </p>
+         <p>"Do so,"
+said Cap, "for heaven forbid that I should fail in hospitality!" </p>
+         <p>"Why, really,
+this looks as though you had expected a visitor&#8212;doesn't it?" asked Black
+Donald, helping himself to a huge slice of ham, and stretching his feet out
+toward the fire. </p>
+         <p>"Well, yes,
+rather; though, to say the truth, it was not your reverence I expected,"
+said Cap. </p>
+         <p>"Ah! somebody
+<hi rend="italic">else's</hi> reverence, eh? Well, let them come! I'll be ready for them!" said
+the outlaw, pouring out and quaffing a large glass of brandy. He drank it, set
+down the glass, and turning to our little heroine, inquired: </p>
+         <p>"Capitola did
+you ever have Craven Le Noir here to supper with you?" </p>
+         <p>"You insult me! I scorn to reply!" said Cap. </p>
+         <p>"Whe-ew! What
+long whiskers our Grimalkin's got! You scorn to reply! Then you really are
+not afraid of me?" asked the robber, rolling a great piece of cheese in
+his mouth. </p>
+         <p>"Afraid of you?
+No, I guess not!" replied Cap, with a toss of her head. </p>
+         <p>"Yet, I <hi rend="italic">might</hi>
+do you some harm." </p>
+         <p>"But, you won't!" </p>
+         <p>"Why won't I?" </p>
+         <p>"Because it
+won't pay!" </p>
+         <p>"Why wouldn't
+it?" </p>
+         <p>"Because you
+couldn't do me any harm, unless you were to kill me, and you would gain nothing
+by my death, except a few trinkets that you may have without." </p>
+         <p>"Then, you are
+really not afraid of me?" he asked, taking another deep draught of brandy.
+</p>
+         <p>"Not a bit of
+it&#8212;I rather like you!" </p>
+         <p>"Come, now,
+you're running a rig upon a fellow," said the outlaw, winking and
+depositing a huge chunk of bread in his capacious jaws. </p>
+         <p>"No, indeed ! I
+liked you, long before I ever saw you ! I always <hi rend="italic">did</hi> like people that make
+other people's hair stand on end ! Don't you remember when you first came here
+disguised as a peddler, though I did not know who you were, when we were
+talking of Black Donald, and everybody was abusing him, except myself? I took
+his part and said that for my part I <hi rend="italic">liked</hi> Black Donald and wanted to see
+him." </p>
+         <p>"Sure enough,
+my jewel, so you did ! And didn't I bravely risk my life by throwing off my
+disguise to gratify your laudable wish ?" </p>
+         <p>"So you did, my
+hero!" </p>
+         <p>"Ah, but <hi rend="italic">well</hi>
+as you liked me, the moment you thought me in your power didn't you leap upon
+my shoulders like a catamount and cling there, shouting to all the world to
+come and help you, for you had caught Black Donald and would die before you
+would give him up ? Ah ! you little vampire, how you thirsted for my blood !
+And <hi rend="italic">you</hi> pretended to like me !" said Black Donald, eying her from head to
+foot, with a sly leer. </p>
+         <p>Cap returned the
+look with interest. Dropping her head on one side, she glanced upward from the
+corner of her eye, with an expression of "infinite" mischief and
+roguery, saying </p>
+         <p>"Lor, didn't
+you know why I <hi rend="italic">did</hi> that?" </p>
+         <p>"Because you
+wanted me captured, I suppose." </p>
+         <p>"No, indeed,
+but, because&#8212;" </p>
+         <p>"Well, what
+?" </p>
+         <p>"Because I
+wanted you to carry me off !" </p>
+         <p>"Well, I
+declare ! I never thought of that !" said the outlaw, dropping his bread
+and cheese, and staring at the young girl. </p>
+         <p>"Well, you
+<hi rend="italic">might</hi> have thought of it then ! I was tired of hum-drum life, and I wanted to
+see adventures !" said Cap </p>
+         <p>Black Donald looked
+at the mad girl from head to foot and then said, coolly: </p>
+         <p>"Miss Black. I
+am afraid you are not good." </p>
+         <p>"Yes I
+am&#8212;before folks !" said Cap. </p>
+         <p>"And so you
+really wished me to carry you off?" </p>
+         <p>"I should think
+so ! Didn't I stick to you until you dropped me ?" </p>
+         <p>"Certainly! And
+now if you really like me as well as you say you do, come give me a kiss."
+</p>
+         <p>"I won't
+!" said Cap, "until you have done your supper and washed your face!
+Your beard is full of crumbs !" </p>
+         <p>"Very well, I
+can wait awhile ! Meantime just brew me a bowl of egg-nog, by way of a
+night-cap, will you?" said the outlaw, drawing off his boots and
+stretching his feet to the fire. </p>
+         <p>"Agreed, but it
+takes two to make egg-nog; you'll have to whisk up the whites of the eggs into
+a froth, while I beat the yellows, and mix the other ingredients," said
+Cap. </p>
+         <p>"Just so,"
+assented the outlaw, standing up and taking off his coat and flinging it upon
+the floor. </p>
+         <p>Cap shuddered, but went
+on calmly with her preparations. There were two little white bowls setting one
+within the other upon the table. Cap took then apart and set them side by side
+and began to break the eggs, letting the whites slip into one bowl and dropping
+the yellows into the other. </p>
+         <p>Black Donald sat
+down in his shirt sleeves, took one of the bowls from Capitola and began to
+whisk up the whites with all his might and main. </p>
+         <p>Capitola beat up the
+yellows, gradually mixing the sugar with it. In the course of her work she complained
+that the heat of the fire scorched her face, and she drew her chair farther
+towards the corner of the chimney, and pulled the stand after her. </p>
+         <p>"Oh, you are
+trying to get away from me," said Black Donald, hitching his own chair in
+the same direction, close to the stand, so that he sat immediately in front of
+the fire </p>
+         <p>Cap smiled and went
+on beating her eggs and sugar together. Then she stirred in the brandy and
+poured in the milk and took the bowl from Black Donald and laid on the foam.
+Finally, she filled a goblet with the rich compound and handed it to her
+uncanny guest. </p>
+         <p>Black Donald untied
+his neck cloth, threw it upon the floor and sipped his egg-nog, all the while
+looking over the top of the glass at Capitola. </p>
+         <p>"Miss
+Black," he said, "it must be past twelve o'clock." </p>
+         <p>"I suppose it
+is," said Cap. </p>
+         <p>"Then it must
+be long past your usual hour of retiring." </p>
+         <p>"Of course it
+is," said Cap. </p>
+         <p>"Then what are
+you waiting for?" </p>
+         <p>"For my company
+to go home," replied Cap. </p>
+         <p>"Meaning me
+?" </p>
+         <p>"Meaning
+you." </p>
+         <p>"Oh, don't mind
+me, my dear." </p>
+         <p>"Very
+well," said Cap, "I shall not trouble myself about you," and her
+tones were steady, though her heart seemed turned into a ball of ice, through
+terror. </p>
+         <p>Black Donald went on
+slowly sipping his egg-nog, filling up his goblet when it was empty, and
+looking at Capitola over the top of his glass. At last he said: </p>
+         <p>"I have been
+watching you, Miss Black." </p>
+         <p>"Little need to
+tell me that," said Cap. </p>
+         <p>"And I have
+been reading you." </p>
+         <p>"Well, I hope
+the page was entertaining." </p>
+         <p>"Well, yes, my
+dear, it was, rather so. But why don't you <hi rend="italic">proceed</hi>?" </p>
+         <p>"Proceed&#8212;with
+what ?" </p>
+         <p>"With what you
+are thinking of, my darling." </p>
+         <p>"I don't
+understand you !" </p>
+         <p>"Why don't you
+offer to go down-stairs and bring up some lemons?" </p>
+         <p>"Oh, I'll go in
+a moment," said Cap, "if you wish." </p>
+         <p>"Ha&#8212;ha&#8212;ha&#8212;ha&#8212;ha!
+Of course you will, my darling! And you'd deliver me into the hands of the
+Philistines, just as you did my poor men when you fooled them about the
+victuals ! I know your tricks and all your acting has no other effect on me
+than to make me admire your wonderful coolness and courage; so, my dear, stop
+puzzling your little head with schemes to baffle me ! You are like the caged
+starling ! You can't&#8212;get&#8212;out !" chuckled Black Donald, hitching his chair
+nearer to hers. He was now right upon the center of the rug </p>
+         <p>Capitola turned very
+pale, but not with fear, though Black Donald thought she did, and roared with
+laughter. </p>
+         <p>"Have you done
+your supper? "she asked, with a sort of awful calmness. </p>
+         <p>"Yes my
+duck," replied the outlaw, pouring the last of the egg-nog into his
+goblet, drinking it at a draught and chuckling as he set down the glass. </p>
+         <p>Capitola then lifted
+the stand with the refreshments to remove it to its usual place. </p>
+         <p>"What are you
+going to do, my dear?" asked Black Donald. </p>
+         <p>"Clear away the
+things and set the room in order," said Capitola, in the same awfully calm
+tone. </p>
+         <p>"A nice little
+housewife you'll make, my duck !" said Black Donald. </p>
+         <p>Capitola set the
+stand in its comer end then removed her own armchair to its place before the
+dressing bureau. </p>
+         <p>Nothing now remained
+upon the rug except Black Donald seated in the armchair! </p>
+         <p>Capitola paused; her
+blood seemed freezing in her veins; her heart beat thickly; her throat was
+choked; her head full nearly to bursting, and her eyes were veiled by a
+blinding film. </p>
+         <p>"Come&#8212;come&#8212;my
+duck&#8212;make haste; it is late; haven't you done setting the room in order
+yet?" said Black Donald, impatiently. </p>
+         <p>"In one
+moment," said Capitola, coming behind his chair and leaning upon the back
+of it. </p>
+         <p>"Donald,"
+she said, with dreadful calmness, "I will not now call you <hi rend="italic">Black</hi> Donald! I
+will call you as your poor mother did, when your young soul was as white as
+your skin, before she ever dreamed her boy would grow black with crime! I will
+call you simply Donald, and entreat you to hear me for a few minutes." </p>
+         <p>"Talk on, then,
+but talk fast, and leave my mother alone ! Let the dead rest !" exclaimed
+the outlaw, with a violent convulsion of his bearded chin and lip that did not
+escape the notice of Capitola, who hoped some good of this betrayal of feeling.
+</p>
+         <p>"Donald,"
+she said, "men call you a man of blood; they say that your hand is red and
+your soul black with crime !" </p>
+         <p>"They may say
+what they like&#8212;I care not!" laughed the outlaw. </p>
+         <p>"But I do not
+believe all this of you ! I believe that there is good m all, and much good in
+you; that there is hope for all, and strong hope for you !" </p>
+         <p>"Bosh ! Stop
+talking poetry ! 'Tain't in my line, nor yours, either !" laughed Black
+Donald. </p>
+         <p>"But truth is
+in all our lines. Donald, I repeat it, men call you a man of blood ! They say
+that your hands are red and your soul black with sin ! <hi rend="italic">Black</hi> Donald, they call
+you ! But, Donald, you have never yet stained your soul with a crime as black
+as that which you think of perpetrating to-night !" </p>
+         <p>"It must be one
+o'clock, and I'm tired," replied the outlaw, with a yawn. </p>
+         <p>"All your
+former acts," continued Capitola, in the same voice of awful calmness,
+"have been those of a bold, bad man ! This act would be that of a <hi rend="italic">base one!</hi>" </p>
+         <p>"Take care,
+girl&#8212;no bad names ! You are in my power&#8212;at my mercy !" </p>
+         <p>"I know my
+position, but I must continue. Hitherto you have robbed mail coaches and broken
+into rich men's houses. In doing thus you have always boldly risked your life,
+often at such fearful odds that men have trembled at their firesides to hear of
+it. And even women, while deploring your crimes, have admired your
+courage." </p>
+         <p>"I thank 'em
+kindly for it ! Women always like men with a spice of the devil in them !"
+laughed the outlaw. </p>
+         <p>"No, they do
+not!" said Capitola, gravely. "They like men of strength, courage and
+spirit&#8212;but those qualities do not come from the Evil One, but from the Lord,
+who is the giver of all good. Your Creator, Donald, gave you the strength,
+courage and spirit that all men and women so much admire; but He did not give
+you these great powers that you might use them in the service of his enemy, the
+devil !" </p>
+         <p>"I declare
+there is really something <hi rend="italic">in that</hi>! I never thought of that before." </p>
+         <p>"Nor ever
+thought, perhaps, that however misguided you may have been, there is really
+something great and good <hi rend="italic">in yourself</hi> that might yet be used for the good of man
+and the glory of God !" said Capitola, solemnly. </p>
+         <p>"Ha, ha, ha !
+Oh, you flatterer ! Come, have you done ? I tell you it is after one o'clock,
+and I am tired to death !" </p>
+         <p>"Donald, in all
+your former acts of lawlessness your antagonists were strong men; and as you
+boldly risked your life in your depredations, your acts, though bad, were not
+base ! But now your antagonist is a feeble girl, who has been unfortunate from
+her very birth; to destroy her would be an act of baseness to which you never
+yet descended." </p>
+         <p>"Bosh ! Who
+talks of destruction? I am tired of all this nonsense! I mean to carry you off
+and there's an end of it!" said the outlaw, doggedly, rising from his
+seat. </p>
+         <p>"Stop !"
+said Capitola, turning ashen pale. "Stop&#8212;sit down and hear me for just
+five minutes&#8212;I will not tax your patience longer." </p>
+         <p>The robber, with a
+loud laugh, sank again into his chair, saying: </p>
+         <p>"Very well,
+talk on for just five minutes, and not a single second longer; but if you think
+in that time to persuade me to leave this room to-night without you, you are
+widely out of your reckoning, my duck, that's all." </p>
+         <p>"Donald, do not
+sink your soul to perdition by a crime that heaven cannot pardon! Listen to me
+! I have jewels here worth several thousand dollars ! If you will consent to go
+I will give them all to you and let you quietly out of the front door and never
+say one word to mortal of what has passed here to-night." </p>
+         <p>"Ha, ha, ha !
+Why, my dear, how green you must think me ! What hinders me from possessing
+myself of your jewels, as well as of yourself !" said Black Donald,
+impatiently rising. </p>
+         <p>"Sit still !
+The five minutes' grace are not half out yet," said Capitola, in a breathless
+voice. </p>
+         <p>"So they are
+not ! I will keep my promise," replied Black Donald, laughing, and again
+dropping into his seat. </p>
+         <p>"Donald, Uncle
+pays me a quarterly sum for pocket money, which is at least five times as much
+as I can spend in this quiet country place. It has been accumulating for years
+until now ! I have several thousand dollars all of my own. You shall have it if
+you will only go quietly away and leave me in peace!" prayed Capitola. </p>
+         <p>"My dear, I
+intend to take <hi rend="italic">that</hi> anyhow&#8212;take it as your bridal dower, you know ! For I'm
+going to carry you off and make an honest wife of you !" </p>
+         <p>"Donald, give
+up this heinous purpose !" cried Capitola, in an agony of supplication, as
+she leaned over the back of the outlaw's chair. </p>
+         <p>"Yes, you know
+I will&#8212;ha&#8212;ha&#8212;ha !" laughed the robber. </p>
+         <p>"Man, for <hi rend="italic">your
+own</hi> sake give it up !" </p>
+         <p>"Ha, ha, ha !
+for my sake !" </p>
+         <p>"Yes, for <hi rend="italic">yours!</hi> Black Donald, have you ever reflected on death ?" asked Capitola, in a
+low and terrible voice. </p>
+         <p>"I have <hi rend="italic">risked</hi>
+it often enough; but as to reflecting upon it&#8212;it will be time enough to do <hi rend="italic">that</hi>
+when it comes ! I am a powerful man, in the prime and pride of life," said
+the athlete, stretching himself exultingly. </p>
+         <p>"Yet it might
+come&#8212;death might come with sudden overwhelming power, and hurl you to destruction
+! What a terrible thing for this magnificent frame of yours, this glorious
+handiwork of the Creator, to be hurled to swift destruction, and for the soul
+that animates it to be cast into hell !" </p>
+         <p>"Bosh again !
+That is a subject for the pulpit, not for a pretty girl's room. If you really
+think me such a handsome man, why don't you go with me at once and say no more
+about it," roared the outlaw laughing. </p>
+         <p>"Black
+Donald&#8212;will you leave my room?" cried Capitola, in an agony of prayer. </p>
+         <p>"No !"
+answered the outlaw, mocking her tone. </p>
+         <p>"Is there no
+inducement that I can hold out to you to leave me ?" </p>
+         <p>"None !" </p>
+         <p>Capitola raised
+herself from her leaning posture, took a step backward, so that she stood
+entirely free from the trapdoor, then slipping her foot under the rug, she
+placed it lightly on the spring-bolt, which she was careful not to press; the
+ample fall of her dress concealed the position of her foot. </p>
+         <p>Capitola was now
+paler than a corpse, for hers was the pallor of a living horror! Her heart beat
+violently, her head throbbed, her voice was broken as she said; </p>
+         <p>"Man, I will
+give you one more chance ! Oh, man, pity yourself as I pity you, and consent to
+leave me!" </p>
+         <p>"Ha, ha, ha !
+It is quite likely that I will ! Isn't it, now? No, my duck, I haven't watched
+and planned for this chance for this long time past to give it up, now that you
+are in my power ! A likely story indeed! And now the five minutes' grace are
+quite up !" </p>
+         <p>"Stop ! Don't
+move yet ! Before you stir, say: 'Lord, have mercy on me!'" said Capitola,
+solemnly. </p>
+         <p>"Ha, ha, ha !
+<hi rend="italic">That's</hi> a pretty idea ! Why should I say that?" </p>
+         <p>"Say it to
+please me ! Only say it, Black Donald !" </p>
+         <p>"But <hi rend="italic">why</hi> to
+please you ?" </p>
+         <p>"Because I wish
+not to kill both your body and soul&#8212;because I would not send you prayerless
+into the presence of your Creator ! For, Black Donald, within a few seconds
+your body will be hurled to swift destruction, and your soul will stand before
+the bar of God !" said Capitola, with her foot upon the spring of the
+concealed trap. </p>
+         <p>She had scarcely
+ceased speaking before he bounded to his feet, whirled around and confronted
+her, like a lion at bay, roaring forth: </p>
+         <p>"You have a
+revolver there, girl&#8212;move a finger and I shall throw myself upon you like an
+avalanche?" </p>
+         <p>"I have no
+revolver&#8212;watch my hands as I take them forth, and see !" said Capitola,
+stretching her arms out toward him. </p>
+         <p>"What do you
+mean, then, by your talk of sudden destruction?" inquired Black Donald, in
+a voice of thunder. </p>
+         <p>"I mean that it
+hangs over you&#8212;that it is imminent! That it is not to be escaped ! Oh, man,
+call on God, for you have not a minute to live !" </p>
+         <p>The outlaw gazed on
+her in astonishment. </p>
+         <p>Well he might, for
+there she stood paler than marble&#8212;sterner than fate&#8212;with no look of human
+feeling about her, but the gleaming light of her terrible eyes, and the beading
+sweat upon her death-like brow. </p>
+         <p>For an instant the
+outlaw gazed on her in consternation, and then, recovering himself he burst
+into a loud laugh, exclaiming: </p>
+         <p>"Ha, ha, ha!
+Well, I suppose this is what people would call a piece of splendid acting! Do
+you expect to frighten <hi rend="italic">me</hi>, my dear, as you did Craven Le Noir, with the
+peas!" </p>
+         <p>"Say 'Lord have
+mercy on my soul'&#8212;say it, Black Donald&#8212;say it. I beseech you!" she prayed.
+</p>
+         <p>"Ha, ha, ha, my
+dear ! <hi rend="italic">You</hi> may say it for me! And to reward you, I will give you, <hi rend="italic">such a kiss!</hi>
+It will put life into those marble cheeks of yours!" he laughed. </p>
+         <p>"I <hi rend="italic">will</hi> say it
+for you ! May the Lord pity and save Black Donald's soul, if that be yet
+possible, for the Saviour's sake !" prayed Capitola, in a broken voice,
+with her foot upon the concealed and fatal spring. </p>
+         <p>He laughed aloud,
+stretched forth his arms and rushed to clasp her. </p>
+         <p>She pressed the
+spring. </p>
+         <p>The drop fell with a
+tremendous crash! </p>
+         <p>The outlaw shot
+downwards&#8212;there was an instant's vision of a white and panic-stricken face, and
+wild, uplifted hands as he disappeared, and then a square, black opening, was
+all that remained where the terrible intruder had sat. </p>
+         <p>No sight or sound
+came up from that horrible pit, to hint of the secrets of the prison house. </p>
+         <p>One shuddering
+glance at the awful void and then Capitola turned and threw herself, face
+downward, upon the bed, not daring to rejoice in the safety that had been
+purchased by such a dreadful deed, feeling that it was an awful, though a
+complete victory ! </p>
+
+
+<div1 type="file references">
+            <list>
+              <item><xptr n="ls.00024" type="same subject"/></item>
+			<item><xptr n="ls.00015" type="commentary on fiction"/></item>
+              	<item><xptr n="ls.00004" type="same subject"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

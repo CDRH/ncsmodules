@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00086">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Bedside Seductions:  Nursing and the Victorian Imagination, 1830-1860</hi></title>
+		<title level="c" type="chapter">from Chapter 2, "'Thy Magic Touch': Nursing, Sexuality, and the 'Dangerous Classes' (1829-1880)"</title>
+<date type="original" value="1998">1998</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Judd">
+Catherine Judd
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00086</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 36 and 37 of Catherine Judd's <hi rend="italic">Bedside Seductions:  Nursing and the Victorian Imagination, 1830-1860.</hi>  Published by St. Martins, 1998.
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"></title>
+               <title level="m"><hi rend="italic">Bedside Seductions:  Nursing and the Victorian Imagination, 1830-1860</hi></title>
+               <author>Catherine Judd</author>
+               <imprint>
+                  <publisher>
+St. Martins
+</publisher>
+                  <pubPlace>
+New York
+</pubPlace>
+               </imprint>
+               <date>
+1998
+</date>
+               <idno type="ISBN">
+0312177054
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+			<term id="premaritalsex" type="theme">premarital sex</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="publicspace" type="setting">public space</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                     <head>1. </head><p>"....the nineteenth-century nursing reform movement focused a great deal of attention on the supposed promiscuity of youthful pauper nurses
+who were seen as either seducing or being seduced by patients, doctors, and
+medical students. There was an anxiety about the ongoing sexual corruption of
+the old-style nurse that seemed to assume a young, sexually active, and
+seductive, or sexually vulnerable worker. For example, in a rare defense of
+old-style nurses, an anonymous London physician writes to the London <hi rend="italic">Times</hi>
+in 1857 that English hospital nurses are 'insulted, if old and ill-favoured;
+talked flippantly to, if middle-aged and good humoured; tempted and seduced, if
+young and well-looking'....The Victorian nursing reform movement consistently expressed the desire to replace old-style nurses with either morally groomed pauper girls or 'naturally' asexual, indigent gentlewomen.  For example, in a typical description of the morally purifying new-style nurse, E.J.R. Landale writes in 1896 that they should 'be chosen not only for their excellence in ward work, but for that higher moral force and excellence which will fit them to rule and influence their subordinates wisely, and for their highest good.'  In her <hi rend="italic">Subsidiary Notes</hi>, [Florence] Nightengale asserts that:  'none but women of unblemished character should be suffered to enter the work, and any departure from chastity should be visited with instant final dismission.'  This focus on the nurses' sexuality sets the nineteenth-century nursing reform movement apart from traditional British anxieties concerning working-class nurses" (36-37).</p>
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ID OF A DIFFERENT BUT RELATED FILE" type="TERM DESCRIBING NATURE OF THE RELATIONSHIP"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00096">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Natural History of Courtship</hi></title>
+		<title level="c" type="chapter">"Concerning Coquettes"</title>
+		<title level="j" type="journal"><hi rend="italic">Punch</hi></title>
+		<date type="original" value="1842">1842</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Wills">W.H. Wills
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00096</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 125-126 of the original 1842 publication of <hi rend="italic">Punch</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Concerning Coquettes</title>
+               <title level="m">The Natural History of Courtship</title>
+               <author>anonymous</author>
+               <imprint>
+                  <publisher>
+Punch
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+1842
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="carriage" type="setting">carriage</term>
+               <term id="piano" type="setting">piano</term>
+			<term id="dance" type="setting">dance</term>
+			<term id="courtship" type="theme">courtship</term>
+			<term id="class" type="theme">class</term>
+			<term id="arrangedmarriage" type="theme">arranged marriage</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-25">25 February 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <p>A coquette is a graduate in the science
+of flirtation, who has taken every degree from her alma-mater &#8212; who is so good
+a mistress of arts that she no longer needs a tutor, and is competent to manage
+her own affairs without the aid of a chaperon. Being, according to Ben
+D'Israeli, a "Psychological curiosity," she undergoes two changes before
+arriving at maturity: &#8212; From the insect of the school-period she becomes the
+chrysalis of the ball-room, whence she emerges from beneath the wing of her
+chaperon to flutter forth the full-grown butterfly, or coquette.</p>
+
+         <p>A finished coquette is pretty, intellectual, and
+very fond of waltzing. She can, at a moment's notice, be intensely agreeable,
+or quietly repellant; she can smile with one side of her face upon a new
+conquest, and frown with the other upon his waning rival. She has a scale of
+attractions by which she measures her deportment towards different
+individuals. To a younger son, with small prospects, she is reserved and
+formal; to a captain of infantry, polite; to a ditto in the Guards,
+condescending. She is affable to the heir-presumptive of a rich title;
+affectionate and confiding to the heir apparent; but to the title itself,
+perfectly bewitching! She will walk a quadrille with a county member, but will
+not, if possible, waltz with anything under a peer. She can be a <hi rend="italic">spirituelle
+</hi>to a wit, grave to a parson, and poetical to a minor. She knows
+instinctively the exact moment when to commence a flirtation; and &#8212; having no
+passion, no feelings &#8212; can adroitly break off an ineligible one, even if the
+wedding liveries have been ordered.</p>
+
+         <p>To play off her arts with the proper degree of
+confidence &#8212; of carelessness about the result &#8212; of that seeming indifference to
+success which is the main element of success, the first duty of the coquette is
+to provide herself with a stock-lover &#8212; one who is so devotedly hers, that
+there is no fear of losing <hi rend="italic">him </hi>even if all else should fail. It was
+not, therefore, till the Hounourable Mrs. Couple saw her <hi rend="italic">prot&#233;g&#233;e </hi>excellently
+provided in this respect, in the person of Sir Charles Simper, that she
+withdrew her valuable advice and services from Miss Rose Robinson. With the
+pride of a professor, who sees his pupil rise to celebrity and honour in his
+peculiar branch of learning, did the delighted chaperon point to her scholar as
+a perfect coquette.</p>
+
+         <p>"A large party of fashionables," observed the <hi rend="italic">Morning
+Post </hi>of a recent date, "are assembled at the seat of the Lord Fallover, Fallover Park, Staffordshire. The young earl seems determined to emulate the hospitable
+liberality of his ancestors, for the following long list of distinguished
+fashionables are at present his guests." The names of Miss Robinson, Sir
+Charles Simper, and P. Pleinpurse, Esq., concluded the catalogue.</p>
+
+         <p>It was here that Rose evinced herself a perfect
+mistress of her art. She had already nearly "entangled" one of the richest
+commoners in England &#8212; a dandy and dilettante; but her success in that quarter
+being doubtful, on account of the difficulty of managing a person so
+inordinately vain as Mr. Pleinpurse, she, with a laudable ambition, now aspired
+to her host. Lord Fallover was a fox-hunter and fancy farmer, who cursed the
+opera, and comprehensively criticized the whole of the fine arts as a bord; and
+her address, in sympathizing with the opposite tastes of these antipodes, won
+the admiration of some of her fellow-guests, and the envy of others. She spent
+her mornings in admiring Fallover's beagles, his patent ploughs, his enormous
+turnips, his obese oxen. She learnt all the good points of a horse, and
+praised his favourite hunters, as if she had graduated amongst "Scott's lot,"
+and finished her training at Tattersall's. She took the box-seat beside him
+when he drove his four-in-hand, and attended every "meet" in a red riding-habit.</p>
+
+         <p>Thus, all the morning she was Fallover's Diana;
+but in the evening she became Pleinpurse's Euterpe. Then it was she melted her
+mellow tones into love songs, or raised her voice in the <hi rend="italic">very </hi>heroic
+duetts of Donizetti. Then she was eloquent upon the <hi rend="italic">sotto voce </hi>of
+Frezzolini, the <hi rend="italic">aplomb </hi>of Lablache, the <hi rend="italic">tremulando </hi>of Rubini. In
+the evening there was nothing she adored so much as music; in the morning
+brindle oxen were her passion; but just before dinner &#8212; when there was nobody
+else to flirt with &#8212; it was the society of Sir Charles Simper which she
+declared was so delightful.</p>
+
+         <p>The party was rapidly breaking up &#8212; her mama was
+on the eve of returning &#8212; yet the Earl had not proposed. One last chance was
+given him; &#8212; he had bought a new horse, which was to be tried in the Tilbury,
+and Miss Robinson obtained the other seat in a drive round the Park. Fallover
+was by no means a loquacious man, and the lady made desperate efforts to draw
+him out by her own remarks: &#8212; "What a beautiful country! &#8212; a paradise! Thrice
+happy must be his lot to possess so charming an estate." And then, "A country
+life &#8212; how perfect a millennium &#8212; how far more attractive than the dissipations
+of London!" (a heart-breaking sigh accompanied the exclamation.) Lord
+Fallover assented to all she said, and pulled up at an elegant farm-house.
+With many apologies he borrowed a groom to drive her back to the Hall &#8212; "He had
+business with his tenant, Mr. Aacres."</p>
+
+         <p>Rose remembered that this identical tenant had a
+lovely daughter and determined to dine in London that day. Pleinpurse had
+offered her mama and her seats in his carriage &#8212; (the servants could go to town
+in Simper's) &#8212; and on arriving at the Hall the offer was accepted.</p>
+
+         <p>That journey did wonders with Pleipurse; and a
+week after the affair was arranged, all but giving a handsome <hi rend="italic">congé</hi> to
+Simper. Rose would not, however, do so till the settlements had been actually
+signed; for no coquette is justified in turning off a lover till his chance is
+hopeless. The Earl had married the farmer's daughter, to the utter disgust of
+every chaperon and coquette of his acquaintance.</p>
+
+         <p>Leaving Miss Robinson for the present, let us
+remark, that whilst the accomplished coquette wins our astonishment by the
+excess of her ingenuity, her perfect nerve on occasions of the most startling <hi rend="italic">embarras,
+</hi>and her Protean changes of demeanour, &#8212; the clumsy <hi rend="italic">maladroit </hi>flirt,
+who possesses all the desires without any of the arts of coquetry, excites that
+which would come very near contempt, if so strong a word can be justly applied
+to any of the "angels of life."</p>
+
+         <p>Inferior kinds of coquettes are only to be met
+with in inferior classes of society. They are known at a glance &#8212; they wear
+very low dresses and large quantities of jewellery. They smell strongly of
+Rowland's Kalydor, which is sometimes accompanied with a suspicion of pomatum.
+They talk a vast deal, and frequently laugh in spite of their teeth. To their
+admirers they are guilty of either of the most lavish fondness or the most
+unpardonable rudeness. They make any engagement that is offered, and break it
+without the smallest compunction. Flattery is their food, caprice their rule
+of conduct. In a word, as the proficient coquette is the elegant,
+beautifully-tinted butterfly, so the ill-bred flirt is the mere moth. The
+former ends her existence as a chaperon &#8212; the latter as something worse; for
+coquetry hovers so near the extremest edge of virtue's limits, that without the
+vigilant exercise of the finest art, the boundary is sure to be over-stepped.</p>
+	<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00055" type="same fiction"/></item>
+               <item>
+                  <xptr n="ls.00095" type="same fiction"/></item>
+
+               <item>
+                  <xptr n="ls.00143" type="image on fiction"/></item>
+		<item><xptr n="ls.00144" type="image on fiction"/>
+               </item>
+               <item>
+                  <xptr n="ls.00145" type="image on fiction"/></item>
+		<item><xptr n="ls.00146" type="image on fiction"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

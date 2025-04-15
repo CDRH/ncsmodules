@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00009">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+           <title level="a" type="main"><hi rend="italic">Les Miserables</hi>
+</title>
+            <title level="c" type="chapter">from Volume V, Book I, Chapter V, "The Horizon One Sees from the Barricade's Summit"</title>
+<date type="original" value="1862">1862</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Hugo">Victor Hugo
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00009</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law.  Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 31-36 of the 1899 Little, Brown edition of Victor Hugo's <hi rend="italic">Les Miserables</hi>, Volume V, Book I, Chapter V, "The Horizon One Sees from the Barricade's Summit."  Translated by Sir Lascelles Wraxall.  Originally published in 1862.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">CHAPTER V</title>
+               <title level="m">Les Miserables</title>
+               <author>Victor Hugo</author>
+               <imprint>
+                  <publisher>Little, Brown, &#38; Company
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1899
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="french" type="place">French</term>
+<term id="rev1830" type="topic">1830 Revolutions</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-17">17 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">CHAPTER V.</head>
+<head type="sub">THE HORIZON ONE SEES FROM THE BARRICADE'S SUMMIT.</head>
+
+<gap reason="sampling" extent=""/>
+
+<p>Enjolras was standing on the paving-stone steps, with one of his elbows on the muzzle of his gun. He was thinking; he trembled, as men do when a blast passes, for spots where death lurks this tripod effect. A sort of stifled fire issued from beneath his eyelashes, which were full of the internal glance. All at once he raised his head, his light hair fell back like that on the angel on the dark quadriga composed of stars, and he cried:&#8212;</p>
+
+<p>"Citizens, do you represent the future to yourselves? The streets of towns inundated with light, green branches on the thresholds, nations sisters, men just, old men blessing children, the past loving the present, men thinking at perfect liberty, believers enjoying perfect equality, for religion the heaven, God, the direct priest, the human conscience converted into an altar, no more hatred, the fraternity of the workshop and the school, notoriety the sole punishment and reward, work for all, right for all, peace for all, no more bloodshed, no more wars, and happy mothers! To subdue the matter is the first step, to realize the ideal is the second. Reflect on what progress has already been done; formerly the first human races saw with terror the hydra that breathed upon the waters, the dragon that vomited fire, the griffin which was the monster of air, and which flew with the wings of an eagle and the claws of a tiger, pass before their eyes,&#8212;frightful beasts which were below man. Man, however, set his snares, the sacred snares of intellect, and ended by catching the monsters in them. We have subdued the hydra, and it is called the steamer; we have tamed the dragon, and it is called the locomotive; we are on the point of taming the griffin, we hold it already, and it is called the balloon. The day on which that Promethean task is terminated and man has definitively attached to his will the triple antique chimera, the dragon, the hydra, and the griffin, he will be master of water, fire, and air, and he will be to the rest of animated creation what the ancient gods were formerly to him. Courage, and forward! Citizens, whither are we going? To science made government, to the strength of things converted into the sole public strength, to the natural law having its sanction and penalty in itself and promulgating itself by evidence, and to a dawn of truth corresponding with the dawn of day. We are proceeding to a union of the peoples; we are proceeding to a unity of man. No more fictions, no more parasites. The real governed by the true is our object. Civilization will hold its assize on the summit of Europe, and eventually in the centre of the continent, in a great Parliament of intellect. Something like this has been seen already; the Amphictyons held two sessions a year, one at Delphi, the place of the gods, the other at Thermopyl&#230;, the place of heroes. Europe will have her Amphictyons, the globe will have its Amphictyons, France bears the sublime future with her, and this is the gestation of the 19th century. What Greece sketched out is worthy of being finished by France. Hearken to me, Feuilly, valiant workman, man of the people, man of the people. I venerate thee; yes, thou seest clearly future times; yes, thou art right. Thou hast neither father nor mother, Feuilly, and thou hast adopted humanity as thy mother and right as they father. Thou art about to die here, that is to say, to truimph. Citizens, whatever may happen to-day, we are about to make a revolution, by our defeat as well as by our victory. In the same way as fires light up a whole city, revolutions light up the whole human race. And what a revolution shall we make? I have just told you, the revolution of the True. From the political point of view, there is but one principle, the sovereignty of man over himself. The sovereignty of me over me is called liberty, and where two or three of these liberties are associated the State begins. But in this association there is no abdication, and each sovereignty concedes a certain amount of itself to form the common right. This quality is the same for all, and this identity of concession which each makes to all is called Equality. The common right is nought but the protection of all radiating over the right of each. This protection of all over each is termed Fraternity. The point of intersection of all aggregated societies is called Society, and this intersection being a junction, the point is a knot. Hence comes what is called the social tie; some say the social contract, which is the same thing, as the word contract is etymologically formed with the idea of a tie. Let us come to an understanding about equality; for if liberty be the summit, equality is the base. Equality, citizens, is not all vegetation on a level, a society of tall blades of grass and small oaks, or a neighborhood of entangled jealousies; it is, civilly, every aptitude having the same opening, politically, all votes having the same weight, and religiously, all consciences having the same right. Equality has an organ in gratuitous and compulsory education, and it should begin with the right to the alphabet. The primary school imposed on all, the secondary school offered to all, such is the law, and from the indentitical school issues equal intstruction. Yes, instruction! Light, light! Everything comes from light and everything returns to it. Citizens, the 19th century is great, but the 20th century will be happy. Then there will be nothing left resembling ancient history, there will be no cause to fear, as at the present day a conquest, an invasion, usurpation, an armed rivalry of nations, an interruption of civilization depending on a marriage of kinds, a birth in hereditary tyrannies, a division of peoples by Congress, a dismemberment by the collapse of dynasties, a combat of two religions, clashing, like two goats of the darkness, on the bridge of infinity; there will be no cause longer to fear famine, exhaustion, prostitution through destiny, misery through stoppage of work, and the scaffold, and the sword, and battles, and all the brigandage of accident in the forest of events, we shall be happy; the human race will accomplish its law as the terrestrial globe does its law; harmony will be restored between the soul and the planet, and the soul will gravitate round the truth as the planet does round light. Friends, the hour we are now standing in is a gloomy hour, but there are such terrible purchases of the future. Oh, the human race will be delivered, relieved, and consoled! We affirm it on this barricade, and where should the cry of love be raised if not on the summit of the sacrifice? Oh, my brothers, this is the point of junction between those who think and those who suffer. This barricade is not made of paving-stones, beams, and iron bars; it is made of two masses,&#8212;a mass of ideas and a mass of sorrows. Misery meets then the ideal; day embraces the night there, and says to it, 'I am about to die with thee, and thou wilt be born of all the desolations; sufferings bring hither their agony, and ideas their immortality. This agony and this immortality are about to be mingled and compose one death. Brothers, the man who dies here dies in the radiance of the future, and we shall enter a tomb all filled with dawn."</p>
+
+<p>Enjolras interrupted himself rather than was silent; his lips moved silently as if he were talking to himself, which attracted attention, and in order still to try to hear him they held their tongues. There was no applause, but they whispered together for a long time. Language being breath, the rustling of intellects resembles the rustling of leaves.</p>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00006" type="Same novel"/>
+               </item>
+               <item>
+                  <xptr n="lby.00007" type="Same novel"/>
+               </item>
+               <item>
+                  <xptr n="lby.00008" type="Same novel"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

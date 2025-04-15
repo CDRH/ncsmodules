@@ -1,0 +1,15 @@
+<add>
+   <doc>
+      <field name="id">ls.00123</field>
+      <field name="title">"The Return of Camille DeJardin to Beaurepaure"
+         
+      </field>
+      <field name="nationality">british</field>
+      <field name="category">image</field>
+      <field name="theme">popularpress</field>
+      <field name="setting">wild</field>
+      <field name="text">BeaurepaureW. Gorway, "The Return of Camille DeJardin to Beaurepaure," London Journal, September 19, 1857
+         IllustratorW. GorwaySeptember 19, 1857London Journal Illustration 
+      </field>
+   </doc>
+</add>

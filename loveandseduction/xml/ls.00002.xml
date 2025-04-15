@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">
+               <hi rend="italic">Love in the Time of Victoria: Sexuality, Class and Gender in
+                  Nineteenth Century London</hi>
+            </title>
+
+            <title level="j" type="journal"/>
+            <title level="c" type="chapter"/>
+            <title level="m" type="monograph"/>
+            <author name="Barret-Decrocq">Fran&#231;oise Barret-Decrocq</author>
+            <date type="original" value=""/>
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00002</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century
+               Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in
+                  the Archive may be shared in accordance with the Fair Use provisions of U.S.
+                  copyright law. Redistribution or republication on other terms, in any medium,
+                  requires express written consent from the editors and advance notification of the
+                  publisher, the Center for Digital Research in the Humanities. Permission to
+                  reproduce the graphic images in this archive has been granted by the owners of the
+                  originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project"> Transcribed from the Verso Press edition of Fran&#231;oise
+               Barret-Ducrocq's <hi rend="italic">Love in the Time of Victoria: Sexuality, Class and
+                  Gender in Nineteenth-Century London</hi>, pages 97, 98, 100, 102-3, 105-6, 109,
+               and 112. Translation by John Howe; originally published in 1991. </note>
+         </notesStmt>
+         <sourceDesc>
+
+
+            <bibl>
+               <title level="a">Love and Marriage</title>
+               <title level="m">
+                  <hi rend="italic">Love in the Time of Victoria: Sexuality, Class and Gender in
+                     Nineteenth-Century London</hi>
+               </title>
+               <author>Fran&#231;oise Barret-Ducrocq</author>
+               <imprint>
+                  <publisher> Verso </publisher>
+                  <pubPlace> London </pubPlace>
+               </imprint>
+               <date> 1991 </date>
+               <idno type="ISBN"> 0860913252 </idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term id="class" type="theme">class</term>
+               <term id="breachofpromise" type="theme">breach of promise</term>
+               <term id="premaritalsex" type="theme">premarital sex</term>
+               <term id="commentary" type="media">commentary</term>
+               <term id="british" type="place">British</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2005-08-18">18 August 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Proofreading corrections</item>
+         </change>
+         <change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+         <change>
+            <date value="2005-03-15">15 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+         <change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+         <change>
+            <date value="2005-05-23">23 July 2005</date>
+            <respStmt>
+               <name>Zach Bajaber</name>
+            </respStmt>
+            <item>Changed Terms to new format.</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>1.</head>
+            <p>"Carnal relations between young people have always been tolerated by the working
+               classes in Western Europe, on the express condition that they are followed soon
+               afterwards by marriage" (97).</p>
+         </div>
+         <div>
+            <head>2. </head>
+            <p>"This freedom of behaviour, specific to the working classes, was determined by one
+               element: the 'promise of marriage'. Only this promise, which in traditional practice
+               bound the man by his word of honour, could authorize pre-marital sexual relations. It
+               thus traced the real dividing line between permissible and delinquent conduct"
+               (98).</p>
+         </div>
+         <div>
+            <head>3. </head>
+            <p>"The given word was still invested with such symbolic importance that it was enough
+               merely to pronounce in private, orally or by letter, for our young women to regard it
+               as a solemn oath. Of course we have no exact transcripts of these declarations, made
+               at the moment of engagement or during the sexual act. But it seems reasonable to
+               suppose that young women would have expected something formal, probably no more than
+               'I promise to marry you'. Whatever the actual phrase, it appears to have retained its
+               contractual significance even when uttered during the blaze of sexual passion, or not
+               even pronounced until after the act" (100).</p>
+         </div>
+         <div>
+            <head>4. </head>
+            <p>"What was the setting for these sexual frolics?  For the most part, they seem to have
+               occurred in everyday surroundings, in the workplace or at home. Romantic <hi
+                  rend="italic">billets-doux</hi>, the exaltation of grand passion, are not much in
+               evidence here. Quite often the act was performed in the workplace, in the lodger's
+               room or in the home of the girl's parents. The house would perhaps have been empty,
+               with some people on holiday or on a visit, others at work, the children asleep.
+               People would make love in places where they spent a lot of time: domestics, for
+               example, in the kitchen, others in their rooms. This was especially true where the
+               couple both worked for the same employer or lived in the same lodgings: the normal
+               setting was the girl's room, or the boy's room, or the kitchen; sometimes as
+               'upstairs' room or the servants' hall" (102-3).</p>
+         </div>
+         <div>
+            <head>5. </head>
+            <p>"Skilled workers, shop assistants, commercial travelers, policemen and other
+               categories close to the petty bourgeoisie were the first to acquire a taste for
+               Sunday outings in the country. Among domestics, sexual advances were more often
+               inspired by the change of scene during their employers' holidays" (105).</p>
+         </div>
+         <div>
+            <head>6. </head>
+            <p>"The Hansom cab, that enclosed public place whose steady progress reminded the couple
+               of their imminent separation, was the scene of many seductions:</p>
+            <p>
+               <hi rend="italic">He took me home in a cab and effected his purpose of violence as we
+                  were returning.</hi>
+            </p>
+
+            <p>
+               <hi rend="italic">We occasionally walked out and in December he took me in a cab
+                  where Crim. Con took place.</hi>
+            </p>
+
+            <p>
+               <hi rend="italic">He seduced me in Aug 1866 in a cab we were going from Uxbridge to
+                  Gerrards X...</hi>
+            </p>
+
+            <p>
+               <hi rend="italic">Father seduced me in a cab as we were out. C.C. was repeated in the
+                  same manner and he also took me to a coffee house" </hi>(105-6).</p>
+         </div>
+         <div>
+            <head>7. </head>
+            <p>"A popular song composed and sung by the famous musical hall artiste Arthur Lloyd
+               suggests that a girl could change her mind at any moment, and that the culprit would
+               then be punished for his persistence:</p>
+
+            <lg type="poem">
+               <l>
+                  <hi rend="italic">I followed her home and to speak to her tried,</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">She said 'Why d'ye follow me?' and I replied,</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">'I love you dear girl and would make you my bride,'</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">You Know!...</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">Then she said, 'Well, I like you, but silence beware!</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">You know!</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">I've a very stern parent his bedroom's up there! You know!'</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">I struggled to kiss her, she gave a loud cry,</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">I heard a door open and ere I could fly,</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">A very hard fist struck me twice in the eye! You know!...</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">A policeman appeared and exclaimed 'What's all this?' You
+                     know!</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">'Oh,' said I, 'a young girl I was trying to kiss!' You
+                     know!</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">To the station he marched me at a very quick pace...</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">His Worship exclaimed, when the case he had tried,</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">'Forty shillings or one month' with horror I cried</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">'Forty shilling or one month, for what&#8212;' he
+                     replied:</hi>
+               </l>
+
+               <l>
+                  <hi rend="italic">'You know!' </hi>(109)</l>
+            </lg>
+         </div>
+         <div>
+            <head>8. </head>
+            <p>"One last hypothesis: the public admission of indecisiveness, of humming and hawing
+               at the moment of the sexual act, may be the first sign of a new, more modest
+               attitude, or perhaps susceptibility to guilt about pre-nuptial sex" (112).</p>
+         </div>
+
+      </body>
+   </text>
+</TEI.2>

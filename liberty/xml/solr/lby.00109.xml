@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00109</field>
+      <field name="title">Garfield Memorial</field>
+      <field name="project">liberty</field>
+      <field name="genre">sculpture</field>
+      <field name="place">american</field>
+      <field name="topic">icon</field>
+      <field name="topic">statueofliberty</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

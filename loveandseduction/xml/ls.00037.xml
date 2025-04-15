@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00037">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Griffith Gaunt</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapters XVII, XIX, XXII, and XXV</title>
+<title level="m" type="monograph"></title>
+<author name="Reade">Charles Reade</author>
+<date type="original" value="1866">1866</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00037</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 189-192, 201-202, 229-233, 248-251 of the E.R. Dumont 1890 edition of Charles Reade's <hi rend="italic">Griffith Gaunt</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">from Chapters XVII, XIX, XXII, and XXV</title>
+               <title level="m"><hi rend="italic">Griffith Gaunt</hi></title>
+               <author>Charles Reade</author>
+               <imprint>
+                  <publisher>
+E.R. Dumont
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+1890?
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="garden" type="setting">garden</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="adultery" type="theme">adultery</term>
+			<term id="fictioninpress">fiction in press</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-22">22 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="editorial">Selected Scenes from Charle's Reade's <hi rend="italic">Griffith Gaunt</hi></head>
+
+<div>
+<head type="editorial">Scene
+One: Catherine encounters Brother Leonard in the Grove
+</head>
+         
+         <p>But her meditations were no longer so calm and
+speculative as heretofore. She found her mind constantly recurring to one
+person, and, above all, to the discovery she had made of her portrait in his
+possession. She had turned it off to Betty Gough; but here, in her calm solitude
+and umbrageous twilight, her mind crept out of its rave, like wild and timid
+things at dusk, and whispered to her heart that Leonard perhaps admired her
+more than was safe or prudent.</p>
+
+         <p>Then this alarmed her, yet caused her a secret
+complacency: and that, her furtive satisfaction, alarmed her still more.</p>
+
+         <p>Now, while she sat thus absorbed, she heard a
+gentle footstep coming near. She looked up, and there was Leonard close to her,
+standing meekly with his arms crossed upon his bosom.</p>
+
+         <p>His being there so pat upon her thoughts,
+scared her out of her habitual self-command. She started up with a faint cry,
+and stood panting as if about to fly, with her beautiful eyes turned large upon
+him.</p>
+
+         <p>He put forth a deprecating hand, and soothed
+her. "Forgive me, madam," said he; "I have unawares intruded on
+your privacy: I will retire."</p>
+
+         <p>"Nay," said she falteringly, "you are
+welcome. But no one comes here, so I was startled." Then,
+recovering herself, "Excuse my ill manners. 'Tis so strange you should
+come to me here, of all places."
+</p>
+
+         <p>"Nay,
+my daughter," said the priest, "not so very strange: contemplative
+minds love such places. Calling one day to see you, I found this sweet and
+solemn grove: the like I never saw in England; and to-day I returned in hopes
+to profit by it. Do but look around at these tall columns: how calm, how
+reverend! 'Tis God's own temple, not built with hands."</p>
+
+         <p>
+"Indeed it is," said Mrs. Gaunt earnestly. Then, like a woman as she
+was, "So you came to see my trees, not me."</p>
+
+         <p>Leonard blushed. "I did not design to
+return without paying my respects to her who owns this temple, and is worthy of
+it; nay, I beg you not to think me ungrateful."</p>
+
+         <p>His
+humility, and gentle but earnest voice, made Mrs. Gaunt ashamed of her
+petulance. She smiled sweetly, and looked pleased. However, ere long she
+attacked him again. "Father Francis used to visit us often," said
+she. "He made friends with my husband, too. And I never lacked an adviser
+while he was here." </p>
+
+         <p>Leonard
+looked so confused at this second reproach that Mrs. Gaunt regretted having
+uttered it. Then he said humbly that Francis was a secular priest, whereas he
+was convent-bred. He added, that by his years and experience Francis was
+better fitted to advise persons of her age and sex, in matters secular, than he
+was. He concluded timidly that he was ready, nevertheless, to try and advise
+her, but could not, in such matters, assume the authority that belongs to age
+and knowledge of the world.</p>
+
+         <p>"Nay,
+nay," said she earnestly, "guide and direct my soul, and I am
+content."</p>
+
+         <p>He
+said yes; that was his duty and his right.</p>
+
+         <p>Then,
+after a certain hesitation, which at once let her know what was coming, he
+began to thank her, with infinite grace and sweetness, for her kindness to him.</p>
+
+         <p>She looked him full in the face, and said she
+was not aware of any kindness she had shown him worth speaking of.</p>
+
+         <p>"That
+but shows," said he, "how natural it is to you to do acts of goodness. My
+poor room is a very bower now, and I am happy in it. I used to feel very
+sad there at times; but your hand has cured me."</p>
+
+         <p>
+Mrs. Gaunt colored beautifully. "You make me ashamed," said
+she. "Things are come to a pass indeed if a lady may not send a few
+flowers and things to her spiritual father without being &#8212; thanked for it. And,
+oh, sir, what are earthly flowers compared with those blossoms of the soul you
+have shed so liberally over us?  Our immortal parts were all asleep when you
+came here, and wakened them by the fire of your words. Eloquence! 'twas a
+thing I had read of, but never heard, nor thought to hear.  Methought
+the orators and poets of the Church were all in their graves this thousand
+years, and she must go all the way to heaven, that would hear the soul's true
+music. But I know better now."</p>
+
+         <p>Leonard
+colored high with pleasure. "Such praise from you is too sweet," he
+muttered. "I must not court it. The heart is full of vanity." And
+he deprecated further eulogy, by a movement of the hand extremely refined and,
+in fact, rather feminine.</p>
+
+         <p>Deferring
+to his wish, Mrs. Gaunt glided to other matters, and was naturally led to speak
+of the prospects of their Church, and the possibility of reconverting these islands.
+This had been the dream of her young heart; but marriage and maternity, and the
+universal coldness with which the subject had been received, had chilled her
+so, that of late years she had almost ceased to speak of it. Even Leonard, on
+a former occasion, had listened coldly to her; but now his heart was
+open to her. He was, in fact, quite as enthusiastic on this point as ever she
+had been; and then he had digested his aspirations into clearer forms. Not
+only had he resolved that Great Britain must be reconverted, but had planned
+the way to do it. His cheek glowed, his eyes gleamed; and he poured out his hopes
+and his plans before her with an eloquence that few mortals could have
+resisted.</p>
+
+         <p>As
+for this, his hearer, she was quite carried away by it. She joined herself to his
+plans on the spot; she begged, with tears in her eyes, to be permitted to support
+him in this great cause. She devoted to it her substance, her influence, and
+every gift that God had given her: the hours passed like minutes in this high
+converse; and, when the tinkling of the little bell at a distance summoned him
+to vespers, he left her with a gentle regret he scarcely tried to conceal, and
+she went slowly in like one in a dream, and the world seemed dead to her
+forever.</p>
+
+         <p>Nevertheless, when Mrs. Ryder, combing out her
+long hair, gave one inadvertent tug, the fair enthusiast came back to earth,
+and asked her, rather sharply, who her head was running on.</p>
+
+         <p>Ryder, a very handsome young woman, with fine
+black eyes, made no reply, but only drew her breath audibly hard.</p>
+
+         <p>I do not very much wonder at that, nor at my having to
+answer that question for Mrs. Ryder. For her head was at that moment running,
+like any other woman's, on the man she was in love with.</p>
+
+         <p>And the man she was in love with was the
+husband of the lady whose hair she was combing, and who put her that curious
+question &#8212; plump.</p>
+</div>
+<div>
+         <head type="editorial">Scene
+Two: Ryder spies on Catherine while she strolls with Brother Leonard
+</head>
+                  <p>So
+the afternoon before she was to leave, Caro Ryder came to her mistress's room
+on some imaginary business. She was not there. Ryder, forgetting that did not
+matter a straw, proceeded to hunt her everywhere and at last ran out with only
+her cap on to "the Dame's Haunt," and there she was; but not alone:
+she walking up and down with Brother Leonard. Their backs were
+turned, and Ryder came up behind them. Leonard was pacing gravely, with his
+head gently drooping as usual. Mrs. Gaunt was walking elastically, and discoursing
+with great fire and animation.</p>
+
+         <p>Ryder glided after, noiseless as a serpent,
+more bent on wondering and watching now than on overtaking; for inside the
+house her mistress showed none of this charming vivacity.</p>
+
+         <p>Presently
+the keen black eyes observed a "trifle light as air" that made them
+shine again.</p>
+
+         <p>She
+turned and wound herself amongst the trees, and disappeared. Soon after she
+was in her own room, a changed woman. With glowing cheeks, sparkling eyes, and
+nimble fingers, she uncorded her boxes, unpacked her things, and placed them
+neatly in the drawers.</p>
+
+         <p>What
+more had she seen than I have indicated?</p>
+
+         <p>Only
+this: Mrs. Gaunt, in the warmth of discourse, laid her hand lightly for a
+moment on the priest's elbow; that was nothing, she had laid the same hand on
+Ryder; for, in fact, it was a little womanly way she had, and a hand that
+settled like down. But this time, as she withdrew it again, that delicate hand
+seemed to speak; it did not leave Leonard's elbow all at once, it glided slowly
+away, first the palm, then the fingers, and so parted lingeringly.</p>
+
+         <p>The other woman saw this subtle touch of womanhood,
+coupled it with Mrs. Gaunt's vivacity and the air of happiness that seemed to
+inspire her whole eloquent person, and formed a harsh judgment on the spot,
+though she could not see the lady's face.</p>
+
+         <p>When Mrs. Gaunt came in she met her, and
+addressed her thus : "If you please, ma'am, have you any one coming in my place?"</p>
+
+         <p>Mrs.
+Gaunt looked her full in the face. "You know I have not,"
+said she, haughtily.</p>
+
+         <p>"Then,
+if it is agreeable to you, ma'am, I will stay. To be sure the place is dull;
+but I have got a good mistress &#8212; and" &#8212; </p>
+
+         <p>"That will do, Ryder: a servant has
+always her own reasons, and never tells them to her mistress. You can stay this
+time; but the next, you go; and once for all. I am not to be trifled with."</p>
+
+         <p>Ryder
+called up a look all submission, and retired with an obeisance. But, once out
+of sight, she threw off the mask and expanded with insolent triumph. "Yes,
+I have my own reasons," said she. "Keep you the priest, and I'll
+take the man."</p>
+
+         <p>From that hour Caroline Ryder watched her
+mistress like a lynx, and hovered about her master, and poisoned him slowly
+with vague insidious hints.</p>
+</div>
+<div>
+         <head type="editorial">Scene Three: Brother Leonard's
+obsession with Mrs. Gaunt</head>
+         
+         <p>And now it is time to visit that extraordinary
+man, who was the cause of all this mischief; whom Gaunt called a villain, and Mrs.
+Gaunt a saint; and, as usual, he was neither one nor the other.</p>
+
+         <p>Father Leonard was a pious, pure, and
+noble-minded man, who had undertaken to defy nature with religion's aid: and,
+after years of successful warfare, now sustained one of those defeats to which
+such warriors have been liable in every age. If his heart was pure, it was
+tender; and nature never intended him to live all his days alone. After years
+of prudent coldness to the other sex, he fell in with a creature that put him
+off his guard at first, she seemed so angelic. "At Wisdom's gate
+Suspicion slept;" and by degrees, which have been already indicated in
+this narrative, she whom the Church had committed to his spiritual care, became
+his idol. Could he have foreseen this, it would never have happened; he
+would have steeled himself, or left the country that contained this sweet
+temptation.   But love stole on him, masked with religious zeal, and
+robed in a garment of light that seemed celestial.</p>
+
+         <p>When
+the mask fell, it was too late: the power to resist the soft and thrilling
+enchantment was gone. The solitary man was too deep in love.</p>
+
+         <p>Yet
+he clung still to that self-deception, without which he never could have been
+entrapped into an earthly passion: he never breathed a word of love to her. It
+would have alarmed her; it would have alarmed himself. Every syllable that
+passed between these two might have been published without scandal. But the
+heart does not speak by words alone: there are looks, and there are tones of
+voice that belong to Love, and are his signs, his weapons; and it was in these
+very tones the priest murmured to his gentle listener about "the angelic
+life" between spirits still lingering on earth, but purged from earthly
+dross; and even about other topics less captivating to the religious
+imagination. He had persuaded her to found a school in this dark parish, and
+in it he taught the poor with exemplary and touching patience. Well, when he
+spoke to her about this school, it was in words of practical good sense, but in
+tones of love; and she, being one of those feminine women who catch the tone
+they are addressed in, and instinctively answer in time, and, moreover,
+seeing no ill but good in the subject of their conversation, replied sometimes,
+unguardedly enough, in accents almost as tender.</p>
+
+         <p>In truth, if Love was really a personage, as
+the heathens feigned, he must have often perched on a tree, in that quiet
+grove, and chuckled and mocked when this man and woman sat and murmured
+together in the soft seducing twilight about the love of God.</p>
+
+         <p>And
+now things had come to a crisis. Husband and wife went about the house silent
+and gloomy, the ghosts of their former selves; and the priest sat solitary,
+benighted, bereaved of the one human creature he cared for. Day succeeded to
+day, and still she never came. Every morning he said, "She will come
+to-day," and brightened with the hope. But the leaden hours crept by and
+still she came not.</p>
+
+         <p>Three sorrowful weeks went by; and he fell
+into deep dejection. He used to wander out at night, and come and stand where
+he could see her windows with the moon shining on them, then go slowly home,
+cold in body and with his heart aching, lonely, deserted, and perhaps
+forgotten. Oh, never till now had he known the utter aching sense of being
+quite alone in this weary world.</p>
+
+         <p>One day, as he sat drooping and listless,
+there came a light foot along the passage, a light tap at the door, and the
+next moment she stood before him, a little paler than usual, but lovelier than
+ever, for celestial pity softened her noble features.</p>
+
+         <p>The priest started up with a cry of joy that ought to have
+warned her; but it only brought a faint blush of pleasure to her cheek, and the
+brimming tears to her eyes.</p>
+
+         <p>"Dear
+father and friend," said she. "What! have you missed me? Think,
+then, how I have missed you. But 'twas best for us both to let their vile
+passions cool first."</p>
+
+         <p>Leonard
+could not immediately reply. The emotion of seeing her again so
+suddenly almost choked him.</p>
+
+         <p>He needed all the self-possession he had been
+years acquiring, not to throw himself at her knees and declare his passion to
+her.</p>
+
+         <p>Mrs.
+Gaunt saw his agitation, but did not interpret it aright.</p>
+
+         <p>She came eagerly and sat on a stool beside
+him. "Dear father," she said, "do not let their insolence
+grieve you. They have smarted for it, and <hi rend="italic">shall</hi> smart till they make their
+submission to you, and beg and entreat you to come to us again. Meantime, since
+you cannot visit me, I visit you. Confess me, father, and then direct me with
+your counsels. Ah! if you could but give me the Christian temper to carry them
+out firmly but meekly ! 'Tis my ungoverned spirit hath wrought all
+this mischief, <hi rend="italic">mea culpa ! mea culpa! </hi>"</p>
+
+         <p>By this time Leonard had recovered his self-possession,
+and he spent an hour of strange intoxication, confessing his idol, sentencing
+his idol to light penances, directing and advising his idol, and all in the
+soft murmurs of a lover.</p>
+
+         <p>She
+left him, and the room seemed to darken.</p>
+
+         <p>Two days only elapsed, and she came again.
+Visit succeeded to visit; and her affection seemed boundless. The insult he had
+received was to be avenged in one place, and healed in another, and, if
+possible, effaced with tender hand.</p>
+
+         <p>So
+she kept all her sweetness for that little cottage, and all her acidity for Hernshaw Castle.</p>
+
+         <p>It was an evil hour when Griffith attacked her
+saint with violence. The woman was too high-spirited, and too sure of her own
+rectitude, to endure that; so, instead of crushing her, it drove her to
+retaliation, and to imprudence.</p>
+
+         <p>These
+visits to console Father Leonard were quietly watched by Ryder, for one thing.
+But, worse than that, they placed Mrs. Gaunt in a new position with Leonard,
+and one that melts the female heart.  She was now the protectress and the
+consoler of a man she admired and revered. I say if anything on earth can
+breed love in a grand female bosom, this will.</p>
+
+         <p>She had put her foot on a sunny slope clad
+with innocent looking flowers; but more and more precipitous at every step, and
+perdition at the bottom.</p>
+</div>
+<div>
+         <head>CHAPTER XXIII.</head>
+
+         <p>FATHER LEONARD, visited, soothed, and petted by his idol, recovered his spirits, and, if he pined during her absence, he was always so joyful in
+her presence that she thought of course he was permanently happy; so then,
+being by nature magnanimous and placable, she began to smile on her husband again,
+and a tacit reconciliation came about by natural degrees.</p>
+
+         <p>But
+this produced a startling result.</p>
+
+         <p>Leonard,
+as her confessor, had only to follow precedents and ask questions his Church
+has printed for the use of confessors, and he soon learned enough to
+infer that their disunion had given way.</p>
+
+         <p>The consequence was that one day, being off
+his guard, or literally unable to contain his bursting heart any longer, he
+uttered a cry of jealous agony, and then, in a torrent of burning, melting
+words, appealed to her pity. He painted her husband's happiness, and his own
+misery and barren desolation, with a fervid passionate eloquence that paralyzed
+his hearer, and left her pale and trembling, and the tears of pity trickling
+down her cheek.</p>
+
+         <p>Those
+silent tears calmed him a little; and he begged her forgiveness and awaited
+his doom.</p>
+
+         <p>"I pity you," said she angelically.
+"What? <hi rend="italic">you </hi> jealous of my husband! Oh, pray to Christ and our Lady to cure
+you of this folly."</p>
+
+         <p>She rose, fluttering inwardly, but calm as a
+statue on the outside, gave him her hand, and went home very slowly; and the
+moment she was out of his sight she drooped her head like a crushed flower.</p>
+</div>
+<div>
+                     <head type="editorial">
+Scene Four: Griffith accosts Catherine and Brother Leonard
+in the Grove
+</head>
+         
+         <p>As he rode into the stable-yard be caught
+sight of Ryder's face at an upper window. She looked pale and agitated, and her
+black eyes flashed with a strange expression. She made him a signal which he
+did not understand; but she joined him directly after in the stable-yard.
+</p>
+
+         <p>"Come
+quietly with me," said she, solemnly.</p>
+
+         <p>He
+hooked his horse's rein to the wall, and followed her trembling.</p>
+
+         <p>She took him up the back stairs, and, when she
+got on the binding, she turned and said, "Where did you leave her?"</p>
+
+         <p>"In
+her own room."</p>
+
+         <p>"See
+if she is there now," said Ryder, pointing to the door.</p>
+
+         <p>Griffith tore the door open: the room was empty.</p>
+
+         <p>"Nor
+is she to be found in the house," said Ryder; "for I've been in every room."</p>
+
+         <p>Griffith's face turned livid, and he staggered
+and leaned against the wall. "Where is she?" said he hoarsely.</p>
+
+         <p>"Humph!"
+said Ryder fiendishly. "Find <hi rend="italic">him</hi>, and you will find <hi rend="italic">her</hi>."  </p>
+
+         <p>"I'll
+find them if they are above ground," cried Griffith furiously; and he
+rushed into his bedroom and soon came out again, with a fearful purpose written
+on his ghastly features and in his bloodshot eyes; and a loaded pistol is his
+hand.</p>
+
+         <p>Ryder was terrified; but instead of succumbing
+to terror, she flew at him like a cat and wreathed her arms round him.</p>
+
+         <p>"What would you do?" cried she. "Madman, would you hang for them and break my heart;
+the only woman in the world that loves you.  Give me the pistol. Nay,
+I will have it."
+</p>
+
+         <p>And,
+with that extraordinary power excitement lends her sex, she wrenched it out of
+his hands.</p>
+
+         <p>He gnashed his teeth with fury, and clutched her
+with a grip of iron; she screamed with pain: he relaxed his grasp a little at
+that: she turned on him and defied him.</p>
+
+         <p>"I won't let you get into trouble for a priest
+and a wanton," she cried; "you shall kill me first. Leave me the
+pistol, and pledge me your sacred word to do them no harm, and then I'll tell
+you where they are. Refuse me this, and you shall go to your grave and
+know nothing more than you know now."</p>
+
+         <p>"No,
+no: if you are a woman have pity on me; let me come at them. There, I'll use
+no weapon. I'll tear them to atoms with these hands. Where are
+they?" </p>
+
+         <p>
+"May I put the
+pistol away, then?"
+</p>
+
+         <p>"Yes,
+take it out of my sight; so best. Where are they?"</p>
+
+         <p>Ryder locked the
+pistol up in one of Mrs. Gaunt's boxes. Then she said in a trembling voice,
+"Follow Me."</p>
+
+         <p>He
+followed her in awful silence.</p>
+
+         <p>She went rather slowly to the door that opened on the lawn; and then she hesitated. "If you are a man, and have any feeling
+for a poor girl who loves you; if you are a gentleman, and respect your
+word &#8212; no violence." </p>
+
+         <p>"I promise," said he. <hi rend="italic">"Where
+are they?"
+</hi>
+         </p>
+
+         <p>"Nay,
+nay. I fear I shall rue the day I told you. Promise me once more: no bloodshed
+&#8212;upon your soul." </p>
+
+         <p>"I
+promise. <hi rend="italic">Where
+are they?
+</hi>"</p>
+
+         <p>"God
+forgive me; they are in the grove."</p>
+
+         <p>He
+bounded away from her like some beast of prey; and she crouched and trembled on
+the steps of the door and, now that she realized what she was doing, a sickening
+sense of dire misgiving came over her and made her feel quite faint.</p>
+
+         <p>And
+so the weak but dangerous creature sat crouching and quaking, and
+launched the strung one.</p>
+
+         <p>Griffith was soon in the grove; and the first
+thing he saw was Leonard and his wife walking together in earnest conversation.
+Their backs were towards him. Mrs. Gaunt, whom he had left lying on a sofa, and
+who professed herself scarce able to walk half a dozen times across the room,
+was now springing along, elastic as a young greyhound, and full of fire and
+animation. The miserable husband saw, and his heart died within him.</p>
+
+         <p>He
+leaned against a tree and groaned.</p>
+
+         <p>The
+deadly sickness of his heart soon gave way to sombre fury. He came softly after
+them, with ghastly cheek, and bloodthirsty eyes, like red-hot coals.</p>
+
+         <p>They stopped; and he heard his wife say,
+"'Tis a solemn promise, then; this very night." The priest bowed
+assent. Then they spoke in so low a voice, he could not hear; but his wife
+pressed a purse upon Leonard, and Leonard hesitated, but ended by taking it.</p>
+
+         <p>Griffith uttered a yell like a tiger, and
+rushed between them with savage violence, driving the lady one way with his
+wrists, and the priest another. She screamed; he trembled in silence.</p>
+
+         <p>Griffith stood a moment between these two pale faces, silent and awful.</p>
+
+         <p>Then
+he faced his wife. "You vile wretch!" he cried: "so
+you <hi rend="italic">buy </hi> your own dishonor and mine." He raised his hand high
+over her head; she never winced. "Oh! but for my oath, I'd lay
+you dead at my feet. But no; I'll not hang for a priest and a wanton. So,
+this is the thing you love, and pay it to love you." And with
+all the mad inconsistency of rage, which mixes small things and great, he tore
+the purse out of Leonard's hand: then seized him fully by the throat.</p>
+
+         <p>At
+that the high spirit of Mrs. Gaunt gave way to abject terror.  "Oh, mercy! mercy!" she cried; "it is all a mistake." And she clung to his
+knees.</p>
+
+         <p>He
+spurned her furiously away. "Don't touch me, woman," he cried; "or
+you are dead. Look at this!" And in a moment, with gigantic strength and
+fury, he dashed the priest down at her feet. "I know ye, ye proud
+devil," he cried; "love the thing you have seen me tread upon! love
+it &#8212; if you can."  And he literally trampled upon the poor priest with
+both feet.</p>
+
+         <p>Leonard
+shrieked for mercy.</p>
+
+         <p>
+"None, in this
+world or the next," roared Griffith; but the next moment he took fright at
+himself. "God!" he cried, "I must go, or kill. Live, and be damned
+for ever, the pair of ye." And with this he fled from them, grinding
+his teeth and beating the air with his clenched fists.
+</p>
+
+         <p>He darted to the stable yard, sprang on his horse,
+and galloped away from Hernshaw Castle, with the face, the eyes, the gestures,
+the incoherent mutterings, of a raving Bedlamite.</p>
+</div>
+
+
+<div1 type="file references">
+            <list>
+               <item><xptr n="ls.00033" type="commentary on fiction"/></item>
+			<item><xptr n="ls.00088" type="commentary on fiction"/></item>
+
+<item><xptr n="ls.00039" type="commentary on fiction"/></item>
+			<item><xptr n="ls.00160" type="image on fiction"/></item>
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

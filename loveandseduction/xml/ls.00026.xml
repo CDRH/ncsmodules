@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00026">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Farmer of Inglewood Forest</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Volume III</title>
+<title level="m" type="monograph"></title>
+<author name="Helme">Elizabeth Helme</author>
+<date type="original" value="1796">1796</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00026</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from Volume III, pages 214-225 of the original 1796 publication of Elizabeth Helme's<hi rend="italic">The Farmer of Inglewood Forest</hi>. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"></title>
+               <title level="m">The Farmer of Inglewood Forest</title>
+               <author>Elizabeth Helme</author>
+               <imprint>
+                  <publisher>
+Lane
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+1796
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="seduction" type="theme">seduction</term>
+               <term id="parlor" type="setting">parlor</term>
+			<term id="fiction" type="media">fiction</term>
+			<term id="british" type="place">British</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-04-06">06 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-18">18 February 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+          <head type="editorial">Scene One: Villain attempts rape of his drugged young guest</head>
+         
+
+         <p>The apartments of the young Ladies were on opposite
+sides of the house, a circumstance unpleasing to both, and which Editha
+mentioned to the housekeeper; but on her replying it was by Mr. Fitzmorris's
+particular order that Miss Palmer should be accommodated with the best
+bedchamber, she did not presume to reply.</p>
+
+         <p>On Fitzmorris's retiring for the night to his own
+apartment, being alone with his valet (who was nothing inferior in villainy to
+his master) he asked him, with a more complaisant smile than usually enlivened
+his features, what he thought of their new visitant?</p>
+
+         <p>"Why, in good faith," replied the man freely, "I
+scarcely know; she is a charming girl, and I think, sir, you look as if you would
+have no objection to give us a new mistress."</p>
+
+         <p>"No, on my soul," replied Fitzmorris, "I never
+intend to commit matrimony more. I cannot say but if the girl had not been so
+confoundedly well born and provided for, in point of fortune, I would have endeavoured
+to make her easy; but as she is situated, any attempt would be fruitless."</p>
+
+         <p>"You were not used to be so easily disheartened,"
+replied the confidant; "you have taken some pains on less interesting subjects."</p>
+
+         <p>"True; but I am no longer of a temper to dance
+attendance, and sue for favours which man ought to command. The women in Turkey are more properly educated, and know how to esteem a compliment offered them; but
+now I think on it, how the devil came Julia among the number slaves, liberated
+by their damned humanity, and my sister's cursed officiousness.  She was not one
+of the old encumbrances, for my father-in-law, I am sure, purchased her."</p>
+
+         <p>"That is more than I can tell,"
+replied the man, "for I well know you never meant her to be free; but the
+business is past recall. She was, if I mistake not, acquainted with the affair
+of the little mulatto, and gave a hint to my mistress, who never held up her
+head afterwards."</p>
+
+         <p>"Perdition seize you," answered
+Fitzmorris, "for introducing such a subject; it will banish sleep; fetch me a
+glass of brandy. Curse the slut! I wish she was poisoned."</p>
+
+         <p>The servant soon presented the
+soporific, and then continued the discourse. "I attempted to sift her tonight,"
+said he; "but she either knows nothing, or is obstinate: thinking the old
+impression might remain, tried a trifling threat, but it was of no use, for she
+seems to be aware of the advantage of liberty, grinned in my face, and snapped
+her fingers."</p>
+
+         <p>"Damn her!  It is better to soothe
+than to anger her, for it may prevent her prating; we must find some way, if
+possible, to get rid of her&#8212;; in the mean time be still!"</p>
+
+         <p>Such was the conversation of this
+detestable pair, after which the servant retired, and left his master to his
+own thoughts and machinations. The valet, by mentioning the little mulatto, had
+not only given rise to several very disagreeable reflections, but had also
+reminded his master of another circumstance, not altogether so unpleasant as it
+was an almost certain recipe for villainy to triumph over innocence.</p>
+
+         <p>In the morning, while the party
+were at breakfast, they received a message from town, informing them that Mrs.
+Fitzmorris was better, news which conveyed the utmost satisfaction to Editha,
+and also to Anna, who sympathized in her grief; but was totally disagreeable to
+Fitzmorris, who the day before had flattered himself he had an additional ten
+thousand within his grasp.</p>
+
+         <p>During the afternoon there was
+something in the looks and behaviour of Fitzmorris so different from what Anna
+had been accustomed to, that she shrunk from his ardent gaze, and her face was
+covered with blushes. Editha too perceived the change, and well knowing how
+addicted her father was to liquor, trembled, lest he should expose himself
+before her new friend, for the alteration she was too innocent to attribute to
+any other cause, particularly as she remarked he drank uncommonly during
+dinner.</p>
+
+         <p>Until this day Anna had been
+perfectly satisfied with her situation; it now began to be disagreeable, and
+though, like Editha, she totally attributed the cause to liquor, yet she
+determined to write to her father on the ensuing morning, to signify that she
+wished to return home.</p>
+
+         <p>At supper Fitzmorris was outwardly
+cheerful, but at intervals seemed lost in reflection, a sudden gloom at those
+times overspreading his features. His confidential servant he had sent off that
+evening to town with orders not to return till the next morning with an account
+of Mrs. Fitzmorris's health. During supper he apologized to Anna for the
+absence of his domestics, who were all, he truly said, at his town-house,
+presenting both her and his daughter with what they wanted. After supper, as
+they had drank nothing but water, Fitzmorris warmly pressed them to pledge him
+in a glass of wine to his sister's health, at the same time reaching each one
+from the sideboard, and so peremptorily urging them that they could not refuse.
+Soon after the young friends withdrew, Editha accompanying Anna to her chamber,
+in the most delicate manner excusing her father's unhappy propensity to wine,
+and conjuring her not to let it weaken their friendship.</p>
+
+         <p>Fitzmorris, now left alone, his
+head resting on his hand, for some time remained lost in thought; at length
+breaking silence, "What am I about to do?" said he, "violate the rights of
+hospitality, and, perhaps, involve myself in ruin; for, should it be
+discovered, what will be the consequence? Consequences! I defy them, none can
+arise; in two hours she will be insensible to everything, and I may in safety
+seize what I should in vain entreat, for well can I read the coldness of her
+heart in her averted eye and distant behaviour. Damned reflection, enemy to
+pleasure, be gone!" drinking a goblet of wine: "With my fortune, am I to shrink
+at such a trifle? Surely not; if it is discovered, who will believe such a
+tale? My fortune and character will protect me; besides, I have, prudently in
+this case, no accomplice, therefore need not fear discovery."</p>
+
+         <p>While the villainous Fitzmorris was
+thus plotting the most infernal scheme that could race manhood, Anna and Editha
+were in social conversation in the chamber of the former, who, in the confusion
+of Mrs. Fitzmoriss's ill health and their removal, had not until now
+recollected the pearl bracelets that her best friend had desired her to present
+to Editha. Taking them therefore from the case, which she had in her pocket,
+she fixed them on the arms of her companion, who received them, saying, "Anna,
+I will keep these for your sake and Mrs. Palmer's, but, indeed, on my own
+account, did I possess all the jewels in the universe, I would give them never
+to see my father inebriated again."</p>
+
+         <p>They then examined the contents of
+the casket, which contained a pair of ear-rings, and necklace of pearl, a
+locket, and several rings, on which trinkets, having no more material
+conversation, they discoursed, trying on some, and admiring others, until at
+length Anna complained of being uncommonly sleepy, and Editha kissing her, bade
+her good night.</p>
+
+         <p>Anna, when alone, endeavoured to
+undress herself, but was unable, she felt sick, her hands suddenly became
+listless, and confused ideas, on different subjects, at once floated on her
+disordered fancy. </p>
+
+         <p>"Oh!" said she, faintly, "it is
+surely the hand of death&#8212;the wine has killed me &#8212;it tasted bitter, and my heart
+recoiled. Fitzmorris's looks frightened me as he presented it, and I scarce
+knew what I did, or I should not have drank it. I shall never more see my
+family &#8212;parents &#8212; mamma &#8212;nor yet Reuben! Oh, God! protect and guide them. Oh,
+Editha! Editha! why, why have you left me?" As she concluded she arose from her
+feet to call, but found the giddiness in her head too great to suffer her to
+make any exertion, and reeling towards the bed, she threw herself upon it,
+convinced she should rise no more.</p>
+
+         <p>All was now still throughout the
+house; lust and villainy alone were waking, and, in the form of Fitzmorris,
+stole into the chamber &#8212;like the hateful foe of mankind, darkness was best
+suited to his deeds; he therefore had extinguished his candle before he
+entered, and was not a little surprised to find a light burning on the table,
+and Anna dressed, though in a lethargic and death-like sleep, her cap,
+handkerchief, and the contents of the casket, laying scattered on the floor
+where they had fallen as she attempted to rise.</p>
+
+         <p>He judged rightly, that the strength
+of the potion had overpowered her, and rejoiced to find the effect so
+favourable to his wishes. Determined to feast his eyes with her beauty before
+he extinguished the light, as there was not the most distant prospect of her
+awakening, he approached, and for a moment contemplated the enchanting
+loveliness of her face and person, licentiousness adding a deeper crimson to
+his cheek than even the flush of wine. He stooped to embrace her, but a
+convulsive smile at that instant overspreading her face, displayed the
+beauteous dimples of her cheek, which, however they might have charmed any other beholder, appeared to have a different effect upon Fitzmorris, who gave a momentary start; but instantly recovering himself, snatched up her hand, and imprinted it with an ardent kiss but as suddenly again dropping it, he stood transfixed with astonishment&#8212;a voice more than human appeared to sound in his ears&#8212;a clammy sweat hung on his forehead &#8212; the intemperate fever of passion gave way to the cold shiverings of an ague, and desire was lost in amazement and horror!</p>
+
+         <p> "Infernal remembrancer, what dost
+thou here?" at length exclaimed Fitzmorris. "Not all the malice of hell could
+have conjured up such another petrifying, though silent monitor. Is it not
+sufficient that my whole life has been embittered by my weak contrition, but
+that I must also be moved thus by the sight of a paltry ring? May not two be
+alike? Doubtless they may, and though alone, I am ashamed to give way to so
+womanish a folly."</p>
+
+         <p>With these words he again, yet,
+with the utmost agitation, raised her hand, and drew off the ring that caused
+his alarm; Anna at the same moment uttering a deep and piercing groan, which
+added fresh terror to his guilt-struck heart; but soon recovering, he hastily
+approached the candle to examine the trinket more minutely; but, far from
+deriving the satisfaction he expected, found, to his yet greater dismay, it was
+the very identical one he dreaded, and particularly identified by the initials
+on the reverse. His first surprise had, in great measure, overpowered the fumes
+of wine, and contributed not a little to recall some painful and long banished
+remembrances. Seating himself by the table, lost in thought, he fixed his eyes
+on Anna with a curiosity that totally overcame every other consideration; this,
+however, soon gave place to alarm, for he now perceived her so violently
+disordered by the potion she had swallowed, that her whole frame appeared
+universally convulsed.</p>
+
+         <p>Fear was now his predominant
+passion, for should she die thus suddenly it might have serious consequences.
+Mrs. Palmer would be immediately apprised, and might cause her to be opened, in
+which case, perhaps, the whole villainy would be discovered. In short, his
+sensations were of that kind, that such men alone could only deserve, or ever
+experience.</p>
+
+         <p>He now hung over her, not with the
+passion, that was vanished, but with the most acute anguish, dreading, as the
+convulsions increased, that he should see her expire. At length, though still
+senseless, she began to scream, and that so loud, that he was convinced it must
+echo through the house, and perhaps awaken Editha or Julia (for he did not much
+fear the housekeeper,) whom he had no doubt would immediately hasten to the
+spot. This supposition made him at first determine to leave the room; but Anna
+becoming suddenly more quiet, though evidently struggling for life, he
+listened, and the house appearing perfectly still, ventured to remain and
+sprinkle her face with water; at the same time vowing, that if he escaped with
+life, he would never more have recourse to such desperate means; even the
+horror and amazement occasioned by the ring, vanishing on the contemplation of
+her agonies.</p>
+
+         <p>While thus employed he was suddenly
+alarmed by the hastily opening of the door, and turning round, to his still
+further dismay and vexation, perceived Julia at his elbow, who, awakened by the
+screams, had only staid to put on a petticoat before she ran to the spot from
+whence she conjectured they proceeded.</p>
+
+         <p>Though Julia started at the sight
+of Fitzmorris thus employed, and at such an hour, yet his confusion more than
+doubled hers; but passion, assisted by his natural arrogance, after a moment
+overcame every other; he bade her be gone, demanding what business she had
+there.</p>
+
+         <p>"Business!" repeated Julia,
+"business! &#8212; more proper me ask what business you here.  No, your slave now massa. Me dream horrid dream &#8212;hear poor Missey cry out &#8212; so run see what matter."</p>
+
+         <p>"And so did I also," replied
+Fitzmorris, recovering his usual cunning, and smoothing his ruffled brow: "I
+heard Miss Palmer scream, and not being gone to bed hastened hither, and found
+her as you see, I fear in the agonies of death! You observed, Julia, that I was
+sprinkling her face with water when you entered."</p>
+
+         <p>"Oh! yes, me see dat sure enough
+but, massa, why you no call.  Poor soul," continued she, hanging piteously over
+Anna, "she die. Oh! she never wake more! Den her moder die too. Oh! wish never
+come here."</p>
+
+         <p>"Wish you had never come here!"
+answered Fitzmorris, in a rage, which he could not immediately repress: "What
+do you mean by that, you black devil? Do you think anybody has killed her?" 
+But instantly recollecting the folly of exasperating her, he added, "I am much
+grieved for her; can you judge what ails her?"</p>
+
+         <p>"No, bless heart!" answered Julia,
+gazing on her, "Never see nobody so but once&#8212;she die! Poor mulatto, you
+remember pretty Jenny, massa ?"</p>
+
+         <p>"Damn you !" exclaimed Fitzmorris,
+rage again overpowering cunning: "Name her again, and you shall have cause to
+repent it."</p>
+
+         <p>"Repent, massa! for what &#8212;for speak
+truth!  Dat no harm sure in free country? &#8212; No slave here &#8212; no whipping post."</p>
+
+         <p>"But there are pistols, infernal
+torment!" replied Fitzmorris, "and if you do not hold your tongue those, or
+something worse, shall be your portion."</p>
+
+         <p>Anna at that moment began to
+struggle afresh, and to scream more violently than before, the dispute was
+therefore forgotten in her danger, Fitzmorris and Julia both assisting her to
+the utmost of their power.</p>
+
+         <p>In this manner passed the whole
+night, Fitzmorris, with seeming concern, towards morning, calling the
+housekeeper and Editha, informing them that he had been first alarmed by
+hearing Anna's screams, and fearing some ill had befallen her, had repaired to
+her apartment, and found her as they now beheld her.</p>
+
+         <p>Editha, half distracted at the
+situation of her friend, was the first that mentioned medical assistance; nor
+had the frowns of her father, which used to silence her in a moment, the least
+effect &#8212; "Alas!" cried she, "what was night, or the distance from Hounslow! I
+would myself have almost flown in such a case for any human creature, and much
+more for my beloved Anna."</p>
+
+         <p>Fitzmorris, thus pressed, ordered
+his old house keeper to go to the town and procure help, as he well knew she
+would be absent the longest time; judging that, if Anna survived, the effects
+of the potion must, by her return, be exhausted, and beyond the power of being
+discovered by the person she brought with her.</p>
+
+         <p>Fitzmorris judged rightly, the strength of his
+infernal dose being evaporated, but not so its effects. Anna, soon after, with
+heavy and repeated groans, opened her eyes, and casting them mournfully around,
+they rested on Editha, who, enraptured to see her a moment free from the
+dreadful convulsions in which she had so long struggled, threw herself by her
+side, and watered her face with her tears. Anna, in a few minutes, began to
+appear sensible of her attentions; and throwing her arms around her neck,
+exclaimed, though faintly &#8212; "Oh! The wine! The wine!"</p>
+
+         <p>Had the sentence of death that moment been
+pronounced against Fitzmorris, it could not have produced a more striking
+effect; he trembled from head to foot; his face turned to a ghastly pale, and
+his teeth chattered as if in the paroxysm of an ague. "She &#8212; she &#8212; is delirious;"
+at length hesitated he &#8212; "she drank no wine but a glass with you, Editha; that,
+you know, could not hurt her! Her head is affected, and she merely says what
+first strikes her imagination."</p>
+
+         <p>Fitzmorris's agitation was not lost on either
+Editha or Julia, but caused different surmises in each bosom; the former simply
+wondered at his confusion; while the latter found her suspicions corroborated
+by his behaviour, and surmised the truth; for she knew her former tyrant
+capable of similar villainy.</p>
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00027" type="same novel"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

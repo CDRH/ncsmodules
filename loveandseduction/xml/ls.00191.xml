@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00191">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Pride and Prejudice</hi>
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter XIX</title>
+<title level="m" type="monograph"></title>
+<author name="Austen">Jane Austen</author>
+<date type="original" value="1813">1813</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00191</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 94-99 of the 1863 Ticknor and Fields edition of Jane Austen's <hi rend="italic">Pride and Prejudice</hi>, Chapter XIX.  Originally published in 1813.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XIX</title>
+               <title level="m">Pride and Prejudice</title>
+               <author>Jane Austen</author>
+               <imprint>
+                  <publisher>
+Ticknor and Fields
+
+</publisher>
+                  <pubPlace>
+Boston
+</pubPlace>
+               </imprint>
+               <date>
+1863
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="class" type="theme">class</term>
+			<term id="arrangedmarriage" type="theme">arranged marriage</term>
+				<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	  <change>
+            <date value="2005-08-26">26 August 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<head>Scene One:  Mr. Collins proposes to Elizabeth in the parlor</head>
+	<p>The next day opened a new scene at Longbourn.  Mr. Collins made his declaration in form.  Having resolved to do it without loss of time, as his leave of absence extended only to the following Saturday, and having no feelings of diffidence to make it distressing to himself even at the moment, he set about it in a very orderly manner, with all the observances which he supposed a regular part of the business.  On finding Mrs. Bennet, Elizabeth, and one of the younger girls together, soon after breakfast, he addressed the mother in these words:</p>
+	<p>"May I hope, madam, for your interest with your fair daughter Elizabeth, when I solicit for the honor of a private audience with her in the course of this morning?"</p>
+	<p>Before Elizabeth had time for anything but a blush of surprise, Mrs. Bennet instantly answered,</p>
+	<p>"Oh, dear!  Yes; certainly.  I am sure Lizzy will be very happy&#8212;I am sure she can have no objection.  Come, Kitty, I want you up stairs."  And gathering her work together, she was hastening away, when Elizabeth called out,</p>
+	<p>"Dear ma'am, do not go.  I beg you will not go.  Mr. Collins must excuse me.  He can having nothing to say to me that anybody need not hear.  I am going away myself."</p>
+	<p>"No, no, nonsense, Lizzy.  I desire you will stay where you are."  And, upon Elizabeth's seeming really, with vexed and embarrassed looks, about to escape, she added, "Lizzy, I <hi rend="italic">insist</hi> upon your staying and hearing Mr. Collins."</p>
+	<p>Elizabeth would not oppose such an injunction&#8212;and a moment's consideration making her also sensible that it would be wisest to get it over as soon and as quietly as possible, she sat down again, and tried to conceal, by incessant employment, the feelings which were divided between distress and diversion.  Mrs. Bennet and Kitty walked off, and as soon as they were gone, Mr. Collins began:</p>
+	<p>"Believe me, my dear Miss Elizabeth, that your modesty, so far from doing you any disservice, rather adds to your other perfections.  You would have been less amiable in my eyes had there <hi rend="italic">not</hi> been this little unwillingness; but allow me to assure you that I have your respected mother's permission for this address.  You can hardly doubt the purport of my discourse, however your natural delicacy may lead you to dissemble:  my attentions have been too marked to be mistaken.  Almost as soon as I entered the house, I singled you out as the companion of my future life.  But, before I am run away with by my feelings on this subject, perhaps it will be advisable for me to state my reasons for marrying&#8212;and, moreover, for coming into Hertfordshire with the design of selecting a wife, as I certainly did."</p>
+	<p>The idea of Mr. Collins, with all his solemn composure, being run away with by his feelings, made Elizabeth so near laughing, that she could not use the short pause he allowed in any attempt to stop him further, and he continued:</p>
+	<p>"My reasons for marrying are, first, that I think a right thing for every clergyman in easy circumstances [like myself] to set the example of matrimony in his parish.  Secondly that I am convinced it will add very greatly to my happiness and, thirdly&#8212;which, perhaps, I ought to have mentioned earlier, that it is the particular advice and recommendation of the very noble lady whom I have the honor of calling patroness.  Twice has she condescended to give me her opinion (unasked, too!) on this subject; and it was but the very Saturday night before I left Hunsford&#8212;between our pools at quadrille, while Mrs. Jenkinson was arranging Miss de Bourgh's footstool&#8212;that she said, 'Mr. Collins, you must marry.  A clergyman like you must marry.  Choose properly, choose a gentle woman, for <hi rend="italic">my</hi> sake; and for your <hi rend="italic">own</hi>, let her be an active, useful sort of person, not brought up high, but able to make a small income go a good way.  This is my advice.  Find such a woman as soon as you can, bring her to Hunsford, and I will visit her.'  Allow me, by the way, to observe, my fair cousin, that I do not reckon the notice and kindness of Lady Catherine de Bourgh as among the least of the advantages in my power to offer.  You will find her manners beyond anything I can describe; and your wit and vivacity I think must be acceptable to her, especially when tempered with the silence and respect which her rank willinevitably excite.  Thus much for my general intention in favor of matrimony; it remains to be told why my views were directed to Longbourn instead of my own neighborhood, where, I assure you, there are many amiable young women.  But, the fact is, that being as I am to inherit this estate after the death of your honored father, (who, however, may live many years longer,) I could not satisfy myself without resolving to choose a wife from among his daughters, that the loss to them might be as little as possible, when the melnacholy event takes place&#8212;which, however, as I have already said, may not be for several years.  This has been my motive, my fair cousin, and I flatter myself it will not sink me in your esteem.  And now, nothing remains for me but top assure you, in the most animated language, of the violence of my affection.  To fortune I am perfectly indifferent, and shall make no demand of that nature on your father, since I am well aware that it could not be complied with; and that one thousand pounds in the four per cents., which will not be yours till after your mother's decease, is all that you may ever be entitled to.  On that head, therefore, I shall be uniformly silent; and you may assure that no ungenerous reproach shall ever pass my lips when we are married."</p>
+	<p>It was absolutely necessary to interrupt him now.</p>
+	<p>"You are too hasty, sir," she cried.  "You forget that I have made no answer.  Let me do it without further loss of time.  Accept my thanks for the compliment you are paying me.  I am very sensible of the honor of your proposals, but it is impossible for me to otherwise than decline them."</p>
+	<p>"I am not now to learn," replied Mr. Collins, with a formal wave of the hand, "that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favor; and that sometimes the refusal is repeated a second or even a third time.  I am, therefore, by no means discouraged by what you have just said, and shall hope to lead you to the altar ere long."</p>
+	<p>"Upon my word, sir," cried Elizabeth, "your hope is rather an extraordinary one, after my declaration.  I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time.  I am perfectly serious in my refusal.  You could not make <hi rend="italic">me</hi> happy, and I am convinced that I am the last woman in the world who would make <hi rend="italic">you</hi> so.  Nay, were your friend Lady Catherine to know me, I am persuaded she would find me in every respect ill qualified for the situation."</p>
+	<p>"Were it certain that Lady Catherine would think so," said Mr. Collins, very gravely&#8212;"but I cannot imagine that her ladyship would at all disprove of you.  And you may be certain that when I have the honor of seeing her again, I shall speak in the highest terms of your modesty, economy, and other amiable qualifications."</p>
+	<p>"Indeed, Mr. Collins all praise of me will be unnecessary.  You must give me leave to judge for myself, and pay me the compliment of believing what I say.  I wish you very happy and very rich, and by refusing your hand, do all in my power to prevent your being otherwise.  In making me the offer, you must have satisfied the delicacy of your feelings with regard to my family, and may take possession of Longbourn estate whenever it falls, without any self-reproach.  This matter may be considered, therefore, as finally settled."  And rising as she thus spoke, she would have quitted the room, had not Mr. Collins thus addressed her:</p>
+	<p>"When I do myself the honor of speaking to you next on the subject, I shall hope to receive a more favorable answer than you have now given me; though I am far from accusing you of cruelty at present, because I know it to be the established custom of your sex to reject a man on the first application; and, perhaps, you have even now said as much to encourage my suit as would be consistent with the true delicacy of the female character."</p>
+	<p>"Really, Mr. Collins," cried Elizabeth, with some warmth, "you puzzle me exceedingly.  If what I have hitherto said can appear to you in the form of encouragement, I know not how to express my refusal in such a way as may convince you of its being one."</p>
+	<p>"You must give me leave to flatter myself, my dear cousin, that your refusal of my addresses is merely a thing of course.  My reasons for believing it are briefly these:&#8212;It does not appear to me that my hand is unqorthy your acceptance, or that the establishment I can offer would be any other than highly desirable.  My situation in life, my connections with the family of De Bourgh, and my relationship to your own, are circumstances highly in my favor; and you should take it into further consideration that, in spite of your manifold attractions, it is by no means certain that another offer of marriage may ever be made you.  Your portion is unhappily so small, that it will in all likelihood undo the effects of your loveliness and amiable qualifications.  As I must therefore conclude that you are not serious in your rejection of me, I shall choose to attribute it to your wish of increasing my love by suspense, according to the usual practice of elegant females."</p>
+	<p>"I do assure, you, sir, that I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man.  I would rather be paid the compliment of being believed sincere.  I thank you again for the honor you have done me in your proposals, but to accept them is absolutely impossible.  My feelings in every respect forbid it.  Can I speak plainer?  Do not consider me now as an elegant female intending to plague you, but as a rational creature speaking the truth from her heart."</p>
+	<p>"You are uniformly charming!" cried he, with an air of awkward gallantry; "and I am persuaded that when sanctionedby the express authority of both your excellent parents, my proposals will not fail of being acceptable."</p>
+	<p>To such perseverance in wilful self-deception, Elizabeth would make no reply, and immediately and in silence withdrew; determined, that if he persisted in considering her repeated refusals as flattering encouragement, to apply to her father, whose negative might be uttered in such a manner as must be decisive, and whose behavior at least could not be mistaken for the affectation and coquetry of an elegant female.</p>
+
+
+
+      </body>
+   </text>
+</TEI.2>

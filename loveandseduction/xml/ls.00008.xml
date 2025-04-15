@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00008">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Maud</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name="Tennyson">Alfred, Lord Tennyson</author>
+<date type="original" value="1855">1855</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00008</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 56-61 of the J.B. Lippincott's 1878 edition of Alfred Tennyson's <hi rend="italic">Maud</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Chapter XXII</title>
+               <title level="m"><hi rend="italic">Maud</hi></title>
+               <author>Alfred Tennyson</author>
+               <imprint>
+                  <publisher>
+J.B. Lippincott and Company
+
+</publisher>
+                  <pubPlace>
+Philadelphia
+
+</pubPlace>
+               </imprint>
+               <date>
+1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="garden" type="setting">garden</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="british" type="place">British</term>
+			<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-10">10 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+         <lg1 type="poem">
+            <head type="main">Maud </head>
+		<head type="sub">XXII</head>
+		<lg2 type="stanza">
+		<head type="sub">I.</head>
+         <l>COME into the garden, Maud, </l>
+
+         <l>For the black bat, Night, has flown, </l>
+
+         <l>Come into the garden, Maud, </l>
+
+         <l>I am here at the gate alone; </l>
+
+         <l>And the woodbine spices are wafted
+abroad, </l>	
+         <l>And the musk of the roses blown. </l>
+		</lg2>
+         
+		<lg2 type="stanza">
+		<head type="sub">II.</head>
+         <l>For a breeze of morning moves, </l>
+
+         <l>And the planet of Love is on high, </l>
+
+         <l>Beginning to faint in the light
+that she loves </l>
+
+         <l>On a bed of daffodil sky, </l>
+
+         <l>To faint in the light of the sun
+she loves, </l>
+
+         <l>To faint in his light, and to die. </l>
+		</lg2>
+			
+         
+		<lg2 type="stanza">
+		<head type="sub">III.</head>
+         <l>All night have the roses heard </l>
+
+         <l>The flute, violin, bassoon; </l>
+
+         <l>All night has the casement
+jessamine stirr'd </l>
+
+         <l>To the dancers dancing in tune: </l>
+
+         <l>Till a silence fell with the
+waking bird, </l>
+
+         <l>And a hush with the setting moon. </l>
+		</lg2>
+         
+		<lg2 type="stanza">
+		<head type="sub">IV.</head>
+         <l>I said to the lily, "There is
+but one </l>
+
+         <l>With whom she has heart to be gay. </l>
+
+         <l>When will the dancers leave her
+alone</l>
+
+         <l>She is weary of dance and
+play." </l>
+
+         <l>Now half to the setting moon are
+gone, </l>
+
+         <l>And half to the rising day; </l>
+
+         <l>Low on the sand and loud on the
+stone </l>
+
+         <l>The last wheel echoes away. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+		<head type="sub">V.</head>
+
+         <l>I said to the rose, "The
+brief night goes </l>
+
+         <l>In babble and revel and wine. </l>
+
+         <l>O young lordlover, what sighs are
+those </l>
+
+         <l>For one that will never be thine?</l>
+
+         <l>But mine, but mine," so I
+sware to the rose, </l>
+
+         <l>"For ever and ever,
+mine." </l>
+		</lg2>
+         
+		<lg2 type="stanza">
+		<head type="sub">VI.</head>
+         <l>And the soul of the rose went into
+my blood, </l>
+
+         <l>As the music clash'd in the hall; </l>
+
+         <l>And long by the garden lake I
+stood, </l>
+
+         <l>For I heard your rivulet fall </l>
+
+         <l>From the lake to the meadow and on
+to the wood, </l>
+
+         <l>Our wood, that is dearer than all; </l>
+		</lg2>
+         
+		<lg2 type="stanza">
+		<head type="sub">VII.</head>
+         <l>From the meadow your walks have
+left so sweet </l>
+
+         <l>That whenever a March-wind sighs </l>
+
+         <l>He sets the jewelprint of your
+feet </l>
+
+         <l>In violets blue as your eyes, </l>
+
+         <l>To the woody hollows in which we
+meet </l>
+
+         <l>And the valleys of Paradise. </l>
+		</lg2>
+         
+		<lg2 type="stanza">
+		<head type="sub">VIII.</head>
+         <l>The slender acacia would not shake
+</l>
+
+         <l>One long milk-bloom on the tree; </l>
+
+         <l>The white lake-blossom fell into
+the lake, </l>
+
+         <l>As the pimpernel dozed on the lea; </l>
+
+         <l>But the rose was awake all night
+for your sake, </l>
+
+         <l>Knowing your promise to me; </l>
+
+         <l>The lilies and roses were all
+awake, </l>
+
+         <l>They sigh'd for the dawn and thee. </l>
+		</lg2>
+		
+		<lg2 type="stanza">
+		<head type="sub">IX.</head>
+         <l>Queen rose of the rosebud garden
+of girls, </l>
+
+         <l>Come hither, the dances are done, </l>
+
+         <l>In gloss of satin and glimmer of
+pearls, </l>
+
+         <l>Queen lily and rose in one; </l>
+
+         <l>Shine out, little head, sunning
+over with curls, </l>
+
+         <l>To the flowers, and be their sun. </l>
+		</lg2>
+
+		<lg2 type="stanza">
+		<head type="sub">X.</head>
+         <l>There has fallen a splendid tear </l>
+
+         <l>From the passion-flower at the
+gate. </l>
+
+         <l>She is coming, my dove, my dear; </l>
+
+         <l>She is coming, my life, my fate; </l>
+
+         <l>The red rose cries, "She is
+near, she is near;" </l>
+
+         <l>And the white rose weeps, "She
+is late;" </l>
+
+         <l>The larkspur listens, "I
+hear, I hear;" </l>
+
+         <l>And the lily whispers, "I
+wait." </l>
+		</lg2>
+
+		<lg2 type="stanza">
+		<head type="sub">XI.</head>
+         <l>She is coming, my own, my sweet; </l>
+
+         <l>Were it ever so airy a tread, </l>
+
+         <l>My heart would hear her and beat, </l>
+
+         <l>Were it earth in an earthy bed; </l>
+
+         <l>My dust would hear her and beat, </l>
+
+         <l>Had I lain for a century dead; </l>
+
+         <l>Would start and tremble under her
+feet, </l>
+
+         <l>And blossom in purple and red. </l>
+		</lg2>
+		</lg1>
+
+
+
+<div1 type="file references">
+            <list>
+                              <item>
+                  <xptr n="ls.00001" type="commentary on fiction"/>
+               </item>
+  <item>
+                  <xptr n="ls.00007" type="same author"/>
+               </item>
+
+	<item>
+                  <xptr n="ls.00175" type="image on same author"/>
+               </item>
+	<item>
+                  <xptr n="ls.00176" type="image on same author"/>
+               </item>
+	<item>
+                  <xptr n="ls.00177" type="image on same author"/>
+               </item>               
+
+		<item><xptr n="ls.00173" type="image on same author"/></item>
+		<item><xptr n="ls.00174" type="image on same author"/></item>            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

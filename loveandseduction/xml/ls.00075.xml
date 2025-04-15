@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00075">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The American Senator</hi></title>
+		<title level="c" type="chapter">from Chapter 70, "At Last" and Chapter 71 "My Own, Own Husband"</title>
+<date type="original" value="1877">1877</date>
+
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Trollope">Anthony Trollope
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00075</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Anthony Trollope's <hi rend="italic">The American Senator</hi>, Chapter 70, "At Last" and Chapter 71 "My Own, Own Husband."  Originally published in 1877.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter 70,"At Last" and Chapter 71, "My Own, Own Husband"</title>
+               <title level="m"><hi rend="italic">The American Senator</hi></title>
+               <author>Anthony Trollope</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>
+2004
+</date>
+         
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="countrywalk" type="setting">country walk</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="british" type="place">British</term>
+			<term id="fiction" type="media">fiction</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+<change>
+            <date value="2005-03-07">07 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+ <head type="editorial">Scene Three: Genteel Spinster and Older Man betrothed on a
+country walk</head>
+	<div>
+<p>Since the old days, the old days of all, since the days to which Reginald had referred when he asked her to pass over the bridge with him, she had never yet walked about the Bragton grounds. She had often been to the house, visiting Lady Ushant; but she had simply gone thither and returned. And indeed, when the house had been empty, the walk from Dillsborough to the bridge and back had been sufficient exercise for herself and her sisters. But now she could go whither she listed and bring her memory to all the old spots. With the tenacity as to household matters which characterised the ladies of the country some years since, Lady Ushant employed all her mornings and those of her young friend in making inventories of everything that was found in the house; but her afternoons were her own, and she wandered about with a freedom she had never known before. At this time Reginald Morton was up in London and had been away nearly a week. He had gone intending to be absent for some undefined time, so that Lady Ushant and Mrs. Hopkins were free from all interruption. It was as yet only the middle of March and the lion had not altogether disappeared; but still Mary could get out. She did not care much for the wind; and she roamed about among the leafless shrubberies, thinking,&#8212; probably not of many things,&#8212;meaning always to think of the past, but unable to keep her mind from the future, the future which would so soon be the present. How long would it be before the coming of that stately dame?  Was he in quest of her now?  Had he perhaps postponed his demand upon her till fortune had made him rich?  Of course she had no right to be sorry that he had inherited the property which had been his almost of right; but yet, had it been otherwise, might she not have had some chance?  But, oh, if he had said a word to her, only a word more than he had spoken already,--a word that might have sounded like encouragement to others beside herself, and then have been obliged to draw back because of the duty which he owed to the property, how much worse would that have been! She did own to herself that the squire of Bragton should not look for his wife in the house of a Dillsborough attorney. As she thought of this a tear ran down her cheek and trickled down on to the wooden rail of the little bridge.</p>
+
+<p>"There's no one to give you an excuse now, and you must come and walk round with me," said a voice, close to her ear.</p>
+
+<p>"Oh, Mr. Morton, how you have startled me!"</p>
+
+<p>"Is there anything the matter, Mary?" said he, looking up into her face.</p>
+
+<p>"Only you have startled me so."</p>
+
+<p>"Has that brought tears into your eyes."</p>
+
+<p>"Well,&#8212;I suppose so," she said trying to smile. "You were so very quiet and I thought you were in London."</p>
+
+<p>"So I was this morning, and now I am here. But something else has made you unhappy."</p>
+
+<p>"No; nothing."</p>
+
+<p>"I wish we could be friends, Mary. I wish I could know your secret.  You have a secret."</p>
+
+<p>"No," she said boldly.</p>
+
+<p>"Is there nothing?"</p>
+
+<p>"What should there be, Mr. Morton!"</p>
+
+<p>"Tell me why you were crying."</p>
+
+<p>"I was not crying. Just a tear is not crying. Sometimes one does get melancholy. One can't cry when there is any one to look, and so one does it alone. I'd have been laughing if I knew that you were coming."</p>
+
+<p>"Come round by the kennels. You can get over the wall;&#8212;can't you?"</p>
+
+<p>"Oh yes."</p>
+
+<p>"And we'll go down the old orchard, and get out by the corner of the park fence." Then he walked and she followed him, hardly keeping close by his side, and thinking as she went how foolish she had been not to have avoided the perils and fresh troubles of such a walk. When he was helping her over the wall he held her hands for a moment and she was aware of unusual pressure. It was the pressure of love,&#8212;or of that pretence of love which young men, and perhaps old men, sometimes permit themselves to affect. In an ordinary way Mary would have thought as little of it as another girl. She might feel dislike to the man, but the affair would be too light for resentment. With this man it was different. He certainly was not justified in making the slightest expression of factitious affection. He at any rate should have felt himself bound to abstain from any touch of peculiar tenderness. She would not say a word. She would not even look at him with angry eyes. But she twitched both her hands away from him as she sprang to the ground. Then there was a passage across the orchard,&#8212;not more than a hundred yards, and after that a stile. At the stile she insisted on using her own hand for the custody of her dress. She would not even touch his outstretched arm. "You are very independent," he said.</p>
+
+<p>"I have to be so."</p>
+
+<p>"I cannot make you out, Mary. I wonder whether there is still anything rankling in your bosom against me."</p>
+
+<p>"Oh dear no. What should rankle with me?"</p>
+
+<p>"What indeed;&#8212;unless you resent my&#8212;regard."</p>
+
+<p>"I am not so rich in friends as to do that, Mr. Morton."</p>
+
+<p>"I don't suppose there can be many people who have the same sort of feeling for you that I have."</p>
+
+<p>"There are not many who have known me so long, certainly."</p>
+
+<p>"You have some friend, I know," he said.</p>
+
+<p>"More than one I hope."</p>
+
+<p>"Some special friend. Who is he, Mary?"</p>
+
+<p>"I don't know what you mean, Mr. Morton." She then thought that he was still alluding to Lawrence Twentyman.</p>
+
+<p>"Tell me, Mary."</p>
+
+<p>"What am I to tell you?"</p>
+
+<p>"Your father says that there is some one."</p>
+
+<p>"Papa!"</p>
+
+<p>"Yes;&#8212;your father."</p>
+
+<p>Then she remembered it all;&#8212;how she had been driven into a half confession to her father. She could not say there was nobody. She certainly could not say who that some one was. She could not be silent, for by silence she would be confessing a passion for some other man,&#8212;a passion which certainly had no existence. "I don't know why papa should talk about me," she said, "and I certainly don't know why you should repeat what he said."</p>
+
+<p>"But there is some one?" She clenched her fist, and hit out at the air with her parasol, and knit her brows as she looked up at him with a glance of fire in her eye which he had never seen there before. "Believe me, Mary," he said; "if ever a girl had a sincere friend, you have one in me. I would not tease you by impertinence in such a matter. I will be as faithful to you as the sun. Do you love any one?"</p>
+
+<p>"Yes," she said turning round at him with ferocity and shouting out her answer as she pressed on.</p>
+
+<p>"Who is he, Mary?"</p>
+
+<p>"What right have you to ask me?  What right can any one have?  Even your aunt would not press me as you are doing."</p>
+
+<p>"My aunt could not have the same interest. Who is he, Mary?"</p>
+
+<p>"I will not tell you."</p>
+
+<p>He paused a few moments and walked on a step or two before he spoke again. "I would it were I," he said.</p>
+
+<p>"What!" she ejaculated.</p>
+
+<p>"I would it were I," he repeated.</p>
+
+<p>One glance of her eye stole itself round into his face, and then her face was turned quickly to the ground. Her parasol which had been raised drooped listless from her hand. All unconsciously she hastened her steps and became aware that the tears were streaming from her eyes. For a moment or two it seemed to her that all was still hopeless. If he had no more to say than that, certainly she had not a word. He had made her no tender of his love. He had not told her that in very truth she was his chosen one. After all she was not sure that she understood the meaning of those words "I would it were I." But the tears were coming so quick that she could see nothing of the things around her, and she did not dare even to put her hand up to her eyes. If he wanted her love,&#8212;if it was possible that he really wished for it,&#8212;why did he not ask for it?  She felt his footsteps close to hers, and she was tempted to walk on quicker even than before. Then there came the fingers of a hand round her waist, stealing gradually on till she felt the pressure of his body on her shoulders. She put her hand up weakly, to push back the intruding fingers,&#8212;only to leave it tight in his grasp. Then,&#8212;then was the first moment in which she realized the truth. After all he did love her. Surely he would not hold her there unless he meant her to know that he loved her. "Mary," he said. To speak was impossible, but she turned round and looked at him with imploring eyes. "Mary,&#8212;say that you will be my wife."</p>
+</div>
+	<div>
+<head>CHAPTER XVII:  "My own, own Husband"</head>
+
+<p>Yes;&#8212;it had come at last. As one may imagine to be the certainty of paradise to the doubting, fearful, all but despairing soul when it has passed through the gates of death and found in new worlds a reality of assured bliss, so was the assurance to her, conveyed by that simple request, "Mary, say that you will be my wife." It did not seem to her that any answer was necessary. Will it be required that the spirit shall assent to its entrance into Elysium?  Was there room for doubt?  He would never go back from his word now. He would not have spoken the word had he not been quite, quite certain. And he had loved her all that time, when she was so hard to him! It must have been so. He had loved her, this bright one, even when he thought that she was to be given to that clay-bound rustic lover! Perhaps that was the sweetest of it all, though in draining the sweet draught she had to accuse herself of hardness, blindness and injustice. Could it be real?  Was it true that she had her foot firmly placed in Paradise?  He was there, close to her, with his arm still round her, and her fingers grasped within his. The word wife was still in her ears,&#8212;surely the sweetest word in all the language! What protestation of love could have been so eloquent as that question?  "Will you be my wife?" No true man, she thought, ever ought to ask the question in any other form. But her eyes were still full of tears, and as she went she knew not where she was going. She had forgotten all her surroundings, being only aware that he was with her, and that no other eyes were on them.</p>
+
+<p>Then there was another stile on reaching which he withdrew his arm and stood facing her with his back leaning against it. "Why do you weep?" he said;&#8212;"and, Mary, why do you not answer my question?  If there be anybody else you must tell me now."</p>
+
+<p>"There is nobody else," she said almost angrily. "There never was. There never could be."</p>
+
+<p>"And yet there was somebody!" She pouted her lips at him, glancing up into his face for half a second, and then again hung her head down. "Mary, do not grudge me my delight."</p>
+
+<p>"No;&#8212;no;&#8212;no!"</p>
+
+<p>"But you do."</p>
+
+<p>"No. If there can be delight to you in so poor a thing, have it all."</p>
+
+<p>"Then you must kiss me, dear." She gently came to him,&#8212;oh so gently,&#8212;and with her head still hanging, creeping towards his shoulder, thinking perhaps that the motion should have been his, but still obeying him, and then, leaning against him, seemed as though she would stoop with her lips to his hand. But this he did not endure. Seizing her quickly in his arms he drew her up, till her not unwilling face was close to his, and there he kept her till she was almost frightened by his violence. "And now, Mary, what do you say to my question?  It has to be answered."</p>
+
+<p>"You know."</p>
+
+<p>"But that will not do, I will have it in words. I will not be shorn of my delight."</p>
+
+<p>That it should be a delight to him, was the very essence of her heaven. "Tell me what to say," she answered. "How may I say it best?"</p>
+
+<p>"Reginald Morton," he began.</p>
+
+<p>"Reginald," she repeated it after him, but went no farther in naming him.</p>
+
+<p>"Because I love you better than in the world&#8212;"</p>
+
+<p>"I do."</p>
+
+<p>"Ah, but say it."</p>
+
+<p>"Because I love you, oh, so much better than all the world besides."</p>
+
+<p>"Therefore, my own, own husband&#8212;"</p>
+
+<p>"Therefore, my own, own&#8212;," Then she paused.</p>
+
+<p>"Say the word."</p>
+
+<p>"My own, own husband."</p>
+
+<p>"I will be your true wife."</p>
+
+<p>"I will be your own true loving wife." Then he kissed her again.</p>
+
+<p>"That," he said, "is our little marriage ceremony under God's sky, and no other can be more binding. As soon as you, in the plentitude of your maiden power, will fix a day for the other one, and when we can get that over, then we will begin our little journey together."</p>
+
+<p>"But Reginald!"</p>
+
+<p>"Well, dear!"</p>
+
+<p>"You haven't said anything."</p>
+
+<p>"Haven't I?  I thought I had said it all."</p>
+
+<p>"But you haven't said it for yourself!"</p>
+
+<p>"You say what you want,&#8212;and I'll repeat it quite as well as you did."</p>
+
+<p>"I can't do that. Say it yourself."</p>
+
+<p>"I will be your true husband for the rest of the journey;&#8212;by which I mean it to be understood that I take you into partnership on equal terms, but that I am to be allowed to manage the business just as I please."</p>
+
+<p>"Yes;&#8212;that you shall," she said, quite in earnest.</p>
+
+<p>"Only as you are practical and I am vague, I don't doubt that everything will fall into your hands before five years are over, and that I shall have to be told whether I can afford to buy a new book, and when I am to ask all the gentry to dinner."</p>
+
+<p>"Now you are laughing at me because I shall know so little about anything."</p>
+
+<p>"Come, dear; let us get over the stile and go on for another field, or we shall never get round the park." Then she jumped over after him, just touching his hand. "I was not laughing at you at all. I don't in the least doubt that in a very little time you will know everything about everything."</p>
+	</div>
+
+<div1 type="file references">
+            <list>
+	<item><xptr n="ls.00011" type="same author"/></item>
+			<item><xptr n="ls.00073" type="same author"/></item>
+              	<item><xptr n="ls.00074" type="same novel"/></item>
+			<item><xptr n="ls.00010" type="same novel"/></item> 
+		</list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

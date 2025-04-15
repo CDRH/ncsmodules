@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00102</field>
+      <field name="title">The Triumph of the Republic</field>
+      <field name="project">liberty</field>
+      <field name="genre">paintings</field>
+      <field name="place">spanish</field>
+      <field name="topic">spain</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00195">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Eugenie Grandet</hi>
+</title>
+
+<author name="Balzac">Honor&#233; de Balzac</author>
+<date type="original" value="1833">1833</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00195</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Honor&#233; de Balzac's <hi rend="italic">Eug&#233;nie Grandet</hi>.  Originally published in 1833.  This translation by Katherine Prescott Wormeley.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a"></title>
+               <title level="m">Eug&#233;nie Grandet</title>
+               <author>Honor&#233; de Balzac</author>
+               <imprint>
+                  <publisher>Project Gutenberg
+
+</publisher>
+                  <pubPlace>www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>2004
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="boudoir" type="setting">boudoir</term>
+               <term id="courtship" type="theme">courtship</term>
+						<term id="french" type="place">French</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+         <text>
+      <body>
+<head>Scene One:  Eug&#233;nie visits her sick cousin in his chamber at night</head>
+
+<p>Thus passed the solemn day which was destined to weight upon the whole
+life of the rich and poor heiress, whose sleep was never again to be
+so calm, nor yet so pure, as it had been up to this moment. It often
+happens that certain actions of human life seem, literally speaking,
+improbable, though actual. Is not this because we constantly omit to
+turn the stream of psychological light upon our impulsive
+determinations, and fail to explain the subtile reasons, mysteriously
+conceived in our minds, which impelled them? Perhaps Eug&#233;nie's deep
+passion should be analyzed in its most delicate fibres; for it became,
+scoffers might say, a malady which influenced her whole existence.
+Many people prefer to deny results rather than estimate the force of
+ties and links and bonds, which secretly join one fact to another in
+the moral order. Here, therefore, Eug&#233;nie's past life will offer to
+observers of human nature an explanation of her naive want of
+reflection and the suddenness of the emotions which overflowed her
+soul. The more tranquil her life had been, the more vivid was her
+womanly pity, the more simple-minded were the sentiments now developed
+in her soul.</p>
+
+<p>Made restless by the events of the day, she woke at intervals to
+listen to her cousin, thinking she heard the sighs which still echoed
+in her heart. Sometimes she saw him dying of his trouble, sometimes
+she dreamed that he fainted from hunger. Towards morning she was
+certain that she heard a startling cry. She dressed at once and ran,
+in the dawning light, with a swift foot to her cousin's chamber, the
+door of which he had left open. The candle had burned down to the
+socket. Charles, overcome by nature, was sleeping, dressed and sitting
+in an armchair beside the bed, on which his head rested; he dreamed as
+men dream on an empty stomach. Eug&#233;nie might weep at her ease; she
+might admire the young and handsome face blotted with grief, the eyes
+swollen with weeping, that seemed, sleeping as they were, to well
+forth tears. Charles felt sympathetically the young girl's presence;
+he opened his eyes and saw her pitying him.</p>
+
+<p>"Pardon me, my cousin," he said, evidently not knowing the hour nor
+the place in which he found himself.</p>
+
+<p>"There are hearts who hear you, cousin, and <hi rend="italic">we</hi> thought you might
+need something. You should go to bed; you tire yourself by sitting
+thus."</p>
+
+<p>"That is true."</p>
+
+<p>"Well, then, adieu!"</p>
+
+<p>She escaped, ashamed and happy at having gone there. Innocence alone
+can dare to be so bold. Once enlightened, virtue makes her
+calculations as well as vice. Eug&#233;nie, who had not trembled beside her
+cousin, could scarcely stand upon her legs when she regained her
+chamber. Her ignorant life had suddenly come to an end; she reasoned,
+she rebuked herself with many reproaches.</p>
+
+<p>"What will he think of me? He will think that I love him!"</p>
+
+<p>That was what she most wished him to think. An honest love has its own
+prescience, and knows that love begets love. What an event for this
+poor solitary girl thus to have entered the chamber of a young man!
+Are there not thoughts and actions in the life of love which to
+certain souls bear the full meaning of the holiest espousals? An hour
+later she went to her mother and dressed her as usual. Then they both
+came down and sat in their places before the window waiting for
+Grandet, with that cruel anxiety which, according to the individual
+character, freezes the heart or warms it, shrivels or dilates it, when
+a scene is feared, a punishment expected,&#8212;a feeling so natural that
+even domestic animals possess it, and whine at the slightest pain of
+punishment, though they make no outcry when they inadvertently hurt
+themselves. The goodman came down; but he spoke to his wife with an
+absent manner, kissed Eug&#233;nie, and sat down to table without appearing
+to remember his threats of the night before.</p>
+
+<div1 type="file references">
+            <list>
+               			<item><xptr n="ls.00196" type="same novel"/></item>
+              	<item><xptr n="ls.00197" type="same novel"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

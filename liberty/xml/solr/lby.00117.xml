@@ -1,0 +1,14 @@
+<add>
+   <doc>
+      <field name="id">lby.00117</field>
+      <field name="title">The 28th of July: Liberty Leading the People</field>
+      <field name="project">liberty</field>
+      <field name="genre">paintings</field>
+      <field name="place">french</field>
+      <field name="topic">libertycap</field>
+      <field name="topic">icon</field>
+      <field name="topic">gender</field>
+      <field name="topic">rev1830</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

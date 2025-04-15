@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00060">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Letter to John Adams</title>
+        
+<date type="original" value="1821">1821</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Jefferson">Thomas Jefferson</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00060</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 702-703 of the 1944 Modern Library edition of <hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi>, edited by Adrienne Koch and William Peden.  
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Letter to John Adams&#8212;September 12, 1821
+</title>
+               <title level="m"><hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi></title>
+               <author>Thomas Jefferson</author>
+               <imprint>
+                  <publisher>Random House</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1944
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="jefferson" type="topic">Jefferson</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-17">17 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<head>To John Adams</head>
+
+	<dateline>Monticello, September 12, 1821</dateline>
+
+	<p>....Yet I will not believe our labors are lost.  I shall not die without a hope that light and liberty are on steady advance.  We have seen, indeed, once within the records of history, a complete eclipse of the human mind continuing for centuries.  And this, too, by swarms of the same northern barbarians, conquering and taking possession of the countries and governments of the civilized world.  Should this be again attempted, should the same northern hordes, allured again by the corn, wine, and oil of the south, be able again to settle their swarms in the countries of their growth, the art of printing alone, and the vast dissemination of books, will maintain the mind where it is, and raise the conquering ruffians to the level of the conquered, instead of degrading these to that of their conquerors.  And even should the cloud of barbarism and despotism again obscure the science and liberties of Europe, this country remains to preserve and restore light and liberty to them.  In short, the flames kindled on the 4th of July, 1776, have spread over too much of the globe to be extinguished by the feeble engines of despotism; on the contrary, they will consume these engines and all who work them.....</p>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00057" type="same author"/>	      
+		<xptr n="lby.00058" type="same author"/>
+		<xptr n="lby.00059" type="same author"/>
+		<xptr n="lby.00056" type="same author"/>
+		</item>
+		</list>
+	      </div>
+
+</body>
+   </text>
+</TEI.2>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00071">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Adam Bede</hi>
+</title>
+		<title level="c" type="chapter">from Chapter 54, "The Meeting on the Hill"</title>
+		<date type="original" value="1859">1859</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Eliot">George Eliot</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00071</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+"Transcribed from the Project Gutenberg text of George Eliot's <hi rend="italic">Adam Bede</hi>, Chapter 54, "The Meeting on the Hill."  Originally published in 1859."
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Meeting on the Hill</title>
+               <title level="m"><hi rend="italic">Adam Bede</hi></title>
+               <author>George Eliot</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="countrywalk" type="setting">country walk</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-11">11 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+       
+<head type="editorial">Scene Four: Adam and Dinah's betrothal walk</head>
+
+
+<p>He did not expect Dinah to be at home at this hour, but he got
+down from his horse and tied it at the little gate, that he might
+ask where she was gone to-day. He had set his mind on following
+her and bringing her home. She was gone to Sloman's End, a hamlet
+about three miles off, over the hill, the old woman told him&#8212;had
+set off directly after morning chapel, to preach in a cottage
+there, as her habit was. Anybody at the town would tell him the
+way to Sloman's End. So Adam got on his horse again and rode to
+the town, putting up at the old inn and taking a hasty dinner
+there in the company of the too chatty landlord, from whose
+friendly questions and reminiscences he was glad to escape as soon
+as possible and set out towards Sloman's End. With all his haste
+it was nearly four o'clock before he could set off, and he thought
+that as Dinah had gone so early, she would perhaps already be near
+returning. The little, grey, desolate-looking hamlet, unscreened
+by sheltering trees, lay in sight long before he reached it, and
+as he came near he could hear the sound of voices singing a hymn. 
+"Perhaps that's the last hymn before they come away," Adam
+thought. "I'll walk back a bit and turn again to meet her,
+farther off the village." He walked back till he got nearly to
+the top of the hill again, and seated himself on a loose stone,
+against the low wall, to watch till he should see the little black
+figure leaving the hamlet and winding up the hill. He chose this
+spot, almost at the top of the hill, because it was away from all
+eyes&#8212;no house, no cattle, not even a nibbling sheep near&#8212;no
+presence but the still lights and shadows and the great embracing
+sky.</p>
+
+<p>She was much longer coming than he expected. He waited an hour at
+least watching for her and thinking of her, while the afternoon
+shadows lengthened and the light grew softer. At last he saw the
+little black figure coming from between the grey houses and
+gradually approaching the foot of the hill. Slowly, Adam thought,
+but Dinah was really walking at her usual pace, with a light quiet
+step. Now she was beginning to wind along the path up the hill,
+but Adam would not move yet; he would not meet her too soon; he
+had set his heart on meeting her in this assured loneliness. And
+now he began to fear lest he should startle her too much. "Yet,"
+he thought, "she's not one to be overstartled; she's always so
+calm and quiet, as if she was prepared for anything."</p>
+
+<p>What was she thinking of as she wound up the hill? Perhaps she
+had found complete repose without him, and had ceased to feel any
+need of his love. On the verge of a decision we all tremble: hope
+pauses with fluttering wings.</p>
+
+<p>But now at last she was very near, and Adam rose from the stone
+wall. It happened that just as he walked forward, Dinah had
+paused and turned round to look back at the village&#8212;who does not
+pause and look back in mounting a hill? Adam was glad, for, with
+the fine instinct of a lover, he felt that it would be best for
+her to hear his voice before she saw him. He came within three
+paces of her and then said, "Dinah!" She started without looking
+round, as if she connected the sound with no place. "Dinah!" Adam
+said again. He knew quite well what was in her mind. She was so
+accustomed to think of impressions as purely spiritual monitions that she looked for no material visible accompaniment of the voice.</p>
+
+<p>But this second time she looked round. What a look of yearning
+love it was that the mild grey eyes turned on the strong dark-eyed
+man! She did not start again at the sight of him; she said
+nothing, but moved towards him so that his arm could clasp her
+round.</p>
+
+<p>And they walked on so in silence, while the warm tears fell. Adam
+was content, and said nothing. It was Dinah who spoke first.</p>
+
+<p>"Adam," she said, "it is the Divine Will. My soul is so knit to
+yours that it is but a divided life I live without you. And this
+moment, now you are with me, and I feel that our hearts are filled
+with the same love. I have a fulness of strength to bear and do
+our heavenly Father's Will that I had lost before."</p>
+
+<p>Adam paused and looked into her sincere eyes.</p>
+
+<p>"Then we'll never part any more, Dinah, till death parts us."</p>
+
+<p>And they kissed each other with a deep joy.</p>
+
+<p>What greater thing is there for two human souls than to feel that
+they are joined for life&#8212;to strengthen each other in all labour,
+to rest on each other in all sorrow, to minister to each other in
+all pain, to be one with each other in silent unspeakable memories
+at the moment of the last parting?</p>
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00069" type="same novel"/></item>
+			<item><xptr n="ls.00070" type="same novel"/></item>
+              	<item><xptr n="ls.00035" type="same novel"/></item>
+			<item><xptr n="ls.00036" type="same author"/></item>
+			<item><xptr n="ls.00072" type="same author"/></item> 
+<item><xptr n="ls.00083" type="commentary on same author"/></item>
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00064">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">This Brief Tragedy: Unraveling the Todd-Dickinson Affair</hi></title>
+		<title level="c" type="chapter">Chapter 2, "Mrs. Todd: Two Men for Me"</title>
+		<date type="original" value="1991">1991</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Walsh">John Evangelist Walsh
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00064</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 35-55 of John Evangelist Walsh's <hi rend="italic">This Brief Tragedy: Unraveling the Todd-Dickinson Affair</hi>.  Published by Grove Weidenfeld, 1991."
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">Mrs. Todd: Two Men for Me</title>
+               <title level="m"><hi rend="italic">This Brief Tragedy: Unraveling the Todd-Dickinson Affair</hi></title>
+               <author>John Evangelist Walsh</author>
+               <imprint>
+                  <publisher>
+Grove Weidenfield
+
+</publisher>
+                  <pubPlace>
+New York
+</pubPlace>
+               </imprint>
+               <date>
+1991
+
+</date>
+               <idno type="ISBN">
+080211119x
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="american" type="place">American</term>
+               <term id="commentary" type="media">commentary</term>
+						<term id="adultery" type="theme">adultery</term>
+			<term id="todd-dickinson">todd-dickinson</term>
+			
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         
+         <p>The plain evidence of
+her own extensive and meticulous records shows that Mabel Todd was never quite,
+or was never only, the enthusiastic young innocent whose charm and talent
+impressed so many in Amherst. Her true outlook on people and affairs was much
+more calculated, and it had in addition a strangely skewed or unbalanced
+quality. In her journals, diaries, and letters she is shown to have
+been&#8212;stating the fact in its mildest, nontechnical form &#8212; a thoroughly
+self-absorbed, or better, self-contemplating, personality. Her simplest actions
+and opinions, and her ability, apparently unfailing, to captivate all whom she
+met, women as well as men, singly and in groups, were topics of which she never
+tired. Narcissism is the term that inevitably leaps to the mind of anyone who
+becomes at all familiar with the personality of Mabel Todd. Excerpts from
+Mabel's journals have appeared before this, but the selections made, their
+brevity, and indeed their context and framing have tended to obscure, and on
+occasion distort, their true import. There are some documents &#8212; those tied to a
+rigid chronology, and of a certain length &#8212; that can be rightly judged only
+when scanned in full, or nearly so, and in proper sequence and setting, and this is
+emphatically the case with Mabel's journals. In particular, her revealing
+memory of her first year's involvement with the Dickinson circle no descriptive
+summary or partial quotation can adequately reflect. What follows is the bulk
+of her various journal entries between January 1882 (six months after she first
+reached Amherst) and September 1883 (eight months after the first clash with
+Susan), a total of fifteen passages. Enough commentary is supplied to set each
+entry retrospectively in the flow of the narrative unfolded in the previous
+chapter, and to clarify offhand references.</p>
+
+
+         <p>As will become
+evident, the story told by these particular passages, when studied in sequence
+and in detail, is very different from anything that has so far appeared in
+print. So much may be stated at the outset.</p>
+
+
+         <p>It
+was at the home of her parents in Washington, D. C., that Mabel made her first relevant journal entry, on January 20, 1882. While it does not concern the Dickinsons directly, it is essential to an understanding of all that would develop in Amherst. On this day as Mabel lifts her pen she is twenty-five years old and has been
+married for three years. She has one child, a daughter named Millicent, whose
+care up to now has been shared with her mother and grandmother in Washington. That morning her husband David has just left for Amherst to resume his teaching
+duties at the college, a fact Mabel notes in opening the entry. She goes on:</p>
+
+
+         <q rend="block"><p>Everybody has been, as it were,
+"running after me"; and I have felt not the dawning, but the growth,
+intensely, of a wonderful social power. I cannot explain it, but I feel
+strength and attractive power, &amp; magnetism enough to fascinate a room full
+of people&#8212;which I have done, actually.</p>
+
+
+         <p>On New Year's day I was almost
+intoxicated with this power&#8212;which so overflowed and filled me, that our hundred
+callers seemed too small a company for it to be exercised upon.... I
+have flirted outrageously with every man I have seen&#8212;but in a way which David
+likes to have me, too. I have simply felt as if I could attract any man to any
+amount. If the power is wholly bottled up I get restless and feverish like a
+caged eagle, but if I exercise it in the innocent ways I<hi rend="italic">
+do, </hi>I am satisfied &#8212; only that I sigh for more worlds to conquer.
+. . .</p>
+
+
+         <p>I have found such a dear friend. It is
+very romantic, and I cannot tell exactly how I came to find it yet; but Mr.
+Elliot, who was introduced to me by Madame Buel before my marriage, has always
+been very kind and complimentary to me. He has always paid me very pleasant
+attentions, and has, I know, admired me much. Lately he has seemed to avoid me
+a little, but the few times I have been with him, he has said very beautiful
+things to me, and I have found out that he is trying to outlive a strong love for
+me! ... He is very lonely and says no man could reach his
+age&#8212;thirty-two&#8212;without having wished very much for love and tenderness.... When
+I thanked him for something he did for my comfort he said, "I would do
+<hi rend="italic">anything</hi> for you," in a tone wherein a suppressed intensity of feeling
+[was] so strong that it was pitiful.... Heaven forbid that I should desire to
+exercise my power upon him. Although love and adulation and admiration are
+agreeable to me, and it will be a great trial to act simply, when I know I could
+keep him by using my attractiveness.</p></q>
+
+
+         <p>There followed
+an interruption of five weeks before her next entry, a long one, which was made
+after her return to Amherst. Dated March 2, 1882, it concerns almost entirely
+the first of her Amherst conquests, the susceptible Ned Dickinson, then a
+sophomore at the college. By now Mabel has become a regular at the Evergreens,
+and she and Ned have
+been well acquainted for five months. To what extent her extreme portrayal of
+Ned as a badly moonstruck admirer is accurate for the moment may be left open.
+That he was strongly attracted to her at this time is true, but whether she
+knew so early that he was an epileptic cannot be said:</p>
+
+<q rend="block">
+         <p>I have been at Mrs.
+Dickinson's a great deal since my return, &amp; she admires me extravagantly,
+&amp; praises me to Ned and Mattie all the time, as a sort of model for them.
+She appreciates me completely, and I love and admire her equally. She is a rare
+woman, &amp; her home is my haven of pleasure in Amherst. Also, Ned and Mattie
+have run in to see me every day since my return. Then, too, I had not danced at
+all since my marriage, until this winter here, &amp; I found that my waltz step
+did not go very well with the present fashion of waltzing so Ned undertook to
+teach me to get it better. Whenever I went to see Mrs. Dickinson there was a
+waltz in the hall with Ned, while Mattie played.... I never dreamed that Ned
+was more than ordinarily fond of me, or that I could be doing him any harm by
+allowing him to be my Knight Errant whenever David could not attend me....</p>
+
+
+         <p>I have known now, for a
+few days, that he [Ned] worships the very ground I walk on. He does not care
+now for general society, and only wants to sit near me and watch me. He is only
+a boy&#8212;only twenty&#8212;but he is the most graceful host in his own house that I have
+ever seen. And he is so very manly. . . .</p>
+
+
+         <p>He told me the other day
+that until now his mother had more than filled every want in his life, but that
+he had come to think so much of me that it is his only thought ... he knows he
+is restless and inattentive to his studies &amp; thinking of me every
+moment.... One day he burst out with&#8212;"Oh! Mrs. Todd, I'm afraid I love
+you, &amp; what shall I do?" I consoled him as well as I could by saying
+that he would get over it very soon.... He says he would do anything for me &#8212; that
+I could twist him around my little finger&#8212;that he would go off and kill
+somebody if I bade him.</p>
+
+
+         <p>I told him that I was
+very fond of him and would always use what he called my "unlimited
+influence" over him for his good. "Ah!" he said, "What you
+are kind enough to call your affection for me is nothing for you to give; but I
+love you as you love your husband!" . . .</p>
+
+
+         <p>What can I do? He had
+plunged in irrevocably before I suspected it, and every time he sees me gay or
+brilliant in society, or sweet and tender to his mother, or tired after
+dancing, or kind to him, or in fact whenever and however he sees me, it adds to
+his love for me, &amp; I cannot help it. He is perfectly innocent &amp; pure
+about it, and has not an idea that he ought to root it out ... he cannot see
+that it is wrong, &amp; I certainly shall not open the knowledge of good and
+evil to him....</p>
+
+
+         <p>Poor boy, poor boy! It
+is all an amazement to him.  He is absolutely perfect in his habits,
+&amp; is really a very strong and manly fellow, &amp; remarkable in many ways.
+But that Heaven should bless me with the virgin love of a young man who hardly
+knows what has come to him, is very remarkable.... His mother does not know of
+it all, of course, and she thinks it is such a fine thing for her young son to
+have a "brilliant and accomplished married lady for his friend," and
+likes to have him pay me attention. She worships Ned, &amp; I don't know what
+she would do if she knew just how far he appreciates having me for his friend.</p>
+
+
+         <p>
+            <hi rend="italic">
+What is there in me 
+</hi>which so attracts men to
+me, young and old? I am deeply grateful for the power, and I hope I may use it
+for the good of those who succumb to it; but I really do believe in my heart
+that it will be many years before Ned gets entirely over it; and I am vain and
+selfish enough to be glad.</p></q>
+
+
+         <p>Three
+weeks later, as Mabel prepared for another Washington trip, she expanded on the
+situation with Ned and also gave the first
+definite sign that her husband acquiesced in her flirtations. The passage
+offers no slightest indication that as Ned's ardor grew, Mabel did anything to
+discourage him. Blandly she accepted his daily morning visits, remaining
+unconcerned that his college studies were suffering. During these weeks, as is
+made clear later in the journal, at Ned's request and while they are in the
+house together, she sometimes wears his Alpha Delta Phi pin:
+</p>
+
+	<q rend="block">
+         <p>He grows tremendously fonder of me every
+day. Every morning, regularly, after my first hour of [piano] practice is over
+he comes in, &amp; he says the whole day goes off exhilaratingly &amp; joyfully
+after that few moments of talking with me, &amp; perchance touching my hand ...
+he says his thoughts are so constantly with me that he cannot think of his
+recitations, nor in fact of anything else. He takes me to drive regularly
+twice a week, and would like to every day. . . . It is almost fearful to see
+his love for me growing so from day to day. I think it is well that I am going
+away so soon. But I am really very fond of him &amp; I shall miss him very
+much&#8212; &amp; he does not yet begin to realize how much he will miss me. It would
+be mean and underhanded to write down the tender and loving things he says to me&#8212;for they are only for me,&amp; no one else ought to hear them. Of course I tell David in general about it, but my darling husband has perfect trust &amp;
+confidence in me and tells me to act my own pleasure about these things.</p></q>
+
+
+         <p>Mabel may have
+told her husband "in general" about her dalliance with the young son
+of their good friends, and David may have shown himself up-to-date and
+open-minded about "these things." But those few words deserve to be
+highlighted, for they mark the Todds' first steps in what was to prove a
+steady, at times frightening process of moral disintegration. It would end,
+years later, with David lamenting that "adultery ruined my life," and
+adding, in what seems a curious puzzlement, that it was all "like a
+ghastly dream" (curious, because David's own course as an adulterer was to
+keep steady pace with his wife's). At the time he made those remarks, in
+conversation with his own daughter, he was in New York, an inmate of the Bloomingdale
+Insane Asylum.</p>
+
+
+         <p>Early
+in April 1882, after having been back in Amherst briefly, Mabel again departed
+for Washington. Ned also left Amherst that day for a visit to Boston (perhaps
+only a pretext), and he arranged to accompany Mabel on the train as far as the
+Palmer Depot interchange. A brief journal entry, made at her parents' home a
+few days later, shows that during the train ride Mabel had rather enjoyed
+exercising her "power" over Ned. She had even, it seems, toyed with
+the idea of an actual indiscretion:</p>
+
+
+        <q rend="block"> <p>The dear boy felt more badly about my
+leaving with every mile. He to all appearances was talking in a lively mood to
+me on the train, but I could see that he felt dreadfully. I never had a more
+intense lover, and I don't know what to do about it.... Of course I am a woman,
+and I am older than he, and I know more of life than he, and I can help him
+somewhat against himself, and I will try. But that is all I can do. Of course,
+I do care for him&#8212;the wonderfully chivalrous devotion he showed me could not
+fail to affect me&#8212;but I love David so wholly that I am not afraid to trust
+myself entirely to him.... I told him that I did care for him, and he said it
+ought to be enough to make him happy forever.</p></q>
+
+
+         <p>In Washington the persistent Mr. Elliot resumed his attentions, calling on Mabel regularly. In
+a journal entry dated May 5 she notes with obvious satisfaction that her friend
+"walked in the woods with a party of us the other day, &amp; I know
+that he cares more than ever for me. He longs inexpressibly for love and
+tenderness, &amp; I am just as sorry for him as I can be."</p>
+
+
+         <p>Expected
+to attend the Amherst College commencement in early June, as were all the
+faculty wives, Mabel made a hasty return, planning to stay only a week. She
+took it for granted that whenever her husband was not available she would be
+escorted and amused by the adoring Ned. But for once he failed her, and even in
+the controlled phrasing of the journal her anger at his defection shows
+plainly:</p>
+
+
+         <q rend="block"><p>I am just now somewhat provoked with
+Ned, because after telling me that Commencement was nothing to him without me,
+&amp; that the moment he came in the house he had to find me, &amp; that he was
+not easy one moment when I was out of his sight, he went off to Pittsfield with
+a lot of young people just for fun, for a day or two. Of course I do not regard
+him as my property &amp; bound to entertain me all the time, but it was
+thoughtless of him to rush off so when I was just leaving his mother for a
+return to a prosaic boardinghouse, and would be a little blue anyway. But he
+shall not know I cared in the least, &amp; I don't, except that I should have
+liked a drive or a horseback ride to cheer me up a little today. He asked me if
+he should go when the matter was suggested, &amp; I said "by all
+means," very heartily. . . . I do miss him very much, truly, but I said
+goodbye radiantly.</p></q>
+
+
+         <p>After
+commencement she went back immediately to her parents' Washington home, staying
+until early August. Except for a brief passage of general remarks on June 30, she
+did not write in her journal all summer. When next she opened its pages, on
+September 15, a month after her return to Amherst, the result was another revealing entry, but one in which the interest has suddenly
+and dramatically shifted: it is no longer young Ned who interests her but his
+father.</p>
+
+
+         <p>Some rather delicate
+maneuvering was involved in this deft transfer of attention, and its surface
+manifestations, at least, may be glimpsed in the many briefer entries Mabel
+made in her daily diary for those weeks in which she was neglecting her journal.
+A brief look at the shadowy tale told by the diary, as the summer of 1882 waned
+in Amherst, will serve as an instructive prelude to the journal entry of
+mid-September.</p>
+
+
+         <p>Attending
+lawn teas and musical evenings at the Evergreens, taking part in several
+outings, Mabel was with the Dickinsons nearly every day from mid-August to
+early September. The day of her arrival back in Amherst, August 6, she was
+greeted by Susan, as she noted, "with a most whole-souled 'Welcome home,
+Toddy,' which was lovely." After an evening of fun at the Evergreens on
+the thirteenth, Austin walked her home, and he did the same thing again a week
+later, when Mabel noted in her diary, "I like him immensely."
+September 6 proved for her quite a busy, not to say demanding, day: she was at
+the Dickinson house early in the morning and was back again late at night
+giving, as it seems, equal time to father and son:</p>
+
+
+         <q rend="block"><p>This morning I had a long horseback ride
+with Ned. We went up on the Leverett road, and after about six miles we stopped
+under the trees while he smoked. We sat on the fallen leaves &amp; had a
+pleasant rest. Then we started on again, making at least a ten miles' circuit
+in all.... I went to the Dickinsons' in the evening, &amp; sat alone on the
+veranda with My Dickinson senior about an hour, discussing religion, thought,
+&amp; so forth. I admire him.</p></q>
+
+
+         <p>Next evening she played
+whist at the Evergreens, with Ned and Mattie. Then on the two following days,
+September 8 and 9, she once more divided herself between father and son, and it
+is here that Ned starts to fade from the picture.</p>
+
+
+         <p>Twice
+on the eighth she was in Ned's company, first in the morning in town, then in
+the afternoon for a row on the Mill River. She took supper with the Dickinsons that evening, and when her husband, after working late, came down to escort her
+home he found himself superfluous: "Mr. Dickinson walked home with me,
+&amp; Ned with David." Next morning everyone went off in a crowd to spend
+the day in the country, and it was while on this outing that Austin&#8212;obviously
+responding to a signal from Mabel&#8212;made his first overt, if tentative, move in
+her direction:</p>
+
+
+         <q rend="block"><p>Mr. Dickinson took Grandma &amp; David
+&amp; Millicent &amp; Gilbert in the carriage to Sugar Loaf. I came later with
+Ned and Mrs. Dickinson &amp; Mattie. Near the foot of the mountain we all
+alighted except Grandma &amp; Millicent. I walked up with Mr. Dickinson. He
+cares a great deal for me. Ned followed leading one of the horses.</p></q>
+
+
+         <p>It was the next day,
+September to,
+that Austin took Mabel to pay her well-known
+first visit to the other house. "I sang there, and the rare,
+mysterious Emily listened in the quiet darkness outside," she wrote later
+in her diary (it is more probable that the mysterious Emily was upstairs at the
+bedside of her invalid mother, while both listened to the music). After the
+visit to the Mansion the two returned to the Evergreens for the evening, and
+that night both Ned and his father again walked her home.
+</p>
+
+
+         <p>Mabel's plans
+for another sojourn in Washington called for her to leave Amherst on September 12, so
+on the day before she left there was a farewell party at the Dickinsons',
+Austin picking her up at the boardinghouse. The two walked down the hill
+together, and as they reached the gate of the Evergreens, Austin made his
+second move. Before going in to join the others, he suggested, they might take
+a short stroll, just the two of them. As is made abundantly clear from other
+records, during that stroll Austin in some way admitted to feeling a very
+personal and not at all neighborly attraction for his companion. Mabel's
+response, again according to later records, was prompt and open encouragement
+of this new suitor, demonstrating not the least concern that he was the husband
+of her good friend and the father of two youngsters in whose home she
+frequently found amusement. Next day, even as the Todds prepared to leave, Austin was on hand&#8212;in the afternoon he took Mabel off for a carriage ride, and a few hours
+later saw her to the station.</p>
+
+
+         <p>With
+so much as background, the journal entry of September 15, made in Washington, will come as less of a
+surprise:
+</p>
+
+
+         <q rend="block"><p>Everything
+is so joyous, &amp; my circumstances are so pleasant. And dear Mr.
+Dickinson&#8212;Ned's father&#8212;is so very fond of me. It was one of the proudest
+moments of my life when he told me that I had more ideas which were congenial
+to him than any other person he ever met. For I most extravagantly admire him.
+He is in almost every particular my ideal man. He is true&#8212;so true that one look
+into his blue eyes when I first met him caused me to think involuntarily&#8212;"He
+could be forever trusted. "I did not really know until lately that he is
+a very sensitive man, for he has a very strong, almost bluff way with his
+business relations. But he says he has suffered more than he can ever tell from
+sensitiveness....</p>
+
+
+         <p>He
+and I are the fastest friends. To think that out of all the splendid and noble
+women he has known, he should pick me out&#8212;only half his age&#8212;as the most truly
+congenial friend that he had! ...</p>
+
+
+         <p>The affection I
+had for Ned is as nothing compared to the strength of interest and admiration I
+have for his father. Indeed, Ned &amp; I have tacitly abandoned our little
+affair, for Ned said it was getting to be with him so strong as to be rapidly
+getting beyond his control ... that if he should let go his fierce hold of
+himself he could not answer for anything.... It was a dreadful thing to start
+up such a fellow as he is, for he has a very strong nature. But as I said
+everything pales in connection with him beside the glorious character of his
+father, &amp; his wonderful interest in &amp; affection for me.</p></q>
+
+
+         <p>A
+disappointment overtook Mabel in Amherst, in early November, when she was
+refused permission to accompany her husband on a government astronomical
+expedition, an exciting event eagerly anticipated. The journal of November 10
+shows that when her husband was about taking his departure, she consoled
+herself with the thought that Austin had given his promise to look after her: "Ned
+has been very devoted &#8212; more so than ever. But my only real joy in staying is
+because Mr. Dickinson is here, &amp; looks out for me, &amp; has me on his
+mind.... He is delicate beyond expression, and tender &amp; watchful &amp;
+caretaking." The subject of Austin's tender caretaking she expanded on
+four days later. Almost incidentally she also records the fact that, at last,
+the sensitive father had wholly supplanted the callow son:</p>
+
+
+         <q rend="block"><p>I am
+not alone very much, for everyone is very kind to me, especially the
+Dickinsons, &amp; of them especially Mr. Dickinson. Mattie &amp; Ned are very
+bright and brilliant, but being so very young are much on the surface.... To be
+sure Ned was very much in love with me once, and would say and do all sorts of
+things to &amp; for me now, if I were a particle responsive.... I really did
+care for him a great deal, in one way, some time ago, but I have not a particle
+of that romantic interest in him left. The point where, if he had known it, he
+could have made me have a very permanent and deep affection for him is passed
+long by, and I am delighted to see how entirely he has passed out of my
+life.... It was in the middle of last summer that I decided to give Ned nothing
+more in the way of my regard, so I put him out. About that time, or, no,
+somewhat later, his father and I began to discover that we had a great many
+ideas in common, and from that began a friendship which is the most true and
+satisfying that I ever had. He thoroughly appreciates and understands me, and
+nothing is too subtle and delicate for him to see. The way in which he cares
+for me &amp; looks out for my comfort &amp; happiness is beyond expression.</p></q>
+
+         <p>Telling its own curious
+tale, of course, is the afterthought in that passage ("or, no, somewhat
+later"). With that disingenuous phrase Mabel actually tries to make it
+appear that before settling her affections on the father, she had completely
+finished with the son. But the attempt, of course, is belied by her own
+previous journal entries. Here, strangely, she has told a barefaced lie to
+herself.</p>
+
+
+         <p>As the year 1882
+ran out, the friendship with Austin had become "my chief joy," and
+Austin himself "the most true and satisfying friend I ever had. I respect
+and admire him boundlessly. I wish I could write of it but it is beyond
+writing." Even as she exults (yet again) in her happy and accomplished and
+"brilliant" life, she indulges in a curious, and sadly prophetic, linkage
+of Austin and her husband: "David has had exceptional success &amp; is
+coming to me within a few days&#8212;and my admirable, noble, strong, true Mr.
+Dickinson is entirely devoted to me."</p>
+
+
+         <p>Before she could
+make another journal entry, the January 1883 trouble with the jealous Sue
+erupted. While that initial unpleasantness was fairly soon calmed by the
+"frank" talk between the two women, bad feeling broke out again
+several weeks later. The following journal passage was written by Mabel on
+February 3, within days after the second outbreak. It is a crucial entry and
+requires careful reading, for Mabel, far from setting down objective truth, is
+seeking to excuse her own conduct. Whatever it was exactly that the idealistic
+Ned chanced to see going on between his father and Mabel&#8212;certainly more than
+walks and rides&#8212;it was enough to disgust as well as thoroughly disillusion him:</p>
+
+
+         <q rend="block"><p>I am
+not very happy just at present ... the root of all my trouble is that I allowed
+that affair with Ned to progress too much. I got over all especial
+feeling for him in the summer, and supposed he did for me.... But he is of a
+very jealous disposition, &amp; began to think I must care more for his father
+than himself. So he got angry and went to his mother with some very mean
+things&#8212;among other things telling her that I was an awful flirt, &amp; having
+allowed him to fall in love with me, I was now tired of him &amp; was trying
+the same thing with his father. Of course this troubled her very much, &amp;
+she began to look about....</p>
+
+
+         <p>Ned is excessively polite to
+me, but I am angry enough for anything with him&#8212;and I am so sorry for it all.
+As for his father he is as staunch &amp; true as still [sic] to me &#8212; but I do
+not see him except very rarely. It is better not, I suppose. But I like him
+just as much as ever, &amp; he does me. Of that I am absolutely sure.</p></q>
+
+
+         <p>When she made her next
+entry, dated April 10,
+1883, Mabel was again in Washington, and David had once more left home on
+business. Emily and Vinnie had both by now entered the fray on their brother's
+behalf&#8212;Emily with her two notes, Vinnie in person &#8212; hoping to placate the angry
+Susan and restore family harmony. The information Mabel now set down about the
+marriage of Austin and Susan was supposedly told her in the preceding two
+months by Austin himself. Her daily diary does show that the two were together
+on a dozen occasions during that period, including five times when they walked
+or rode alone, allowing ample opportunity for the sort of intimate talk
+reflected in the journal. But, again, the charges Mabel makes here must be read
+with caution&#8212;or better, must be read in a mood of high skepticism. Consciously
+or otherwise, she has certainly both exaggerated and distorted whatever it was
+that Austin told her. Austin himself in such a situation scarcely provides
+disinterested testimony.</p>
+
+
+         <q rend="block"><p>David
+started this morning. I felt terribly to leave him. We have been so much to
+each other since our separation last fall, while he was in California, that it
+seemed to me I could not let him go. We have been together constantly, &amp;
+the companionship is inexpressibly sweet.</p>
+
+
+         <p>Mr.
+Dickinson has told me a great many things since I last wrote, and he is more
+absorbed in me than I can write. It seems he &amp; his wife have not been in
+the least happy together, although for the sake of appearances, &amp; for the
+children, they have continued to live together. Notwithstanding the utter lack
+of love between them, the fact that he is so interested in me has stirred her
+beyond the power of words to express. And she makes it pretty dreadful for him
+at home. I have seen some developments in her character which are very
+startling. But I do admire her in most respects very much. We have courteous
+relations, but that is all. This whole thing has weighed my spirits down
+dreadfully&#8212;it is the cause of my languor and weakness &amp; lack of enthusiasm.
+There are aspects of it which hurt me terribly. Aside from that, everything is
+joyous&#8212;except my darling David going away today. I have nearly wept my eyes out
+over that.</p>
+
+
+         <p>Mr.
+Dickinson's life has been very barren, &amp; I understand him thoroughly. He is
+the rarest nature I have ever met. Honor &amp; purity &amp; pathos &amp;
+strength. And it has come to mean all the world to him&#8212;his feeling for me.</p>
+</q>
+
+         
+         <p> That Austin did in some manner complain to Mabel about one or another aspect of his home life,
+whether or not justified, is probable. That he used such phrases as "not
+in the least happy" and "utter lack of love," or that he claimed
+he had stayed with Susan for the children's sake, are things quite improbable.
+Such a serious estrangement&#8212;given what is known of the Dickinsons' twenty-five
+years together before Mabel's arrival on the scene&#8212;simply lacks all support.
+Further, the unnamed but ominous-sounding "developments" in Sue's
+character, considering the manner in which her wayward husband was behaving,
+could not have been so startling as all that. It would have been much more
+startling&#8212;and infinitely more revealing&#8212;had Susan failed to show some fire.</p>
+
+
+         <p>With
+David out of town, Mabel and Austin now went a step further as they proceeded
+to make plans for a rendezvous out from under the knowing eyes of Amherst. It was to take place in Boston in the summer, she coming down from her vacation
+resort in New Hampshire, supposedly for a day of shopping, he going up from Amherst. Their meeting place was the horsecar stop on Winter Street, the date June 30. As
+arranged, the tryst came off smoothly, the two not parting until late evening,
+when Mabel, as she wrote in her journal, "went back to Winchester on wings
+as it were." Less than two weeks later Austin wrote his first private note
+to Mabel of definite date, and it shows that Susan had not been fooled by her
+husband's Boston excursion. It also shows that Austin, like the good lawyer he
+was, had his defense prepared&#8212;a straightforward claim, of the Sam Bowles variety,
+that he had nothing to hide in arranging to meet a friend in another town, even
+if that friend happened to be an attractive young married woman. The session
+with Sue he describes took place the day after his arrival back home from Boston:</p>
+
+
+         <q rend="block"><p>At
+breakfast next morning the question came square&#8212;after leading up
+properly&#8212;"Did you see Mrs. Todd?" I had anticipated it and said at
+once, "Certainly, that was what I went to Boston for." This
+unhesitating frankness was somewhat stunning and the rally wasn't prompt. When
+it came it was, "She told me she was to spend a few days in Boston before going to Hampton and I concluded you would see her." I replied yes I
+said I did. This ended it. There has been no allusion to it, or you, since. I
+don't know whether on the whole I am supposed to have lied about it or not, but
+you know I spoke the truth.</p></q>
+
+         <p> Surprisingly, Austin's bold tactic worked, to an extent at least, and by the date of this letter, July 12, 1883,
+matters at the Evergreens had more or less settled down again. For the
+remaining days of July it was decided that Austin would join his family,
+evenings after work, at a holiday spot in nearby Shutesbury, returning to town
+each morning. With that, Vinnie and Emily, watching anxiously from next door,
+must have concluded with relief and no little satisfaction that peace had at
+last been restored or was on its way. In the minds of all concerned the summer
+months of 1883 began to drift by at their old, serene pace.</p>
+
+
+         <p> But
+once again the aura of peace was woefully deceptive. An unusually long, frank,
+and introspective journal entry Mabel made in mid-September at Hampton, her first in more than four months, warns only of a rapidly gathering storm. Its
+opening paragraph introduces still another Washington admirer, one who briefly
+rivaled the romantic Mr. Elliot:</p>
+
+
+         <q rend="block"><p>I
+remained in Washington until about the middle of May, having a very brilliant
+time, as I always do there. Dr. Eaton was especially devoted to me. But I have
+had all the experience I ever want with jealous wives, so I did not let it
+progress very much....</p>
+
+
+         <p>[In
+  Amherst in June] Mrs. Dickinson was still very chaotic and not sweet. Another
+unfortunate incident occurred which irritated her. So beyond a call or two
+exchanged, where everything was courteous, we had no relations. Mr. D. kept me
+perfectly informed of every aspect of her mind, and everything she said, and
+was himself marvelously thoughtful and tender to me. Fifty little
+kindnesses &amp; more he poured upon me. He is the truest and most loyally
+affectionate of men. But he has had a wretched life at home, in spite of the
+perfect house &amp; grounds, the carriages &amp; horses, the pictures &amp;
+luxuries generally. He is equally lovely to David, and the sweet and trusting
+relationship between us three is one of the most beautiful things that ever
+came into my life&#8212;to say nothing of the rest of it....</p>
+
+
+         <p>[David]
+has been so tender &amp; thoughtful of me through my sadness owing to Mrs.
+Dickinson and Ned, and has constantly devised so many little diversions and
+pleasures, that I should be indeed most ungrateful if I did not respond &amp;
+show forth my shining blue sky again. And I do&#8212;my happiness has come back
+again. With two such rare men to do for me, &amp; to hold my happiness above
+everything in their lives, how could I be sad! ...</p>
+
+
+         <p>Mrs.
+D. is so well understood there that the fact of her breaking with us [the
+previous spring] cannot redound to her credit. I have never spoken about it to
+anyone, but a lady said to me that it was a matter of wonder with my friends
+that there had been no break before. It was Mrs. D's way to have some
+"fuss" on hand most of the time. Notwithstanding all that I hear
+about her, I do admire her mind. And she stimulates me intellectually. And I
+cannot blame her for her frantic efforts to regain the respect &amp; love of
+her husband &#8212; which she has not had for more than twenty years. She has
+tried in every way, and she cannot move him &#8212; coldness, hauteur, affectionateness,
+commanding, indignation&#8212;nothing succeeds. And now she sees that he is
+immovable, that his affection for David and myself is permanent, and she can do
+nothing more. So she yields gracefully &amp; takes us in partially again. But
+she will not wish him to see much of me.</p>
+
+
+         <p>Mr.
+D. says she fears me&#8212;the first woman who has really crossed her path&#8212;fears me
+because she knows I have stirred him as no other woman has <hi rend="italic">
+ever 
+</hi>stirred
+him. Though she has gone her own way all these years, and has never tried to
+keep him, doing all the time things morally certain to do more than alienate
+him from her&#8212;yet now when she sees that he has turned to me, &amp; finds peace
+&amp; content &amp; congeniality in being with me, she chafes &amp; raves &amp;
+cannot endure it. The greatest joy in life lay beside her for years, &amp; she
+never moved to retain it, even pushed it from her. Now it has left her
+irrevocably, &amp; she sees the awful loss &amp; void. She has the husk from
+which the soul is departed. And I cannot blame her, nor do other than deeply
+pity her.</p>
+
+
+         <p>But
+when I see the holy joy rise in his eyes when he sees me, and the youthful
+beauty glow over his face, and contrast it with the apathetic, careless
+indifference which was his leading characteristic for months after we first
+knew him, I cannot but rejoice for the happiness I have brought him. For the
+first time in his life he lives, he says. And I admire him &amp; respect him
+&amp; love him. So David does also....</p>
+
+
+         <p>Yes, oh! yes, life is full
+of joy &amp; sweetness. The sun shines, the dear crickets chirp, the red leaves
+flutter down, the sparkling sea sings to me. People love me&#8212;books, music, painting
+minister to me, and I love it all so deeply!</p></q>
+
+
+         <p>Crying out for
+prompt comment is that admiring compliment to herself that Mabel puts into Austin's mouth, the statement that "for the first time in his life he lives." If Austin really did say that, or anything like it, and said it in full awareness, then he
+stands convicted not only of insincerity but of the classic
+male ploy in such affairs. The many fervent letters he wrote to Susan during
+their courtship thirty years before, all of them at that moment reposing in the
+attic of the Evergreens, pour out his romantic feelings in precisely the same
+hurried, overblown style as anything he was to pen later to Mabel. The only
+difference detectable between earlier and later love letters is of the sort to
+be expected from the span of years, and from the fact that the youthful ones
+were written with marriage in mind.</p>
+
+
+         <p>While a few
+select portions of this outspoken entry have been quoted and commented on
+before, its deeper implications have managed to elude notice. There is, to
+start with, the rather chilling self-indulgence of Mabel's pleasure in having
+"two such rare men to do for me, &amp; to hold my happiness above
+everything in their lives." Here she proclaims that in her own eyes at
+any rate, her conquest of Austin is more or less complete, nor does she give
+any thought to the harm her victory may do others, notably the three Dickinson
+children. Equally disturbing is her remark about Sue being "well
+understood" in Amherst society. The real thrust of this statement, in its
+own subtle way not a little shocking, does much to fix the truth of Mabel's
+underlying character. Here she expresses a confident hope that Sue's prior
+reputation in town for personal embroilment will now happily prove useful to
+her, supplying a cover for her own budding affair with Austin. Any disturbance
+that might be created by the wronged wife, in other words, will be put down
+among townspeople to Mrs. Dickinson's supposed prickly temper, her liking for a
+fuss, leaving Mabel unscathed and unsuspected.</p>
+
+
+         <p>The other charges
+leveled at Sue in that passage&#8212;principally blaming her for a supposed two-decade
+crumbling of her marriage&#8212;on the available evidence may, again, be dismissed.
+No doubt over the years the marriage had known its share of rough times, and
+perhaps by the eighties affection on one side or the other had worn thin,
+waxing and waning, like most. But it was not any noticeable strain in his
+homelife that had produced Austin's "apathetic" air. The real cause
+was something even sadder, that same oppressive burden that so often weighs
+down a certain kind of man as he reaches his mid-fifties, an awful sense of
+having fallen short. When Mabel came to know him, the talented, ambitious Austin had already begun to feel an almost panic sense of failure, a conviction that the
+grand promise of his youth would not be realized. More than any temporary
+disappointments as husband and father, what finally made him want to stray from
+his marriage vows was bitter regret over all his broken dreams of success, as
+he put it, among "men of the world and affairs" in the larger sphere
+beyond Amherst.</p>
+
+
+         <p>That is a
+dangerous mood to lay hold of any man. All too often his resentment, smoldering
+beneath the indifference, prepares him to fall a ready victim to circumstance.
+At that moment, in the early fall of 1883, fate had in store for Austin, and
+for all the Dickinson clan, one last, truly devastating circumstance, the death
+of little Gilbert.</p>
+
+
+
+<div1 type="file references">
+            <list>
+
+			<item><xptr n="ls.00034" type="commentary on history"/></item>
+			<item><xptr n="ls.00043" type="same history"/></item>
+			<item><xptr n="ls.00179" type="image on history"/></item>
+<item><xptr n="ls.00180" type="image on history"/></item>
+
+
+                           </list>
+         </div1>
+
+
+      </body>
+   </text>
+</TEI.2>

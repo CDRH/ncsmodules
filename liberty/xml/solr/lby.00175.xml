@@ -1,0 +1,11 @@
+<add>
+   <doc>
+      <field name="id">lby.00175</field>
+      <field name="title">Ecuadoran Two Escudos Coin</field>
+      <field name="project">liberty</field>
+      <field name="place">ecuadoran</field>
+      <field name="genre">coins</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

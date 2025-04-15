@@ -1,0 +1,13 @@
+<add>
+   <doc>
+      <field name="id">ls.00189</field>
+      <field name="title">"Au Theatre Français"
+         
+      </field>
+      <field name="nationality">french</field>
+      <field name="category">image</field>
+      <field name="theme">adultery</field>
+      <field name="setting">publicspace</field>
+      <field name="text">ArtistDelaware Art Museum </field>
+   </doc>
+</add>

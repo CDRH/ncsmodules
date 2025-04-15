@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00013">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Sonnet on Chillon"</title>
+<date type="original" value="1816">c. 1816</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Byron">Lord Byron
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00013</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 138 of the 1837 John Murray edition of <hi rend="italic">Byron's Works</hi>.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Sonnet on Chillon</title>
+               <title level="m">The Prisoner of Chillon: A Fable</title>
+               <author>Lord Byron</author>
+               <imprint>
+                  <publisher>John Murray
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1837
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="individual" type="topic">Individual Liberty</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-24">24 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">SONNET ON CHILLON.</head>
+
+<lg>
+<l>ETERNAL Spirit of the chainless Mind!</l>
+<l>Brightest in dungeons, Liberty! thou art,</l>
+<l>For there thy habitation is the heart&#8212;</l>
+<l>The heart which love of thee alone can bind;</l>
+<l>And when thy sons to fetters are consign'd&#8212;</l>
+<l>To fetters, and the damp vault's dayless gloom,</l>
+<l>Their country conquers with their martyrdom,</l>
+<l>And Freedom's fame finds wings on every wind.</l>
+</lg>
+<lg>
+<l>Chillon! thy prison is a holy place,</l>
+<l>And thy sad floor an altar&#8212;for 't was rod,</l>
+<l>Until his very steps have left a trace</l>
+<l>Worn, as if thy cold pavement were a sod,</l>
+<l>By Bonnivard!&#8212;May none those marks efface!</l>
+<l>For they appeal from tyranny to God.</l>
+</lg>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00014" type="Same author"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

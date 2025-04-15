@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00038">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Liberty Bell"</title>
+            <title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1842">1842</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Pierpont">John Pierpont</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00038</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 1-5 of the <hi rend="italic">Liberty Bell</hi>, for the year 1842.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Liberty Bell</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>John Pierpont</author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>1842
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="libertybell" type="topic">Liberty Bell</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-10">10 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<lg type="stanza">
+	<l>The Liberty Bell&#8212;The Liberty Bell,</l>
+	<l>The tocsin of Freedom and Slavery's knell</l>
+	<l>That a whole long year has idle hung,</l>
+	<l>Again is waggin its clamorous tongue!</l>
+	<l>As it merrily swings,</l>
+	<l>Its notes it flings</l>
+	<l>On the dreamy ear of the planters and kings,</l>
+	<l>And it gives them a token,</l>
+	<l>Of manacles broken;&#8212;</l>
+	<l>And all that the prophets of Freedom have spoken.</l>
+	<l>With tongues of flame,</l>
+	<l>(Like those which came</l>
+	<l>On the men who first spoke the Saviour's name,)</l>
+	<l>Comes over their soul</l>
+	<l>As death-bells knowl,</l>
+	<l>Or the wheels of coming thunder roll!</l>
+	<l>Our Liberty Bell&#8212;</l>
+	<l>They know it well,</l>
+	<l>The tocsin of Freedom and Slavery's knell!</l>
+	</lg>
+
+<lg type="stanza">
+	<l>Our Liberty Bell! let its startling tone</l>
+	<l>Abroad o'er a slavish land be thrown!</l>
+	<l>Nay, on the wings of the North-East wind,</l>
+	<l>Let it reach the isles of the Western Ind&#8212;</l>
+	<l>Those isles of the sun</l>
+	<l>Where the work is done</l>
+	<l>That, here at the North, is but just begun.</l>
+	<l>Let the Bell be swung,</l>
+	<l>Till old and young,</l>
+	<l>That dwell New England's hills among,</l>
+	<l>Shall wake at the peal,</l>
+	<l>And, with holy zeal,</l>
+	<l>Beside their mountain altars kneel,</l>
+	<l>And pray that the yoke</l>
+	<l>From the necks may be broke</l>
+	<l>Of the millions who feel the "continual stroke"</l>
+	<l>Of the despot's rod;</l>
+	<l>And that Earth's green sod</l>
+	<l>No more by the foot of a slave may be trod.</l>
+	</lg>
+	
+<lg type="stanza">
+	<l>Let the Liberty Bell ring out&#8212;ring out!</l>
+	<l>And let freedom reply with a thundering shout,</l>
+	<l>That the gory scourges and clanking chains,</l>
+	<l>That blast the beauty of Southern plains,</l>
+	<l>Shall be stamped in the dust;&#8212;</l>
+	<l>And that thrice-gorged Lust,</l>
+	<l>That gloats on his helpless bond-slave's bust,</l>
+	<l>Ere long shall see</l>
+	<l>That slave set free,</l>
+	<l>And joining in Liberty's Jubilee.</l>
+	<l>That Jubilee song!</l>
+	<l>"O Lord, how long"</l>
+	<l>Must the world yet wait for that Jubilee song?</l>
+	<l>Yet, come it must;</l>
+	<l>Jehovah is just,</l>
+	<l>And his Truth and his Spirit we cheerfully trust.</l>
+	<l>That truth to tell</l>
+	<l>Comes the Liberty Bell,</l>
+	<l>And that spirit shall make it strike Slavery's knell.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Our Liberty Bell! let its solemn chime</l>
+	<l>Fall on the ear of hoary Time,</l>
+	<l>As onward&#8212;onward to its goal</l>
+	<l>He sees the chariot of Liberty roll;</l>
+	<l>While, with shout and song,</l>
+	<l>The swelling throng</l>
+	<l>Of the friends of the bondman urge it along.</l>
+	<l>Let the same chime fall</l>
+	<l>On the ears of all,</l>
+	<l>Who tread on the neck of the negro thrall,</l>
+	<l>Till they start from the ground,</l>
+	<l>As they will at the sound</l>
+	<l>When the trumpets of angels are pealing around.</l>
+	<l>And the murdered slave</l>
+	<l>Comes forth from his grave,</l>
+	<l>And smiles at the flash of th'Avenger's glaive,</l>
+	<l>And the world shall accord</l>
+	<l>In the righteous award</l>
+	<l>To both tyrant and slave, in that day of the Lord.</l>
+	</lg>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00047" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

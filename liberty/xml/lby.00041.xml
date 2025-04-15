@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00041">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Liberty Bell is not of the Liberty Party"</title>
+           <title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1845">1845</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="May">S.J. May</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00041</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 159-163 of the <hi rend="italic">Liberty Bell</hi>, for the year 1845.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Liberty Bell is not of the Liberty Party</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>S.J. May</author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>
+Boston
+</pubPlace>
+               </imprint>
+               <date>
+1845
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="libertybell" type="topic">Liberty Bell</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+<term id="liberalism" type="topic">liberalism</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-09">09 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>Although we ring the "Liberty Bell," we are not of the "Liberty Party," so called in the political world.  The success of our cause depends not upon the triumph of either of the political parties into which the community is divided;&#8212;no, not upon the triumph of that party, whose avowed object is the Abolition of Slavery.  The enslaved can be truly redeemed from their bondage, only by the redemption of the Slave-holders from their sin,&#8212;only by a radical change in public sentiment and feeling on this subject, at the South as well as at the North.  And this is to be done by moral, and not by political partisan instruments.  If we could combine all the Free States into a party against Slavery, while the majority, or only a large minority, of the people in the Slave States continued in favor of their "peculiar institution,"&#8212;they could thwart any measure we might adopt for the relief of the Slaves.  Suppose, for example, we could succeed in getting an Act of Congress to abolish Slavery in the District of Columbia, and in the Territories, the opposition of the people, in those parts of the country, to such a measure continuing what it now is&#8212;how easily might they, in various ways, evade the Act, unless indeed we should go on, with the military posse of the North, to enforce their obedience.</p>
+	<p>It is only by the power of truth, and by those weapons which moral suasion wields&#8212;facts, arguments, entreaties, remonstrances, rebukes, that our warfare with this great wickedness can be accomplished.  Abolitionists, all of them, used to believe this, and act as if they so believed; and our early conquests were effected by the power of truth, and not by partisan votes.</p>
+	<p>I deplore nothing, that has befallen our cause, so much as the loss of confidence in <hi rend="italic">the sufficiency of truth</hi>, which has led to the institution of a third political party.  Political parties, as such, have no moral character.  They are based on expediency.  They rely upon management, policy, compromise, intrigue, exaggeration.  Nobody seems to expect that they will act upon high, moral, generous, disinterested, Christian principles.  By the common understanding, that which is political is expected to be more or less different from that which is strictly moral and religious.  It ought not so to be, perhaps; but so I believe it is.  The interests of a party are seldom, if ever, coincident with the interests of the whole&#8212;the interests of humanity.  A party is more or less exclusive, selfish; and a partisan is but partly a citizen&#8212;but partly a Christian.</p>
+	<p>I have from the first feared, that the Abolitionists, who thought fit to resort to the instrumentality of a political party, would after a while be led to use such machinery as political parties have devised; and, instead of relying upon the simple lever of truth, would resort to the compound pullies of a party, and waste much of their power in merely overcoming the friction of their own machinery.  I have feared that those who banded together in a political party would lose much of their influence upon the public mind and heart.  Nor have my fears been lessened by the results I have witnessed.  Those who have engaged in the operations of the Liberty Party have come to be more than suspected of wishing to make the cause of the Slaves a hobby, on which to ride themselves into office, or their party into power.  Their statement of facts, and their arguments, however cogent, have fallen comparatively dead at the feet of their political opponents, because regarded by them only as the means by which these Abolitionists would effect their own civil elevation.  And have not their most earnest, heartfelt appeals in behalf of bleeding, crushed humanity, been listened to as if they were only the cries of those who were hungering after the loaves and fishes, which are wont to be distributed to the victorious in a political contest?  The suspicion may be, in many cases, a very unjust one; I believe that it is; but it had been wiser not to incur it.</p>
+	<p>The course pursued by the Liberty Party will impair not their own influence only.  The suspicion they have awakened will alight in some measure upon all who have been, or are, active in the Anti-Slavery cause.  Therefore it is that we are moved to send forth this among the tones that we would ring upon the public ear&#8212;"The Liberty Bell is not of the Liberty Party."</p>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00047" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		<xptr n="lby.00064" type="same subject"/>
+
+		</item>
+		</list>
+</div>
+
+
+      </body>
+   </text>
+</TEI.2>

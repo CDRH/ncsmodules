@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00004">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Mauprat</hi>
+</title>
+           <title level="c" type="chapter">from Chapter XII</title>
+<date type="original" value="1837">1837</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Sand">George Sand
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00004</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 154-155 of the 1870 Roberts edition of George Sand's <hi rend="italic">Mauprat</hi>.  Translated by Virginia Vaughan.  Originally published in 1837.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">XII</title>
+               <title level="m">Mauprat</title>
+               <author>George Sand</author>
+               <imprint>
+                  <publisher>Roberts
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1870
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="french" type="place">French</term>
+<term id="rev1830" type="topic">1830 Revolutions</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+<term id="frenchrevolution" type="topic">French Revolution</term>
+<term id="individual" type="topic">Individual Liberty</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-17">17 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">XII.</head>
+
+<gap reason="sampling" extent=""/>
+
+<p>Paris at that time offered a spectacle that I shall not attempt to describe, for I have no doubt that you have studied it often and eagerly in the excellent pictures that have been left us by eye-witnesses, either in the form of general history, or private memoirs. Besides, such a picture would fall without my limits; I only promised to relate to you the main thread of my moral and philosophical history. To give you an idea of my intellectual activity, it will be enough to say that the American Revolution had broken out, that Voltaire had received his apotheosis in Paris, and that Franklin, prophet of a new political religion, had brought to the very bosom of the court of France the seed of liberty. Lafayette was secretly preparing his romantic expedition; and almost all the young noblemen of the day, carried away by fashion, novelty, and the pleasure inherent in all opposition to established forms which is not dangerous, were warmly advocating liberal ideas.</p>
+
+<p>The opposition to the government assumed a graver phase, and performed a more serious work among the old nobles and the members of the parliaments. The spirit of the league had revived in the ranks of these ancient partricians and proud magistrates, who with one shoulder supported the tottering monarchy as a matter of form, and with the other lent substantial support to the encroachments of philosophy. The privileged classes labored ardently to accelerate the approaching ruin of their privileges, through discontent with the restrictions imposed upon them by the monarchy. They educated their sons in constitutional principles, imagining that they were about to found a new monarchy in which the people would help to put them higher than the throne. It was for this reason that the greatest admiration for Voltaire, and the most ardent sympathy for Franklin, were expressed in the most brilliant saloons of Paris.</p>
+
+<p>A movement so unprecedented, and, it must be acknowledged, so unnatural, had given an entirely new impulse, a sort of quarrelsome vivacity, to the cold and stiff formalities of the remains of the court of Louis XIV. It had also, to a certain extent, combined serious forms and an appearance of solidity with the frivolous manners of the regency. The pure but insignificant life of Louis XVI. counted for nothing, and imposed upon no one; never was there so much serious babble, so many hollow maxims, such a show of wisdom, and so many contradictions between words and conduct, as was displayed at this epoch among the so-called intelligent classes.</p>
+
+<p>It was necessary to recall this to make you understand the admiration which I felt, at first, for a world apparently so disinterested, so courageous, and so ardent in the pursuit of truth; and the disgust that I soon felt on discovering its affectation and frivolity, and the abuse that everywhere prevailed of the most sacred words and holy convictions. I myself was sincere; and I supported, on the basis of an inflexible logic, my philosophical fervor,&#8212;that sentiment of newly revealed liberty which was then called the culture of reason. I was young, and had a good constitution,&#8212;the first condition, perhaps, of a healthy brain; my studies were not extended, but they were solid; my mind had been nourished with healthy and easily digested food. The little that I knew, therefore, served to show me that others knew nothing, or that they were deceiving themselves.</p>
+
+<gap reason="sampling" extent=""/>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

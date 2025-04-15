@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00055">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Twenty-Two Years a Slave and Forty Years a Freeman</hi></title>
+            <title level="c" type="chapter">from Chapter XI, "Thoughts on Freedom"</title>
+<date type="original" value="1857">1857</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Steward">Austin Steward</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00055</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 52-54 of the 2002 Syracuse University Press edition of Austin Steward's <hi rend="italic">Twenty-Two Years a Slave and Forty Years a Freeman</hi>.  
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"Thoughts on Freedom"</title>
+               <title level="m"><hi rend="italic">Twenty-Two Years a Slave and Forty Years a Freeman</hi></title>
+               <author>Austin Steward</author>
+               <imprint>
+                  <publisher>Syracuse University Press</publisher>
+                  <pubPlace>Syracuse
+</pubPlace>
+               </imprint>
+               <date>2002
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="dissenting" type="topic">dissenting</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-16">16 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>Just before the time appointed for me to meet Mr. Moore, a slave girl named Milly, came secretly to Bath.  She had been one of Capt. Helm's slaves, and he had a while before sold her to a man who lived some distance west of the village.  Milly had now taken the matter into her own hands.  She had left her master to take care of himself, and was in short, "running away," determined as myself, that she would be a slave no longer; resolved on death, or freedom from the power of the slaveholder.</p>
+	<p>The time I had set for my departure was so near at hand, that I concluded to accompany her in her flight.  When the dark night came on, we started together, and traveled all night, and just as the day dawned we arrived at Manchester, where we stopped a short time with one Thomas Watkins.</p>
+	<p>But I was not to be let go so easily.  I had been missed at Capt. Helm's, and several men started immediate pursuit.  I was weary, and so intent on getting a little rest that I did not see my pursuers until they had well nigh reached the house where I was; but I <hi rend="italic">did</hi> see them in time to spring from the house with the agility of a deer, and to run for the woods as for life. And indeed, I so considered it.  I was unarmed to be sure, and not prepared to defend myself against two or three men, armed to the teeth; but it would have gone hard with me before I surrendered myself to them, after having dreamed as I had, and anticipated the blessings of a free man.  I escaped them, thank God, and reached the woods, where I concealed myself for some time, and where I had ample opportunity to reflect on the injustice and cruelty of my oppressors, and to ask myself why it was that I was obliged to fly from my home.  Why was I there panting and weary, hungry and destitute&#8212;skulking in the woods like a thief, and concealing myself like a murderer?  What had I done?  For what fault, or for what crime was I pursued by armed men, and hunted like a beast of prey?  God only knows how these inquiries harrowed up my very soul, and made me well nigh doubt the justice and mercy of the Almighty, until I remembered my narrow escape, when my doubts dissolved in grateful tears.</p>
+	<p>But why, oh why, had I been forced to flee thus from my fellow men?  I was guilty of no crime; I had committed no violence; I had broken no law of the land; I was not charged even with a fault, except of <hi rend="italic">the love of liberty</hi> and a desire to be <hi rend="italic">free</hi>!  I had claimed the right to possess my own person, and remove it from oppression.  Oh my God, thought I, can the American People, who at this very hour are pouring out their blood in defence of their country's liberty; offering up as a sacrifice on the battle field their promising young men, to preserve their land and hearthstones from English oppression; can they, will they, continue to hunt the poor African slave from their soil because he desires that same liberty, so dear to the heart of every American citizen?  Will they not blot out from their fair escutcheon the foul stain which Slavery has cast upon it?  Will they not remember the Southern bondman, in whom the love of freedom is as inherent as in themselves, and will they not, when contending for equal rights, use their mighty forces "to break <hi rend="italic">every yoke</hi>, and let the oppressed go free?"  God grant that it may be so!</p>
+      </body>
+   </text>
+</TEI.2>

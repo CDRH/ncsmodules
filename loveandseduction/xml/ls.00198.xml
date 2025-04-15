@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00198">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Adultery in the Novel</hi></title>
+
+<title level="c" type="chapter">from Chapter I, "Introduction"</title>
+<author name="Tanner">Tony Tanner</author>
+<date type="original" value="1979">1979</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00198</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 14-17 of Tony Tanner's <hi rend="italic">Adultery in the Novel</hi>.  Published by Johns Hopkins University Press, 1979.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter I, Introduction</title>
+               <title level="m"><hi rend="italic">Adultery in the Novel</hi></title>
+               <author>Tony Tanner</author>
+               <imprint>
+                  <publisher>Johns Hopkins University Press
+
+</publisher>
+                  <pubPlace>Baltimore
+</pubPlace>
+               </imprint>
+               <date>1979
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+                       <term id="adultery" type="theme">adultery</term>
+						<term id="commentary" type="media">commentary</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>"The way the bourgeois novel confronts the problem of adultery may be compared to the two strategies for dealing with adultry in the Bible.  According to Old Testament Law, the adulterous man and woman are almost without exception to be excluded from society, canceled even to the point of execution.  In the New Testament, Christ confronted with the woman taken in adultery makes the would-be lawgivers aware of her problematical reality, calling into question both the impersonal application of the law and the justification and rights of the would-be legislators.  Effectively this implies the disintegration of society-as-constituted.  (I shall return to these passages in more detail.)  In the bourgeois novel we can find a strictness that works to maintain the law, and a sympathy and understanding with the adulterous violator that works to undermine it.  (It is perhaps worth noting in passing that up to the end of the eighteenth century, adultery was an offense that could be, and still was, prosecuted in a court of law.  In the nineteenth century, though the law remained on the books, it was, I gather, never publicly prosecuted in a court of law&#8212;i.e., it moves to the unspoken realm and the punishments are applied and meted out privately.  This is another reason why adultery is one of <hi rend="italic">the</hi> central problems for the bourgeois novel&#8212;unlike, for example, murder, which is arguably a greater threat to person, property, and law, but was never unspeakable in society and thus never undescribable in fiction.)  What I have called the Old Testament and New Testament methods of confronting adultry may both be found operating within the same book, as I suggest they are in <hi rend="italic">Anna Karenina</hi>.  Indeed it is arguable that it is just such a tension between law and sympathy that holds the great bourgeois novel together, and severe imbalance in either direction must destroy the form.</p>
+	<p>What is implicit in all I have said so far is that marriage is <hi rend="italic">the</hi> central subject for the bourgeois novel; not marriage as a paradigm for the resolution of problems of bringing unity out of difference, harmony out of opposition, indentity out of separation, concord out of discord&#8212;as it is, for instance, in <hi rend="italic">A Midsummer Night's Dream</hi>, where marriage is not only social but magical, mythical, metaphysical&#8212;but just marriage in all its social and domestic ramifications in a demythologized society.  Or rather a society in which marriage <hi rend="italic">is</hi> the mythology (at least the socially avowed one; it would be possible to say that money and profits made up a more secret mythology).  Marriage, to put it at its simplest for the moment, is a means by which society attempts to bring into harmonius alignment patterns of passion and patterns of property; in bourgeois society it is not only a matter of putting your Gods where your treasure is (as Ruskin accused his age of doing) but also of putting your libido, loyalty, and all other possessions and products, including children, there as well.  For bourgeois society marriage is the all-subsuming, all-organizing, all-containing contract.  It is the structure that maintains the Structure, or System (if we may use that word, for the moment, to cover all models, conscious and unconscious, by which society structures all its operations and transactions).  The bourgeois novelist has no choice but to engage the subject of marriage in one way or another, at no matter what extreme of celebration or contestation.  He may concentrate on what makes for marriage and leads up to it, or on what threatens marriage and portends its disintegration, but his subject will still be marriage.  What he discovers, I will suggest, is that the bourgeois novel is coeval and coterminous with the power concentrated in the central structure of marriage.  As bourgeois marriage loses its absoluteness, its unquestioned finality, its "essentiality," so does the bourgeois novel.  On another level we may say that as the contact between man and wife loses its sense of necessity and binding power, so does the contract between novelist and reader.  This contract is still binding in Goethe; its abrogated in certain calculated ways in Flaubert (for example); it becomes extremely problematical in the work of the late James; and for Lawrence (and Joyce) we may say that the old contracts no longer have any force at all.  In confronting the problems of marriage and adultery, the bourgeois novel finally has to confront not only the provisionality of social laws and rules and structures but the provisionality of its own procedures and assumptions.</p>
+	<p>The central importance of marriage makes it clear why it was adultery rather than seduction (or any of those other kinds of sexual behavior recorded, or imagined, in books like <hi rend="italic">My Secret Life</hi> that became such a crucial subject.  The woman in the marriage situation becomes a paradigm for the problems of interrelating patterns.  To put it very simply, the woman as a biological entity cannot be changed (putting aside for the moment the problems of cultural 'sexing'); her organic determinants are given; the familial identifications of daughter and/or sister that are conferred on a female are not inherent qualities, but they are irremovable categorizations by the irreversible fact of consanguinity (this is Antigone's point about her relation to her brother in Sophocles' play).  But the category of being a wife is in no sense given even in the most conventionally prearranged marriages.  It is a totally social and cultural <hi rend="italic">arrangement</hi>, and an arrangement on which society totally relies.  It is at this point that we can see why so many problems of pattern converge on the figure of the wife.  We may put it this way.  Nature has her own patterns of seasonal and cyclical growth and decay, of mating impulses and fertilization processes; the family is a more stable and narrower pattern imposed on nature, while soicety is another pattern relating all the families according to intrafamilial and transfamilial rules.  In a religious age, which the bourgeois age notionally is, there is also the possibility of inscrutable divine patterns too large for any one human mind to grasp in their totality, but of which at certain moments&#8212;for Levin, at the death of a brother, the birth of a child&#8212;a man or woman may feel he has caught a glimpse.  As these divine patterns are institutionalized, they will tend to be translated as being supportive of the existing social patterns.  To these the novelist adds his own pattern, not only to comprehend these various patterns but also to explore and illuminate the relationships, oppositions, and mediations between them.</p>
+	<p>The most important mediation procedure that attempts to harmonize the natural, the familial, the social, and even the transcendental is, of course, marriage.  Thus, in a marriage you may participate in nature's pattern of coupling and breeding; but this can be incorporated within the existing interfamilial patterns and validated contractually by society.  It can also be sanctioned by the church.  Ideally, then, marriage offers the perfect and total mediation between the patterns within which men and women live.  One may immediately discern a potential tension between differing time schemes here.  For if nature works by generational changes (each particular family has to disintegrate to make sure the family continues with different members), while society&#8212;and here I am thinking specifically of bourgeois nineteenth-century society&#8212;tends to believe in what Sartre calls the myth of its own 'perenniality,' or permanence and stasis.  Set in any one of these patterns, the life span of the individual mortal can mean, and be felt to mean, different things.  If the mediation of marriage works, then everything is, as it were, at rest, all the patterns moving harmoniously together.  It is the bourgeois ideal (an ideal that precludes the envisaging of possible patterns of <hi rend="italic">historical</hi> and <hi rend="italic">political</hi> change).  But if something happens to disturb this mediation, or rather all the mediations that center on marriage, or to make them unacceptable or impossible, then a person involved may experience that anxiety or 'unhappy consciousness' that is a result of feeling he or she is participating in two or more irreconciable patterns, with no means of mediating them any longer" (14-17).</p>  
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00205" type="commentary on fiction"/></item>
+			<item><xptr n="ls.00206" type="commentary on fiction"/></item>
+              	<item><xptr n="ls.00200" type="commentary on fiction"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

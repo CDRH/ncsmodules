@@ -1,0 +1,11 @@
+<add>
+   <doc>
+      <field name="id">ls.00207</field>
+      <field name="title">The Outcast</field>
+      <field name="nationality">british</field>
+      <field name="category">image</field>
+      <field name="theme">seduction</field>
+      <field name="setting">parlor</field>
+      <field name="text">Illustrator </field>
+   </doc>
+</add>

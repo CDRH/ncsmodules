@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00070">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Rhetorical Missiles and Double-Talk: Napoleon, Wordsworth, and the Invasion Scare of 1804"</title>
+           <title level="m" type="monograph"><hi rend="italic">Romanticism, Radicalism, and the Press</hi></title>
+<date type="original" value="1997">1997</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Banks">Brenda Banks</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00070</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 103, 105, 107, 109-110, 112-113, and 115-116 of Brenda Banks' "Rhetorical Missiles and Double-Talk: Napoleon, Wordsworth, and the Invasion Scare of 1804," which first appeared in <hi rend="italic">Romanticism, Radicalism, and the Press</hi>, edited by Stephen C. Behrendt.  Published by Wayne State University Press, 1997. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"Rhetorical Missiles and Double-Talk: Napoleon, Wordsworth, and the Invasion Scare of 1804"</title>
+               <title level="m"><hi rend="italic">Romanticism, Radicalism, and the Press</hi></title>
+               <author>Brenda Banks</author>
+               <imprint>
+                  <publisher>Wayne State University Press</publisher>
+                  <pubPlace>Detroit
+</pubPlace>
+               </imprint>
+               <date>1997
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="commentary" type="genre">commentary</term>
+<term id="british" type="place">British</term>
+<term id="napoleon" type="topic">Napoleon</term>
+<term id="radicalism" type="topic">radicalism</term>
+<term id="frenchrevolution" type="topic">French Revolution</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-07-12">12 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<head>1.</head><p>"As the French Revolution disintegrated into the Napoleonic Wars and Napoleon seemed poised to invade all of Europe, internal debates in Great Britain over governmental reform and social justice gave way to a largely univocal nationalistic rhetoric aimed at bolstering domestic solidarity and intimidating the enemy.  Not all British weapons employed against Napoleon were fashioned from metal and loaded with gunpowder, however.  A broad variety of anti-French rhetoric was launched from many sites" (103).</p>
+</div>
+<div>
+	<head>2.</head><p>"By 1804 the brief peace of Amiens had fallen apart, the cross-channel travel by nostalgic ex-Radicals like Wordsworth that it engendered had ceased, and it had become unfashionable to praise the French Revolution, which seemed only to have created a monster, Napoleon Bonaparte.  As the year opened, England anxiously awaited the expected invasion, Napoleon's forces having been gathering at Calais for months.  Every shot heard along the Channel stirred fears that the invasion had begun" (105).</p></div>
+	<div>
+	<head>3.</head><p>"For months, the newspapers' invasion coverage would vacillate between such swaggering and outright alarmism, but either way, the invasion scare would figure continually in readers' consciousness.  The prospect of an avenging 'Boney' was even used to frighten children into good behavior.  The rising sense of alarm also seemed to increase the acerbity of attacks on Napoleon in the works of caricaturists like Gillray, Rowlandson, and Cruikshank, whose anti-Gallicism peaked in the years 1803-1805.  At the same time, the British press pummeled what was left of revolutionary sympathies among its readers.  Representations of the French in the British papers, like representations of the invasion threat, were of one stripe in early 1804.  In its efforts to galvanize British spirit, the press portrayed France as deprived of its civil freedoms under the iron hand of its dictator.  Britain, in contrast, was represented as a land of liberty, with a pedigree of successful and bloodless 'revolutions'" (107).</p></div>
+<div>
+	<head>4.</head><p>"The British considered France's current belligerence the natural result of its Radical experiments in governmental reform.  As Conor Cruise O'Brien has written [in "The Decline and Fall of the French Revolution"]:
+	<q rend="block">Far from spreading liberty in the world, the French Revolutionary expansion strengthened reaction by ensuring that resistance to the French Revolution would be associated with nationalism in other countries, which were challenged by the violent strain of French nationalism in other countries, which were challenged by the violent strain of French nationalism released by the French Revolution.  This was the response in England, Russia, Spain, as well as in the countries of early occupation.  Thus French Revolutionary expansion, far from disseminating the ideas of the Enlightenment, actually hindered the progress of those ideas, by causing them to be associated with the belligerent chauvinism of one particular nation, calling itself <hi rend="italic">la Grande Nation</hi>.</q>
+This development signaled not only the Revolution's failure, but the counter-revolution's success.  The struggle between revolutionary and counterrevolutionary ideologies further polarized British classes, encouraged nationalistic sentiment, increased the suffering of the poor, and restrained the enlightenment ideal of humanitarianism among the upper classes.  This hardening of both the English class structure and the political power structure under Pitt's administration had curtailed dialogue over the nature of the ideal political state:  the administration now spoke a largely unified discourse of power that could not easily be contradicted" (109-10).</p></div>
+<div>
+	<head>5.</head><p>"In 'Lines on the Expected Invasion 1803,' Wordsworth echoes the press's call for a unified front against the enemy:</p>
+	<lg type="poem">
+	<l>Come ye&#8212;whate'er your creed&#8212;O waken all,</l>
+	<l>Whate'er your temper, at your Country's call;</l>
+	<l>Resolving (this a free-born Nation can)</l>
+	<l>To have one Soul, and perish to a man,</l>
+	<l>Or save this honoured Land from every Lord</l>
+	<l>But British reason and the British sword.</l>
+	</lg>
+<p>Such ideological solidarity, Wordsworth asserts, is necessary while Britain is jeopardized:  but he represents a comparable ideological unity in Napoleon's France as a lamentable phenomenon.  In 'October 1803' ('these times'), he writes,</p>
+	<lg type="poem">
+	<l>How piteous then that there should be such dearth</l>
+	<l>Of knowledge; that whole myriads should unite</l>
+	<l>To work against themselves such fell despite:</l>
+	<l>Should come in phrensy and in drunken mirth,</l>
+	<l>Impatient to put out the only light</l>
+	<l>Of Liberty that yet remains on earth!</l>
+	</lg>
+<p>Wordsworth's distinction is that this unity, in contrast to Britain's, emerges not from rational resolution, but from irrational 'phrensy,' thus apparently echoing the charge that the French are irrational.</p>
+</div>
+<div>
+	<head>6.</head><p>"....Wordsworth refers to Napoleon only once in the <hi rend="italic">Prelude</hi>, and even then implicitly, but what he says reveals a great deal about where the evolution of his political sympathies stood in 1804.  In Book Ten, Wordsworth openly deplores Napoleon's December coronation:</p>
+
+	<lg type="poem">
+	<l>...finally to close</l>
+	<l>And rivet up the gains of France, a Pope</l>
+	<l>Is summoned in to crown an Emperor&#8212;</l>
+	<l>This last opprobrium, when we see the dog</l>
+	<l>Returning to his vomit, when the sun</l>
+	<l>That rose in splendour, was alive, and moved</l>
+	<l>In exultation among living clouds,</l>
+	<l>Hath put his function and his glory off,</l>
+	<l>And, turned into a gewgaw, a machine,</l>
+	<l>Sets like an opera phantom.</l>
+	</lg>
+<p>To some extent, Wordsworth echoes the press's counterrevolutionary discourse here representing the coronation as unnatural&#8212;leaving France to set like a 'gewgaw, a machine.'  But he also claims that Napoleon has negated the 'gains' of France, that he has killed a natural process, a 'sun / that rose in splendour.'  The politically incorrect implication is that the Revolution had followed a natural, 'living' process now subverted by an unnatural empire.</p>
+	<p>Let us delve more deeply into the implications of this passage.  It has been noted that it characterizes France's embrace of Napoleon by echoing Corinthians 2:22, where Paul warns about the perniciousness of 'false prophets':
+	<q rend="block">For when they speak great swelling <hi rend="italic">words</hi> of vanity, they allure throught the lusts of the flesh, <hi rend="italic">through much</hi> wantonness, those that were clean escaped from them who live in error....For it had been better for them not to have known the way of righteousness, than, after they have known <hi rend="italic">it</hi>, to turn from the holy commandment delivered unto them.  But it is happened unto them according to the true proverb, the dog <hi rend="italic">is</hi> turned to his own vomit again; and, the sow that was washed to her wallowing in the mire. (2:18, 21-22)</q>
+By alluding to this biblical passage in his description of Napoleon's coronation, Wordsworth suggests that the dog&#8212;France&#8212;has relinquished its quest for liberty and regressed to the despotic rule of a single, powerful man, a form of rule that the revolutionaries had endeavored to abolish.  Rather than contrast Napoleon unfavorably to the French kings he supplanted, as the press had done, Wordsworth stresses the similarities between kings and emperors.  Much like the monarch Wordsworth had described in the 'Letter to the Bishop of Llandaff,' Napoleon has attained an 'unnatural situation' of power and is consequently removed from sympathy with his subjects.</p>
+	<p>Wordsworth's subtle biblical reference equates revolutionary ideals with knowledge of God and with righteous living, a daring connection to draw in 1804.  It is daring as well to imply that Napoleaon represents a return to a despotic past.  Seen in this light, Wordsworth's appropriation of Paul's warning against <hi rend="italic">false</hi> promises of liberty reveals not an anti-revolutionary, but rather an anti-empire, subtext.  Wordsworth judges Napoleon's power unnautral not because he is 'that base-born upstart, the Corsican Usurper,' as the <hi rend="italic">Anti-Jacobin Review</hi> styled him.  It is rather his ideological descent from the unnaturally powerful Bourbon kings overthrown by the revolutionaries to which Wordsworth objects" (115-16).</p></div> 
+ <div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00062" type="commentary on literature"/>	      
+				</item>
+		</list>
+		</div>
+	      </body>
+   </text>
+</TEI.2>

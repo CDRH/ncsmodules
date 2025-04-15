@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00082">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Their Sisters' Keepers:  Prostitution in New York City, 1830-1870</hi>
+
+</title>
+		<title level="c" type="chapter">Chapter 3, "'No Work, No Money, No Home':  Choosing Prostitution" </title>
+		<date type="original" value="1993">1993</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Hill">Marilynn Wood Hill</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00082</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 68-72 of Marilynn Wood Hill's <hi rend="italic">Their Sisters' Keepers:  Prostitution in New York City, 1830-1870</hi>.  Published by University of California Press, 1993.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+
+<bibl>
+               <title level="a">Chapter 3, "'No Work, No Money, No Home':  Choosing Prostitution" </title>
+               <title level="m"><hi rend="italic">Their Sisters' Keepers:  Prostitution in New York City, 1830-1870</hi></title>
+               <author>Marilynn Wood Hill</author>
+               <imprint>
+                  <publisher>
+University of California Press
+
+</publisher>
+                  <pubPlace>
+Berkeley
+
+</pubPlace>
+               </imprint>
+               <date>
+1993
+
+</date>
+               <idno type="ISBN">
+0520078349
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+
+<keywords>
+<term id="publicspace" type="setting">public space</term>
+<term id="seduction" type="theme">seduction</term>
+<term id="prostitution" type="theme">prostitution</term>
+<term id="premaritalsex" type="theme">premarital sex</term>
+<term id="commentary" type="media">commentary</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-22">22 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+                     <head>1. </head><p>
+"Early nineteenth-century reformers, popular literature, and even some of the more scientific studies stressed seduction and abandonment as a major cause of prostitution, a reason that accorded with some prostitutes' explanations.  In the typical scenario, women were portrayed as pure, trusting, and affectionate, while men were characterized as unprincipled lechers.  An example of this sentimental approach to seduction is found in Sanger's mid-century study:
+<q rend="block">A woman's heart longs for a reciprocal affection, and, to insure this, she will occasionally yield her honor to her lover's importunitites, but only when her attachment has become so concentrated upon its object as to invest him with every attribute of perfection, to find in every word he utters and ever action he performs but some token of his devotion to her.</q>
+Love then became a 'passion' and an 'idolatry' that developed gradually in the woman 'until the woman owns to herself and admits to her lover that she regards him with affection.'  Although such an acknowledgment should have inspired the lover with high resolve to protect her, it frequently became instead:
+<q rend="block">the medium for dishonorable exactions . . . fatal in consequences to her, [as he] tramples on the priceless jewel of her honor.  It should be remembered that, in order to accomplish this base end, he must have resorted to base means. . . . Pure and sincere attachment would effectively prevent the lover from performing any act which could possibly compromise the woman he adores.</q></p><p>
+There were usually two possible endings to the typical story of deception:  the young girl was immediately forsaken after the illicit sex, or she was induced to elope with the young man and shortly afterward abandoned and left to fend for herself in a new city.  It was said that most of these young women then turned to lives of prostitution, either because they had lost all self-respect or because their families and friends, on learning of their sins and indiscretions, disowned them and turned them out. . . .</p>
+<p>Many stories of seduction reinforced the popular notion that men, even apparently trustworthy men, were really lechers.  The <hi rend="italic">New Era</hi> in October 1837 told of Mary Burke, a victim of a variety of men across the professional spectrum, who was arrested in a Walnut Street [New York City] brothel.  Burke told the judge that she had been born in Ireland, where her schoolmaster had seduced her when she was fourteen.  Because of her sin, she was thrown out by her father.  She bore a child and moved to Quebec, where she became intimate with her confessor, a Catholic priest, which resulted in another child.  She then moved to Montreal, was seduced by a constable, had a third child, and eventually went to the Grey Nunnery with her children.  Later, she came to the United States with another man who abandoned her in New York, and there, because of economic need, she began a 'business of her own.'. . .[F]ew explanations of a woman's fall could elicit as much sympathy as that of seduction and abandonment.  Seduction certainly played a decisive role in causing some women to enter prostitution, but its frequency was probably overstated by reformers and possibly by the women themselves, who may have wanted to justify their stituation to reformers who favored such explanations.  In Sanger's study of 2,000 prostitutes, approximately 13 percent gave 'seduced and abandoned' as their reason for entering prostitution.  A few more said they were 'seduced on board emigrant ships' or were 'seduced in emigrant boarding houses,' but the total number reporting seducation as a reason still represented only 14.5 percent of the cases.</p>
+
+
+<p>Entrapment and trickery, followed by rape, was
+another scenario said to lure women into prostitution, one believed especially
+effective with immigrants and young women from rural areas. Joe Farryall was a
+typical 'professional' recruiter whose guile was said to have caused the ruin
+of many innocent young women. Farryall and his wife, Phebe, operated a house
+of prostitution on Franklin Street and kept it supplied with inmates from as far
+north as Vermont.</p>
+
+         <p>Periodically, Farryall traveled through the countryside and,
+either through his charms or by promises of a better and more exciting life,
+persuaded young women to follow him to New York, where they were raped or
+intimidated into sexual compliance. Men like Farryall were rumored to be
+getting from $50 to $500 per recruit. Another method of tricking young country
+girls and newly arrived immigrants was by promising training and work in
+millinery or other trades. Only after arriving at the designated employment
+address in the city would a woman discover the true nature of the
+establishment" (68-72).</p>
+
+
+
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00144</field>
+      <field name="title">"A Hint to the Public"</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">american</field>
+      <field name="topic">statueofliberty</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

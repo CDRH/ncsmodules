@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00032">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Hiram Powers's <hi rend="italic">America</hi>: 'Triumphant as Liberty and in Unity'"</title>
+           <title level="j" type="journal"><hi rend="italic">The American Art Journal</hi></title>
+<date type="original" value="1986">1986</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Fryd">Vivien Green Fryd
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00032</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 55, 56, 58-59 and 59-60 of Vivien Green Fryd's "Hiram Powers's <hi rend="italic">America</hi>: 'Triumphant as Liberty and in Unity'." Published in <hi rend="italic">The American Art Journal</hi>, Volume XVIII, Number 2, 1986.
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"Hiram Powers's <hi rend="italic">America</hi>: 'Triumphant as Liberty and in Unity'"</title>
+               <title level="m"></title>
+               <author>Vivien Green Fryd</author>
+               <imprint>
+                  <publisher>
+Kennedy Art Galleries
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+1986
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="italian" type="place">Italian</term>
+<term id="rev1848" type="topic">1848</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="radicalism" type="topic">radicalism</term>
+<term id="gender" type="topic">gender</term>
+<term id="icon" type="topic">icon</term>
+<term id="civilwar" type="topic">Civil War</term>
+
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-01">01 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Liz Lorang</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-07">07 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+
+	<head>1.</head><p>"While Garnering Critical and financial success during the exhibition and sale of his <hi rend="italic">Greek Slave</hi> from 1842 to 1849, Hiram Powers began another ideal female figure, <hi rend="italic">America</hi>, in 1848.  Anticipating similar accolades, the artist expected that this next allegorical work would become an emblem for Europe's 1848 revolutions, as well as a national icon housed in the United States Capitol.  These intentions are revealed in Hiram Powers's letters in which he discusses at length his business efforts on behalf of finding patrons for <hi rend="italic">America</hi> and the reasons for his changing ideas about the statue's attributes, iconography, and content.  In this case, the work of art, alone, fails to express all the varied meanings intended by the artist.  Yet, by examining the plaster model in conjunction with the sculptor's unpublished letters, it becomes evident that Hiram Powers altered <hi rend="italic">America</hi>'s iconography according to his responses to changing political conditions in both Europe and the United States" (55).</p>
+</div>
+	<div>
+	<head>2.</head><p>"Hiram Powers first mentioned his idea for a new work in a letter to the statesman, Edward Everett, dated January 4, 1848.  'I am progressing rapidly with my new statue,' Powers informed his friend, 'which I intend to call <hi rend="italic">America</hi>, &#8212;not Liberty.  I aim at an embodiment of our political creed&#8212;and I shall execute it with or without an order soon as possible&#8212;after which I intend to send it home where if it finds no niche&#8212;it may wander about on exhibition for my own benefit.'  Nine months later, Powers rechristened his ideal figure 'Liberty,' explaining its source, composition, and iconography to his Cincinnati patron, Nicholas Longworth:
+	<q rend="block">It is most gratifying to me in the midst of all these perplexities to hear America so often named, and distinguished as the <hi rend="italic">only</hi> country where good and safe government exists, and where there is a generous diffusion of all the blessings of life.  America is now regarded by numberless Europeans as a beacon light to all the world....But you will say, [in response to my concerns about the revolutions] 'This can all be read in the newspapers, what are you doing?'  I am making a statue to suit the times, at least it ought to suit the times if Liberty is to triumph.  It is a statue of Liberty but not in strict accordance with the Liberty of Mythology.  She has no rod in her hand nor cat at her feet.  She is to be the republican Liberty, and I have given her three symbols, which she displays as follows&#8212;She stands as if addressing a multitude and she holds the symbol cap upon her fingers [sic] ends high above her head.  <hi rend="italic">This is the prize</hi>.  Beneath her foot, and directly under the cap, she is crushing a crown.  <hi rend="italic">This is the danger</hi>.  The support for the statue is a bundle of sticks, which she touches significantly with her right hand.  This symbol represents <hi rend="italic">unity or the means</hi>.  She will be draped lightly to just above the knees, and her arms will be exposed.  Her expression will be that of triumph....You will think this a very <hi rend="italic">radical</hi> Liberty, and so I mean to have her.  I wish her to say that where crowns are exalted I cannot abide, and if you would have me live with you, and you would enjoy the blessings which I can give, you must be united and you must trample in the dust, every semblance of despotism" (56).</q></p>
+	</div>
+	<div>
+	<head>3.</head><p>"By extending the sculpture's symbolic personification, Powers followed the iconographic traditions for...'Libertas'....'Libertas' had been an ancient Roman goddess who first stood for personal freedom in relation to manumission and later, under the Roman Empire, signified both political liberty and constitutional government.  Some rulers, such as Julius Caesar, had minted on coins either an image of the goddess, or her symbols of rod, scepter, and pileus.  By the eighteenth century, emblem books and iconography texts such as Caesar Ripa's <hi rend="italic">Iconologia</hi> (1758-1760) and George Richardson's <hi rend="italic">Iconologia</hi> (1789) codified 'Libertas' as a female personification who holds a pole surmounted by the Phrygian cap.  Other symbols of liberty also accompanied the figure:  a cat, a scepter, a flying bird, and a broken yoke.  During the French Revolution, insurgents adopted "Libertas" to signify their successes upon the execution of Louis XVI and Marie Antoinette.  Meanwhile, in the United States, the figure multiplied as official emblems both during and after the American Revolution.  Found on the state seals of New Jersey (1787), New York (1788), and North Carolina (1789), and later on coins.  'Libertas' came to personify American freedoms attained by the Revolution and guaranteed in the Constitution" (58-59).</p></div>
+	<div>
+	<head>4.</head><p>"Concurrent with the transformation of 'America' into an icon of the United States was the integration of 'America' and 'Libertas' into a single allegory identified above as 'America as Liberty.'  Prior to and during the American Revolutionary War, these two figures often had been depicted in proximity to signify the colonies' struggle against British domination.  Inevitably they combined out of expediency for this iconographic purpose.  Represented as the Indian Princess with tobacco leaf skirt and headdress, this figure also held the cap and pole traditionally associated with 'Libertas.'  Paul Revere, for example, depicted such an image on the masthead for the April 19, 1771, July 7, 1774, and May 24, 1781, editions of <hi rend="italic">The Massachusetts Spy</hi>.  Similarly, the Indian Princess appeared as ships' figureheads, such as William Rush's <hi rend="italic">Liberty</hi>, and in medals such as Dupr&#233;'s <hi rend="italic">Libertas Americana</hi>.  These neoclassical goddesses signified the general state of freedom in the United States, and as such continued to personify the nation.</p>
+	<p>Hiram Powers's allegorical <hi rend="italic">America</hi> follows this tradition of 'America as Liberty.'  In particular, Powers's female figure resembles examples in which "America as Liberty" stands triumphant over some emblem of despotism.  Sometimes she tramples a crown as evidenced in an anonymous artist's <hi rend="italic">Liberty &amp; Washington</hi>, 1800-1810, and Giuseppe Franzoni's <hi rend="italic">Liberty</hi> (United States Capitol).  Other works feature Liberty standing on a lion, as in the Pennsylvania state seal (1787).  In Edward Savage's popular print of 1796, <hi rend="italic">Liberty as Goddess of Youth</hi>&#8212;reproduced on embroidery, in amateur paintings, and on Chinese porcelain&#8212;Liberty tramples various regalia: a broken scepter, a hammer, and a medal.  Finally, some artists used chains for their symbol of tyranny as evidenced in Samuel Jennings's <hi rend="italic">Liberty Displaying the Arts &amp; Sciences</hi>, 1792, and the Virginia state seal.  Hiram Powers eventually utilized this state seal in defense of the attributes' appearance in his own allegorical statue" (59-60).</p>
+</div>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00162" type="commentary on image"/>	  
+		<xptr n="lby.00071" type="same author"/>
+		<xptr n="lby.00159" type="commentary on image"/>
+		<xptr n="lby.00165" type="commentary on image"/>
+		</item>
+		</list>
+</div>
+      </body>
+   </text>
+</TEI.2>

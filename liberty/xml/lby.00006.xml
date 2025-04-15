@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00006">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Les Miserables</hi>
+</title>
+            <title level="c" type="chapter">from Volume I, Book II, Chapter IX, "New Wrongs"</title>
+<date type="original" value="1862">1862</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Hugo">Victor Hugo
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00006</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 147 of the 1899 Little, Brown edition of Victor Hugo's <hi rend="italic">Les Miserables</hi>, Volume I, Book II, Chapter IX, "New Wrongs."  Translated by Sir Lascelles Wraxall.  Originally published in 1862.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">CHAPTER IX</title>
+               <title level="m">Les Miserables</title>
+               <author>Victor Hugo</author>
+               <imprint>
+                  <publisher>Little, Brown, &#38; Company
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1899
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="french" type="place">French</term>
+<term id="frenchrevolution" type="topic">French Revolution</term>
+<term id="rev1830" type="topic">1830 Revolution</term>
+<term id="dissenting" type="topic">Dissenting Voices</term>
+<term id="individual" type="topic">Individual Liberty</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-17">17 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">CHAPTER IX.</head>
+<head type="sub">NEW WRONGS</head>
+
+<p>WHEN the hour for quitting the bagne arrived, when Jean Valjean heard in his ear the unfamiliar words "You are free," the moment seemed improbable and extraordinary, and a ray of bright light, of the light of the living, penetrated to him; but it soon grew pale. Jean Valjean had been dazzled by the idea of liberty, and had believed in a new life, but he soon saw that it is a liberty to which a yellow passport is granted. And around this there was much bitterness; he had calculated that his earnings, during his stay at the bagne, should have amounted to 171 francs. We are bound to add that he had omitted to take into his calculations the forced rest of Sundays and holidays, which, during nineteen years, entailed a diminution of about 24 francs. However this might be, the sum was reduced, through various local stoppages, to 109 francs, 15 sous, which were paid to him when he left the bagne. He did not understand it all, and fancied that he had been robbed.</p>
+
+<p>on the day after his liberation, he saw at Grasse men in front of a distillery of orange-flower water,&#8212;men unloading bales; he offered his services, and as the work was of a pressing nature, they were accepted. He set to work; he was intelligent, powerful, and skilful, and his master appeared satisfied. While he was at work a gendarme passed, noticed him, asked for his paper, and he was compelled to show his yellow pass. This done, Jean Valjean resumed his toil. A little while previously he had asked one of the workmen  what he earned for his day's work, and the answer was 30 sous. At night, as he was compelled to start again the next morning, he went to the master of the distillery and asked for payment; the master did not say a word, but gave him 15 sous, and when he protested, the answer was, "That is enough for you." He became pressing, the master looked him in the face and said, "Mind you don't get into prison."</p>
+
+<p>Here again he regarded himself as robbed; society, the state, by diminishing his earnings, had robbed him wholesale; now it was the turn of individual to commit retail robbery. Liberation is not deliverance; a man may leave the bagne, but not condemnation. we have seen what happened to him at Grasse, and we know how he was treated at D&#8212;</p>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00007" type="Same novel"/>
+               </item>
+               <item>
+                  <xptr n="lby.00008" type="Same novel"/>
+               </item>
+               <item>
+                  <xptr n="lby.00009" type="Same novel"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

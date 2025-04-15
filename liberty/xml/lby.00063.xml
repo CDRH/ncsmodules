@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00063">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Democracy in America</hi></title>
+           <title level="c" type="chapter">from Chapters XI, XIV, and XVIII</title>
+<date type="original" value="1835">1835</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Tocqueville">Alexis de Tocqueville</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00063</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 194-196, 267-268, 363, and 407-408 of Volume One of the 1843 Langley edition of Alexis de Tocqueville's <hi rend="italic">Democracy in America</hi>.  Translated by Henry Reeve.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Chapters XI, XIV, and XVIII</title>
+               <title level="m"><hi rend="italic">Democracy in America</hi></title>
+               <author>Alexis de Tocqueville</author>
+               <imprint>
+                  <publisher>Langley</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1843
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="french" type="place">French</term>
+<term id="liberalism" type="topic">liberalism</term>
+<term id="emancipation" type="topic">emancipation</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+            <date value="2005-07-25">25 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+	<head>1.</head><p>"I confess that I do not entertain that firm and complete attachment to the liberty of the press, which things that are supremely good in their very nature are wont to excite in the mind; and I approve of it more from a recollection of the evils it prevents, than from a consideration of the advantages it ensures" (194).</p></div>
+
+<div><head>2.</head><p>"....If you establish a censorship of the press, the tongue of the public speaker will still make itself heard, and you have only increased the mischief.  The powers of thought do not rely, like the powers of physical strength, upon the number of their mechanical agents, nor can a host of authors be reckoned like the troops which compose an army; on the contrary, the authority of a principle is often increased by the smallness of the number of men by whom it is expressed.  The words of a strong-minded man, which penetrate amid the passions of a listening assembly, have more weight than the vociferations of a thousand orators; and if it be allowed to speak freely in any public place, the consequence is the same as if free speaking was allowed in every village.  The liberty of discourse must therefore be destroyed as well as the liberty of the press; this is the necessary term of your efforts; but if your object was to repress the abuses of liberty, they have brought you to the feet of a despot.  You have been led from the extreme of independence to the extreme of subjection, without meeting with a single tenable position for shelter or repose" (195).</p></div>
+
+<div><head>3.</head><p>"....When the right of every citizen to co-operate in the government of society is acknowledged, every citizen must be presumed to possess the power of discriminating between the different opinions of his contemporaries, and of appreciating the different facts from which inferences may be drawn.  The sovereignty of the people and the liberty of the press may therefore be looked upon as correlative institutions; just as the censorship of the press and universal suffrage are two things which are irreconcileably opposed, and which cannot long be retained among the institutions of the same people.  Not a single individual of the twelve millions who inhabit the territory of the United States has as yet dared to propose any restrictions to the liberty of the press" (196).</p></div>
+
+<div><head>4.</head><p>"It cannot be doubted that the moment at which political rights are granted to a people that had before been without them, is a very critical, though it be a very necessary one.  A child may kill before he is aware of the value of life; and he may deprive another person of his property before he is aware that his own may be taken away from him.  The lower orders, when first they are invested with political rights, stand in relation to those rights, in the same position as a child does to the whole of nature, and the celebrated adage may then be applied to them, <hi rend="italic">Homo, puer robustus</hi>.  This truth may even be perceived in America.  The states in which the citizens have enjoyed their rights longest are those in which they make the best use of them.</p>
+	<p>It cannot be repeated too often that nothing is more fertile in prodigies than the art of being free; but there is nothing more arduous than the apprenticeship of liberty.  Such is not the case with despotic institutions; despotism often promises to make amends for a thousand previous ills; it supports the right, it protects the oppressed, and it maintains public order.  The nation is lulled by the temporary prosperity which accrues to it, until it is roused to a sense of its own misery.  Liberty, on the contrary, is generally established in the midst of agitation, it is perfected by civil discord, and its benefits cannot be appreciated until it is already old" (267-68).</p></div>
+<div><head>5.</head><p>"The negro has no family; woman is merely the temporary companion of his pleasures, and his children are upon an equality with himself from the moment of their birth.  Am I to call it a proof of God's mercy, or a visitation of his wrath, that man in certain states appears to be insensible to his extreme wretchedness, and almost affects with a depraved taste the cause of his misfortunes?  The negro, who is plunged in this abyss of evils, scarcely feels his own calamitous situation.  Violence made him a slave, and the habit of servitude gives him the thoughts and desires of a slave; he admires his tyrants more than he hates them, and finds joy and his pride in the servile imitation of those who oppress him:  his understanding is degraded to the level of his soul.</p>
+	<p>The negro enters upon slavery as soon as he is born; nay, he may have been purchased in the womb, and have begun his slavery before he began his existence.  Equally devoid of wants and of enjoyment, and useless to himself, he learns, with his first notions of existence, that he is property of another who has an interest in preserving his life, and that the care of it does not devolve upon himself; even the power of thought appears to him a useless gift of Providence, and he quietly enjoys the privileges of his debasement.</p>
+	<p>If he becomes free, independence is often felt by him to be a heavier burden than slavery; for having learned, in the course of his life, to submit to everything except reason, he is too much unacquainted with her dictates to obey them.  A thousand new desires beset him, and he is destitute of the knowledge and energy necessary to resist them:  these are masters which it is necessary to contend with, and he has learned only to submit and obey.  In short, he sinks to such a depth of wretchedness, that while servitude brutalizes, liberty destroys him" (363).</p></div>
+
+<div><head>6.</head><p>"This all-pervading disquietude has given birth to an undertaking which is but little known, but which may have the effect of changing the fate of a portion of the human race.  From apprehension of the dangers which I have just been describing, a certain number of American citizens have formed a society for the purpose of exporting to the coast of Guinea, at their own expense, such free negroes as may be willing to escape from the oppression to which they are subject.</p>
+	<p>In 1820, the society to which I allude formed a settlement in Africa, upon the 7th of north latitude, which bears the name of Liberia.  The most recent intelligence informs us that two thousand five hundred negroes are collected there; they have introduced democratic institutions of America into the country of their forefathers; and Liberia has a representative system of government, negro-jurymen, negro-magistrates, and negro-priests; churches have been bulit, newspapers established, and, by a singular change in the vicissitudes of the world, white men are prohibited from sojourning within the settlement.</p>
+	<p>This is indeed a strange caprice of fortune.  Two hundred years have now elapsed since the inhabitants of Europe undertook to tear the negro from his family and his home, in order to transport him to the shores of North America; at the present day, the European settlers are engaged in sending back the descendants of those very negroes to the continent from which they were originally taken; and the barbarous Africans have been brought into contact with civilization in the midst of bondage, and have become acquainted with free political institutions in slavery.  Up to the present time Africa has been closed against the arts and sciences of the whites; but the inventions of Europe will perhaps penetrate into those regions, now that they are introduced by Africans themselves.  The settlement of Liberia is founded upon a lofty and a most fruitful idea; but whatever may be its results with regard to the continent of Africa, it can afford no remedy to the New World" (407-08).</p></div>
+	      </body>
+   </text>
+</TEI.2>

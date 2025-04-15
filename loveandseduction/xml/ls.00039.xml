@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00039">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">The Maniac in the Cellar: Sensation Novels of the 1860s</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name="Hughes">Winifred Hughes</author>
+<date type="original" value="1980">1980</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00039</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 166-168 of Winifred Hughes' <hi rend="italic">The Maniac in the Cellar: Sensation Novels of the 1860s</hi>, Princeton University Press, 1980.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Influences of the Sensation Novel</title>
+               <title level="m"><hi rend="italic">The Maniac in the Cellar: Sensation Novels of the 1860s</hi>
+</title>
+               <author>Winifred Hughes</author>
+               <imprint>
+                  <publisher>
+Princeton University Press
+</publisher>
+                  <pubPlace>
+Princeton
+</pubPlace>
+               </imprint>
+               <date>
+1980
+</date>
+               <idno type="ISBN">
+<!-- ISBN, IF APPROPRIATE -->
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+						<term id="fictioninpress">fiction in press</term>
+			<term id="popularpress" type="theme">popular press</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <p>The wrathful cry of
+sensationalism, "that Cry of cries" for the 1860s, made the rounds of the critical journals and became established in their lexicon as a fashionable slogan, with
+automatic, if somewhat vague, connotations. The word itself, with its aura of
+patronizing disapproval, became an instrument of the status quo, in world view
+as well as fictional practice. In fact, according to <hi rend="italic">All the Year Round, </hi>it
+took on the quality of an "orthodox stone," convenient for the
+"flinging at any heretic author who is bold enough to think that life has
+its tremendous passes of anguish and crime, as well as its little joys and
+little sorrows." By 1864, M. E. Braddon had already
+begun to feel its effect as a "bitter term of reproach...invented for
+the terror of romancers." One reviewer in <hi rend="italic">Belgravia</hi>, Miss
+Braddon's publication, objected to the slogan as a "hollow, windy,
+worthless ululation," and it is certainly true that both sides used the
+term loosely, stretching its original application to a specific genre for
+their own polemical purposes. For the critics, sensationalism was apt to
+include the lower reaches of <hi rend="italic">Reynolds' Miscellany </hi>and the Newgate
+Calendar, yellow journalism, Coburg melodrama, and spasmodic poetry&#8212;anything,
+in short, from "mere trash" to "something worse." For the
+apologists, with their loftier conception, it encompassed Shakespeare and
+Sophocles as well as the Poet Laureate, whose popular verse "Enoch
+Arden" turns on the heroine's unintentional bigamy. Both sides pointed to
+Dickens, in triumph or in accusation. <hi rend="italic">Belgravia </hi>claimed him as the
+"founder" of the sensation school, while <hi rend="italic">Blackwood's </hi>reviewed <hi rend="italic">Great Expectations 
+</hi>along with all the other
+current sensation novels, judging it much inferior to <hi rend="italic">The
+Woman in White </hi>as a specimen of the genre: "With the most fantastic
+exaggeration of means, here is no result at all achieved, and no sensation
+produced upon the composed intelligence of the reader. ... In every way, Mr.
+Dickens's performance must yield precedence to the companion work of his
+disciple and assistant."</p>
+
+         <p>During the 1860s, both readers and reviewers were on the lookout for
+sensation, whether to devour it in shilling numbers or to denounce it from
+literary pulpits. For some, like Charles Reade, it is the constitutive element
+of fiction: "Without sensation there can be no interest." For others,
+like the worthy Dean Mansel in the <hi rend="italic">Quarterly, </hi>the only sensation
+provoked is a distinctly unpleasant one, as certain popular novels "with
+or without the intention of the writer, are strongly provocative of that
+sensation in the palate and throat which is a premonitory symptom of
+nausea." In any event, sensation was in the air, a part of the temper of
+the times.</p>
+
+         <p>As a separate
+genre, the sensation novel now looks irretrievably minor in the context of
+literary history. It became a genre in its own right through the process of
+revising the ancient verities of romance and melodrama, and through the
+same process, abolished itself as a viable and relevant means of expression.
+Still, there are remnants of its brief popular reign even in the major realist
+works of the sensation decade. One obvious way for its influence to surface is
+in the form of parody, to which the sensation novel was particularly susceptible
+because of its transitional status. As early as 1864, the <hi rend="italic">Edinburgh
+Review </hi>was reporting that "two or three years ago nobody would have
+known what was meant by a Sensation Novel; yet now the term has already passed
+through the stage of jocular use ... and has been adopted as the regular
+commercial name for a particular product of industry for which there is just now
+a brisk demand." The jocular meaning seems to have
+coexisted quite comfortably with the serious one, diminishing neither the sales
+nor the impact of the sensation genre. In fact, the irreverent imitations in <hi rend="italic">
+Punch
+
+</hi>appear to have attracted a following of their own; at one
+point, the<hi rend="italic">
+Examiner 
+</hi>ironically recommended that
+Mrs. Henry Wood, to keep up her standing in the public favor, ought to
+read "the thrilling romance of 'Mokeanna,' and write something like that."
+And of course, M. E. Braddon, who sometimes wrote for <hi rend="italic">
+Punch,
+
+</hi>enjoyed poking fun at the very conventions she had done so
+much to establish in the first place.</p>
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00037" type="commentary on same author"/>
+
+               </item>
+               <item>
+                  <xptr n="ls.00160" type="image on commentary"/>
+
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

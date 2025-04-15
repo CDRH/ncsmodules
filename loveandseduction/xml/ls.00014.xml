@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00014">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Badgered Beecher"
+</title>
+
+<title level="j" type="journal"><hi rend="italic">National Police Gazette</hi></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name=""></author>
+<date type="original" value="1878">1878</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author>
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00014</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 4 of the April 27, 1878 issue of the <hi rend="italic">National Police Gazette</hi>.         
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Badgered Beecher</title>
+               <title level="m"><hi rend="italic">National Police Gazette</hi></title>
+                              <imprint>
+                  <publisher>
+National Police Gazette
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+April 27, 1878
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="seduction" type="theme">seduction</term>
+		<term id="adultery" type="theme">adultery</term>
+		<term id="popularpress" type="theme">popular press</term>
+		<term id="american" type="place">American</term>
+		<term id="history" type="media">history</term>
+		<term id="beechertilton">Beecher-Tilton</term>
+		<term id="policegazette">police gazette</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-25">25 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+          <head>Badgered Beecher</head>
+         
+<head>Plymouth Church Experiences Another Throe
+of the Great Moral Earthquake.</head>
+         
+
+            <head>MRS. TILTON TELLS AGAIN.</head>
+         
+<head>This Time she Swears it is so, for she Cannot Tell a Lie,
+and she did it &#8212; with her Little Hatch-it.</head>
+         
+            <head>THE BIGGEST CACKLE ON RECORD.</head>
+         
+         <p>A quiet man of thirty-five, walked into the
+newspaper offices of this city, on Monday afternoon, 15th inst.,
+with a slip of paper in his hand, on which was printed the following:</p>
+
+	<text type="correspondence">
+		<body>
+		<opener>
+         <salute>"Mr. Ira B. Wheeler.</salute></opener>
+
+         <p>"My Dear Sir: A few weeks since, after long
+months of mental anguish, I told, as you know, a few friends, whom I had
+bitterly deceived, that the charge brought by my husband of adultery between
+myself and the Rev. Henry Ward Beecher was true, and that the lie I had lived
+so well the last four years had become intolerable to me. That statement I now
+solemnly reaffirm, and leave the truth with God, to whom also I commit myself,
+my children and all who must suffer. I know full well the explanations that
+will be sought by many for this acknowledgment &#8212; a desire to return to my
+husband, insanity, malice, everything save the true and only one: my quickened
+conscience and the sense of what is due to the cause of truth and justice.
+During all the complications of these years you have been my confidential
+friend, and therefore, I address this letter to you, authorizing and requesting
+you to secure in publication.</p>
+
+         <closer>"Elizabeth R. Tilton.</closer>
+
+         <dateline>"Brooklyn, April 13, 1878."</dateline>
+		</body>
+		</text>
+
+         <p>The bearer was Mr. Wheeler himself, and he
+modestly said that he had been asked by Mrs. Tilton to give it to the
+newspapers. He was closely quizzed and he said that he had been a friend and
+adviser of Mrs. Tilton, having known her from childhood. He is a New York lawyer, and a resident of Elizabeth, N.J. Since her separation from Theodore he
+has acted professionally as her counsel. Being asked about the confession, he
+said that she freely made it, unbeknown either to her husband or to Mr.
+Beecher. He believed it was a sincere one, and that it was made from no other
+motive than the one given therein. Her conscience was troubling her, and it
+was a matter between her and her God to confess her sin as publicly as she had denied it.</p>
+
+         
+         <p>Being asked whether she had made the same confession to him,
+Mr. Wheeler answered that she had and to other persons also. Mr. Wheeler was
+manifestly sincere in what he said, and he convinced all with whom he spoke
+that the confession was genuine. The news fell like a thunderbolt on the Beecher party, although they one and all said they had been expecting it. Mr. S.V. White,
+treasurer of Plymouth Church, said that he did not doubt Mrs. Tilton had
+written it. The air had been full of it of late, and after it had become
+certain that Tilton and wife were to come together again the Beecher party were
+prepared for anything. The confession was doubtless the price of
+reconciliation. He did not know who I.B. Wheeler was, but he did know that of
+late threats to blackmail Mr. Beecher had been made. If money was not given
+the persons said there would be further scandal developments. Much of the
+newspaper talk on the subject of the reunion of the Tiltons was preparatory to
+the confession. Thomas G. Shearman said that he knew of the confession coming,
+and he believed it was genuine, but it was part and parcel of the bargain by
+which Tilton and wife are to live together again.  He referred to the
+affidavits made by Mrs. Tilton, in which she explicitly denied her guilt, and
+said that her latest confession was inconsistent with them. Others of the Beecher flock went further. They said that the woman is insane; that she is a liar and
+not to be believed. They reiterated that it is a blackmailing operation, and
+said that no attention would be paid to it. Reminded that Mrs. Tilton is yet a
+member of Plymouth Church in good and regular standing, they said that she
+would have to be expelled for lying.</p>
+
+         <p>As the evening progressed the excitement grew
+very great on Brooklyn Heights. Troops of reporters hurried to Beecher's House.</p>
+
+         <p>They were politely received. Mr. Beecher was not at home.
+They were told he was off lecturing, but his family could not tell where, other
+than it was somewhere up the line of the Erie railroad. Every member of the
+family asked said that they did not know where he was. When asked whether it
+was a practice for him to go off without saying where he was going, they
+answered that it was not. This was the first time he had done such a thing.
+Judge McCue, one of the justices of the Brooklyn city court, said: "Mrs.
+Tilton made an affidavit before me in my private office, in which she called
+Almighty God to witness her innocence, and then she assured me privately that
+the charges against her were the result of one of the basest and most malicious
+conspiracies ever known. She was emphatic in every denial. Well, those who
+believe in Mr. Beecher's guilt will be more than ever convinced, and those who
+believe in his innocence will adhere to their belief more zealously, and the
+whole unsavory scandal will be poured out upon the community again."</p>
+
+         <p>Mr. Augustus Storrs, one of the investigating
+committee, said that he had not heard of a confession, although he had been
+told than there might be one. "Mrs. Moore," he said, "is a familiar person to
+the public. Her actions in that period when she went hither and thither
+denouncing Mr. Beecher and telling of her daughter's sin proved to her friends
+that she was out of her mind. Ex-Judge Nathan B. Morse, her husband, told me
+that she was not only unpleasant to be with, but unsafe. Now it would be very
+strange if Elizabeth Tilton hadn't something of her mother in her. I must say
+that from all I have heard I think that Mrs. Tilton is crazy. Certainly the
+spells which we have seen her in go to prove it. The confession may be
+authentic, but who will believe it?  A lie thrice told will have no effect."</p>
+
+         <p>The news spread with wonderful speed, and it
+seemed to plunge the stately Columbia Heights into the same fever which raged
+so long in the summer of 1874, when every day brought a new surprise. Those
+who moved in the inner circle of Plymouth Church were prepared for the shock.
+The indications of the coming storm had appeared in many places, and faint
+intimations, albeit that they were speedily repressed cropped out in the
+newspaper columns. Every time the story was told that all the plans for
+putting the scandal to sleep were to be upset by Mrs. Tilton, an adroit answer
+was ready to destroy its strength. The wily Mr. Shearman had the fact that
+Mrs. Tilton was to turn on Mr. Beecher long before any one else, and he caused
+the rumors of a confession to be printed and then denied them so as to lull
+suspicion. All that could be done was done to avert the disaster of a
+confession. The threat of war seems first to have come from Mrs. Morse, Mrs.
+Tilton's mother. A gentleman possessed of all the facts said that early in the
+winter Mrs. Morse had visited Mr. Beecher and told him that Elizabeth had to be
+taken care of, and that if she was not liberally supported there would be
+trouble. Mr. Beecher consulted with some of his friends, and they agreed that
+it would not do for him to be known as the supporter of Mrs. Tilton after all
+the scandal, and they advised him not to pay her any money. Mrs. Morse renewed
+her demand, and, it is said, accompanied it with strong and abusive language,
+and wrote several pointed notes to Mr. Beecher, but without any effect. Mrs.
+Tilton was induced to start a school in Henry street under the promise of a
+liberal support from the families of Plymouth Church.</p>
+
+         <p>She found, however, that she was not only not to be
+liberally supported, but that persons from whom she expected favor expressed
+the opinion that after her course she was not a fit person to instruct
+children. This stung her to desperation, and she threw up her school. She
+complained of her harsh treatment by Mr. Beecher and his friends, and after, as
+she said, they had used her for all their purposes, and she blamed herself for
+deserting her husband, who had been magnanimous to forgive her sin and to
+promise her protection. She wrote a letter to Mrs. Raymond, the wife of
+Professor Rossiter W. Raymond, which the reporter's informant said had been
+seen and read by several persons in Plymouth Church. He understood that she
+had written a similar letter, saying that she was no longer going to live in a
+lie, to Mrs. Anna Field, who accompanied her daily to the trial of the
+Tilton-Beecher suit.</p>
+
+         <p>Women from Plymouth Church made frequent visits
+to her, and reported a growing change in her disposition toward Mr. Beecher.
+To one she said: "What viciousness all this trouble has brought out, to be
+sure; nearly every form of crime." A lady member of the Plymouth Church who has maintained friendly relations with Mrs. Tilton and her mother, Mrs. Morse,
+called on Mrs. Tilton, being, as she says, unable to sleep until she knew the
+truth or falsity of the alleged confession. Mrs. Tilton opened the door for
+her. The hair above her forehead had blanched to whiteness and she seemed to
+have grown ten years older with the last few weeks. The feelings of the visitor
+were so intense that she walked directly past Mrs. Tilton into the parlor
+without uttering a word. When Mrs. Tilton had entered the lady asked her,
+while both were yet standing: "Libby, what is all this trouble about?"</p>
+
+         <p>"There has been trouble enough, but what do you
+mean?" was the reply.</p>
+
+         <p>"Did you write the statement that purports to be
+your confession of guilt, and that has been sent to the newspapers for
+publication?"</p>
+
+         <p>"I did," replied Mrs. Tilton, firmly. "And
+every word of it is true."</p>
+
+         <p>"How could you," continued the visitor, "sit for
+all this time perjuring yourself every day?"</p>
+
+         <p>"I don't know how I could do it," replied Mrs.
+Tilton, "but I did."</p>
+
+         <p>"Did your daughters know what you now say is the
+truth before they went to Europe?"</p>
+
+         <p>"Yes, they did."</p>
+
+         <p>Mrs. Tilton was almost broken down. She
+displayed wonderful courage in maintaining the rightfulness of her new attitude
+toward Mr. Beecher, but she was in a state of great nervous excitement.</p>
+
+         <p>"Has Mr. Tilton been supporting his children?"
+asked the visitor of Mrs. Morse.</p>
+
+         <p>"Sumptuously," replied the lady.</p>
+
+         <p>"Has he seen Mrs. Tilton lately?"</p>
+
+         <p>"He has had two interviews with her after his
+last return from lecturing, but he is now lecturing again &#8212; thousands of miles
+away."</p>
+
+         <p>Mr. Beecher was out of the city to-night when
+Mrs. Tilton's letter was made public, and his whereabouts was not known save to
+a few friends. The <hi rend="italic">Tribune </hi>telegraphed him a copy of the letter at a
+late hour, and received the following letter in reply:</p>
+
+	<text type="correspondence">
+		<body>
+		<opener>
+
+         <dateline>Waverly, N.Y., April 15, 1878.</dateline>
+
+         <salute>"To the Editor of the New York <hi rend="italic">Tribune</hi>:</salute></opener>
+
+         <p>"I confront Mrs. Tilton's confession with an
+explicit and absolute denial. The testimony to her own innocence and mine,
+which for four years she had made to hundreds in private and public, before the
+court, in writing and orally, I declare to be true. And the allegations now
+made in contradiction of her uniform, solemn and unvarying statements hitherto
+made, I utterly deny. I declare to be innocent of the great transgression."</p>
+<closer>Henry Ward Beecher.</closer>
+	</body>
+	</text>
+
+         <p>In conversation with a reporter in that town, he
+made the following statement: "Mrs. Tilton was examined repeatedly by my
+counsel, and plied with the most searching questions, and by her consistent and
+explicit testimony satisfied them all of her innocence and won their esteem.
+When the Council of 1876 was called, several interviews were arranged between
+her and eminent gentlemen, both of the clergy and of the law. In every case
+she satisfied them of her absolute innocence. Subsequently to that, at an
+interview, arranged for the purposes of giving prominence to her declarations
+and form to her testimony, which was taken down by a shorthand writer, and
+which I believe to be still in existence although I have never seen it, she
+elaborately and in detail reaffirmed her innocence and mine. These are the
+most prominent instances of her uniform testimony. It should be borne in mind
+that she first charged me with this offence to her husband. Upon my visiting
+her she withdrew it in writing. She subsequently renewed the charge. She then
+again and indignantly denied it, and left her husband's house, and for four
+years has continued, in every conceivable form and under the most solemn
+circumstances, to deny it, until now, when once again, for the third time, she
+renews it. Against this long and tortuous career, I oppose my uniform and
+unimpeachable truthfulness."</p>
+
+         <p>A reporter, for the purpose of verifying the
+confession, called at the house of Mrs. Tilton, in Brooklyn. Mrs. Tilton
+herself answered the bell. She looked far better than in the past. There
+seemed, however, to be a much greater proportion of gray in her naturally black
+hair than there was two years ago. The reporter saw only a vague resemblance
+of her old self as she looked early in the trial, but a closer likeness to her
+as she appeared when, one morning toward the close of the suit, she arose and
+waited the reply of the judge to her written appeal for permission to testify.</p>
+
+         <p>It was, however, Mrs. Tilton, beyond question,
+and she responded pleasantly when so addressed. The reporter had with him a
+copy of the card furnished by Mrs. Wheeler. Showing it to her and asking
+whether she had indeed written it and was desirous that it should be published,
+Mrs. Tilton flushed violently and cast down her eyes. Then, after a moment,
+she said, "The card was written by me."</p>
+
+         <p>"And you authorized Mr. Wheeler to make it
+public?"</p>
+
+         <p>"Yes, sir," she said, and still with downcast
+eyes; "did he leave it with you? It's all right, sir."</p>
+
+         <p>Mr. Moulton was interviewed in Albany. He spoke
+substantially as follows: "I was convinced the admission would be made, but I
+was hardly prepared to expect it at this time. I know it from my knowledge of the woman.  Elizabeth Tilton was so upright, so sincere minded that it
+was only a question of time when she should tell the truth. I remember that
+Theodore Tilton once asked me, 'Frank, do you believe Elizabeth will ever tell
+me before she dies?' and I answered him that she surely would. I think that
+Mr. Tilton came to expect that it would occur some day. He always believed in
+her abiding sense of truth and right. You may look through the record of the
+trial and you will not find an instance of his speaking of her harshly or even
+unkindly. He spoke of her as a white-souled woman. He always conceded that
+she was dominated and overcome by Mr. Beecher's influence in the guise of
+religion."</p>
+
+         <p>At the residence of Mrs. Morse, the mother of
+Mrs. Tilton, where the latter is living, no information could be obtained. The
+door was soon opened a few inches, as far as a chain and bolt would permit.
+One of Theodore Tilton's sons then asked the visitor's errand. Upon being
+informed that he desired to see Mrs. Morse he demanded the inquirer's
+business. When told that it was a reporter who desired to see her concerning
+Mrs. Tilton's letter the lad promptly said, "Mrs. Morse has no information to
+impart to the press." A sharp voice from the top of the stairs called out,
+"Close the door," and the command was obeyed. </p>
+
+         <p>"I don't know," said Colonel Beecher, "whether
+my father expected anything of this sort or not. We never talked to him about
+it, but I will say for my part that I am not surprised. I have known for the
+last six weeks that Mr. Tilton has been visiting his wife, and I was prepared
+for something of this sort. An hour since I was for the first time told of it
+by a friend." He declined, however, to give the name of his informant, and
+said most courteously, "You can well understand that as Mr. Beecher's son I do
+not care to discuss the matter at all. I cannot say what the result will be or
+what my father will do. He has born calumny for years. I am quite sure he can
+stand this, but it is cruel, sir, wickedly cruel."</p>
+
+         <p>Mr. Ira B. Wheeler, to whom Mrs. Tilton's
+confession was addressed, stated that the letter was handed to him in New York by Mrs. Tilton herself. It was her own voluntary act, and was written from no
+one's dictation. It was entirely written by her and without suggestions from
+any one. She told Mr. Wheeler a few weeks ago that she had made a confession
+to a few friends. In conclusion he said: "I believe her to be actuated only
+by a desire to free her conscience from the load upon it. She wished to make
+the truth known in the matter. You may assert positively that Mr. Tilton knows
+nothing of the matter."</p>
+
+
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+			<item><xptr n="ls.00033" type="same subject"/></item>
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00050">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">An Appeal to the Colored Citizens of the World</hi></title>
+            <date type="original" value="1829">1829</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Walker">David Walker</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00050</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 142-143 of <hi rend="italic">Against Slavery: An Abolitionist Reader</hi>, edited by Mason Lowance.  Published by Penguin, 2000.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a"><hi rend="italic">An Appeal to the Colored Citizens of the World</hi></title>
+               <title level="m"><hi rend="italic">Against Slavery: An Abolitionist Reader</hi></title>
+               <author>David Walker</author>
+               <imprint>
+                  <publisher>Penguin
+</publisher>
+                  <pubPlace>New York
+
+</pubPlace>
+               </imprint>
+               <date>2000
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+          <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="dissenting" type="topic">dissenting</term>
+<term id="emancipation" type="topic">emancipation</term>
+   </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-15">15 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>Remember Americans, that we must and shall be free, and enlightened as you are, will you wait until we shall, under God, obtain our liberty by the crushing arm of power?  Will it not be dreadful for you?  I speak Americans for your good.  We must and shall be free I say, in spite of you...Throw away your fears and prejudices then, and enlighten us and treat us like men, and we will like you more than we do now hate you, and tell us no more about colonization, for America is as much our country, as yours.  Treat us like men, and there is no danger but we will all live in peace and happiness together.  For we are not like you, hard hearted, unmerciful and unforgiving.  What a happy country this will be, if the whites will listen.  What nation under heaven, will be able to do anything with us, unless God gives us up into his hand?  But Americans, I declare to you, while you keep us in bondage, and treat us like brutes, to make us support you and your families, we cannot be your friends.  You do not look for it, do you?  Treat us then like men, and we will be your friends. (Lowance 142-43)</p>
+
+      </body>
+   </text>
+</TEI.2>

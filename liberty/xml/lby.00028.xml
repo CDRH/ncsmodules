@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00028">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Hidden Text of Mill's</hi> Liberty </title>
+            <title level="c" type="chapter">from Chapter 5, "The Hidden Dimension of Mill's <hi rend="italic">Liberty</hi></title>
+<date type="original" value="1991">1991</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Justman">Stewart Justman
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00028</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 140-142 and 156-160 of Stewart Justman's <hi rend="italic">The Hidden Text of Mill's</hi> Liberty.  Published by Rowan and Littlefield, 1991.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Hidden Dimension of <hi rend="italic">Liberty</hi></title>
+               <title level="m">The Hidden Text of Mill's <hi rend="italic">Liberty</hi></title>
+               <author>Stewart Justman</author>
+               <imprint>
+                  <publisher>Rowman &#38; Littlefield
+
+</publisher>
+                  <pubPlace>Savage, MD
+</pubPlace>
+               </imprint>
+               <date>1991
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+          <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="british" type="place">British</term>
+<term id="frenchrevolution" type="topic">French Revolution</term>
+<term id="individual" type="topic">individual</term>
+<term id="liberalism" type="topic">liberalism</term>
+<term id="mill" type="topic">Mill</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-01">01 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-31">31 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">The Hidden Dimension of Mill's <hi rend="italic">Liberty</hi></head>
+
+<gap reason="sampling" extent=""/>
+
+<p>The introduction to <hi rend="italic">On Liberty</hi> presents, first of all, a historical synopsis of the rise of liberty. Mill reviews "the struggle between Liberty and Authority" (OL 217) and the evolution of the understanding of liberty, first as a limit on the power of rulers; later as parliamentary government (a point reached in England in the constitutional settlement of 1688); and finally as a security against the intolerance of the comunity, which itself holds sway now that the struggle between subjects and rulers has been closed. These introductory paragraphs lay the groundwork for the argument to follow. I mean that all of <hi rend="italic">On Liberty</hi> follows from the thesis that the once-lively conflict between subjects and rulers has expired, and with it the energy necessary to sustain and succor freedom. <hi rend="italic">On Liberty</hi> pictures a pacified society in which the political majority use their hard-won freedom to no better end than to make slaves of themselves. Having gained securities against "the tyranny of the magistrate" (OL 220)&#8212;a phrase with seventeenth-century resonances&#8212;people now give themselves up to a soft social tyranny "enslaving the soul itself" (220), a phrase stamped with the republican belief that only the uncorrupt can maintain their liberty. In this sense the gain of freedom proved to be the loss of freedom. The republican tradition both recognized and struggled against the "mortality" of liberty. So did Mill, who knew the fate of the English Commonwealth, who twice saw his hopes for a French Republic miscarry, and who viewed his own society as the miserably ironic outcome of a historic struggle for freedom. We can only surmise how Mill would have regarded the truimph of the free choice he contended for, and the reduction of political liberty to consumer appetite, in our own day.</p>
+
+<p>The latest threat to liberty, in Mill's view, is the tyranny of the majority&#8212;not the subjection of a people by the authorities, but the subjection of the individual by society itself. The example of America (says Mill) has impressed this threat on thinking minds, and of course it was Tocqueville, meditative observer of America, who introduced Mill to the notion of the tyranny of the majority. Yet Tocqueville makes it plain that the same Americans who have invented this form of oppression also practice the philosophy of "to each his own" that Mill recomments as the medicine against it. For example, Americans hold that "no one has the right of constraining his fellow creatures to be happy." Again, "That Providence has given every human being the degree of reason necessary to direct himself in the affairs that interest him exclusively is the grand maxim upon which civil and political society rests in the United States." If the Americans seek their own good and yet are preparing new forms of tyranny, then perhaps Mill's liberty principle offers no security against the novel kind of tyranny he dreads. Can it be that Mill's "one very simple principle" of noninterference (OL 223) provides no defense against the maiming of the individual? Not a possibility Mill is willing to contemplate. He prefers to vest his argument in the principle of nointerference.</p>
+
+<p>Concerned as he is to settle the limits of authority over the individual, Mill proposes a rational test to decide what is and what is not an encroachment on the sovereignty of the person. Customarily, he tells us, the question is decided by such sub-rational determinants as personal preference, class interest, and custom itself. Mill cuts through all of this (rather as Bentham cut through the thickets of English law) by
+
+<q rend="block">assert[ing] one very simple principle, as entitled to govern absolutely the dealings of society with the individual in the way of compulsion and control. . . . That principle is, that the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection. (OL 223)</q></p>
+
+<gap reason="sampling" extent=""/>
+
+<p>BY THE END OF <hi rend="italic">On Liberty</hi>, we are once again aware of the republican tradition of civic virtue underlying the text. Even so, it can be said that the final chapter of <hi rend="italic">On Liberty</hi> ("Applications") hushes the author's republican convictions. Much of the chapter impresses on us not "the idea of obligation ot the public," but the value of unhindered private consumption, an entirely different thing. In this sense, the "Applications," like chapter 4, lay the philosophical foundations for consumer society&#8212;such a society as our own, where people are inclined to identify freedom with private consumption itself. The "idea of obligation to the public" withers under these conditions, for the public realm is left without standing or credit. It is left a sham. American political speech, which is widely perceived to be a sham, accurately records a consumer society's verdict on the public sphere itself. Given Mill's abiding concern with the integrity of public discussion, it is bitterly ironic that he should have had anything, however distant, to do with these proceedings. Ironic too is the fate of the private sphere that Mill was at pains to close against society, like a sanctuary. Where tens of millions view the same television show in private or make the same private choice as consumers, clearly the meaning of privacy has been mooted.</p>
+
+<p>Mill opposes restraints on trade that infringe the liberty of "the buyer" (OL 293). He urges that poisons, for example, not be put off limits to "the buyer" (OL 294, 295). He gives philosophical sanction to advertising with the words, "Whatever it is permitted to do, it must be permitted to advise to do" (OL 296). (A rule not strictly kept in American society, generally so receptive to the libertarianism of <hi rend="italic">On Liberty</hi>. We are premitted to drink and smoke, yet advertisements for liquor and tobacco are prohibited on television.) He asserts that our "choice of pleasures" is our own concern (OL 298). He upholds the individual's right to "please himself without giving pain to anyone" (OL 305). Again, I don't mean we have no right to innocuous pleasures. The point is that this argument is itself innocuous. Having denounced a conventional morality enjoining mere "Abstinece from Evil" (OL 255), Mill goes on to recommend that we do as we like provided we abstain from evil. This libertarian thesis&#8212;the thesis that <hi rend="italic">On Liberty</hi> is remembered for&#8212;represents nothing so much as a retraction of the author's own powerful critique of the morality of innocuousness. Mill has misplaced his emphasis on consumer values that he doesn't seem to perceive lame his own republican principles.</p>
+
+<p>As iconoclastic as some have found <hi rend="italic">On Liberty</hi> to be, it would have been more controversial if Mill had devoted whole pages to spelling out public forms of endeavor in which liberty is realized. Not just considerations of strategy but surely his own profound distrust of the people stayed him from doing so. Yet Mill <hi rend="italic">did</hi> cherish republican values, and specifically the value of action-in-concert. Toward the end of <hi rend="italic">On Liberty</hi> he recognizes the need for forms of action that draw people out of the private sphere (which he has fenced round with fortifications) and into their identity as citizens: forms of action that put into practice that "liberty . . . of combination among individuals" which is asserted in the introduction (OL 226). It is characteristic of the way in which Mill tempers and suppresses his own "most passionate" love of the republican ideal that he insists this subject doesn't really belong in <hi rend="italic">On Liberty</hi>. It is characteristic of the tangles of this text that Mill claims issues of civic action "are not questions of liberty" (OL 305) but then almost at once subjoins the remark that, where people don't possess the power and the habit of civic action, liberty dies. After recommending jury service, political participation, and the formation of voluntary associations, Mill says,
+
+<q rend="block">These are not questions of liberty, and are connected with that subject only by remote tendencies; but they are questions of development. It belongs to a different occasion from the present to dwell on these things as parts of national education; as being, in truth, the peculiar training of a citizen, the practical part of the political education of a free people, taking them out of the narrow circle of personal and family selfishness, and accustoming them to the comprehension of joint interests, the management of joint concerns&#8212;habituating them to act from public or semi-public motives, and guide their conduct by aims which unite instead of isolating them from one another. Without these habits and powers, a free constitution can neither be worked nor preserved. (OL 305)</q>
+
+Mill believed that English liberties derived from the ability of the feudal barons to concert their actions, to make one of many; here in <hi rend="italic">On Liberty</hi>, for a moment at least, he envisions the commons practicing the same political art and coming to a comprehension of themselves as acting beings. (Not that Mill had anything to teach the working class on this point. The Chartists knew all about it.) In Tocqueville's estimation, the Americans' habit of acting in concert, even in minor concerns, counteracted the tendency of their society to estrange individuals from the past, from the future, and from one another (a tendency working today with powerful effect). By comparison, Mill has strangely little to say in <hi rend="italic">On Liberty</hi> about the issue of civic action, an issue on which he himself deems the existence of liberty to depend. Indeed, earlier in the essay he deprecated the English "habit of combining" in pursuit of large ends (OL 272). It seems civic action is a sore point in Mill's thinking, for he speaks of it in contradictions and asides. He fails to incorporate the theme of civic action into the rational structure of his argument, instead digging a sort of moat around each individual (like the moat around Wemmick's castle in <hi rend="italic">Great Expectations</hi>) and enforcing the very solitude that, according to Tocqueville, saps the strength and indeed the individuality of the citizen.</p>
+
+<p>In the final pages of <hi rend="italic">On Liberty</hi> Americans appear as virtuous citizens, capable of maintaining their own freedom, conducting their civic affairs for themselves, and re-inventing government itself if they have to. True republicans, they possess more than the passive ability to keep within the law; they possess the ability to institute government in the first place. Let Americans be without a government, Mill says, and they are able
+
+<q rend="block">to improvise one, and to carry on that or any other public business with a sufficient amount of intelligence, order, and decision. This is what every free people ought to be: and a people capable of this is certain to be free. (OL 307-8)</q>
+
+Yet in the introduction to <hi rend="italic">On Liberty</hi> Mill holds up the "democratic republic" (OL 219) of the United States not as a model of civic virtue, but as an infamous case of the tyranny of the majority. Mill makes no effort whatever to reconcile these positions, which perhaps serve as one more index of his mixed feelings toward the republican ideal of a politically alive citizenry. He retreats from that risky ideal to the program for which he is better known: that of minding our own business (in conformity with the suggestons of common prudence) and privately pursuing happiness. If, according to classical republicanism, corrpution is the enfeeblement suffered by the citizenry that sacrifices public to private interests, then Mill decries the corruption of his society (mainly the middle class) at the same time that he raises private concerns to a new level of philosophical dignity and so reinforces the very conditions responsible for the enfeeblement in the first place. If the antitode to corruption is
+
+<q rend="block">preservation or renewal of the public spirit or "virtue" of the citizenry, typically by subordinating private concerns to the public good, encouraging active participation in public affairs, and preventing the pursuit of personal luxury from undermining such essential citizenly qualities as martial valour,</q>
+
+then Mill makes the same recommendations, but only in passing, or in ways that receive small or no argumentative emphasis.</p>
+
+<p>Freedom cannot be preserved where people lack public spirit and political ability: this is a version of the republican argument that freedom depends on active virtue. <hi rend="italic">On Liberty</hi> ends with a warning of a society in which action has died out, or rather where all ability, all power of doing, has been soaked up by the state, leaving nothing to the citizens themselves. Apparently Mill never considered that the individuals thus debilitated might still be perfectly free to eat or not eat pork, and otherwise please themselves. Stephen Spender imagines a sort of prison
+
+<q rend="block">in which the prisoners were free to write graffiti on the prison walls, write and circulate their own "adult" pornography, smoke pot, paint abstract art, watch videos, and drink large quantities of alcohol without at any moment any of them harboring a thought which threatended Big Brother.</q>
+
+In Western liberal societies there exists no Big Brother, but in all other respects this scenario isn't just conjecturally, but really and historically possible. Mill wouldn't be surprised at all to see today's bureaucrats and managers writing a prose without actions and agents (the extinction of agency that <hi rend="italic">On Liberty</hi> warns of), but he never imagined that these worthies would preside over a society where people freely pursue their own happiness.</p>
+
+
+<div type="file references">
+            <list>
+               <item>
+                                 </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

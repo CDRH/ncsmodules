@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00029">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Roots of Freedom</hi></title>
+           <title level="c" type="chapter">from Chapter 12, "American Liberty"</title>
+<date type="original" value="">2000</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Danford">John W. Danford
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00029</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law.  Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 146-148 and 157-158 of John W. Danford's <hi rend="italic">Roots of Freedom</hi>.  Published by ISI Books, 2000.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter 12: American Liberty</title>
+               <title level="m">Roots of Freedom</title>
+               <author>John W. Danford</author>
+               <imprint>
+                  <publisher>ISI Books
+
+</publisher>
+                  <pubPlace>Wilmington, Delaware
+</pubPlace>
+               </imprint>
+               <date>2000
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+    <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="british" type="place">British</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+<term id="liberalism" type="topic">liberalism</term>
+<term id="jefferson" type="topic">Jefferson</term></keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-01">01 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+            <date value="2005-06-25">01 June 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">Chapter 12</head>
+<head type="sub">AMERICAN LIBERTY</head>
+
+<p>The roots of liberal commercial society, as we have indicated, can be traced almost entirely to the nations of northwest Europe as they emerged from the Middle Ages. And among these nations the leader, both in theory and in practice, was England. There were other commercial republics, most notably Holland, but only in England did the historical practices&#8212;English common law, property rights, a powerful Parliament checking the royal sovereign&#8212;combine with a theoretical understanding such as was offered by John Locke to establish a basis for what was known even in the eighteenth century as "English liberty." The Scotsman David Hume, in midcentury, described the English constitution, after tracing its development over the course of many centuries, as "the most perfect and most accurate system of liberty that was ever found compatible with government."</p>
+
+<p>The disruptions of the English civil war and the sectarian strife of the seventeenth century had driven many English subjects to flee their island in the hope of beginning life anew in the New World. It should be no surprise that they took with them as much of the system of English liberty as would survive the Atlantic crossing. Indeed, in some respects their experiments in the New World allowed English political practices to be tested in conditions that revealed their strengths and weaknesses with exceptional clarity. Some of the earliest settlers established among themselves civil compacts that anticipated what Locke later called the "social contract." The most famous of these is the "Mayflower Compact"&#8212;a political covenant in which its framers "solemnly and mutually, in the presence of God and one another, covenant and combine ourselves together into a civil body politic for our better ordering and preservation, and futherance of the ends aforesaid." It must immediately be added that these communities were far from liberal, despite their view that civil society is the result of a voluntary commitment by individualby. Many of the Puritan settlements begun in New England were virtual theocracies. Though communitarian, the Puritans saw themselves in Old Testament terms as a chosen people of God.</p>
+
+<p>New World settlements were out of necessity self-governing, since the secular powers that granted their charters were thousands of miles distant. And the experience of self-government recommended to them the wisdom and utility of written compacts or constitutions, preparing the way for perhaps the most important American contribution to self-governing liberal societies. But the thousands of miles that separated England from the colonies were among the causes of one of the most important political events of recent centuries, namely, the Ameican Revolution.</p>
+
+<p>Though it is tempting today to understand this event in twentieth-century terms, as an early example of an anticolonial libertarian struggle, to do so would be to misunderstand its major significance. For the American rebellion against the British crown began not as an anticolonial war but as an attempt to claim the very same English liberties just discussed. It was not a war against colonial rule but against tyrannical rule, in the name of the right&#8212;not merely of Englishmen but of all men&#8212;to government by consent.</p>
+
+<p>The most powerful statement of the Americans' understanding of what they were doing is, of course, found in the famous Declaration of Independence, signed July 4, 1776. To those familiar with the foundations of liberal society, this document is striking for its reliance on the ideas and the very language of John Locke's great <hi rend="italic">Second Treatise of Civil Government</hi>. From the beginning, the American Revolution was informed by the deep reflections on human nature and politics of the whole tradition of liberal individualist thought in England and elsewhere. "We hold these truths to be self-evident," wrote Thomas Jefferson in the Declaration, "that all Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the Pursuit of Happiness." This is Lockean enough, but the next sentences are pure Locke, even to the very words in places: "That to secure these Rights, Governments are instituted among Men, deriving their just Powers from the Consent of the Governed, that whenever any Form of Government becomes destructive of these Ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its Foundation on such Principles, and organizing its Powers in such Form, as to them shall seem most likely to effect their Safety and Happiness."</p>
+
+<gap reason="sampling" extent=""/>
+
+<p>One more mechanism for protecting individual rights should be mentioned, though it was not part of the original Constitution. It is the famous Bill of Rights, added during the first two years of the republic at the insistence of some who still feared the power of the federal government. The Bill of Rights explicitly denies to the government the power to interfere with specific individual freedoms. "Congress shall make no law," the First Amendment states, "respecting an establisment of religion, or abridging the freedom of speech, or of the press, or the right of the people peaceably to assemble, and to petition the government for a redress of grievances." The government may not take private property for public use without just compensation, may not abridge the right of a citizen to a speedy and public trial, and so on. These guarantees have protected Americans from government interference for two hundred years, and are sometimes regarded as the clearest symbol of the United States's commitment to individual rights and limited government. Laws passed by the Congress, or by the states, have been overturned on review by the courts if they are found to violate the rights guaranteed in the Constitution. Thus the power of the government to oppress has been limited, in practice, not only by disagreements and competition among the three branches, but by the American understanding that there are rights that the government may not violate even with the best of intentions. This is the core of liberal individualism, and the foundation for both the U.S. Constitution and the system of government that derives from it.</p>
+
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

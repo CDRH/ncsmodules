@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00011">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Way We Live Now</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter XVIII, "Ruby Ruggles Hears a Love Tale"</title>
+<title level="m" type="monograph"></title>
+<author name="Trollope">Anthony Trollope</author>
+<date type="original" value="1875">1875</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00011</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Anthony Trollope's <hi rend="italic">The Way We Live Now</hi>, Chapter XVIII, "Ruby Ruggles Hears a Love Tale."  Originally published in 1875.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XVIII, "Ruby Ruggles Hears a Love Tale"</title>
+               <title level="m"><hi rend="italic">The Way We Live Now</hi></title>
+               <author>Anthony Trollope</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>
+2004
+
+</date>
+       
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               	<term id="parlor" type="setting">parlor</term>
+               	<term id="seduction" type="theme">seduction</term>
+			<term id="breachofpromise" type="theme">breach of promise</term>
+			<term id="british" type="place">British</term>
+			<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-03-04">04 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="editorial">Scene One: Country Girl Seduced by aristocratic rake in a meadow</head>
+
+<p>There is, perhaps, no condition of mind more difficult for the
+ordinarily well-instructed inhabitant of a city to realise than that
+of such a girl as Ruby Ruggles. The rural day labourer and his wife
+live on a level surface which is comparatively open to the eye. Their
+aspirations, whether for good or evil,&#8212;whether for food and drink to be
+honestly earned for themselves and children, or for drink first, to be
+come by either honestly or dishonestly,&#8212;are, if looked at at all, fairly
+visible. And with the men of the Ruggles class one can generally find
+out what they would be at, and in what direction their minds are at
+work. But the Ruggles woman,&#8212;especially the Ruggles young woman,&#8212;is
+better educated, has higher aspirations and a brighter imagination,
+and is infinitely more cunning than the man. If she be good-looking
+and relieved from the pressure of want, her thoughts soar into a world
+which is as unknown to her as heaven is to us, and in regard to which
+her longings are apt to be infinitely stronger than are ours for
+heaven. Her education has been much better than that of the man. She
+can read, whereas he can only spell words from a book. She can write a
+letter after her fashion, whereas he can barely spell words out on a
+paper. Her tongue is more glib, and her intellect sharper. But her
+ignorance as to the reality of things is much more gross than his. By
+such contact as he has with men in markets, in the streets of the
+towns he frequents, and even in the fields, he learns something
+unconsciously of the relative condition of his countrymen,&#8212;and, as to
+that which he does not learn, his imagination is obtuse. But the woman
+builds castles in the air, and wonders, and longs. To the young farmer
+the squire's daughter is a superior being very much out of his way. To
+the farmer's daughter the young squire is an Apollo, whom to look at
+is a pleasure,&#8212;by whom to be looked at is a delight. The danger for the
+most part is soon over. The girl marries after her kind, and then
+husband and children put the matter at rest for ever.</p>
+
+<p>A mind more absolutely uninstructed than that of Ruby Ruggles as to
+the world beyond Suffolk and Norfolk it would be impossible to find.
+But her thoughts were as wide as they were vague, and as active as
+they were erroneous. Why should she with all her prettiness, and all
+her cleverness,&#8212;with all her fortune to boot,&#8212;marry that dustiest of all
+men, John Crumb, before she had seen something of the beauties of the
+things of which she had read in the books which came in her way?  John
+Crumb was not bad-looking. He was a sturdy, honest fellow, too,&#8212;slow of
+speech but sure of his points when be had got them within his grip,&#8212;
+fond of his beer but not often drunk, and the very soul of industry at
+his work. But though she had known him all her life she had never
+known him otherwise than dusty. The meal had so gotten within his
+hair, and skin, and raiment, that it never came out altogether even on
+Sundays. His normal complexion was a healthy pallor, through which
+indeed some records of hidden ruddiness would make themselves visible,
+but which was so judiciously assimilated to his hat and coat and
+waistcoat, that he was more like a stout ghost than a healthy young
+man. Nevertheless it was said of him that he could thrash any man in
+Bungay, and carry two hundredweight of flour upon his back. And Ruby
+also knew this of him,&#8212;that he worshipped the very ground on which she
+trod.</p>
+
+<p>But, alas, she thought there might be something better than such
+worship; and, therefore, when Felix Carbury came in her way, with his
+beautiful oval face, and his rich brown colour, and his bright hair
+and lovely moustache, she was lost in a feeling which she mistook for
+love; and when he sneaked over to her a second and a third time, she
+thought more of his listless praise than ever she had thought of John
+Crumb's honest promises. But, though she was an utter fool, she was
+not a fool without a principle. She was miserably ignorant; but she
+did understand that there was a degradation which it behoved her to
+avoid. She thought, as the moths seem to think, that she might fly
+into the flame and not burn her wings. After her fashion she was
+pretty, with long glossy ringlets, which those about the farm on week
+days would see confined in curl-papers, and large round dark eyes, and
+a clear dark complexion, in which the blood showed itself plainly
+beneath the soft brown skin. She was strong, and healthy, and tall,&#8212;
+and had a will of her own which gave infinite trouble to old Daniel
+Ruggles, her grandfather.</p>
+
+<p>Felix Carbury took himself two miles out of his way in order that he
+might return by Sheepstone Birches, which was a little copse distant
+not above half a mile from Sheep's Acre farmhouse. A narrow angle of
+the little wood came up to the road, by which there was a gate leading
+into a grass meadow, which Sir Felix had remembered when he made his
+appointment. The road was no more than a country lane, unfrequented at
+all times, and almost sure to be deserted on Sundays. He approached
+the gate in a walk, and then stood awhile looking into the wood. He
+had not stood long before he saw the girl's bonnet beneath a tree
+standing just outside the wood, in the meadow, but on the bank of the
+ditch. Thinking for a moment what he would do about his horse, he rode
+him into the field, and then, dismounting, fastened him to a rail
+which ran down the side of the copse. Then he sauntered on till he
+stood looking down upon Ruby Ruggles as she sat beneath the tree. 'I
+like your impudence,' she said, 'in calling yourself a friend.'</p>
+
+<p>'Ain't I a friend, Ruby?'</p>
+
+<p>'A pretty sort of friend, you! When you was going away, you was to be
+back at Carbury in a fortnight; and that is,&#8212;oh, ever so long ago now.'</p>
+
+<p>'But I wrote to you, Ruby.'</p>
+
+<p>'What's letters?  And the postman to know all as in 'em for anything
+anybody knows, and grandfather to be almost sure to see 'em. I don't
+call letters no good at all, and I beg you won't write 'em any more.'</p>
+
+<p>'Did he see them?'</p>
+
+<p>'No thanks to you if he didn't. I don't know why you are come here,
+Sir Felix,&#8212;nor yet I don't know why I should come and meet you. It's
+all just folly like.'</p>
+
+<p>'Because I love you;&#8212;that's why I come; eh, Ruby?  And you have come
+because you love me; eh, Ruby?  Is not that about it?' Then he threw
+himself on the ground beside her, and got his arm round her waist.</p>
+
+<p>It would boot little to tell here all that they said to each other.
+The happiness of Ruby Ruggles for that half-hour was no doubt
+complete. She had her London lover beside her; and though in every
+word he spoke there was a tone of contempt, still he talked of love,
+and made her promises, and told her that she was pretty. He probably
+did not enjoy it much; he cared very little about her, and carried on
+the liaison simply because it was the proper sort of thing for a young
+man to do. He had begun to think that the odour of patchouli was
+unpleasant, and that the flies were troublesome, and the ground hard,
+before the half-hour was over. She felt that she could be content to
+sit there for ever and to listen to him. This was a realisation of
+those delights of life of which she had read in the thrice-thumbed old
+novels which she had gotten from the little circulating library at
+Bungay.</p>
+
+<p>But what was to come next?  She had not dared to ask him to marry her,&#8212;
+had not dared to say those very words; and he had not dared to ask her
+to be his mistress. There was an animal courage about her, and an
+amount of strength also, and a fire in her eye, of which he had
+learned to be aware. Before the half-hour was over I think that he
+wished himself away;&#8212;but when he did go, he made a promise to see her
+again on the Tuesday morning. Her grandfather would be at Harlestone
+market, and she would meet him at about noon at the bottom of the
+kitchen garden belonging to the farm. As he made the promise he
+resolved that he would not keep it. He would write to her again, and
+bid her come to him in London, and would send her money for the
+journey.</p>
+
+<p>'I suppose I am to be his wedded wife,' said Ruby to herself, as she
+crept away down from the road, away also from her own home;&#8212;
+so that on her return her presence should not be associated with that of the
+young man, should any one chance to see the young man on the road.
+'I'll never be nothing unless I'm that,' she said to herself. Then she
+allowed her mind to lose itself in expatiating on the difference
+between John Crumb and Sir Felix Carbury.</p>
+
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00073" type="same novel"/></item>
+			<item><xptr n="ls.00010" type="same author"/></item>
+              	<item><xptr n="ls.00074" type="same author"/></item>
+			<item><xptr n="ls.00075" type="same author"/></item> 
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

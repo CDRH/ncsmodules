@@ -1,0 +1,16 @@
+<add>
+   <doc>
+      <field name="id">lby.00107</field>
+      <field name="title">Emancipation Proclamation</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">american</field>
+      <field name="topic">lincoln</field>
+      <field name="topic">emancipation</field>
+      <field name="topic">jefferson</field>
+      <field name="topic">washington</field>
+      <field name="topic">libertycap</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

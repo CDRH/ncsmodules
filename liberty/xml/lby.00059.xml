@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00059">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Letter to Jospeh C. Cabell</title>
+           
+<date type="original" value="1816">1816</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Jefferson">Thomas Jefferson</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00059</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 660-62 of the 1944 Modern Library edition of <hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi>, edited by Adrienne Koch and William Peden.  
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Letter to Jospeh C. Cabell&#8212;February 2, 1816
+</title>
+               <title level="m"><hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi></title>
+               <author>Thomas Jefferson</author>
+               <imprint>
+                  <publisher>Random House</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1944
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="jefferson" type="topic">Jefferson</term>
+<term id="individual" type="topic">individual</term>
+<term id="napoleon" type="topic">Napoleon</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-17">17 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<head>To Joseph C. Cabell</head>
+	
+	<dateline>Monticello, February 2, 1816</dateline>
+
+	<p>....No, my friend, the way to have good and safe government, is not to trust it all to one, but to divide it among the many, distributing to every one exactly the functions he is competent to.  Let the national government be entrusted with the defence of the nation, and its foreign and federal relations; the State governments with the civil rights, laws, police, and administration of what concerns the State generally; the counties with the local concerns of the counties, and each ward direct the interests within itself.  It is by dividing and subdividing these republics, from the great national one down through all its subordinations, until it ends in the administration of every man's farm by himself; by placing under every one what his own eye may superintend, that all will be done for the best.  What has destroyed liberty and the rights of man in every government which has ever existed under the sun?  The generalizing and concentrating all cares and powers into one body, no matter whether of the autocrats of Russia or France, or of the aristocrats of a Venetian senate.  And I do believe that if the Almighty has not decreed that man shall never be free, (and it is a blasphemy to believe it,) that the secret will be found to be in the making himself the depository of the powers respecting himself, so far as he is competent to them, and delegating only what is beyond his competence by a synthetical process, to higher and higher orders of functionaries, so as to trust fewer and fewer powers in proportion as the trustees become more and more oligarchical.  The elementary republics of the wards, the county republics, the State republics, and the republic of the Union, would form a gradation of authorities, standing each on the basis of law, holding every one its delegated share of powers, and constituting truly a system of fundamental balances and checks for the government.  Where every man is a sharer in the direction of his ward-republic, or of some of the higher ones, and feels that he is a participator in the government of affairs, not merely at an election one day in the year, but every day; when there shall not be a man in the State who will not be a member of some one of its councils, great or small, he will let the heart be torn out of his body sooner than his power be wrested from him by a Caesar or a Bonaparte.  How powerfully did we feel the energy of this organization in the case of embargo?  I felt the foundations of the government shaken under my feet by the New England townships.  There was not an individual in their States whose body was not thrown with all its momentum into action; and although the whole of the other States were known to be in favor of the measure, yet the organization of this little selfish minority enabled it to overrule the Union.  What would the unwieldy counties of the Middle, the South, and the West do?  Call a county meeting, and the drunken loungers at and about the court-houses would have collected, the distances being too great for the good people and the industrious generally to attend.  The character of those who really met would have been the measure of the weight they would have had in the scale of public opinion.  As Cato, then, concluded every speech with the words, <hi rend="italic">"Carthago delenda est,"</hi> so do I every opinion, with the injunction, "divide the counties into wards."  Begin them only for a single purpose; they will soon show for what others they are the best instruments.  God bless you, and all our rulers, and give them the wisdom, as I am sure they have the will, to fortify us against the degeneracy of our government, and the concentration of all its powers in the hands of the one, the few, the well-born or the many.</p>
+
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00057" type="same author"/>	      
+		<xptr n="lby.00058" type="same author"/>
+		<xptr n="lby.00056" type="same author"/>
+		<xptr n="lby.00060" type="same author"/>
+		</item>
+		</list>
+		</div>
+	      </body>
+   </text>
+</TEI.2>

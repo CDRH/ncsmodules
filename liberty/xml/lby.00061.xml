@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00061">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Poetical Tributes to the Memory of Abraham Lincoln</hi></title>
+          <date type="original" value="1865">1865</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Various">Various Authors</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00061</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+The following poems by S.G.W. Benjamin, G. Martin, Belle F&#8212;, and Benjamin Franklin Taylor are transcribed from pages 110-113, 180-184, 231-233, and 267-268 of <hi rend="italic">Poetical Tributes to the Memory of Abraham Lincoln</hi>.  Published in 1865 by J.B. Lippincott.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a"></title>
+               <title level="m"><hi rend="italic">Poetical Tributes to the Memory of Abraham Lincoln</hi></title>
+               <author></author>
+               <imprint>
+                  <publisher>J.B. Lippincott</publisher>
+                  <pubPlace>Philadelphia
+</pubPlace>
+               </imprint>
+               <date>1865
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="lincoln" type="topic">Lincoln</term>
+<term id="civilwar" type="topic">Civil War</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-07-18">18 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<head>By S.G.W. Benjamin</head>
+	<lg type="poem">
+		<lg type="stanza">
+	<l>Let the nation weep,</l>
+	<l>As they bear the martyr,</l>
+	<l>To his last, long sleep!</l>
+	</lg>
+
+	<lg type="stanza">
+	<l>Ay, let the nation weep!</l>
+	<l>Another such as he</l>
+	<l>We nevermore shall see</l>
+	<l>This side eternity.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Ay, let the nation weep,</l>
+	<l>And let the slow bells toll</l>
+	<l>For the noblest soul</l>
+	<l>That ever dwelt in man,</l>
+	<l>Or ever led the van</l>
+	<l>Of Freedom's hosts to victory,</l>
+	<l>And rang the charge of Liberty.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Well may the nation weep</l>
+	<l>And shudder at the stroke</l>
+	<l>That all their slumbering wrath awoke.</l>
+	<l>What wretch so impious as to dare</l>
+	<l>To smite the leader of the people's choice,</l>
+	<l>Or seek to harm a single hair</l>
+	<l>Of him whose heart, whose hand, whose voice,</l>
+	<l>Were all employed to work the nation's good,</l>
+	<l>And stop the flow of fratricidal blood?</l>
+	<l>Perchance he did not seem</l>
+	<l>So great to those who deem</l>
+	<l>A traitor or a Nero</l>
+	<l>May still appear a hero,</l>
+	<l>If he but wear a classic face</l>
+	<l>Or ape the superficial grace</l>
+	<l>That marks the scion of a titled race;</l>
+	<l>Not such was he for whom we mourn;</l>
+	<l>From wealth or rank he was not born,</l>
+	<l>Nor heir to patrimonial lands</l>
+	<l>Tilled by the bondman's weary hands;</l>
+	<l>His was the celestial beauty</l>
+	<l>Of a soul that does its duty;</l>
+	<l>Noble patriot, husband, father,</l>
+	<l>He did not strive to gather</l>
+	<l>The laurels of a wild ambition,</l>
+	<l>That only yield a vain fruition.</l>
+	<l>To benefit mankind&#8212;this was his aim,</l>
+	<l>To labor and to live unstained with blame&#8212;</l>
+	<l>He died without a blot upon his name.</l>
+	<l>Let all the weary and oppressed,</l>
+	<l>From North and South and East and West,</l>
+	<l>For whom his great heart yearned,</l>
+	<l>For whom his spirit burned,</l>
+	<l>To give the sufferings rest,</l>
+	<l>Let all arise with lamentation,</l>
+	<l>And with his own beloved nation</l>
+	<l>Bequeath the fame</l>
+	<l>Of Lincoln's name&#8212;</l>
+	<l>A heritage of veneration&#8212;</l>
+	<l>To the remotest generation.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Ay, let the nation weep,</l>
+	<l>While the slow bells toll,</l>
+	<l>And the cannon roll</l>
+	<l>For the funeral knoll</l>
+	<l>Of his mighty soul!</l>
+	<l>Ye cannot break the slumber deep</l>
+	<l>That wraps his limbs in quiet sleep;</l>
+	<l>He cannot hear</l>
+	<l>The crowds that tread</l>
+	<l>Around his bier,</l>
+	<l>Nor see the tears they shed;</l>
+	<l>For he nevermore shall dwell</l>
+	<l>Among the people that he loved so well;</l>
+	<l>Let the nation's sorrow have its way</l>
+	<l>For him who was the nation's stay.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Our hearts are sad, our eyes are dim;</l>
+	<l>We hoped long years of rest for him,</l>
+	<l>To enjoy the peace for which he wrought,</l>
+	<l>The peace with his own life-blood bought.</l>
+	<l>But he has rest,</l>
+	<l>Among the blest,</l>
+	<l>And with the Christ he loved.</l>
+	<l>Enough&#8212;his work was done,</l>
+	<l>The victor's crown was won,</l>
+	<l>And God himself removed</l>
+	<l>The patriot-martyr to his home.</l>
+	<l>Enough&#8212;his task was done;</l>
+	<l>For us remains to guard his tomb;</l>
+	<l>To bid the willow wave</l>
+	<l>Around the sacred grave</l>
+	<l>Of him who loosed the slave,</l>
+	<l>And weave the fame</l>
+	<l>Of Lincoln's name</l>
+	<l>With that of Washington;</l>
+	<l>While kingdoms crumble, old and hoary,</l>
+	<l>In a world where all is transitory,</l>
+	<l>They shall ever shine, twin stars of glory,</l>
+	<l>With undimmed splendor, in our nation's story.</l>
+	</lg>
+	</lg>
+	</div>
+	<div>
+	<head>By G. Martin</head>
+	<lg type="poem">
+	<lg type="stanza">
+	<l>While swells the unusual wail,</l>
+	<l>In heart-gusts, o'er the murdered man,</l>
+	<l>His life, my wounded soul, unveil,</l>
+	<l>His entrance and his exit scan;</l>
+	<l>For as in Timnath Samson drew</l>
+	<l>Sweets from the noble lion dead,</l>
+	<l>So may a living soul renew</l>
+	<l>Its vigor from the martyr's bed.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Dimly within the western woods,</l>
+	<l>Where Indiana smiles, we see</l>
+	<l>A peasant boy, whose thoughtful moods</l>
+	<l>Still bear him onward hopefully</l>
+	<l>With heart benevolent and blythe,</l>
+	<l>Which aches but at another's pain,</l>
+	<l>He wields the axe, the hoe, the scythe,</l>
+	<l>Singing the glad songs of freedom's reign.</l>
+	</lg>
+	<lg type="stanza">
+	<l>And when to manhood grown, fall taught,</l>
+	<l>By rushing flood and winged wind,</l>
+	<l>What freedom meant, one holy thought</l>
+	<l>Ruled paramount within his mind.</l>
+	<l>That thought was&#8212;justice to the slave,</l>
+	<l>Leading to words and acts sublime,</l>
+	<l>And musings how he yet might save</l>
+	<l>His country from her shameful crime.</l>
+	</lg>
+	<lg type="stanza">
+	<l>At length a statesman, rough, but true,</l>
+	<l>Anon Columbia's chosen chief,</l>
+	<l>He stands, and in the world's broad view</l>
+	<l>Declares his purpose, firm and brief.</l>
+	<l>The hour of trial hastens fast&#8212;</l>
+	<l>Rebellion's roar, and battle's shock;</l>
+	<l>He meets the suffocating blast,</l>
+	<l>And stands unmoved, a granite rock.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Seven crimson seasons o'er him roll,</l>
+	<l>And treason, rampant, stands at bay;</l>
+	<l>But with a calm, unshrinking soul,</l>
+	<l>In heaven he trusts, and leads the way.</l>
+	<l>In patriarchal tones he speaks,</l>
+	<l>And from a million swarthy limbs</l>
+	<l>The chains fall off&#8212;oppression shrieks&#8212;</l>
+	<l>And liberty sings glorious hymns.</l>
+	</lg>
+	<lg type="stanza">
+	<l>And as the bellowing strife prevails,</l>
+	<l>The star-led world looks on amazed;</l>
+	<l>But right, oft baffled, never quails,</l>
+	<l>The rebel crew reel backward, crazed.</l>
+	<l>And in the dust their banner lies,</l>
+	<l>Trampled and torn&#8212;no more to shame</l>
+	<l>The light of the eternal skies</l>
+	<l>With slavery's accursed name.</l>
+	</lg>
+	<lg type="stanza">
+	<l>His country's saved, his work achieved,</l>
+	<l>He boasted not of what he'd done,</l>
+	<l>But rather, in his goodness grieved</l>
+	<l>For all sad hearts beneath the sun.</l>
+	<l>For even his most malignant foes,</l>
+	<l>Blind perverts! whom he sought to save</l>
+	<l>From ruin's toppling crash; their woes</l>
+	<l>He pitied, and their faults forgave.</l>
+	</lg>
+	<lg type="stanza">
+	<l>And now his genial spirits seek</l>
+	<l>Their wonted channel&#8212;war's fierce rage</l>
+	<l>Had surged against his pallid cheek,</l>
+	<l>And multiplied the signs of age.</l>
+	<l>A moment's respite from the storm,</l>
+	<l>A little rest from goading care,</l>
+	<l>His people fain to see his form</l>
+	<l>Where mirth and music thrill the air.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Beside him smiles his loving wife,</l>
+	<l>Leaning upon the honored man</l>
+	<l>Whose life to her is more than life,</l>
+	<l>Who feels as only woman can.</l>
+	<l>Guileless himself, he could not think</l>
+	<l>That treason's foulest whelp had power</l>
+	<l>To push him off from earth's dim brink</l>
+	<l>In such a place, at such an hour.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Behind him glares the demon eye,</l>
+	<l>Behind him moves the demon hand,</l>
+	<l>A quick, sharp sound&#8212;a start, a cry!</l>
+	<l>Then gleams aloft the hellish brand.</l>
+	<l>'Tis done! his venerable head</l>
+	<l>Sinks peacefully&#8212;his soul departs;</l>
+	<l>The honest President is dead,</l>
+	<l>And with him die all human hearts.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Go, student of the vanished years,</l>
+	<l>Compare the democratic sage,</l>
+	<l>Whose exit leaves the world in tears,</l>
+	<l>With the crowned sons of every age.</l>
+	<l>His humble birth with theirs compare,</l>
+	<l>His labor 'gainst their leisure weigh;</l>
+	<l>Mark well how, shunning every snare,</l>
+	<l>He kept the straight and narrow way.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Draw thence this lesson&#8212;honest worth,</l>
+	<l>That brightens more the more 'tis tried,</l>
+	<l>Will triumph yet o'er all the earth,</l>
+	<l>And take the place of pomp and pride.</l>
+	<l>And also&#8212;the assassin's hand</l>
+	<l>May smite the body, not the truth</l>
+	<l>That in the body bears command&#8212;</l>
+	<l>For virtue wears immortal youth.</l>
+	</lg></lg></div>
+	<div>
+	<head>By Belle F&#8212;.</head>
+	<lg type="poem">
+	<lg type="stanza">
+	<l>But later from town and village</l>
+	<l>A joyous p&#230;an rose,</l>
+	<l>And many a voice caught up the strain,</l>
+	<l>"We're vanquishing our foes!"</l>
+	</lg>
+	<lg type="stanza">
+	<l>A key-note 'twas of Liberty,</l>
+	<l>Of Freedom near at hand,</l>
+	<l>And every patriot heart was thrilled</l>
+	<l>Throughout our storm-tossed land.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Then glad hearts flung our banner out</l>
+	<l>To float upon the breeze;</l>
+	<l>And brighter seemed each star and stripe,</l>
+	<l>Waving o'er land and seas.</l>
+	</lg>
+	<lg type="stanza">
+	<l>The olive branch began to twine</l>
+	<l>Around the deadly spear,</l>
+	<l>And Hope sang out in bugle notes</l>
+	<l>"Redemption draweth near!"</l>
+	</lg>
+	<lg type="stanza">
+	<l>Alas, alas, for human hopes!</l>
+	<l>A breath&#8212;a word&#8212;a blow&#8212;</l>
+	<l>And hearts but yesterday elate,</l>
+	<l>To-day are plunged in woe.</l>
+	</lg>
+	<lg type="stanza">
+	<l>A nation's songs to dirges turn;</l>
+	<l>Our banners sables wear;</l>
+	<l>And every loyal heart is touched,</l>
+	<l>For <hi rend="italic">all</hi> the sorrows share.</l>
+	</lg>
+	<lg type="stanza">
+	<l>All, all, who love the truth and right,</l>
+	<l>Who love humanity,</l>
+	<l>Who ever mourn when good men die,</l>
+	<l>Must mourn for such as he.</l>
+	</lg>
+	<lg type="stanza">
+	<l>We need not name the man, whose deeds</l>
+	<l>Each loyal heart has thrilled;</l>
+	<l>And none but traitors fail to mourn</l>
+	<l>A heart so noble, stilled.</l>
+	</lg>
+	<lg type="stanza">
+	<l>O God! 'tis hard to feel <hi rend="italic">Thy</hi> hand</l>
+	<l>Hath dealt this heavy blow;</l>
+	<l>Yet Thou art at the helm, and safe</l>
+	<l>Our bark will onward go.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Thou'st led our ship through many a storm,</l>
+	<l>Through many a bloody sea;</l>
+	<l>It strikes a rock to-day, O God!</l>
+	<l>And none can help, save Thee.</l>
+	</lg></lg></div>
+	<div>
+	<head><hi rend="italic">The President's Dream</hi></head>
+	<head>By Benjamin Franklin Taylor</head>
+	<lg type="poem">
+	<lg type="stanza">
+	<l>Athwart the troubled waters swiftly sailing</l>
+	<l>Thou saw'st the phantom vessel cleave its way:</l>
+	<l>Around its path the wandering winds were wailing,</l>
+	<l>And white around it flashed the angry spray.</l>
+	<l>Alas! it flitted o'er a troubled ocean</l>
+	<l>Where withering winds swept wildly as it past,</l>
+	<l>And urged it onward with unquiet motion,</l>
+	<l>Tossed by the tempest long&#8212;but moored at last.</l>
+	</lg>
+	<lg type="stanza">
+	<l>'Twas but the emblem of the swiftly gliding</l>
+	<l>And waning hours of thy imperilled life,</l>
+	<l>The briefness of thy glorious day betiding,</l>
+	<l>Thou pilot on the sea of freedom's strife!</l>
+	<l>Thou too wert battling with the tempest's power:</l>
+	<l>Thine too a pathway o'er a stormy deep;</l>
+	<l>But now the port is gained, no storm-clouds lower,</l>
+	<l>The bark is safe&#8212;oh! faithful pilot, sleep!</l>
+	</lg>
+	<lg type="stanza">
+	<l>As the swift ships that on the far-off waters</l>
+	<l>Wax dim and vanish&#8212;so we pass away</l>
+	<l>From life's sad ocean&#8212;so earth's sons and daughters</l>
+	<l>Fade like the shadows of the dying day;</l>
+	<l>But thou, our chief! hast left a noble story</l>
+	<l>Of truth and triumph for our sons to tell,</l>
+	<l>Thy vanished bark hath left a wake of glory</l>
+	<l>To follow thee along time's ocean swell.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Thou wert the vessel first God's message bringing,</l>
+	<l>Glad news of freedom to Columbia's strand,</l>
+	<l>From Afric's sons the tyrant's fetters wringing,</l>
+	<l>"Proclaiming liberty throughout the land."</l>
+	<l>Oh, now no blot of slavery shall stain us!</l>
+	<l>Henceforth we stand, a commonwealth <hi rend="italic">all</hi> free!</l>
+	<l>Thou wert the first that blessed boon to gain us,</l>
+	<l>Oh, martyr on the shrine of liberty!</l>
+	</lg>
+	<lg type="stanza">
+	<l>Thy bark hath faded from earth's gloomy water;</l>
+	<l>Safe moored where never clouds nor storms arise,</l>
+	<l>Far from these billowy wastes all red with slaughter,</l>
+	<l>Thy post is won&#8212;the haven of the skies.</l>
+	<l>Thy sail is furled amid celestial islands,</l>
+	<l>"Neath fadeless sunlight and eternal day;</l>
+	<l>Why should we mourn that to those glorious skylands,</l>
+	<l>From troubled shores, the swift ship fled away?</l>
+	</lg>
+	<lg type="stanza">
+	<l>Not unto thee&#8212;to us&#8212;belongs the sighing,</l>
+	<l>The wail of anguish and the falling tear!</l>
+	<l>Not unto thee&#8212;to us&#8212;the pang&#8212;the dying</l>
+	<l>Of proud hopes sinking withered by the bier.</l>
+	<l>Ours the wild dirge&#8212;the shrouded flag&#8212;the weeping&#8212;</l>
+	<l>The death-bell tolling from the sombre dome;</l>
+	<l>Thine, the loved form in stilly grandeur sleeping,</l>
+	<l>The crown of glory, and the heavenly home.</l>
+	</lg>
+	</lg></div>
+
+
+		      </body>
+   </text>
+</TEI.2>

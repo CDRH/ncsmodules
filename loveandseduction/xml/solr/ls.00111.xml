@@ -1,0 +1,16 @@
+<add>
+   <doc>
+      <field name="id">ls.00111</field>
+      <field name="title">"Henry Ashton and Ellen in the Rectory Garden"
+         
+      </field>
+      <field name="nationality">british</field>
+      <field name="category">image</field>
+      <field name="theme">popularpress</field>
+      <field name="setting">garden</field>
+      <field name="theme">courtship</field>
+      <field name="text">Henry AshtonW. Gorway, "Henry Ashton and Ellen in the Rectory Garden," London Journal, July 23, 1853
+         IllustratorW. GorwayJuly 23, 1853London Journal Illustration 
+      </field>
+   </doc>
+</add>

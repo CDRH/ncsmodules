@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00053">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Toward a New Society: American Thought and Culture, 1800-1830</hi></title>
+            <title level="c" type="chapter">from Chapter One, "The Republic and the Problem of Virtue"</title>
+<date type="original" value="1990">1990</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Matthews">Jean V. Matthews</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00053</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 3, 5, 8, and 20 of Jean V. Matthews' <hi rend="italic">Toward a New Society: American Thought and Culture, 1800-1830</hi>.  Published by Twayne, 1990. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Republic and the Problem of Virtue</title>
+               <title level="m"><hi rend="italic">Toward a New Society: American Thought and Culture, 1800-1830</hi></title>
+               <author>Jean V. Matthews</author>
+               <imprint>
+                  <publisher>Twayne
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>1990
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="liberalism" type="topic">liberalism</term>
+<term id="icon" type="topic">icon</term>
+<term id="washington" type="topic">Washington</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading and terms</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-06-15">15 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<head>1.</head><p>"'The history of our country is the history of liberty,' declared the poet Joel Barlow in 1807.  Yet, he added ominously, 'In my opinion, the loss of liberty in this country is not an impossible event.'  Barlow spoke for many of his contemporaries in believing that the unique American experiment in republican government was fragile and might at any time be subverted.  The first fifteen years of the nineteenth century were haunted by a nagging anxiety that the republic that had emerged from the struggles and sacrifices of the Revolution might not survive the unforseen social and economic changes that revolution had unleashed" (3).</p>
+</div>
+	<div>
+	<head>2.</head><p>"There has been a lively debate among historians about the extent to which liberalism displaced republicanism as the dominant American ideology by the early nineteenth century.  Some historians see the Jeffersonian Republicans as they saw themselves:  as bearers of republican values into the new century.  Others have maintained that with the creation of the Constitution or at least by the 1790s, the dominant patterns of American thinking were closer to the liberalism of Adam Smith than to traditional republicanism.  The historians' debate reflects the ideological confusion of the early republic itself in which individuals and groups moved in and out of different philosophical and explanatory modes as they adjusted to the dizzying speed of social change" (5).</p></div>
+	<div>
+	<head>3.</head><p>"The striking change in dress in the early nineteenth century is symbolic of the way in which formal distinctions between gentry and others were being minimized.  The powdered wig of the upper classes had practically disappeared by 1800, and the long hair tied in a queue that replaced it was virtually gone by 1820.  By the beginning of the century knee breeches and silk stockings of the gentry were being replaced by the French revolutionary style of pantaloons, which increasingly became the style for men of all classes.  Men's clothes were started on their career of progressive simplification and sobriety, which lasted to the 1960s.  Women's dress followed a different pattern.  After a marked turn toward a simplicity, indeed a skimpiness, which many moralists found sexually provocative, by the 1820s women's dress was swinging back toward an ever increasing elaboration and amplitude.  While millions of Americans continued to wear homespun, the increasing availability of factory-made cloth helped to blur the distinction in the towns at least, between the clothing of the gentry and other people" (8).</p></div>
+	<div>
+	<head>4.</head><p>"Although American leaders never mobilized the arts in support of the republic to the same extent as the revolutionary government of France, they were certainly aware of the importance of iconography.  In a rare act of artistic patronage, Congress commissioned John Trumbull to decorate the rotunda of the Capitol with paintings.  The choice of subject was a delicate business for a building that had symbolic as well as practical significance.  Trumbull decided on actual historical rather than allegorical subjects: the signing of the Declaration of Independence, the British surrenders at Yorktown and at Saratoga, and the resignation of George Washington.  The paintings were not Trumbull's best work; in addition, there were difficulties in finding a suitable style for public art that had to bear the weight of both the historically specific and the universal.  John Randolph complained of the <hi rend="italic">Declaration of Independence</hi>, with its life-sized, accurate portraits of forty or so eighteenth-century gentlemen in knee breeches, that he had never seen a painting with so many legs.  But if documentary realism produced problems, so in fact did classical symbolism.</p>
+	<p>When Jefferson recommended the famous Italian sculptor, Canova, to make a statue of Washington for the state capitol at Raleigh, North Carolina, he suggested that the costume be Roman, since 'our boots and regimentals would have a very puny effect.'  However, when the statue was installed in 1821 it was much criticized:  Americans might like to praise Washington's Roman virtue, but they wanted his statues to look American.  Davy Crockett liked the realistic Washington statue in Richmond, 'where they have him in the old blue and buff.  He belonged to his country&#8212;heart, soul and body, and I don't want any other country to have any part of him&#8212;not even his clothes.'  The American Horatio Greenough's 1833 statue of Washington in a toga provoked embarrassed ridicule, an indication of the limits of classicism as a reference system in a Christian and increasingly democratic country" (20).</p></div>
+
+      </body>
+   </text>
+</TEI.2>

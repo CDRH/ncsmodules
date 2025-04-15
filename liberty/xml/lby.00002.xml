@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00002">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Crotchet Castle</hi>
+</title>
+<title level="c" type="chapter">from Chapter XI, "Correspondence"</title>
+<date type="original" value="1831">1831</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Peacock">Thomas Love Peacock
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00002</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 126-127 of the 1891 Dent text of Thomas Love Peacock's <hi rend="italic">Crotchet Castle</hi>. Originally published in 1831.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XI</title>
+               <title level="m">Crotchet Castle</title>
+               <author>Thomas Love Peacock</author>
+               <imprint>
+                  <publisher>Dent
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1891
+</date>
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="british" type="place">British</term>
+<term id="emancipation" type="topic">emancipation</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-16">16 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">CHAPTER XI.</head>
+<head type="sub">CORRESPONDENCE.</head>
+<epigraph><p>"Base is the slave that pays."&#8212;ANCIENT PISTOL.</p></epigraph>
+
+<gap reason="sampling" extent=""/>
+
+<p>"DOTANDCARRYONETOWN, &#38;c.
+"DEAR MISS,&#8212;Mr Touchandgo will have told you of our arrival here, of our setting up a bank, and so forth. We came here in a tilted waggon<!--brit var. wagon[sic]-->, which served us for parlour, kitchen, and all. We soon got up a log-house; and, unluckily, we as soon got it down again, for the first fire we made in it burned down house and all. However, our second experiment was more fortunate; and we are pretty well lodged in a house of three rooms on a floor; I should say the floor, for there is but one.</p>
+
+<p>"This new state is free to hold slaves; all the new states have not this privilege: Mr Touchandgo has brought some, and they are building him a villa. Mr Touchandgo is in a thriving way, but he is not happy here: he longs for parties and concerts, and a seat in congress. He thinks it very hard that he cannot buy one with his own coinage, as he used to do in England. Besides, he is afraid of the regulators, who, if they do not like a man's character, wait upon him and flog him, doubling the dose at stated intervals, till he takes himself off. He does not like this stystem of administering justice: though I think he has nothing to fear from it. He has the character of having money, which is the best of all characters here, as at home. He lets his old English prejudices influence his opinions of his new neighbours; but I assure you they have many virtues. Though they do keep slaves, they are all ready to fight for their own liberty; and I should not like to be an enemy within reach of one of their rifles. When I say enemy, I include bailiff in the term. One was shot not long ago. There was a trial; the jury gave two dollars damages; the judge said they must find guilty or not guilty; but the counsel for the defendant (they would not call him prisoner), offered to fight the judge upon the point: and as this was said literally, not metaphorically, and the counsel was a stout fellow, the judge gave in. The two dollars damages were not paid after all; for the defendant challenged the foreman to box for double or quits, and the foreman was beaten. The folks in New York made a great outcry about it, but here it was considered all as it should be. So you see, Miss, justice, liberty, and every thing else of that kind, are different in different places, just as suits the convenience of those who have the sword in their own hands. Hoping to hear of your health and happiness, I remain,
+"Dear Miss, your dutiful servant,
+"RODERICK ROBTHETILL."</p>
+
+<gap reason="sampling" extent=""/>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

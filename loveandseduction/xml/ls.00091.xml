@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00091">
+   <teiHeader>
+
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Lost and <hi rend="italic">Found: </hi>Once More the Fallen Woman"</title>
+		<title level="j" type="journal"><hi rend="italic">Art Bulletin</hi></title>
+		<date type="original" value="1978">1978</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Nochlin">Linda Nochlin 
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00091</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+This excerpt from Linda Nochlin's "Lost and <hi rend="italic">Found: </hi>Once More the Fallen Woman" is transcribed from pages 143-145 of the <hi rend="italic">Art Bulletin</hi> 60:1 (1978).
+
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+
+<bibl>
+               <title level="a">"Lost and <hi rend="italic">Found: </hi>Once More the
+Fallen Woman"
+</title>
+               <title level="m"><hi rend="italic">Art Bulletin</hi> 60:1 (1978):  139-153
+</title>
+               <author>Linda Nochlin</author>
+               <imprint>
+                  <publisher>
+
+
+</publisher>
+                  <pubPlace>
+
+
+</pubPlace>
+               </imprint>
+               <date>
+1978
+
+</date>
+               <idno type="ISBN">
+
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+
+<keywords>
+<term id="piano" type="setting">piano</term>               
+<term id="garden" type="setting">garden</term>
+<term id="parlor" type="setting">parlor</term>
+<term id="commentary" type="media">commentary</term>            
+<term id="seduction" type="theme">seduction</term>
+<term id="premaritalsex" type="theme">premarital sex</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                             <head>1.</head> <p>
+"Yet perhaps no work is more closely intertwined with
+Rossetti's <hi rend="italic">Found </hi>and his very conception of the fallen woman than Holman
+Hunt's <hi rend="italic">Awakening Conscience, </hi>signed and dated 1853, exhibited at the Royal Academy in 1854. Despite their striking differences of interpretation and structure,
+or perhaps because of them, one can see these works as pendants, opposing
+visions of a single moral issue: rising versus falling, salvation versus
+damnation, Christian optimism versus Christian or crypto-Christian despair, the
+larger oppositions in both cases growing out of intimate personal experience,
+probably involving Annie Miller [model and sometime mistress of Hunt], and couched in the pictorial language of
+realism. Like Rossetti, Hunt reinforces the credibility of his painstaking
+visual realism with an equally painstaking scaffolding of symbolic incident: 
+at the crucial instant of conscience awakening, a cat releases a bird beneath
+the table, and light&#8212;reflected in the mirror in the background&#8212;quite
+literally dawns in the unspoiled garden outside the St. John's Wood sitting
+room. That parlor's unsavoriness is attested by such elements as the print of <hi rend="italic">Christ
+and the Woman Taken in Adultery </hi>on the wall, the dozing cupids on the
+clock, the birds stealing grapes in the wall design, as well as by what Ruskin
+admiringly described as the "fatal newness" of the furniture. The volume of
+Noel Humphrey's <hi rend="italic">Origin and Progress of the Art of Writing </hi>on the table
+may be a covert reference to Hunt's educational program for his 'fianc&#233;e,'
+Annie Miller, the original model for the painting. Certainly it is no accident
+that the young woman experiencing moral epiphany has rings on every finger <hi rend="italic">but
+</hi>the third finger of her left hand" (143,145)</p>
+<div1 type="file references">
+            <list>               <item>
+                  <xptr n="ls.00100" type="image on commentary"/>
+               </item>  
+
+
+            </list>
+         </div1>
+
+      </body>
+   </text>
+</TEI.2>

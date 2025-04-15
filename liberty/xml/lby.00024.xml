@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00024">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Liberty"
+</title>
+          
+<date type="original" value="1888">c. 1888</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Hughes">John Ceirog Hughes
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00024</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 317-318 of <hi rend="italic">The Poetry of Freedom</hi> anthology (1945), edited by William Rose Ben&#233;t and Norman Cousins.</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Liberty</title>
+               <title level="m">The Poetry of Freedom</title>
+               <author>John Ceiriog Hughes</author>
+               <imprint>
+                  <publisher>Modern Library
+
+</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1948
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="welsh" type="place">Welsh</term>
+<term id="wales" type="topic">Wales</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-25">25 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">LIBERTY</head>
+
+<lg>
+<l>See, see where royal Snowdon rears</l>
+<l>Her hoary head above her peers</l>
+<l>To cry that Wales is free!</l>
+<l>Oh hills which guard our liberties,</l>
+<l>With outstretched arms to where you rise</l>
+<l>In all your pride, I turn my eyes</l>
+<l>And echo, "Wales is free!"</l>
+<l>O'er Giant Idris' lofty seat,</l>
+<l>O'er Berwyn and Plynlimon great</l>
+<l>And hills which round them lower meet,</l>
+<l>Blow winds of liberty.</l>
+<l>And like the breezes high and strong,</l>
+<l>Which through the cloudwrack sweep along</l>
+<l>Each dweller in this land of song</l>
+<l>Is free, is free, is free!</l>
+</lg>
+<lg>
+<l>Never, O Freedom, let sweet sleep</l>
+<l>Over that wretch's eyelids creep</l>
+<l>Who bears with wrong and shame.</l>
+<l>Wake him to feel thy spirit nigh,</l>
+<l>And like a hero do or die,</l>
+<l>And smite the arm of tyranny,</l>
+<l>And lay its haunts aflame.</l>
+<l>Rather than peace which makes thee slave,</l>
+<l>Rise, Europe, rise, and draw thy glaive,</l>
+<l>Lay foul oppression in its grave,</l>
+<l>No more the light to see.</l>
+<l>The heavenward turn thy grateful gaze</l>
+<l>And like the rolling thunder raise</l>
+<l>Thy triumph song of joy and praise</l>
+<l>To God&#8212;that thou art free!</l>
+</lg>
+
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

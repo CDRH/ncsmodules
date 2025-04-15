@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00035">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">My Bondage and My Freedom</hi></title>
+            <title level="c" type="chapter">from Chapter XI, "A Change"</title>
+<date type="original" value="1855">1855</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Douglass">Frederick Douglass
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00035</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 225-227 of the 1994 Library of America edition of Frederick Douglass's <hi rend="italic">Autobiographies</hi>.   
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">A Change</title>
+               <title level="m"><hi rend="italic">My Bondage and My Freedom</hi></title>
+               <author>Frederick Douglass</author>
+               <imprint>
+                  <publisher>
+Library of America
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+1994
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="individual" type="topic">individual</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-08">08 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>When I was about thirteen years old, and had succeeded in learning to read, every increase of knowledge, especially respecting the FREE STATES, added something to the almost intolerable burden of the thought&#8212;"I AM A SLAVE FOR LIFE."  To my bondage I saw no end.  It was a terrible reality, and I shall never be able to tell how sadly that thought chafed my young spirit.  Fortunately, or unfortunately, about this time in my life, I had made enough money to buy what was then a very popular school book, viz: the "Columbian Orator."  I bought this addition to my library, of Mr. Knight, on Thames street, Fell's Point, Baltimore, and paid him fifty cents for it.  I was first led to buy this book, by hearing some little boys say that they were going to learn some little pieces out of it for the Exhibition.  This volume was, indeed, a rich treasure, and every opportunity afforded me, for a time, was spent in diligently perusing it.  Among much other interesting matter, that which I had perused and reperused with unflagging satisfaction, was a short dialogue between a master and his slave.  The slave is represented as having been recaptured, in a second attempt to run away; and the master opens the dialogue with an upbraiding speech, charging the slave with ingratitude, and demanding to know what he has to say in his own defense.  Thus upbraided, and thus called upon to reply, the slave rejoins, that he knows how little anything that he can say will avail, seeing that he is completely in the hands of his owner; and with noble resolution, calmly says, "I submit to my fate."  Touched by the slave's answer, the master insists upon his further speaking, and recapitulates the many acts of kindness which he has performed toward the slave, and tells him he is permitted to speak for himself.  Thus invited to the debate, the quondam slave made a spirited defense of himself, and thereafter the whole argument, for and against slavery, was brought out.  The master was vanquished at every turn in the argument; and seeing himself to be thus vanquished, he generously and meekly emancipates the slave, with his best wishes for his prosperity.  It is scarcely necessary to say, that a dialogue, with such an origin, and such an ending&#8212;read when the fact of my being a slave was a constant burden of grief&#8212;powerfully affected me; and I could not help feeling that the day might come, when the well-directed answers made by the slave to the master, in this instance, would find their counterpart in myself.</p>
+	<p>This, however, was not all the fanaticism which I found in this Columbian Orator.  I met there one of Sheridan's mighty speeches, on the subject of Catholic Emancipation, Lord Chatham's speech on the American war, and speeches by the great William Pitt and by Fox.  These were all choice documents to me, and I read them, over and over again, with an interest that was ever increasing, because it was ever gaining in intelligence; for the more I read them, the better I understood them.  The reading of these speeches added much to my limited stock of language, and enabled me to give tongue to many interesting thoughts, which had frequently flashed through my soul, and died away for want of utterance.  The mighty power and heart-searching directness of truth, penetrating even the heart of a slaveholder, compelling him to yield up his earthly interests to the claims of eternal justice, were finely illustrated in the dialogue, just referred to; and from the speeches of Sheridan, I got a bold and powerful denunciation of oppression, and a most brilliant vindication of the rights of man.  Here was, indeed, a noble acquisition.  If I ever wavered under the consideration, that the Almighty, in some way, ordained slavery, and willed my enslavement for his own glory, I wavered no longer.  I had now penetrated the secret of all slavery and oppression, and had ascertained their true foundation to be in the pride, the power and the avarice of man.  The dialogue and the speeches were all redolent of the principles of liberty, and poured floods of light on the nature and character of slavery.  With a book of this kind in my hand, my own human nature, and the facts of my experience, to help me, I was equal to a contest with the religious advocates of slavery, whether among the whites or among the colored people, for blindness, in this matter, is not confined to the former.  I have met many religious colored people, at the south, who are under the delusion that God requires them to submit to slavery, and to wear their chains with meekness and humility.  I could entertain no such nonsense as this; and I almost lost my patience when I found any colored man weak enough to believe such stuff.  Nevertheless, the increase of knowledge was attended with bitter, as well as sweet results.  The more I read, the more I was led to abhor and detest slavery, and my enslavers.  "Slaveholders," thought I, "are only a band of successful robbers, who left their homes and went into Africa for the purpose of stealing and reducing my people to slavery."  I loathed them as the meanest and the most wicked of men.  As I read, behold! the very discontent so graphically predicted by Master Hugh, had already come upon me.  I was no longer the light-hearted, gleesome boy, full of mirth and play, as when I landed first at Baltimore.  Knowledge had come; light had penetrated the moral dungeon where I dwelt; and, behold! there lay the bloody whip, for my back, and here was the iron chain; and my good, <hi rend="italic">kind master</hi>, he was the author of my situation.  The revelation haunted me, stung me, and made me gloomy and miserable.  As I writhed under the sting and torment of this knowledge, I almost envied my fellow slaves their stupid contentment.  This knowledge opened my eyes to the horrible pit, and revealed the teeth of the frightful dragon that was ready to pounce upon me, but it opened no way for my escape.  I have often wished myself a beast, or a bird&#8212;anything, rather than a slave.  I was wretched and gloomy, beyond my ability to describe.  I was too thoughtful to be happy.  It was this everlasting thinking which distressed and tormented me; and yet there was no getting rid of the subject of my thoughts.  All nature was redolent of it.  Once awakened by the silver trump of knowledge, my spirit was roused to eternal wakefulness.  Liberty! the inestimable birthright of every man, had, for me, converted every object into an asserter of this great right.  It was heard in every sound, and beheld in every object.  It was ever present, to torment me with a sense of my wretched condition.  The more beautiful and charming were the smiles of nature, the more horrible and desolate was my condition.  I saw nothing without seeing it, and I heard nothing without hearing it.  I do not exaggerate, when I say, that it looked from every star, smiled in every calm, breathed in every wind, and moved in every storm.</p>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00049" type="same author"/>	      
+				</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

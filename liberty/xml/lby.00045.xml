@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00045">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Liberty Bells"</title>
+            <title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1851">1851</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Hempstead">Martha Hempstead</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00045</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 1-3 of the <hi rend="italic">Liberty Bell</hi>, for the year 1851.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Liberty Bells</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>Martha Hempstead</author>
+               <imprint>
+                  <publisher>Cahpman
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>1851
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="libertybell" type="topic">Liberty Bell</term>
+<term id="icon" type="topic">icon</term>
+         </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-10">10 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<lg type="stanza">
+<l>"Liberty Bells!" where ring they not,</l>
+<l>Save where tyrant fingers</l>
+<l>Have ruthlessly unhung</l>
+<l>The music breathing tongue?</l>
+<l>And even then, a hovering cadence lingers</l>
+<l>Around such spot,&#8212;</l>
+<l>So that the earnest soul's attentive ear</l>
+<l>Faint murmurings of a tone may sometimes hear.</l>	
+</lg>
+	<lg type="stanza">
+<l>Away on the mountain's sunny side,</l>
+<l>Away in the shadowy dells,</l>
+<l>Go listen! not a sound</l>
+<l>Breaks on the air around,</l>
+<l>Unmingled with the voice of those sweet bells,</l>
+<l>From morn to eventide;</l>
+<l>Out from the blossom cup, from shrub and tree, </l>
+<l>Peel forth the chimes, so joyously and free.</l>
+	</lg>
+	<lg type="stanza">
+<l>Steepled far from human hands</l>
+<l>On the rocky height,</l>
+<l>And in grottoes low,</l>
+<l>Where no step may go,</l>
+<l>And the spar and wreathing gems are bright</l>
+<l>As fairy wands&#8212;</l>
+<l>There ring they on, for hands that weary never,</l>
+<l>Those bright, but unseen strings, are holding ever.</l>
+	</lg>
+	<lg type="stanza">
+<l>Out upon the ocean's wings,</l>
+<l>Plumed with silvery spray,</l>
+<l>As they rise and fall;</l>
+<l>Soft, and musical,</l>
+<l>Freedom's bells are ringing night and day,</l>
+<l>Like tireless things;</l>
+<l>And the great bosom of the chainless tide</l>
+<l>Heaves up to greet those echoing notes with pride.</l>
+	</lg>
+	<lg type="stanza">
+<l>But within the human soul,</l>
+<l>That hath listened well,</l>
+<l>Nature's every tone,</l>
+<l>Blended into one,</l>
+<l>Floweth serenely on, the uprising swell</l>
+<l>Of that great whole&#8212;</l>
+<l>That perfect choir, whose music would become</l>
+<l>Discordant all, if <hi rend="italic">Freedom's Bells</hi> were dumb.</l>
+</lg>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00047" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+
+      </body>
+   </text>
+</TEI.2>

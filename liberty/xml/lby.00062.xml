@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00062">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Selections from <hi rend="italic">The Complete Poetical Works of William Wordsworth</hi></title>
+           <date type="original" value="1802">1802-1816</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Wordsworth">William Wordsworth</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00062</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+The following poems are transcribed from pages 253, 255-56, 259, 262-63 and 271-72 of the 1854 Troutman and Hayes edition of <hi rend="italic">The Complete Poetical Works of William Wordsworth</hi>, edited by Henry Reed.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Poems Dedicated to National Independence and Liberty</title>
+               <title level="m"><hi rend="italic">The Complete Poetical Works of William Wordsworth</hi></title>
+               <author>William Wordsworth</author>
+               <imprint>
+                  <publisher>Troutman and Hayes</publisher>
+                  <pubPlace>Philadelphia
+</pubPlace>
+               </imprint>
+               <date>1854
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="napoleon" type="topic">Napoleon</term>
+<term id="switzerland" type="topic">Switzerland</term>
+           </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-07-18">18 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<head>Calais, August, 1802.</head>
+	<lg type="poem">
+	<l>Is it a Reed that's shaken by the wind,</l>
+	<l>Or what is it that ye go forth to see?</l>
+	<l>Lords, Lawyers, Statesmen, Squires of low degree,</l>
+	<l>Men known, and men unknown, Sick, Lame, and Blind,</l>
+	<l>Post forward all, like Creatures of one kind,</l>
+	<l>With first-fruit offerings crowd to bend the knee</l>
+	<l>In France, before the new-born Majesty.</l>
+	<l>'T is ever thus.  Ye men of prostrate mind!</l>
+	<l>A seemly reverence may be paid to power;</l>
+	<l>But that's a loyal virtue never sown</l>
+	<l>In haste, nor springing with a transient shower:</l>
+	<l>When truth, when sense, when liberty were flown,</l>
+	<l>What hardship had it been to wait an hour?</l>
+	<l>Shame on you, feeble Heads, to slavery prone!</l>
+	</lg></div>
+	<div>
+	<head>Thought of a Briton on the Subjugation of Switzerland</head>
+	<lg type="poem">
+	<l>Two Voices are there; one is of the Sea,</l>
+	<l>One of the Mountains; each a mighty Voice:</l>
+	<l>In both from age to age Thou didst rejoice,</l>
+	<l>They were thy chosen Music, Liberty!</l>
+	<l>There came a Tyrant, and with holy glee</l>
+	<l>Thou fought'st against Him; but has vainly striven</l>
+	<l>Thou from thy Alpine holds at length art driven,</l>
+	<l>Where not a torrent murmurs heard by thee.</l>
+	<l>Of one deep bliss thine ear hath been bereft:</l>	
+	<l>Then cleave, O cleave to that which still is left;</l>
+	<l>For, high-souled Maid, what sorrow would it be</l>
+	<l>That mountain Floods should thunder as before,</l>
+	<l>And Ocean bellow from his rocky shore,</l>
+	<l>And neither awful Voice be heard by thee!</l>
+	</lg></div>
+	<div>
+	<lg type="poem">
+	<l>It is not to be though of that the Flood</l>
+	<l>Of British freedom, which to the open Sea</l>
+	<l>Of the world's praise from dark antiquity</l>
+	<l>Hath flowed, "with pomp of waters unwithstood,"</l>
+	<l>Roused though it be full often to a mood</l>
+	<l>Which spurns the check of salutary bands,</l>
+	<l>That this most famous Stream in Bogs and Sands</l>
+	<l>Should perish; and to evil and to good</l>
+	<l>Be lost for ever.  In our Halls is hung</l>
+	<l>Armoury of the invincible Knights of old:</l>
+	<l>We must be free or die, who speak the tongue</l>
+	<l>That Shakespeare spake; the faith and morals hold</l>
+	<l>Which Milton held.&#8212;In every thing we are sprung</l>
+	<l>Of Earth's first blood, have titles manifold.</l>
+	</lg></div>
+	<div>
+	<head>October, 1803.</head>
+	<lg type="stanza">
+	<l>One might believe that natural miseries</l>
+	<l>Had blasted France and made of it a land</l>
+	<l>Unfit for men; and that in one great Band</l>
+	<l>Her sons were bursting forth to dwell at ease.</l>
+	<l>But 't is a chosen soil, where sun and breeze</l>
+	<l>Shed gentle favors; rural works are there;</l>
+	<l>And ordinary business without care!</l>
+	<l>Spot rich in all things that can soothe and please!</l>
+	<l>How piteous then that there should be such dearth</l>
+	<l>Of knowledge; that whole myriads should unite</l>
+	<l>To work against themselves such fell despite:</l>
+	<l>Should come in phrensy and in drunken mirth,</l>
+	<l>Impatient to put out the only light</l>
+	<l>Of Liberty that yet remains on Earth!</l>
+	</lg></div>
+	<div>
+	<lg type="poem">
+	<l>Advance&#8212;come forth from thy Tyrolean ground,</l>
+	<l>Dear Liberty! stern Nymph of soul untamed,</l>
+	<l>Sweet Nymph, O rightly of the mountains named!</l>
+	<l>Through the long chain of Alps from mound to mound</l>
+	<l>And o'er the eternal snows, like Echo, bound,&#8212;</l>
+	<l>Like Echo, when the Hunter-train at dawn</l>
+	<l>Have roused her from her sleep: and forest-lawn,</l>
+	<l>Cliffs, woods, and caves, her viewless steps resound</l>
+	<l>And babble of her pastime!&#8212;On, dread Power!</l>
+	<l>With such invisible motion speed thy flight,</l>
+	<l>Through hanging clouds, from craggy height to height,</l>
+	<l>Through the green vales and through the Herdsman's bower,</l>
+	<l>That all the Alps may gladden in thy might,</l>
+	<l>Here, there, and in all places at one hour.</l>
+	</lg></div>
+	<div>
+	<head>The Oak of Guernica&#8212;1810.</head>
+	<p>The ancient oak of Guernica, says Laborde in his account of Biscay, is a most venerable natural monument.  Ferdinand and Isabella, in the year 1476, after hearing mass in the Church of Santa Maria de la Antigua, repaired to this tree, under which they swore to the Biscayans to maintain their <hi rend="italic">fueros</hi> (privileges.)  What other interest belongs to it in the minds of this People will appear from the following.</p>
+	<lg type="poem">
+	<l>Oak of Guernica!  Tree of holier power</l>
+	<l>Than that which in Dodona hid enshrine</l>
+	<l>(So faith too fondly deemed) a voice divine,</l>
+	<l>Heard from the depths of its a&#235;rial bower,</l>
+	<l>How canst thou flourish at this blighting hour?</l>
+	<l>What hope, what joy can sunshine bring to thee,</l>
+	<l>Or the soft breezes from the Atlantic sea,</l>
+	<l>The dews of morn, or April's tender shower?</l>
+	<l>Stroke merciful and welcome would that be</l>
+	<l>Which should extend thy branches on the ground,</l>
+	<l>If never more within their shady round</l>
+	<l>Those lofty-minded Lawgivers shall meet,</l>
+	<l>Peasant and Lord, in their appointed seat,</l>
+	<l>Guardians of Biscay's ancient Liberty.</l>
+	</lg></div>
+	<div>
+	<head>&#8212;1811.</head>
+	<lg type="poem">
+	<l>Here pause: the poet claims at least this praise,</l>
+	<l>That virtuous Liberty hath been the scope</l>
+	<l>Of his pure song, which did not shrink from hope</l>
+	<l>In the worst moment of these evil days;</l>
+	<l>From hope, the paramount <hi rend="italic">duty</hi> that Heaven lays,</l>
+	<l>For its own honour, on man's suffering heart.</l>
+	<l>Never may from our souls one truth depart,</l>
+	<l>That an <hi rend="italic">accursed</hi> thing it is to gaze</l>
+	<l>On prosperous Tyrants with a dazzled eye;</l>
+	<l>Nor, touched with due abhorrence of <hi rend="italic">their</hi> guilt</l>
+	<l>For whose dire ends tears flow, and blood is spilt,</l>
+	<l>And justice labours in extremity,</l>
+	<l>Forget thy weakness, upon which is built,</l>
+	<l>O wretched Man, the Throne of Tyranny!</l>
+	</lg></div>
+	<div>
+	<head>"To Thee&#8212;To Thee&#8212;; from "ODE: The Morning of the Day Appointed for a General Thanksgiving, January 18, 1816."</head>
+	<lg type="poem">
+	<l>On this appointed day shall thanks ascend,</l>
+	<l>That Thou hast brought our warfare to an end,</l>
+	<l>And that we need no second victory!</l>
+	<l>Ha! what a ghastly sight for man to see!</l>
+	<l>And to the heavenly saints in peace who dwell,</l>
+	<l>For a brief moment, terrible;</l>
+	<l>But, to thy sovereign penetration, fair,</l>
+	<l>Before whom all things are, that were,</l>
+	<l>All judgments that have been, or e'er shall be;</l>
+	<l>Links in the chain of thy tranquillity!</l>
+	<l>Along the bosom of this favoured Nation,</l>
+	<l>Breathe Thou, this day, a vital undulation!</l>
+	<l>Let all who do this land inherit</l>
+	<l>Be conscious of Thy moving spirit!</l>
+	<l>Oh, 't is a goodly Ordinance,&#8212;the sight,</l>
+	<l>Though sprung from bleeding war, is one of pure delight;</l>
+	<l>Bless Thou the hour, or ere the hour arrive,</l>
+	<l>When a whole people shall kneel down in prayer,</l>
+	<l>And, at one moment, in one rapture, strive</l>
+	<l>With lip and heart to tell their gratitude</l>
+	<l>For Thy protecting care,</l>
+	<l>Their solemn joy&#8212;praising the Eternal Lord</l>
+	<l>For tyranny subdued,</l>
+	<l>And for the sway of equity renewed,</l>
+	<l>For liberty confirmed, and peace restored!</l>
+	</lg></div>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00070" type="same subject"/>	      
+				</item>
+		</list>
+</div>
+	      </body>
+   </text>
+</TEI.2>

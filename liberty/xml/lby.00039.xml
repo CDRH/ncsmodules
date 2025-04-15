@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00039">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"The Liberty Bell"</title>
+<title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1842">1843</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author>John Bowring</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00039</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 1-4 of the <hi rend="italic">Liberty Bell</hi>, for the year 1843.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">The Liberty Bell</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author></author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>1843
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="libertybell" type="topic">Liberty Bell</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<lg type="stanza">
+	<l>The Liberty Bell&#8212;The Liberty Bell,</l>
+	<l>The tocsin of Freedom and Slavery's knell</l>
+	<l>That a whole long year has idle hung,</l>
+	<l>Again is waggin its clamorous tongue!</l>
+	<l>As it merrily swings,</l>
+	<l>Its notes it flings</l>
+	<l>On the dreamy ear of the planters and kings,</l>
+	<l>And it gives them a token,</l>
+	<l>Of manacles broken;&#8212;</l>
+	<l>And all that the prophets of Freedom have spoken.</l>
+	<l>With tongues of flame,</l>
+	<l>(Like those which came</l>
+	<l>On the men who first spoke the Saviour's name,)</l>
+	<l>Comes over their soul</l>
+	<l>As death-bells knowl,</l>
+	<l>Or the wheels of coming thunder roll!</l>
+	<l>Our Liberty Bell&#8212;</l>
+	<l>They know it well,</l>
+	<l>The tocsin of Freedom and Slavery's knell!</l>
+	</lg>
+
+<lg type="stanza">
+	<l>The Liberty Bell is hung aloft,</l>
+	<l>On the transatlantic shore;</l>
+	<l>And we hear its echoes, oft and oft,</l>
+	<l>Wafted the waters o'er;</l>
+	<l>And welcomed shall those echoes be!</l>
+	<l>Music of Liberty!</l>
+	<l>Liberty for the white&#8212;the few&#8212;</l>
+	<l>From the oppressor's thrall?</l>
+	<l>Nay! but Liberty,&#8212;Liberty, too,</l>
+	<l>For the blacks,&#8212;for all!</l>
+	<l>Slavery shall not stamp her ban</l>
+	<l>On any men,&#8212;or man</l>
+	</lg>
+<lg type="stanza">
+	<l>See! there are flowers of every shade</l>
+	<l>Over earth's bosom spread;</l>
+	<l>All by the same Great Artist made,</l>
+	<l>By the same bounty fed;</l>
+	<l>Brightened by sunshine, freshened by showers,</l>
+	<l>All those beautiful flowers.</l>
+	</lg>
+<lg type="stanza">
+	<l>So in the heavens, but differing, far</l>
+	<l>Differing, in glory and might;</l>
+	<l>But glorious every one, star by star</l>
+	<l>Rolls in the car of night;</l>
+	<l>All outpouring,&#8212;all, in their turns,&#8212;</l>
+	<l>Light from their golden urns.</l>
+	</lg>
+<lg type="stanza">
+	<l>Flowers and stars,&#8212;in heaven, on earth,&#8212;</l>
+	<l>The feeblest as the first,</l>
+	<l>The impress bears of a glorious birth,</l>
+	<l>And is in glory nurst;</l>
+	<l>And is led onward gloriously,</l>
+	<l>Through its varied destiny.</l>
+	</lg>
+<lg type="stanza">
+	<l>Despised there is none&#8212;degraded none;</l>
+	<l>Each holds its ordered place;</l>
+	<l>But 't is man&#8212;usurping man, alone,</l>
+	<l>Who hath stigmatized his race;</l>
+	<l>Who hath giv'n his fellow&#8212;O shame! O shame!</l>
+	<l>A <hi rend="italic">slave's</hi> ignoble name!</l>
+	</lg>
+<lg type="stanza">
+	<l>But, the heavenly elements, which mould,</l>
+	<l>In man, God's effigy,&#8212;</l>
+	<l>They were never meant to be controlled</l>
+	<l>To a slave's destiny;</l>
+	<l>Nor shall they long;&#8212;for the slave shall be</l>
+	<l>As the free-born&#8212;aye, as free!</l>
+	</lg>
+<lg type="stanza">
+	<l>Come, then, that bright and benignant time,</l>
+	<l>When LIBERTY'S blessed BELL,</l>
+	<l>All earth re-echoing it, shall chime</l>
+	<l>Slavery's final knell;</l>
+	<l>And Slavery's dreary tales be told</l>
+	<l>As a mythic page of old!</l>
+</lg>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00047" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00046" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

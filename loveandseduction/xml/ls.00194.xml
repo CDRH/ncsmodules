@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00194">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+           <title level="a" type="main"><hi rend="italic">Mary Barton</hi>
+</title>
+
+<title level="c" type="chapter">from Chapter XI</title>
+<author name="Gaskell">Elizabeth Gaskell</author>
+<date type="original" value="1848">1848</date>
+            <title level="m" type="sub">electronic edition</title>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00192</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 185-189 of the 1897 Bliss Sands edition of Elizabeth Gaskell's <hi rend="italic">Mary Barton</hi>. Originally published in 1848.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XI</title>
+               <title level="m"><hi rend="italic">Mary Barton</hi> </title>
+               <author>Elizabeth Gaskell</author>
+               <imprint>
+                  <publisher>Bliss Sands
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1897
+</date>
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+           <term id="urbanwalkway" type="setting">urban walkway</term>
+               <term id="british" type="place">British</term>
+		<term id="fiction" type="media">fiction</term>
+		<term id="courtship" type="theme">courtship</term>
+<term id="class" type="theme">class</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-26">26 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>coding</item>
+</change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<head>Scene Two:  Mary tries to disengage herself from the attentions of Mr. Carson</head>
+
+	<p>She had wondered more than once if she must not have another interview with Mr. Carson; and had then determined, while she expressed her resolution that it should be the final one, to tell him how sorry she was if she had thoughtlessly given him false hopes.  For, be it remembered, she had the innocence, or the ignorance, to believe his intentions honourable; and he, feeling that at any price he must have her, only that he would obtain her as cheaply as he could, had never undeceived her; while Sally Leadbitter laughed in her sleeve at them both, and wondered how it would all end&#8212;whether Mary would gain her point of marriage, with her sly affectation of believing such to be Mr. Carson's intention in courting her.</p>
+	<p>Not very far from the end of the street, into which the court where Mary lived opened, they met Mr. Carson, his hat a good deal slouched over his face, as if afraid of being recognised.  He turned when he saw them coming, and led the way without uttering a word (although they were close behind) to s street of half-finished houses.</p>
+	<p>The length of the walk gave Mary time to recoil from the interview which was to follow; but even if her own resolve to go through with it had failed, there was the steady grasp of Sally Leadbitter, which she could not evade without an absolute struggle.</p>
+	<p>At last he stopped in the shelter and concealment of a wooden fence, put up to keep the building rubbish from intruding on the foot-pavement.  Inside this fence, a minute afterwards, the girls were standing by him; Mary now returning Sally's detaining grasp with interest, for she had determined on the way to make her a witness, willing or unwilling, to the ensuing conversation.  But Sally's curiosity led her to be a very passive prisoner in Mary's hold.</p>
+	<p>With more freedom than he had ever used before, Mr. Carson put his arm firmly round Mary's waist, in spite of her indignant resistance.</p>
+	<p>"Nay, nay! you little witch!  Now I have caught you, I shall keep you prisoner.  Tell me now what has made you run away from me so fast these few days&#8212;tell me, you sweet little coquette!"</p>
+	<p>Mary ceased struggling, but turned so as to be almost opposite to him, while she spoke out calmly and boldly&#8212;</p>
+	<p>"Mr. Carson!  I want to speak to you for once and for all.  Since I met you last Monday evening, I have made up my mind to have nothing more to do with you.  I know I've been wrong in leading you to think I liked you; but I believe I didn't rightly know my own mind; and I humbly beg your pardon, sir, if I've led you to think too much of me."</p>
+	<p>For an instant he was surprised; the next, vanity came to his aid, and convinced him that she could only be joking.  He, young, agreeable, rich, handsome!  No! she was only showing a little womanly fondness for coquetting.</p>
+	<p>"You're a darling little rascal to go on in this way!  'Humbly begging my pardon if you've made me think too much of you.'  As if you didn't know I think of you from morning till night.  But you want to be told it again, do you?"</p>
+	<p>"No, indeed, sir, I don't.  I would far liefer that you should say you would never think of me again, than that you should speak of me in this way.  For, indeed, sir, I never was more in earnest than I am, when I say tonight is the last night I will ever speak to you."</p>
+	<p>"Last night, you sweet little equivocator, but not last day.  Ha, Mary, I've caught you, have I?" as she, puzzled by his preseverance in thinking her joking, hesitated in what form she could now put her meaning.</p>
+	<p>"I mean, sir," she said sharply, "that I will never speak to you again, at any time, after tonight."</p>
+	<p>"And what's made this change, Mary?" said he. seriously enough now.  "Have I done anything to offend you?" added he earnestly.</p>
+	<p>"No, sir," she answered gently, but yet firmly.  "I cannot tell you exactly why I've changed my mind; but I shall not alter it again; and, as I said before, I beg your pardon if I've done wrong by you.  And now sir, if you please, good-night."</p>
+	<p>"But I do not please.  You shall not go.  What have I done, Mary?  Tell me.  You must not go without telling me how I have vexed you.  What would you have me do?"</p>
+	<p>"Nothing, sir, but" (in an agitated tone), "oh! let me go!  You cannot change my mind; it's quite made up.  Oh, sir! why do you hold me so tight?  If you <hi rend="italic">will</hi> know why I won't have anything more to do with you, it is that I cannot love you.  I have tried, and I really cannot."</p>
+	<p>This na&#239;ve and candid avowal served her but little.  he could not understand how it could be true.  Some reason lurked behind.  He was passionately in love.  What should he do to tempt her?  A thought struck him.</p>
+	<p>"Listen! Mary.  Nay, I cannot let you go till you have heard me.  I do love you dearly; and I won't believe but what you love me a very little, just a very little.  Well, if you don't like to own it, never mind!  I only want now to tell you how much I love you, by what I am ready to give up for you.  You know (or perhaps you are not fully aware) how little my father and mother would like me to marry you.  So angry would they be, and so much ridicule should I have to brave, that of course I have never thought of it till now.  I thought we could be happy enough without marriage."  (Deep sank those words into Mary's heart.)  "But now, if you like, I'll get a licence tomorrow morning&#8212;nay, tonight, and I'll marry you in defiance of all the world, rather than give you up.  In a year or two my father will forgive me, and meanwhile you shall have every luxury money can purchase, and every charm that love can devise to make your life happy.  After all, my mother was but a factory girl."  (This was said to himself, as if to reconcile himself to this bold step.)  "Now, Mary, you see how willing I am to&#8212;to sacrifice a good deal for you; I even offer you marriage, to satisfy your little ambitious heart; so now, won't you say, you can love me a little, little bit?"</p>
+	<p>He pulled her towards him.  To his surprise, she still resisted.  Yes! though all she had pictred to herself for so many months in being the wife of Mr. Carson was now within her grasp, she resisted.  His speech had given her but one feeling, that of exceeding great relief.  For she had dreaded, now she knew what true love was, to think of the attachment she might have created; the deep feeling her flirting conduct might have called out.  She had loaded herself with reproaches for the misery she might have caused.  It was a relief to gather that the attachment was of that low despicable kind which can plan to seduce the object of its affection; that the feeling she had caused was shallow enough, for it only pretended to embrace self, at the expense of misery, the ruin, of one falsely termed beloved.  She need not be penitent to such a plotter! that was the relief.</p>
+	<p>"I am obliged to you, sir, for telling me what you have.  You may think I am a fool; but I did think you meant to marry me all along; and yet, thinking so, I felt I could not love you.  Still I felt sorry I had gone so far in keeping company with you.  Now, sir, I tell you, if I had loved you before, I don't think I should have loved you now you have told me you meant to ruin me; for that's the plain English of not meaning to marry me till just this minute.  I said I was sorry, and humbly begged your pardon; that was before I knew what you were.  Now I scorn you, sir, for plotting to ruin a poor girl.  Good-night."</p>
+	<p>And with a wrench, for which she had reserved all her strength, she flew off like a bolt.  They heard her flying footsteps echo down the quiet street.  The next sound was Sally's laugh, which grated on Mr. Carson's ears, and keenly irritated him.</p>
+	
+
+<div1 type="file references">
+	<list>
+		<item>
+		<xptr n="ls.00193" type="same novel"/>	      
+				
+		</item>
+		</list>
+
+        
+         </div1>
+      </body>
+   </text>
+</TEI.2>

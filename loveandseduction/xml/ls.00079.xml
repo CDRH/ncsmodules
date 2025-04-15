@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00079">
+   <teiHeader>
+
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Sex Scandal: The Private Parts of Victorian Fiction</hi>
+</title>
+		<title level="c" type="chapter">Chapter 1, "Sex, Scandal, and the Novel"</title>
+		<date type="original" value="1996">1996</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Cohen">William A. Cohen
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00079</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 2-3, 6-7, 16-19 of <hi rend="italic">Sex Scandal: The Private Parts of Victorian Fiction</hi>.  Published by Duke University Press, 1996.
+. -->
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+
+<bibl>
+               <title level="a">Chapter 1, "Sex, Scandal, and the Novel"</title>
+               <title level="m"><hi rend="italic">Sex Scandal: The Private Parts of Victorian Fiction</hi>
+</title>
+               <author>William A. Cohen</author>
+               <imprint>
+                  <publisher>
+Duke University Press
+
+</publisher>
+                  <pubPlace>
+Durham and London
+
+</pubPlace>
+               </imprint>
+               <date>
+1996
+
+</date>
+               <idno type="ISBN">
+0822319563
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="commentary" type="media">commentary</term>
+<term id="seduction" type="theme">seduction</term>
+<term id="courtship" type="theme">courtship</term>
+<term id="fictioninpress">fiction in press</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-18">18 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+
+<change>
+            <date value="2005-03-022">22 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+                     <head>1. </head><p>
+"Sexual unspeakability does not function simply as
+a collection of prohibitions in Victorian writers. Rather, it affords them
+abundant opportunities to develop elaborate discourse&#8212;richly ambiguous,
+subtly coded, prolix and polyvalent&#8212;that we now recognize and designate by
+the very term <hi rend="italic">literary. </hi>Like other restrictions upon expression, the
+conventions of sexual unspeakability serve writers as a productive constraint,
+contributing to a certain historical formation of the literary. Literature in
+turn supplies a culturally privileged repository for the production, and
+recognition, of sexuality as unspeakable" (3).</p></div>
+<div>
+        
+            <head>2. </head><p>
+"In the Victorian period, scandals of all sorts
+proliferated in the popular press. In part as a result of the repeal of the
+stamp tax in 1855 and the paper duty in 1860, the number of newspapers in Great Britain multiplied, and they became cheaper, more widely available, and more national
+in scope. This burgeoning medium generated stories for popular consumption on
+a scale that had not been possible before, and the character of both newspapers
+and news itself changed significantly. The papers' greater availability,
+coupled with increasing literacy, made scandals publicly accessible in new
+ways" (6).</p></div>
+
+      <div>
+            <head>3. </head><p>
+"I suggest that scandal assumes its modern form
+only once several conditions are met: that news media are national and
+accessible; that they distance the subjects of their stories from their
+audience enough to effect a divide between the exposed private life and the anonymous
+public reading about it; and that the audience itself is conceived in terms
+sufficiently capacious to encompass a wide range of class, gender, and
+geographical positions" (6-7).</p></div>
+<div>
+        
+            <head>4. </head><p>
+"While it ought to be obvious, it has not been
+remarked that scandal, often sex scandal, structures the usual plot of the
+realist novel in the Victorian period. The typical story of the Victorian
+novel involves the loss and eventual recovery of a fortune, benefactor, parent,
+child, sibling, or spouse. The course of recovery necessitates disclosure of a
+secret, which has been hidden because it is in some way immoral or illegal;
+most often, it involves adultery or illegitimacy. The plot of the novel
+unfolds by threatening and finally effecting the exposure of this secret to the
+community, and once this revelation has occurred, the goods (property, family)
+are redistributed, now more justly, among those who survive. The novelistic
+plot, distilled in this way, is analogous to the form of the scandal" (16-17).</p></div>
+<div>
+         
+            <head>5. </head><p>
+"The connections between novels and newspaper
+scandal stories are not only structural, though; they arise from the deeply
+intertwined histories of the two forms, as the work of recent literary critics
+has made clear. Scandal and the novel derive, according to these accounts,
+from a common ancestor, and the history of the novel has involved a series of
+efforts actively to dissociate itself from the taint of scandal" (18).</p></div>
+<div>
+         
+            <head>6. </head><p>
+"The scandal plot is so persistent, I suggest,
+because it provides a way of working out the novel's own double duty: the duty
+of telling stories composed centrally of incidents from private life and,
+simultaneously, of using these stories to teach widely applicable public
+lessons. Scandal motivates a type of moral pedagogy in the novel, generating
+exemplary narratives that both school readers in acceptable behavior and enable
+them to experience vicariously the violation of norms. Novels toe the orthodox
+line in castigating sexual transgression by the same means that they occasion
+its pleasurable consumption. Through the critique of scandal's procedures in
+which they frequently engage, moreover, literary works provide readers the
+thrill of following scandal while exempting them from the discomfort of being
+scandalized" (19).</p></div>
+
+      </body>
+   </text>
+</TEI.2>

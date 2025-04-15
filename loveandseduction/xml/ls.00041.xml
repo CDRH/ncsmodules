@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00041">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">William Holman Hunt and Typological Symbolism</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name="Landow">George Landow</author>
+<date type="original" value="1979">1979</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00041</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 46-54 of George P. Landow's <hi rend="italic">William Holman Hunt and Typological Symbolism</hi>, Yale University Press, 1979.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">To Elevate Materialism:  Hunt's Search for a New Iconography</title>
+               <title level="m"><hi rend="italic">William Holman Hunt and Typological Symbolism</hi></title>
+               <author>George P. Landow</author>
+               <imprint>
+                  <publisher>
+Yale University Press
+</publisher>
+                  <pubPlace>
+New Haven
+</pubPlace>
+               </imprint>
+               <date>
+1979
+
+</date>
+               <idno type="ISBN">
+0300021968
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+						<term id="prostitution" type="theme">prostitution</term>
+			<term id="parlor" type="setting">parlor</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="piano" type="setting">piano</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                  <p>Tennyson's....'The Palace of
+Art', relates how an individual 'soul' selfishly withdraws from the
+responsibilities of life in the manner of Huysmans's Des Esseintes. The poet
+constructs a series of chambers, each of which represents a state of mind or
+thought, and the reader is led through them until, finally, he perceives that a
+Palace of Art will not suffice: succumbing to the pains of isolation,
+Tennyson's allegorical protagonist suffers what is essentially a nervous
+breakdown, and this psychological trauma precipitates her realization that she
+must leave the confines of this enclosing artifice and live a humbler life&#8212;until such time as she can lead others back to join her in the pleasures of
+art. Tennyson's poem, is particularly interesting to compare to <hi rend="italic">
+The
+Awakening Conscience, 
+</hi>because although he cast his poem in the
+form of an allegory, he chose to detail the psychological causes and mechanism
+of the soul's conversion. We have no external evidence that Hunt drew upon 'The
+Palace of Art', but F. G. Stephens quotes the following lines from the poem when
+trying to convey the experience of the woman in <hi rend="italic">
+The
+Awakening Conscience:
+</hi>
+         </p>
+
+         <lg type="poem">
+<l>...in dark corners of her palace stood </l>
+<l>Uncertain shapes; and unawares</l>
+<l>On white-eyed phantasms weeping tears of blood, </l>
+<l>And horrible night-mares,</l>
+<l>And hollow shades enclosing hearts of flame, </l>
+<l>And, with dim fretted foreheads all,</l>
+<l>On corpses three-months-old at noon she came, </l>
+<l>That stood against the wall.</l>
+</lg>
+         <p>These horrific lines, one
+should point out, only convey the soul's recognition of sin and isolation, and they
+do not fully represent Tennyson's method of portraying spiritual illumination.
+Since we have no evidence from the painter himself that he consciously drew
+upon this poem, we can conclude only that he might have had it in mind.
+Stephens nonetheless helpfully reminds us that when Hunt came to paint a
+realistic companion piece to <hi rend="italic">
+The Light of the World, 
+</hi>he,
+like Tennyson, emphasized the psychological experience of illumination.</p>
+
+         <p>But whatever the painting's complex origins in Dickens, Tennyson, and
+Hunt's own readings in the Bible, its subject, tone, and method remain largely
+Hogarthian. The degree to which he had his eighteenth-century predecessor in
+mind when considering such subjects appears with clarity in his <hi rend="italic">
+Reader
+
+</hi>essay on Augustus Egg. He devotes particular attention to
+Egg's tripartite work now known as <hi rend="italic">
+Past and Present</hi>,
+which Hunt insists should be called <hi rend="italic">
+The Adulteress, 
+</hi>and
+in defending his friend's work he frequently sounds as if he were defending <hi rend="italic">
+The
+Awakening Conscience 
+</hi>as well. Pointing out that 'it is the fashion ... to
+denounce all morals that are severe, particularly on this subject', Hunt claims
+that Egg nonetheless 'determined to make a sacrifice of popularity for the
+principle that he felt it might illustrate'. Hunt's only regret was that Egg
+had not in the manner of Hogarth made a longer, and hence clearer narrative
+series. Because 'it is by no means a matter of course that when a woman sins
+she should die in misery,' he would like the audience to perceive the mechanism
+of her fall depicted more fully. 'Hogarth left no gap in his histories. Egg
+leaves us to wonder whether the erring wife was more overcome by her conscience
+... or was more imprudent than those who in daily life gather honours and
+worship by their wickedness.' He concludes that whatever the shortcomings of
+Egg's paintings, they were 'free from the false sentimentality' of many novels
+which dwell upon such vice with prurient delight. Now that the story of Hunt's
+relationship with Annie Miller is known, it seems quite possible that he was
+casting a sideways glance at the woman he once wanted to marry&#8212;
+and who
+apparently had profited from her 'wickedness'. Perhaps more important to our
+understanding of <hi rend="italic">
+The Awakening Conscience 
+</hi>(for
+which, incidentally, Annie had originally modelled) is the likelihood that Hunt
+believed it a better, more Hogarthian manner of approaching this kind of moral
+subject. For although he was not engaged to paint a series detailing the
+harlot's progress, he concentrated upon the crucial moment in the woman's
+history. Unlike the fifth plate of Hogarth's <hi rend="italic">
+Marriage &#225; 
+la Mode</hi>, <hi rend="italic">The Awakening Conscience 
+</hi>
+does not require a murder for the woman to achieve
+self-recognition, but, like the earlier work, it is the lover who
+unintentionally brings about this change in her. Furthermore, Hunt's
+willingness to dwell upon the seducer, whom Stephens described as 'a showy, handsome
+tiger of the human species', may also be seen as another
+Hogarthian point he found lacking in Egg. While writing about Egg's two
+paintings on the life and death of Buckingham, he pointed out that 'admirable'
+as the pictures were, they suffer from the fact that 'the mind of the painter
+was too fastidious&#8212;too respectable to do justice to the depravity of the
+orgie&#8212;it would have required a Hogarth to do this.' The result, argues Hunt,
+was that rather than creating an image of vice, Egg has presented us with 'a
+company of merry people, well dressed, well conducted, and, for all one could
+see, as virtuous as any of us who eat cakes and ale.' Although Hunt
+himself was not interested in duplicating the orgies of the third and sixth
+plates of 
+<hi rend="italic">
+The Rake's Progress, 
+</hi>
+he did follow Hogarth in his attempt to depict the
+vices of his seducer.</p>
+
+         <p>The
+strong anti-aristocratic bias of <hi rend="italic">
+The Awakening Conscience</hi> is also
+Hogarthian, and it is here that we can observe one of the strongest influences
+of <hi rend="italic">
+The Rake's 
+</hi>and <hi rend="italic">
+Harlot's
+Progresses 
+</hi>upon Hunt. According to Stephens, the painting represents
+'the interior of one of those <hi rend="italic">
+maisons damn&#233;es 
+</hi>which
+the wealth of the seducer has furnished for the luxury of a woman who has sold
+herself and her soul to him,' and he emphasizes that 'one of his patrician arms
+surrounds the victim of his passions.' Stephens
+places enough importance on the
+political implications of 
+<hi rend="italic">
+The
+Awakening Conscience 
+</hi>
+that it seems
+reasonable to assume he is directly echoing Hunt's ideas: it is the 'wealth' of
+a 'patrician' which makes the woman a 'victim'.
+</p>
+
+         <p>Far more central to Hunt's symbolism than these similar
+attitudes towards art and morality is the fact that he employs an entire range
+of Hogarthian devices to convey meaning. Like Hogarth, he relies upon inscriptions,
+scriptural texts, and other incorporations of language within and without the
+design. When <hi rend="italic">
+The Awakening Conscience 
+</hi>was
+first exhibited at the 1854 Royal Academy, Hunt accompanied it in the catalogue
+with two scriptural texts. The first, from the Apocryphal Ecclesiasticus 14:18,
+can be taken to mean that human beings, like all living things, have differing
+fates, and can live or die spiritually as well as physically: 'As of the green
+leaves on a thick tree, some fall and some grow; so is the generation of flesh
+and blood .' The first gloss thus prepares the spectator for the
+painting's subject, a turning point in the woman's spiritual life. The second,
+which Hunt took from Isaiah, bears more directly upon the woman's confrontation
+with herself and Christ: 'Strengthen ye the feeble hands, and confirm ye the
+tottering knees; say ye to the faint hearted: Be ye strong; fear ye not; behold
+your God.' Addressing both the woman in the painting and the spectator, Hunt
+simultaneously offers her courage and requests the sympathy of his audience for
+her&#8212;and for those like her whom the spectator might encounter in real life.
+On the frame Hunt placed a motto from Proverbs which functions rather
+differently: 'As he who taketh away a garment in cold weather, so is he who
+singeth songs unto a heavy heart. These words comment not upon the woman, but
+upon her unfeeling seducer, who remains unaware how his words have oppressed
+her conscience and yet done her good. Furthermore, as Stephens reminds us, the
+emblems placed upon the frame also serve to prepare the spectator for what lies
+within its bounds. The ringing bells and marigolds are, respectively, 'the
+emblems of warning and sorrow'&#8212;emblems which, again, apply to both the woman
+represented and the spectator alike&#8212;while at the top of the frame 'is set a
+star,' which we may assume stands for Christ or truth.</p>
+
+         <p>Furthermore, in his attempt to make all the details of
+this picture assist in conveying his tale of great spiritual change, Hunt,
+again following Hogarth, has included paintings which echo or comment upon the
+main theme. As Stephens points out, 'The very decorations on the wall are
+significant, and might have suggested repentance before. They bear a vineyard,
+in which corn is mingled with the vine; birds destroy the grapes of the latter,
+while at the foot sleeps a boy-guardian, whose horn, fallen from his hand,
+indicates neglected duty.' In addition to this tapestry, which obviously
+echoes <hi rend="italic">
+The Hireling Shepherd, 
+</hi>Hunt also included a
+painting over the fire-place which, as Ruskin points out, depicts a 'single
+drooping figure&#8212;the woman taken in adultery.' In making use of these
+Hogarthian touches, Hunt, one may note, has slightly sacrificed his realistic
+intention to reinforce his meaning: it is unlikely, certainly, for the kept
+woman to have hung such a painting above her mantel or to have taken much
+solace in it&#8212;unless it were from the fact that Christ forgives all and warns
+none of us to cast the first stone. Such an ingenious explanation, however,
+seems beyond the capacity of Hunt's intended heroine, and the picture on the
+mantel has an element of obvious artificiality which Hunt does not later
+employ.</p>
+
+         <p>Unlike
+the picture and the tapestry, the cat which, unnoticed by either figure, is
+toying with a helpless bird, functions in a more natural, if no less Hogarthian
+manner. As Stephens suggests, the image of the 'false, pitiless, and cruel' seducer
+is the cat, 'which, having brought a living bird into the room, grants short
+respite to it, because the singing has disturbed her purpose of destruction.'
+This rather blatant symbol of the man also serves to suggest how harsh will be
+the young woman's fate, how painful her return to virtue. [John Duncan]Macmillan has
+proposed that Hunt drew upon Hogarth's <hi rend="italic">
+The Lady's Last Stake 
+</hi>for <hi rend="italic">
+The
+Awakening Conscience</hi>, but Durer's engraving of the <hi rend="italic">
+Young
+Woman Attacked by Death (The Ravisher)
+</hi>is an even
+more likely source: not only is the disposition of the two figures much closer,
+but the main theme of <hi rend="italic">
+The Awakening Conscience 
+</hi>appears
+in Durer's engraving, for in Hunt's view the seducer is an embodiment of death
+from whose arms she must struggle to reach Christ and new life.</p>
+
+         <p>Finally,
+as both Ruskin and Stephens point out, the room's gaudy, vulgar furnishings
+serve not only to indicate the woman's present position in society but also the
+moral and aesthetic values of both seducer and seduced. When this young woman
+flees her enclosing room, she will be leaving not a Palace of Art but one of vulgarity. We perceive how false have been the values by which she has lived
+until now. Looking at this room from the perspective of aesthetic and political
+statements Hunt made elsewhere, we perceive an indictment of the upper classes
+who have used their wealth to create precisely this kind of heartless surroundings
+for their victims. Thus, like Ruskin's <hi rend="italic">
+Stones of Venice 
+</hi>and 'Traffic', <hi rend="italic">
+The Awakening Conscience 
+</hi>claims
+that taste speaks to the entire human being, and that therefore the moral
+nature of a man, class, and society appear in the arts they choose. Hunt, who
+frequently accused the rich of encouraging only the worst in art and general
+taste, concluded his memoir with the affirmation that 'the purpose of art is,
+in love of guileless beauty, to lead man to distinguish between that which,
+being clean in spirit, is productive of virtue, and that which is flaunting and
+meretricious and productive of ruin
+to a Nation.' Here in this early work he is using, not love of beauty,
+but the satirist's devices to enable his audience to discern what is clean in
+spirit.</p>
+
+         <p>I
+would therefore argue that Macmillan is incorrect in denying that Hunt was ever
+a satirist. According to him, the chief importance of Hogarth to Hunt was in
+the use of modern moral subjects, and the Pre-Raphaelite never shared his
+predecessor's satiric emphasis:</p>
+
+         <q rend="block">The
+difference between Hunt and Hogarth is that the former sought to be effective
+not through satire and through irony, but through exhortation and demonstration
+of what seemed to him the fundamental truths. Unlike Hogarth's works, his
+pictures are not aimed at particular aspects of social behavior, but instead
+make general moral propositions. This is why the <hi rend="italic">
+Awakening
+Conscience</hi>...is as much a metaphor of a universal spiritual risk as a
+particular tract for the redemption of fallen women. It is more a religious
+picture than a piece of social commentary.</q>
+
+         <p>No
+one would deny that <hi rend="italic">
+The Awakening Conscience</hi> is more
+a religious painting than one concerned primarily with social commentary,
+satiric or otherwise; but for Hunt the two intentions are not necessarily
+opposed. Certainly, the powerful satiric analogies present in <hi rend="italic">
+The
+Hireling Shepherd 
+</hi>and <hi rend="italic">
+Our English Coasts 
+</hi>show
+Hunt making use of irony, while the more detailed satire of <hi rend="italic">
+The
+Awakening Conscience 
+</hi>serves both political and social commentary. True, in each
+picture satire is only part of Hunt's complex intention, and in that part
+he turned to Hogarth for instruction. Hunt's friends also saw him as
+occasionally playing the role of the satirist. While he was at work on <hi rend="italic">
+The
+Shadow of Death 
+</hi>his friend Tupper wrote describing some 'palpable
+Pecksniff,' and urged him: 'Come here quickly and paint some pictures in the
+modern vein like "The Awakening Conscience" &#8212;something&#8212;anything by
+way of a looking glass for these times.' But once Hunt found his major
+interest in scriptural subjects, he did not take time to hold the satirist's
+mirror up to his society, and when he did paint another work with satiric
+elements its subject was taken from the Middle East.</p>
+
+<div1 type="file references">
+            <list>            
+               <item>
+                  <xptr n="ls.00100" type="image on commentary"/>
+               </item>
+               <item>
+                  <xptr n="ls.00102" type="image on commentary"/>
+               </item>
+               <item>
+                  <xptr n="ls.00103" type="image on commentary"/>
+               </item>
+               <item>
+                  <xptr n="ls.00104" type="image on commentary"/>
+               </item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

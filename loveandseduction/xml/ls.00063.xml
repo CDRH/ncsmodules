@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00063">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Reverend Beecher and Mrs. Tilton:  Sex and Class in Victorian America</hi>
+		<title level="c" type="chapter">from Chapter One, "The Brooklyn Scandal"</title>
+		<date type="original" value="1982">1982</date>
+
+
+</title>
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Waller">Altina Waller</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00063</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 7-12 of Altina Waller's <hi rend="italic">Reverend Beecher and Mrs. Tilton:  Sex and Class in Victorian America</hi>.  Published by the University of Massachusetts Press, 1982.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">The Brooklyn Scandal</title>
+               <title level="m"><hi rend="italic">Reverend Beecher and Mrs. Tilton:  Sex and Class in Victorian America</hi></title>
+               <author>Altina Waller</author>
+               <imprint>
+                  <publisher>
+University of Massachusetts Press
+</publisher>
+                  <pubPlace>
+Amherst
+
+</pubPlace>
+               </imprint>
+               <date>
+1982
+</date>
+               <idno type="ISBN">
+0870233564
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="american" type="place">American</term>
+               <term id="commentary" type="media">commentary</term>
+						<term id="adultery" type="theme">adultery</term>
+			<term id="seduction" type="theme">seduction</term>
+			<term id="popularpress" type="theme">popular press</term>
+			<term id="beechertilton">Beecher-Tilton</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-04-13">13 April 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <p>Theodore
+Tilton and Henry Ward Beecher had first become friends when they worked
+together on the popular religious journal, the <hi rend="italic">
+Independent.</hi> The minister, along with others in Plymouth Church, had been instrumental in obtaining a position for Tilton on the paper, later promoting
+him to editor. Tilton, twenty-two years younger than Beecher, regarded the
+minister as a father figure. Anxious that Beecher's friendship include his wife
+and children, he repeatedly urged the preacher to visit his home. These
+invitations were ignored until 1866 when Tilton began a series of lecture tours
+that kept him away from Brooklyn three or four months every year.</p>
+
+
+         <p>During
+these absences, Beecher began calling upon Mrs. Tilton every week&#8212;indeed, he
+became almost a part of the household, reading the children stories and putting
+them to bed. Elizabeth Tilton, flattered by attention from this
+"great man," described these visits in letters to her husband.
+Despite her openness, however, Tilton's suspicions were aroused. He vacillated,
+however, between feeling flattered and, increasingly, jealous. Significantly,
+Tilton was not alone in his suspicions, for many Plymouth Church parishioners,
+who were neighbors of the Tiltons, had noticed the frequent visits. Beecher had a reputation as a nonvisiting minister; he made no secret of his aversion to
+this particular pastoral duty. Mrs. Tilton was a notable exception.</p>
+
+
+         <p>Whatever rumors
+may have circulated, nothing was said openly for four years after the visits
+began. From 1866 on, however, it was clear
+that the Tiltons experienced marital difficulties, while the discord between
+Henry Ward Beecher and his wife Eunice was common knowledge. Rumors surfaced
+that Beecher had sought sympathy and sexual solace from other female members of
+his congregation. Despite the gossip, however, the Tiltons continued their
+friendship with the minister. Elizabeth Tilton even suggested to her husband
+that the two of them&#8212;with "pure" friendship&#8212;might cure Beecher of some of the "delusions" he had about himself. </p>
+
+
+         <p>Apparently,
+the Tiltons were more deluded than Beecher, for on October 10, 1868, the pastor probably succeeded in seducing Elizabeth. She told her husband later that she had "surrendered" only after
+"long moral resistance... and ... repeated assaults... upon her mind with
+overmastering arguments." She had weakened only because of her
+"tender state of mind" and her need of consolation following the
+death of her infant child. Beecher's arguments that "pure affection and a
+high religious love" justified their sexual union were indeed "overmastering."
+They convinced Elizabeth that, despite the affair, she remained "spotless
+and chaste." But her contention that "pure" love should be
+honest and open, and that she should therefore inform her husband of their
+relationship, was vehemently resisted by Beecher. He insisted, she said, that
+the vulgar world would not understand such purity; they must practice
+"nest-hiding." Keeping their love a secret was necessary to preserve
+its integrity.</p>
+
+
+         <p>On
+July 3, 1870, Elizabeth
+finally did confess to her husband. Clearly, however, she intended the
+revelation only for Theodore&#8212;it was not a public statement. At the time of
+her confession, Theodore offered to keep her secret and help heal her
+"wounded spirit." Despite intentions of secrecy, however, the scandal
+almost became public the following December when Tilton quarreled with his
+employer and fellow Plymouth Church member, Henry C. Bowen. Bowen as publisher
+and Tilton as editor of the <hi rend="italic">
+Brooklyn Union</hi> had come to disagree on the paper's editorial policy
+toward Plymouth Church. In the heat of the dispute, Tilton revealed to Bowen
+his wife's adultery with Beecher. The impact of this information on Bowen was
+startling. He already harbored numerous grievances against the minister, one &#8212; possibly
+&#8212;for the seduction of his own wife Lucy eight years before. Bowen himself had
+been the source of the earlier rumors about Beecher. This evidence of another Beecher adultery offered Bowen the opportunity for revenge. He urged Tilton to demand the
+minister's resignation. Caught off guard by this turn of events, Tilton wrote
+such a letter but then confided to his long-time friend Frank Moulton what had
+occurred. Moulton, suspicious of Bowen's motives, urged Tilton to destroy the
+letter, but it was too late; it had been delivered by Bowen himself. Beecher as
+well as Tilton, badly shaken by the possibility of public exposure, now
+welcomed Moulton's offer to "manage" the affair. Thus began a
+four-year attempt to cover up the scandal. The "mutual friend," as
+Moulton later became known, planned the cover-up strategy&#8212;suddenly becoming an
+important figure in the lives of both men.</p>
+
+
+         <p>Moulton, in
+fact, accompanied the preacher as he confronted Elizabeth Tilton. It was the
+first time they had seen each other since Beecher's discovery of her
+confession. During that encounter, the minister persuaded Elizabeth&#8212;who was
+recovering from a miscarriage&#8212;to write a retraction of the confession; he
+even dictated its contents. Tilton, upon discovering this maneuver on Beecher's part, insisted that his wife write yet another letter, this time denying her
+retraction and indicating that Beecher had dictated it. She abjectly agreed.</p>
+
+
+         <p>The next day, in
+one of the more dramatic episodes of the case, Moulton called on Beecher, took a pistol from his coat, and chided the minister for obtaining from Mrs.
+Tilton a letter which he "knew to be a lie." Some accounts claim that
+it was common for those who had business along Brooklyn's waterfront to carry
+pistols, although others insisted that Moulton was deliberately threatening Beecher. Significantly, the preacher surrendered the retraction to Moulton amidst
+"great sorrow and weeping" and protestations that the "sexual
+expression" of his love for Elizabeth Tilton was as natural as its
+"verbal expression."</p>
+
+
+         <p>For
+a time, Moulton was extremely effective in concealing the scandal and
+persuading Tilton and Beecher to resume their friendship. Because Henry Bowen
+had fired Tilton, Moulton and his business partners, with financial help from Beecher, backed a new weekly paper, the <hi rend="italic">Golden Age</hi>, with Tilton as editor. Moulton
+also sent off to boarding school a young girl who had been living with the
+Tiltons and who knew of Beecher's affair with Mrs. Tilton. He even persuaded Beecher to pay the girl's expenses.</p>
+
+
+         <p>Moulton might have
+congratulated himself on his astute handling of the scandal
+if Woodhull, through her connections with Susan Anthony and Elizabeth Cady
+Stanton, had not heard rumors of the affair. In the spring of 1871 came the
+first hints that she knew of the scandal&#8212;causing Moulton, Beecher, and Tilton
+to begin frantically, and somewhat comically, conspiring to keep her quiet. The
+three conceived a plan whereby Tilton would placate Woodhull by putting her
+under "social obligation" to them. He accomplished this by flattering
+her and offering to compose an admiring biography. (Woodhull later claimed that
+he had also become her lover for more than six months.) The appeasement policy
+succeeded for a year, until 1872, when Woodhull, angered by the attacks upon
+her by Beecher's sisters, Catherine and Harriet, published her story.</p>
+
+
+         <p>This
+time, despite Moulton's frantic schemes to avoid it, the scandal erupted. One
+after another of the incriminating letters and documents was published in the
+papers&#8212;but it was still a full year and a half before any formal action was
+taken. Curiously, it was Tilton who was first attacked for his part in
+the scandal. In 1873, Plymouth Church dismissed him from membership, citing his
+"slander" of the minister and association with Woodhull. Even then,
+however, Tilton's commitment to silence was unshaken. Had it not been for a
+Brooklyn Congregational Council's demands for an investigation, the affair
+might once again have faded from public notice. The council had no real power,
+but it inspired a series of articles in the <hi rend="italic">Independent </hi>by a Yale
+divinity professor&#8212;a friend of Beecher's&#8212;who referred to Tilton as a
+"knave" and a "dog." Tilton could not stand this
+public degradation; in June 1874, he responded with a long reply, which he sent
+to the major New York and Brooklyn newspapers, stating his version of the case
+and voicing his refusal "to sacrifice my good name for the sake of his."</p>
+
+
+         <p>By
+July 1874, public outcry was so great that Beecher abandoned the policy of
+silence. Taking the offensive, he appointed a Church Investigating Committee
+(which consisted of six of his closest friends) to hear the charges. During
+August the committee took testimony which the newspapers published verbatim. A
+fascinated public hung on every word. Elizabeth Tilton, determined to defend Beecher, appeared the day after leaving her husband, revealing with touching pathos a sad
+tale of "domestic unhappiness," but denying the adultery. Tilton, now
+joined by Moulton in an effort to expose Beecher, presented a mass of
+documentation&#8212;including Beecher's own letters&#8212;which constituted almost
+irrefutable evidence. But, not surprisingly, the committee issued a report
+completely exonerating Beecher. "The evidence," stated the
+Investigating Committee, established "to the perfect satisfaction of his
+church" Beecher's "entire innocence and absolute personal
+integrity." Because of their pastor's "unmerited sufferings,"
+the committee members reiterated that they now felt a "sympathy more
+tender and a trust more unbounded" than ever before. When Moulton
+protested the report at a full church meeting, he was threatened with violence
+and the police were called to "escort" him from the hall. </p>
+
+
+         <p>Tilton,
+angered by Beecher's private system of justice and smarting under the sharp
+insulting rebuke of the committee, filed criminal charges against the minister.
+The ensuing trial was the greatest national spectacle of the 1870s. For six
+months&#8212;from January to June 1875&#8212;the most renowned lawyers in the country
+dedicated their talents to the case. Opening and closing statements alone took
+two months; opera glasses were sold in the courtroom and bouquets of flowers
+were showered on Beecher and Tilton. The trial became known as the "flower
+war." In the end, the jury could not agree and Beecher was acquitted. His
+congregation staged a huge celebration, voting to raise his salary by $100,000
+in order to pay the lawyers. It was all a magnificent vote of confidence which
+demonstrated the overwhelming devotion of Beecher's congregation.</p>
+
+
+         <p>Because
+the result of the trial was equivocal, Plymouth Church sought to make the
+verdict conclusive by calling a second church council in 1876. In that council,
+Henry C. Bowen, for the first time, came forward, testifying that he knew Beecher to be a "libertine and a seducer." Nevertheless, the council&#8212;which
+consisted of churches carefully chosen because of their sympathy with Beecher&#8212;followed the lead of Plymouth in completely exonerating Beecher. Bowen, Emma
+Moulton, and others who had testified against the minister were promptly excommunicated.
+The purge was completed in the spring of 1878 when Elizabeth Tilton, in a
+startling reversal of the stand she had taken all through the trial, made a
+public confession of the adultery and was also excommunicated.</p>
+
+
+         <p>The
+members of Plymouth Church were both numerous and powerful in Brooklyn and New York and their revenge against the Tiltons was complete. Ostracized by Plymouth Church, Elizabeth Tilton died in 1897, lonely and blind, at the home of her daughter
+in Brooklyn. The influence of Beecher's wealthy parishioners in journalistic
+circles prevented Theodore Tilton from earning a livelihood and he fled to Paris where he lived in poverty, writing poetry, and playing chess.</p>
+
+
+         <p>Beecher,
+despite his continued popularity in Plymouth Church and as a lecturer, did
+suffer from the scandal. The religious newspaper he edited, the <hi rend="italic">Christian
+Union, </hi>lost a significant number of subscribers and the publishing firm
+that depended for most of its profit on the sale of Beecher's books went
+bankrupt. Though respected and popular until his death in 1887, Beecher never again enjoyed the same universal reverence of the prescandal days.</p>
+
+         <div1 type="file references">
+            <list>
+			<item><xptr n="ls.00003" type="same subject"/></item>
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+	
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00033" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

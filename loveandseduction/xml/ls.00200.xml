@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00200">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Elective Affinities</hi></title>
+
+<title level="c" type="chapter">Chapter XII</title>
+<author name="Goethe">Johann Wolfgang von Goethe</author>
+<date type="original" value="1819">1819</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00200</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the 1919 G. Bell and Sons edition of Goethe's <hi rend="italic">Novels and Tales</hi>.  Translated from the German by James Anthony Froude and R. Dillon Boylan.  <hi rend="italic">Elective Affinities</hi> originally appeared in 1819.    
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XII</title>
+               <title level="m"><hi rend="italic">Elective Affinities</hi></title>
+               <author>Johann Wolfgang von Goethe</author>
+               <imprint>
+                  <publisher>
+G. Bell and Sons
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1919
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="parlor" type="setting">parlor</term>
+               <term id="wild" type="setting">wild</term>
+			<term id="class" type="theme">class</term>
+			<term id="adultery" type="theme">adultery</term>
+			<term id="german" type="place">German</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>Scene One:  Adulterous declarations of affection on a boat and in the parlor</head>
+	<p>When the party assembled again at breakfast, an attentive observer might have read in the behaviour of its various members the different things which were passing in their inner thoughts and feelings.  The Count and the Baroness met with the air of happiness which a pair of lovers feel, who, after having been forced to endure a long separation, have mutually assured each other of their unaltered affection.  On the other hand, Charlotte and Edward equally came into the presence of the Captain and Ottilie with a sense of shame and remorse. For such is the nature of love that it believes in no rights except its own, and all other rights vanish away before it.  Ottilie was in child-like spirits.  For her&#8212;she was almost what might be called open.  The Captain appeared serious.  His conversation with the Count, which had roused in him feelings that for some time past had been at rest and dormant, had made him only too keenly conscious that here he was not fulfilling his work, and at bottom was but squandering himself in a half-activity of idleness.</p>
+	<p>Hardly had their guests departed, when fresh visitors were announced&#8212;to Charlotte most welcomely, all she wished for being to be taken out of herself, and to have her attention dissipated.  They annoyed Edward, who was longing to devote himself to Ottilie; and Ottilie did not like them either; the copy which had to be finished the next morning early being still incomplete.  They staid a long time, and immediately that they were gone she hurried off to her room.</p>
+	<p>It was now evening.  Edward, Charlotte, and the Captain had accompanied the strangers some little way on foot, before the latter got into their carriage, and previous to returning home they agreed to take a walk along the water-side.</p>
+	<p>A boat had come, which Edward had had fetched from a distance, at no little expense; and they decided that they would try whether it was easy to manage.  It was made fast on the bank of the middle pond, not far from some old ash trees, on which they calculated to make an effect in their future improvements.  There was to be a landing-place made there, and under the trees a seat was to be raised, with some wounderful architecture about it:  it was to be the point for which people were to make when they went across the water.</p>
+	<p>"And where had we better have the landing-place on the other side?" said Edward.  "I should think under my plane trees."</p>
+	<p>"They stand a little too far to the right," said the Captain.  "You are nearer the castle if you land further down.  However, we must think about it."</p>
+	<p>The Captain was already standing in the stern of the boat, and had taken up an oar.  Charlotte got in, and Edward with her&#8212;he took the other oar; but as he was on the point of pushing off, he thought of Ottilie&#8212;he recollected that this water-party would keep him out late; who could tell when he would get back?  He made up his mind shortly and promptly; sprang back to the bank, and reaching the other oar to the Captain, hurried home&#8212;making excuses to himself as he ran.</p>
+	<p>Arriving there he learnt that Ottilie had shut herself up&#8212;she was writing.  In spite of the agreeable feeling that she was doing something for him, it was the keenest mortification to him not to be able to see her.  His impatience increased every moment.  He walked up and down the large drawing-room; he tried a thousand things, and could not fix his attention upon any.  He was longing to see her alone, before Charlotte came back with the Captain.  It was dark by this time, and the candles were lighted.</p>
+	<p>At last she came in beaming with loveliness:  the sense that she had done something for her friend had lifted all her being above itself.  She put down the original and her transcript on the table before Edward.</p>
+	<p>"Shall we collate them?" she said, with a smile.</p>
+	<p>Edward did not know what to answer.  He looked at her&#8212;he looked at the transcript.  The first few sheets were written with the greatest carefulness in a delicate woman's hand&#8212;then the strokes appeared to alter, to become more light and free&#8212;but who can describe his surprise as he ran his eyes over the concluding page?  "For heaven's sake," he cried, "what is this? this is my hand!"  He looked at Ottilie, and again at the paper; the conclusion, especially, was exactly as if he had written it himself.  Ottilie said nothing, but she looked at him with her eyes full of the warmest delight.  Edward stretched out his arms.  "You love me!" he cried:  "Ottilie, you love me!"  They fell on each other's breast&#8212;which had been the first to catch the other it would have been impossible to distinguish.</p>
+	<p>From that moment the world was all changed for Edward.  He was no longer what he had been, and the world was no longer what it had been.  They parted&#8212;he held her hands; they gazed in each other's eyes.  They were on the point of embracing each other again.</p>
+	<p>Charlotte entered with the Captain.  Edward inwardly smiled at their excuses for having stayed out so long.  Oh! how far too soon you have returned, he said to himself.</p>
+	<p>They sate down to supper.  They talked about the people who had been there that day.  Edward, full of love and ecstasy, spoke well of every one&#8212;always sparing, often approving.  Charlotte, who was not altogether of his opinion, remarked this temper in him, and jested with him about it&#8212;he who had always the sharpest thing to say on departed visitors, was this evening so gentle and tolerant.</p>
+	<p>With fervour and heartfelt conviction, Edward cried, "One has only to love a single creature with all one's heart, and the whole world at once looks lovely!"</p>
+	<p>Ottilie dropped her eyes on the ground, and Charlotte looked straight before her.</p>
+	<p>The Captain took up the word, and said, "It is the same with deep feelings of respect and reverence:  we first learn to recognize what there is that is to be valued in the world, when we find occasion to entertain such sentiments towards a particular object."</p>
+	<p>Charlotte made an excuse to retire early to her room, where she could give herself up to thinking over what had passed in the course of the evening between herself and the Captain.</p>
+	<p>When Edward sprang on shore, and, pushing off the boat, had himself committed his wife and his friend to the uncertain element.  Charlotte found herself face to face with the man on whose account she had been already secretly suffering so bitterly, sitting in the twilight before her, and sweeping along the boat with the sculls in easy motion.  She felt depth of sadness, very rare with her, weighing on her spirits.  The undulating movement of the boat, the splash of the oars, the faint breeze playing over the watery mirror, the sighing of the reeds, the long flight of the birds, the fitful twinkling of the first stars&#8212;there was something spectral about it all in the universal stillness.  She fancied her friend was bearing her away to set her on some far-off shore, and leave her there alone; strange emotions were passing through her, and she could not give way to them and weep.</p>
+	<p>The Captain was describing to her the manner in which, in his opinion, the improvements should be continued.  He praised the construction of the boat; it was so convenient, he said, because one person could so easily manage it with a pair of oars.  She should herself learn how to do this; there was often a delicious feeling in floating along alone upon the water, one's own ferryman and steersman.</p>
+	<p>The parting which was impending sank on Charlotte's heart as he was speaking.  Is he saying this on purpose? she thought to herself.  Does he know it yet?  Does he suspect it? or is it only accident; and is he unconsciously foretelling me my fate?</p>
+	<p>A weary, impatient heaviness took hold of her; she begged him to make for land as soon as possible, and return with her to the castle.</p>
+	<p>It was the first time that the Captain had been upon the water, and, though generally he had acquainted himself with its depth, he did not know accurately the particular spots.  Dusk was coming on; he directed his course to a place where he thought it would be easy to get on shore, and from which he knew the footpath which lead to the castle was not far distant.  Charlotte, however, repeated her wish to get to land quickly, and the place which he thought of being at a short distance, he gave it up, and exerting himself as much as he possibly could, made straight for the bank.  Unhappily the water was shallow, and he ran aground some way off from it.  From the rate at which he was going the boat was fixed fast, and all his efforts to move it were in vain.  What was to be done?  There was no alternative but to get into the water and carry his companion ashore.</p>
+	<p>It was done without difficulty or danger.  He was strong enough not to totter with her, or give her any cause for anxiety; but in her agitation she had thrown her arms about his neck.  He held her fast, and pressed her to himself&#8212;and at last laid her down upon a grassy bank, not without emotion and confusion....she still lay upon his neck....he caught her up once more in his arms, and pressed a warm kiss upon her lips.  The next moment he was at her feet:  he took her hand, and held it to his mouth,and cried.</p>
+	<p>"Charlotte, will you forgive me?"</p>
+	<p>The kiss which he had ventured to give, and which she had all but returned to him, brought Charlotte to herself again&#8212;she pressed his hand&#8212;but she did not attempt to raise him up.  She bent down over him, and laid her hand upon his shoulder, and said,</p>
+	<p>"We cannot now prevent this moment from forming an epoch in our lives; but it depends on us to bear ourselves in a manner which shall be worthy of us.  You must go away, my dear friend; and you are going.  The Count has plans for you, to give you better prospects&#8212;I am glad, and I am sorry.  I did not mean to speak of it till it was certain:  but this moment obliges me to tell you my secret....Since it does not depend on ourselves to alter our feelings, I can only forgive you, I can only forgive myself, if we have the courage to alter our situation."  She raised him up, took his arm to support herself, and they walked back to the castle without speaking.</p>
+	<p>But now she was standing in her own room, where she had to feel and to know that she was Edward's wife.  Her strength and the various discipline in which through life she had trained herself, came to her assitance in the conflict.  Accustomed as she had always been to look steadily into herself and to control herself, she did not now find it difficult, with an earnest effort, to come to the resolution which she desired.  She could almost smile when she remembered the strange visit of the night before.  Suddenly she was seized with a wonderful instinctive feeling, a thrill of fearful delight which changed into holy hope and longing.  She knelt earnestly down, and repeated the oath which she had taken to Edward before the altar.</p>
+	<p>Friendship, affection, renunciation, floated in glad, happy images before her.  She felt restored to health and to herself.  A sweet weariness over her.  She lay down, and sunk into a calm, quiet sleep.</p>
+
+
+<div1 type="file references">
+            <list><item><xptr n="ls.00198" type="commentary on fiction"/></item>
+
+                                 			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

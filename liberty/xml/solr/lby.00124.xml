@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00124</field>
+      <field name="title">"The giant sea-snake, like many that have appeared in 1848"</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">german</field>
+      <field name="topic">rev1848</field>
+      <field name="topic">libertycap</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

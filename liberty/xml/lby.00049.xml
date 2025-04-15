@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00049">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "What to the Slave is the Fourth of July?"</title>
+            <date type="original" value="1852">1852</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Douglass">Frederick Douglass</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00049</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 40-41 and 42 of <hi rend="italic">Against Slavery: An Abolitionist Reader</hi>, edited by Mason Lowance.  Published by Penguin, 2000.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"What to the Slave is the Fourth of July?"</title>
+               <title level="m"><hi rend="italic">Against Slavery: An Abolitionist Reader</hi></title>
+               <author>Frederick Douglass</author>
+               <imprint>
+                  <publisher>Renguin
+</publisher>
+                  <pubPlace>New York
+
+</pubPlace>
+               </imprint>
+               <date>2000
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="dissenting" type="topic">dissenting</term>
+<term id="icon" type="topic">icon</term>
+       </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+
+<change>
+            <date value="2005-06-15">15 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<div>
+	<p>Fellow citizens, I am not wanting in respect for the fathers of this republic.  The signers of the Declaration of Independence were brave men.  They were great men, too&#8212;great enough to give frame to a great age.  It does not often happen to a nation to raise, at one time, such a number of truly great men...They were statesmen, patriots, and heroes, and for the good they did, and the principles they contended for, I will unite with you to honor their memory. They loved their country better than their own private interests; and, though this is not the highest form of human excellence, all will concede that it is a rare virtue, and that when it is exhibited it ought to command respect...They were peace men; but they preferred revolution to peaceful submission to bondage.  They were quiet men; but they did not shrink from agitation against oppression.  They showed forbearance; but they knew its limits.  They believed in order; but not in the order of tyranny.  With them, nothing was settled that was not right.  With them, justice, liberty and humanity were "final"; not slavery and oppression.  You may well cherish the memory of such men.  They were great in their day and generation.  Their solid manhood stands out the more as we contrast it with these degenerate times...Would to God, both for your sakes and ours, that an affirmative answer could be truthfully returned to these questions!...But such is not the state of the case.  I say it with a sad sense of the disparity between us.  I am not included within the pale of this glorious anniversary!  Your high independence only reveals the immeasurable distance between us.  The blessings in which you, this day, rejoice, are not enjoyed in common.  The rich inheritance of justice, liberty, prosperity, and independence, bequeathed by your fathers, is shared by you, not by me.  The sunlight that brought light and healing to you, has brought stripes and death to me.  This Fourth of July is <hi rend="bold">yours, not mine</hi>.  You may rejoice, I must mourn.  To drag a man in fetters into the grand illuminated temple of liberty, and call upon him to join you in joyous anthems, were inhuman mockery and sacrilegious irony.  Do you mean, citizens, to mock me, by asking me to speak today?  If so, there is a parallel to your conduct.  And let me warn you that it is dangerous to copy the example of a nation whose crimes, towering up to heaven, were thrown down by the breath of the Almighty, burying the nation in irrecoverable ruin!  I can today take up the plaintive lament of a peeled and woe-smitten people.  "By the rivers of Babylon, there we sat down.  Yea!  We Wept in the midst thereof.  For there, they that carried us away captive, required of us a song; songs of Zion.  How can we sing the Lord's song in a strange land?  If I forget thee, O Jerusalem, let my right hand forget her cunning.  If I do not remember these, let my tongue cleave to the roof of my mouth." (Psalm 137.1-6)...Would you have me argue the wrongfulness of slavery?  Is that a question for Republicans?...How should I look today, in the presence of Americans, dividing, and subdividing a discourse, to show that men have a natural right to freedom?...(Lowance 40-41)</p></div>
+<div>
+	<p>What, to the American slave, is <hi rend="italic">your</hi> Fourth of July?  I answer:  a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.  To him, your celebration is a sham; your boasted liberty, an unholy license; your national greatness, swelling vanity; your sounds of rejoicing are empty and heartless; your denunciation of tyrants, brass fronted impudence; your shouts of liberty and equality, hollow mockery; your prayers and hymns, your sermons and thanksgivings, with all your religious parade and solemnity, are, to him, mere bombast, fraud, deception, impiety, and hypocrisy&#8212;a thin veil to cover up crimes which would disgrace a nation of savages.  <hi rend="bold">There is not a nation on the earth guilty of practices more shocking and bloody than are the people of the United States, at this very hour.</hi> (Lowance 42)</p></div>
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00035" type="same author"/>	      
+				</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

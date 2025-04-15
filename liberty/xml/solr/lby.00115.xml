@@ -1,0 +1,13 @@
+<add>
+   <doc>
+      <field name="id">lby.00115</field>
+      <field name="title">"Bureau des départs"</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">french</field>
+      <field name="topic">rev1848</field>
+      <field name="topic">libertycap</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

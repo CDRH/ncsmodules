@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00073">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The Story of American Freedom</hi></title>
+           <title level="c" type="chapter">from Chapter 3, "An Empire of Liberty" and Chapter 4, "The Boundaries of Freedom in the Young Republic"</title>
+<date type="original" value="1998">1998</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Foner">Eric Foner</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00073</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 50-51, 52-53, 60, 63, 71, 79-80, 81, and 87-88 of Eric Foner's <hi rend="italic">The Story of American Freedom</hi>.  Published by W.W. Norton, 1998.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">"An Empire of Liberty" and "the Boundaries of Freedom in the Young Republic"</title>
+               <title level="m"><hi rend="italic">The Story of American Freedom</hi></title>
+               <author>Eric Foner</author>
+               <imprint>
+                  <publisher>W.W. Norton</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1998
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+             <term id="commentary" type="genre">commentary</term>
+<term id="american" type="place">American</term>
+<term id="emancipation" type="topic">emancipation</term>
+<term id="gender" type="topic">gender</term>
+<term id="liberalism" type="topic">liberalism</term>
+<term id="individual" type="topic">individual</term>  
+<term id="mill" type="topic">Mill</term>
+<term id="jefferson" type="topic">Jefferson</term>
+          </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-24">24 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+            <date value="2005-07-25">25 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div><head>1.</head><p>"The rise of the West was not simply a mythic adventure but an inescapable fact of American life.  Between 1791 and 1850, no fewer than eighteen new states entered the Union.  Liberty in the United States, wrote the French historian Michel Chevalier, who visited the country in the 1830s, was a 'practical idea' as much as a 'mystical one'&#8212;it meant 'a liberty of action and motion which the American uses to expand over the vast territory that Providence has given him and to subdue it to his uses.'  National boundaries made little difference to expansion; in Florida, Louisiana, Texas, and other areas, American settlers rushed in to claim land under the jurisdiction of Spain, France, Mexico, and Indian tribes, confident that American sovereignty would soon follow in thier wake.  The land hunger of those who saw the 'empty' continent as a guarantee of future economic opportunity supported the 'practical' side of manifest destiny.  Indeed, by allowing for the continuing reinvigoration of a social order based on independent small producers, the settlement and economic exploitation of the West promised to prevent the United States from following down the path of Europe and becoming a stratified society with a large class of dependent poor.  The West, therefore, was essential to maintaining the social conditions of freedom.  When Jefferson purchased the vast Louisiana Territory from France in 1803, doubling the size of what he called 'the Empire of Liberty,' he believed that he had pushed far into the future the dreaded day when an overpopulated, class-divided America would cease to be home to freedom.</p>
+	<p>The idea that theirs was an empire of liberty enabled Americans to ignore some unpleasant truths about westward expansion.  For one thing, the continent was not, in fact, empty.  For centuries, the West had been a meeting ground of peoples, whose relationships were shaped by conquest as much as free choice.  It was also, therefore, the site of clashing definitions of liberty.  'The life my people want is a life of freedom,' the great leader of the Lakota Sioux, Sitting Bull, would later proclaim.  The Native American idea of freedom, however, which centered on preserving their cultural and political autonomy and retaining control of ancestral lands, was incompatible with that of western settlers, for whom freedom entailed the right to expand across the continent and establish farms, ranches, and mines on land that Indians considered their own.  Indian removal&#8212;accomplished by fraud, intimidation, and violence&#8212;was indispensable to the triumph of manifest destiny and the American mission of spreading freedom"  (50-51).</p></div>
+<div>
+<head>2.</head><p>"As Tocqueville recognized, democracy meant far more that the right to vote.  A social innovation of profound significance, it reinforced a sense of equality among those who belonged to the political nation and deepened the divide separating them from those who did not.  'Civil liberty,' wrote [Francis] Leiber, was 'a state of union with equality.'  Participation in elections and the pageantry surrounding them&#8212;parades, bonfires, mass meetings, party conventions&#8212;helped to define 'the people' of the United States who enjoyed an entitlement to equality.  Increasingly, the right to vote became the emblem of American citizenship&#8212;if not in law (since suffrage was still, strictly speaking, a privilege rather than a right, subject to regulation by the individual states), then in common usage and understanding.  Noah Webster's <hi rend="italic">Dictionary of the English Language</hi> noted that the term 'citizen' had, in America although not in Europe, become synonymous with the right to vote.  Political democracy was thus an essential attribute of American freedom.  The vote, said one advocate of democratic reform, was 'the first mark of liberty, the only true badge of the freeman'"  (52-53).</p></div>
+<div>
+	<head>3.</head><p>"At its core, the idea of wage slavery rested on a critique of economic dependence as incompatible with freedom.  In 1840, in his essay "The Laboring Classes," the era's most influential statement of the argument, the New England social philosopher Orestes A. Brownson, described wages as 'a cunning device of the devil for the benefit of tender consciences who would retain all the advantages of the slave system without the expense, trouble, and odium of being slaveholders.'  His essay, Brownson later recalled, elicited 'one universal scream of horror' from respectable opinion.  But the idea that permanent wage labor bore some resemblance to slavery was not confined to labor radicals and allied intellectuals.  In Herman Melville's strange tale 'The Tartarus of Maids,' workers in a New England paper mill stand by their machines 'mutely and cringingly as a slave.'  Within the Jacksonian Democratic Party, from the colorful Mike Walsh (who told New York workingmen, 'you are slaves, and none are better aware of the fact than the heathenish dogs who call you freemen') to less demagogic polictial figures, it remained axiomatic that the ideal citizen was a farmer or independent mechanic, and that the factory system and merchant-dominated craft workshop were introducing a system of despotism incompatible with American freedom" (60).</p></div>
+<div>
+<head>4.</head><p>"Northern laborers and reformers were not alone in criticizing the marketplace notions of freedom.  The South shared as fully in the process of westward expansion as the free states, but here the process further entrenched plantation slavery as the central institution of southern life, rather than promoting economic modernization.  The rapid expansion of slavery and the consolidation of a distinctive southern ruling class led inexorably to the rise of a proslavery ideology that employed the contrast between freedom and slavery as a weapon against the self-proclaimed 'free society' of the North.  The free laborer, insisted defenders of slavery like John C. Calhoun and George Fitzhugh, was little more than 'the slave of the <hi rend="italic">community</hi>,' a situation far more oppressive than to be owned by a paternalistic master and shielded from the exploitation of the competitive marketplace.  Indeed, proslavery writers claimed, the very idea of free labor was a brutal fiction, which allowed the propertied classes to escape a sense of responsibility for the well-being of social inferiors.  Slavery for blacks was the surest guarantee of 'perfect equality' among whites, liberating them from the 'low, menial' jobs like factory labor and domestic service performed by wage laborers in the North, and allowing for a considerable degree of economic and social autonomy on the part of non-slaveholders.  Because of slavery, claimed one congressman, white southerners were as 'independent as the bird which cleaves the air'" (63).</p></div>
+<div>
+<head>5.</head><p>"How could belief in freedom as a universal human right be reconciled with the exclusion of blacks from liberty in the South and the rights of free men in the North, and of women from political participation and the opportunities of free labor?  As democracy triumphed, the intellectual grounds for exclusion shifted from economic dependency to natural incapacity.  A boundary drawn by nature itself was not really exclusion at all.  Of course, as John Stuart Mill once asked, 'was there ever any domination which did not appear natural to those who possessed it?'  Yet even Mill's argument for universal freedom, in his great work <hi rend="italic">On Liberty</hi>(1859), applied 'only to human beings in the maturity of their faculties.'  The immature included not only children but entire 'races' of less 'civilized' peoples, deficient in the qualities necessary in the democratic citizen.  In the United States, too, gender and racial differences were widely understood as being part of a single, natural hierarchy of innate endowments.  'How did woman first become subject to man, as she now is all over the world?' asked the <hi rend="italic">New York Herald</hi> in 1852.  'By her nature, her sex, just as the negro is and always will be, to the end of time, inferior to the white race, and, therefore, doomed to subjection.'  Paradoxically, therefore, while freedom for white men involved an open-ended process of personal transformation, developing to the fullest the potential inherent within each human being, discussion of citizenship, race, and gender rested on the essentialist premise that the character and abilities of non-whites and women were fixed by nature" (71).</p></div>
+<div>
+<head>6.</head><p>"Given the pervasiveness of the language of liberty, it is hardly surprising that those excluded from the blessings of American freedom should adopt it to their own purposes.  One is tempted to view demands that non-whites and women be admitted to democratic participation, the opportunity for personal self-realization, and the rights of free labor as efforts to expand freedom's boundaries without altering its definition.  But since race and sex were crucial constitutive elements in how freedom was understood and experienced, redrawing the boundaries of freedom inevitably required rethinking its content.  If the language of the abolitionist and women's rights movements was thoroughly American, they used it to try to transform the meaning of American freedom" (79-80).</p></div>
+<div>
+<head>7.</head><p>"By the 1840s, women's rights advocates had concluded that in a democratic society, freedom was impossible without the ballot.  The demand for the 'sovereignty of free citizens' assumed a central place in the women's movement.  The argument was simple and irrefutable:  in the words of Lydia Maria Child, 'either the theory of our government is <hi rend="italic">false</hi>, or women have a right to vote.'  Women had never consented to their inferior legal status:  second-class citizenship had been imposed upon them.  As [Elizabeth Cady] Stanton told the Seneca Falls Convention of 1848&#8212;the first public meeting to demand equal political rights for women&#8212;only the vote would make women 'free as man is free.'</p>
+	<p>Feminisim, therefore, was an extension of nineteenth-century market, individualist, and democratic principles, a demand that women, in the words of Francis D. Gage, enjoy 'the rights and liberties that every "free white male citizen" takes to himself as God-given.'  But it was also much more.  In every realm of life, not excluding the family, declared Stanton, there could be 'no happiness without freedom.'  Even as it sought to apply prevailing notions of freedom to women, the movement posed a fundamental challenge to some of their central tenets&#8212;that the capacity for independence and rationality were male traits, that the world was divided into autonomous public and private realms, and that the family's internal relations fell beyond the bounds of scrutiny on the basis of justice and freedom.  'Women's Rights,' declared a Boston meeting in 1859, did not imply eliminating the 'divine' institution of the family, but did demand 'freedom and equal rights for her in the family.'  Yet this requirement portended a fundamental redefinition of freedom itself" (81).</p></div>
+<div>
+<head>8.</head><p>"Most adamant in contending that the struggle against slavery required a redefinition of both freedom and Americanness were black members of the abolitionist crusade.  'He who has endured the cruel pangs of slavery,' wrote Frederick Douglass in 1847, 'is the man to advocate liberty,' and black abolitionists developed an understanding of freedom that went well beyond the usage of most of their white contemporaries.  Those who had actually experienced slavery among the most penetrating critics of the proslavery argument ('flimsy nonsense,' Douglass called it, which men would be 'ashamed to remember' once slavery had been abolished).  Equally absurd were the nation's pretensions as a land of liberty, which black abolitionists repudiated at every opportunity.  Indeed, free blacks dramatically reversed the common association of the United States with the progress of freedom.  In devising an alternative calendar of 'freedom celebrations' centered on January 1, the date in 1808 on which the slave trade became illegal, and August 1, the anniversary of West Indian emancipation, rather than July 4 (from which they were forcibly barred in many localities), black communities in the North offered a stinging rebuke to white Americans' claims to live in a land of freedom.  Thanks to its embrace of emancipation in the 1830s, declared a group of black abolitionists in Philadelphia, Great Britain, from which America had 'wrested [her] freedom,' had become a model of liberty and justice, while the United States remained a land of tyranny.  Black abolitionists also challenged the identification of American freedom with the genius of the Anglo-Saxon 'race.'  (Many ancient Anglo-Saxons, Douglass pointed out sardonically, were themselves slaves)"  (87-88).</p></div>
+	      </body>
+   </text>
+</TEI.2>

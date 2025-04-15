@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00112</field>
+      <field name="title">"Liberty"</field>
+      <field name="project">liberty</field>
+      <field name="genre">sculpture</field>
+      <field name="place">american</field>
+      <field name="place">italian</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

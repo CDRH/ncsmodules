@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00190">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Husbands, Wives, and Lovers: Marriage and Its Discontents in Nineteenth-Century France</hi>
+
+</title>
+
+<author name="Mainardi">Patricia Mainardi</author>
+<date type="original" value="2003">2003</date>
+            <title level="m" type="sub">electronic edition</title>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00190</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 9, 10, 11, 18-19 and 22-23 of Patricia Mainardi's <hi rend="italic">Husbands, Wives, and Lovers:  Marriage and Its Discontents in Nineteenth-Century France</hi>.  Published by Yale University Press, 2003.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Introduction: To Laugh or to Weep</title>
+               <title level="m"><hi rend="italic">Husbands, Wives, and Lovers:  Marriage and Its Discontents in Nineteenth-Century France</hi></title>
+               <author>Patricia Mainardi</author>
+               <imprint>
+                  <publisher>Yale University Press
+
+</publisher>
+                  <pubPlace>New Haven
+</pubPlace>
+               </imprint>
+               <date>2003
+</date>
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+              <term id="divorce" type="theme">divorce</term>
+			<term id="adultery" type="theme">adultery</term>
+<term id="popularpress" type="theme">popular press</term>
+<term id="boudoir" type="setting">boudoir</term>
+               <term id="french" type="place">French</term>
+		<term id="commentary" type="media">commentary</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-08-26">16 August 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<div>
+	<head>1.</head><p>"The Revolutionary program of reform arose directly from the writings of the Enlightenment philosophers.  Since the late seventeenth century and through the eighteenth, the power of husbands had been increasingly equated with tyranny, despotism, and even slavery.  In the decades leading up to the 1789 Revolution, the power of husbands and fathers was also associated with the monarchy, and, as a result, many of the Revolutionary reforms of family law were designed to curtail their authority.  Indeed Lynn Hunt [in <hi rend="italic">Family Romance</hi>] has even proposed that one could view the entire Revolutionary episode as a 'family romance' in the Oedipal sense of the sons attempting to eliminate and replace their fathers.  The Revolutionary project of family reform emphasized individualism and egalitarianism, with the replacement of duty by affection.  Revolutionaries wanted to abolish <hi rend="italic">lettres de cachet</hi>, secularize marriage, legalize divorce, lower the age of majority, and establish equal inheritance among children by abolishing primogeniture and ending distinctions between legitimate and illegitimate children.  Overall, their intention was to diminish the power of fathers over family members, as well as the power of the Church over every aspect of life.  If the family was now to be a site of greater equality, so too would be the new State; the marital-regime analogy would continue to function, but both entities would now be transformed into more egalitarian social units" (9).</p></div>
+<div>
+	<head>2.</head><p>"The contradictions of a Revolutionary program that espoused conflicting conceptions of women's rights manifested themselves from the beginning.  The Constitution of 1791 proclaimed that 'the law considers marriage only as a civil contract,' and, of course, all civil contracts could be dissolved by mutual consent.  The same Constitution of 1791 was the site of a major controversy over adultery.  Its proposed article 13, 'On the Municipal Police,' attempted to reinstate Old Regime laws on adultery, but was even more draconian.  The proposed article retained the Old Regime principle that only husbands would be empowered to bring a charge of adultery while being themselves exempt from any such charge, but it appended the provision that on conviction there would be a minimum one-year prison sentence for the wife and three months for her accomplice, and to that added a financial bonus, unparalleled even in the Old Regime:  the husband could now seize not only his wife's dowry, but one-eighth of her accomplice's fortune as well.  In Old Regime France, the husband had been entitled to seize only his wife's dowry.  In her address to the National Assembly in the summer of 1791, Etta Palm D'Aelders called it 'the most unjust thing done in barbarous centuries'" (10).</p></div>
+<div>
+	<head>3.</head><p>"On September 20, 1792 the National Constituent Assembly took an unprecedented step, by voting a law authorizing divorce.  It specified numerous grounds for the dissolution of marriage, including mutual consent, incompatibility, mental illness, cruelty, abandonment, moral depravity, or emigration, and at the same time it abolished separations.  It did not mention adultery.  Although this move was progressive, as the case-law practice of the Old Regime with its severe punishments for a wife's infidelity was thus eliminated, Sarah Hanley has argued [in "Social Sites of Political Practice in France"] that this silence actually protected male interests since it eliminated one of the major grounds on which wives could bring a divorce suit 'for cause' and thus ensure a division of community property.  The exonomic results of divorce were extremely negative for women, but, even so, women formed the primary constituency for the new divorce law.  Statistics are fragmentary, but there were an estimated 30,000 divorces in France from 1792, when the law was instituted, to 1803 when it was changed" (11).</p>
+</div>
+<div>
+	<head>4.</head><p>"With the Restoration of the Legitimist Monarchy in 1815, the alliance of 'Throne and Altar' was reinstated, and all provisions of the Civil Code contradictory to Catholic dogma were suppressed.  That year vicomte Louis de Bonald, a returned &#233;migr&#233; and leading conservative spokesman, told the Chamber of Deputies that 'to tolerate divorce is to legislate adultery, it is to conspire with man's passions against his reason, and with man himself against society.'  By decree of May 8, 1816 Louis XVIII abolished divorce, 'in the interest of religion, of morality, of the monarchy, of families.'  Divorce remained illegal in France until the Naquet Law of 1884.  During the intervening decades, the only solution to an unhappy marriage would be, as it had been under the Old Regime, a separation agreement, either a <hi rend="italic">s&#233;paration de corps</hi>, a residential separation that allowed a wife legally to live apart from her husband, or a <hi rend="italic">s&#233;paration de biens</hi> that separated their finances.</p>
+	<p>The result of these changes in law was a legal morass.  The jurist Merlin de Douai proved to be prescient when he warned the committee drafting the Penal Code:  'Never in France has the charge of adultery been admitted unless the husband wanted a legal separation at the same time.'  Under the Revolutionary legal codes the charge of adultery had been admissible only as part of a divorce suit.  The Civil Code departed from this tradition by separating the two legal procedures, but continuing to allow divorce.  After 1816, however, divorce was suppressed while adultery remained criminal.  Many legal scholars had noted this as a potential problem in framing the divorce laws, and over the next decades they would have ample cause to remember the prophecy of comte Regnaud de Saint-Jean-d'Angely, noted earlier:  'It would be scandalous if a husband had his wife condmened as unfaithful, but nonetheless did not want to break with her.'</p>
+	<p>Under the new laws, a wife granted a separation was still subject to prosecution under the adultery laws.  A separated husband, however, was freed of even the minor proscription against maintaining a concubine in their conjugal dwelling, since after a residential separation there no longer was a conjugal dwelling.  All children born in a marriage were now entitled to equal inheritance, paternity investigations were outlawed, and there was no longer the possibility of either recognizing or, except under extreme circumstances, repudiating adulterine children.  While this last was of potential benefit to women and their children within marriage, nonetheless, the potential for martial unhappiness was vast.  As Dumas pointed out, it was something to weep over" (18-19).</p></div>
+	<div>
+	<head>5.</head><p>"....If court recors are any indication, adultery represented a major theme in the <hi rend="italic">mentalit&#233;</hi> of the period.  The <hi rend="italic">Gazette des tribunaux</hi> commented in 1826:  'either the ladies of Paris are becoming more unfaithful than ever before, or Parisian husbands are becoming greater enemies of adultery and greater friends of scandal.  What is certain is that, for some time now, we have been seeing in the courts a mass of infractions of the conjugal pact.'</p>
+	<p>The literature of the day provides an accurate, if somewhat sanitized, depiction of this social phenomenon.  In fact, the cases in the <hi rend="italic">Gazette des tribunaux</hi> are melodramatic to an extent that even Balzac would find extreme.  Consider, for example, the case of the twenty-five-year-old Madame Descharmes.  In 1826 her aging husband charged her with committing adultery with a handsome shopkeeper's assistant name Beauval.  To entrap them, Descharmes followed them in disguise:  'He shaved off his black mutton-chop whiskers,' the <hi rend="italic">Gazette</hi> reports from the court record, 'replacing them with enormous mustachios, large eyeglasses covered his eyes, and green Polish-stule trousers were substituted for his usual coveralls.  To complete his disguise, a half-opened sleever with his arm in a sling made from a black scarf gave him the air of a recently wounded soldier.'  Despite what seems a disguise straight out of vaudeville, Monsieur Descharmes managed to entrap the young lovers <hi rend="italic">in flagrante delicto</hi>, and each was sentenced to three months in jail.  After Madame Descharmes had served half her sentence in the Madelonnettes prison, where female offenders were customarily incarcerated, Descharmes relented and took her back, invoking article 337 of the Penal Code which stipulated:  'The husband has the right to annul this judgment by consenting to take back his wife.'  Beauval, however, was left in jail to finish out his term, for the courts had never managed to work out the accomplice's fate in these circumstances.</p>
+	<p>Legally, <hi rend="italic">flagrante delicto</hi> was the most convincing proof, even excusing murder under Penal Code article 324, which stated:  'The murder committed by the husband of his wife, as well as of her accomplice, at the moment when he catches them <hi rend="italic">in flagrante delicto</hi> in the conjugal dwelling is excusable.'  Needless to say, husbands went to extremes to procure this type of proof.  Monsieur Chatard, for example, who ran the baths in the rue des Bourdonnais, suspected that his wife was having an affair with a young man named P&#233;chet, and so he, along with a friend and two gendarmes, hid in a closet in his hous until the two 'had attained the highest degree of criminality possible in such a situation,' as the <hi rend="italic">Gazette des tribunaux</hi> tactfully put it, whereupon they leaped out and arrested the guilty pair.  Each was sentenced to one year in prison" (22-23).</p></div>
+
+
+	<div1 type="file references">
+	<list>
+		<item>
+		<xptr n="ls.00182" type="same subject"/>	      
+		<xptr n="ls.00183" type="same subject"/>
+		<xptr n="ls.00184" type="same subject"/>
+		<xptr n="ls.00185" type="same subject"/>
+		<xptr n="ls.00186" type="same subject"/>
+				<xptr n="ls.00188" type="same subject"/>
+		<xptr n="ls.00189" type="same subject"/>
+
+		</item>
+		</list>
+</div1>
+
+      </body>
+   </text>
+</TEI.2>

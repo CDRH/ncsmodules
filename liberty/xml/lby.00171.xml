@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!-- <?xml-stylesheet href="../../xslt/EXAMPLE.xsl" type="text/xsl"?> -->
+
+
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD EXAMPLE.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+<!ENTITY ID SYSTEM "ID.jpg" NDATA jpeg>
+
+]>
+<TEI.2 id="lby.00171">
+
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="a" type="main">United States Dollar</title>
+<date type="original" value="1849">1849</date>
+
+
+
+
+<author></author>
+<editor>Laura White</editor>
+<editor>Linda Pratt</editor>
+<respStmt>
+<resp>Research Assistant</resp>
+<name>Michael Page</name>
+</respStmt>
+<respStmt>
+<resp>Advisory Committee</resp>
+<name>Stephen Behrendt</name>
+<name>Susan Belasco</name>
+<name>Wendy Katz</name>
+<name>Timothy Mahoney</name>
+<name>Christin Mamiya</name>
+<name>Harriet Turner</name>
+<name>Katherine Walter</name>
+<name>John Wunder</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+
+
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2005</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>
+lby.00171</idno>
+<distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">
+United States Dollar (1849).  Reproduced from Burton Hobson, <hi rend="italic">Historic Gold Coins of the World</hi>, Doubleday, 1971, 118. In this design, the liberty cap has been replaced with a tiara.</note>                      	
+</notesStmt>
+
+
+<!--
+<encodingDesc>  
+	<projectDesc>
+		<p>PROSE THAT EXPLAINS WHY THIS ELECTRONIC FILE IS BEING CREATED, FROM P4: "describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected."</p>
+	</projectDesc>
+
+	<editorialDecl>
+		<correction>
+		<p>Was the text corrected during or after data capture? If so, were corrections made silently or are they marked using the tags described in section 6.5 Simple Editorial Changes? What principles have been adopted with respect to omissions, truncations, dubious corrections, alternate readings, false starts, repetitions, etc.? </p>
+		</correction>
+		
+		<normalization>
+		<p>Was the text normalized, for example by regularizing any non-standard spellings, dialect forms, 			etc.? If so, were normalizations performed silently or are they marked using the tags described in section 6.5 Simple Editorial Changes? What authority was used for the regularization? Also, what principles were used when normalizing dates or numbers to provide the standard values for the value attribute described in sections 6.4.3 Numbers and Measures and 6.4.4 Dates and Times and what format used for them?</p>
+		</normalization> 
+		
+		<quotation>
+		<p>How were quotation marks processed? Are apostrophes and quotation marks distinguished? How? Are quotation marks retained as content in the text or replaced by markup? Was the rendition attribute used to record the specific appearance of any quotation marks removed from the text? Are there any special conventions regarding for example the use of single or double quotation marks when nested? Is the file consistent in its practice or has this not been checked?</p>
+		</quotation> 
+		
+		<hyphenation>
+		<p>Does the encoding distinguish `soft' and `hard' hyphens? What principle has been adopted with respect to end-of-line hyphenation where source lineation has not been retained? Have soft hyphens been silently removed, and if so what is the effect on lineation and pagination?</p>
+		</hyphenation>
+		
+		<segmentation>
+		<p>How is the text segmented? If &lt;s&gt; or &lt;seg&gt; segmentation units have been used to divide up the text for analysis, how are they marked and how was the segmentation arrived at?</p>
+		</segmentation>
+		
+		<stdVals>
+		<p>What standardization methods underlie any standardized values supplied for numeric values or dates? If the value attribute described in section 6.4.4 Dates and Times has been used, in what format are its values presented?</p>
+		</stdVals> 
+		
+		<interpretation>
+		<p>Has any analytic or `interpretive' information been provided — that is, information which is felt to be non-obvious, contentious, or subject to disagreement? If so, how was it generated? How was it encoded? If feature-structure analysis has been used, are &lt;fsdDecl&gt; elements (section 5.3.7 The Feature System Declaration) present?</p>
+		</interpretation> 
+	</editorialDecl>
+
+	<tagsDecl>
+		<tagUsage gi="ELEMENT" occurs="NUMBER OF OCCURENCES">DESCRIPTION OF USE OF ELEMENT</tagUsage>
+	</tagsDecl>
+</encodingDesc> -->
+
+<sourceDesc>
+<bibl>
+<title>United States Dollar</title>
+
+	<respStmt>
+	<resp>Artist</resp>
+	<name reg=" "><!-- NAME OF ARTIST --></name>
+	</respStmt>
+<imprint>
+<publisher>
+</publisher>
+<pubPlace>
+</pubPlace>
+</imprint>
+<date>
+1849
+</date>
+
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords>
+<term id="american" type="place">American</term>
+<term id="coins" type="genre">coins</term>
+<term id="icon" type="topic">icon</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+
+
+<revisionDesc>
+	<change>
+  <date value="2005-08-24">24 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-08-17">17 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Coding</item>
+</change>
+<change>
+            <date value="2005-07-27">27 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+<change>
+  <date value="2005-01-12">12 January 2005</date>
+    <respStmt>
+	<name>Andrew Jewell</name>
+    </respStmt>
+    <item>Initial Creation</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<list>
+<item>
+   <figure entity="lby.00171" n="lby.00171.jpg" id="img_lby.00171.xml">     <figDesc>
+	<label></label>
+      <caption></caption>
+      <bibl>
+	<respStmt>
+<resp>Illustrator</resp>
+	<name><!-- ARTIST NAME --></name>
+	</respStmt>
+	<title level="m"></title>
+<respStmt>
+<resp>Author of book</resp>
+<name></name>
+</respStmt>
+<publisher></publisher>
+<biblScope type="pages"></biblScope>
+	<!--<date value="YYYY></date>-->
+	<orgName><!-- INSTITUTION THAT HOLDS THE ITEM --></orgName>
+	<note></note>
+      </bibl>
+     </figDesc>
+   </figure>
+</item>
+</list>
+
+<div type="file references">
+            <list>
+				</list>
+         </div>
+
+
+</body>
+</text>
+</TEI.2>

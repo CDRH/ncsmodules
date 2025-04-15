@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00001">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Love in the Garden: <hi rend="italic">Maud, Great
+                  Expectations,</hi> and W.S. Gilbert's <hi rend="italic"> Sweethearts</hi>" </title>
+
+            <title level="j" type="journal">
+               <hi rend="italic">SEL</hi>
+            </title>
+            <title level="c" type="chapter"/>
+            <title level="m" type="monograph"/>
+            <author name="Fischler">Alan Fischler</author>
+            <date type="original" value="1997">1997</date>
+            <title level="m" type="sub">electronic edition</title>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00001</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century
+               Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in
+                  the Archive may be shared in accordance with the Fair Use provisions of U.S.
+                  copyright law. Redistribution or republication on other terms, in any medium,
+                  requires express written consent from the editors and advance notification of the
+                  publisher, the Center for Digital Research in the Humanities. Permission to
+                  reproduce the graphic images in this archive has been granted by the owners of the
+                  originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project"> Transcribed from pages 761, 763, 765-66, and 769-70 of Alan
+               Fischler's "Love in the Garden: <hi rend="italic">Maud, Great Expectations</hi>, and
+               W.S. Gilbert's <hi rend="italic">Sweethearts</hi>." Originally published in <hi
+                  rend="italic">SEL</hi> 37 (1997): 761-79. </note>
+         </notesStmt>
+         <sourceDesc>
+
+            <bibl>
+               <title level="a">"Love in the Garden: <hi rend="italic">Maud, Great
+                  Expectations</hi>, and W.S. Gilbert's <hi rend="italic">Sweethearts</hi>"</title>
+               <title level="m"><hi rend="italic">SEL</hi> 37 (1997): 761-79</title>
+               <author>Alan Fischler</author>
+               <imprint>
+                  <publisher>
+                     <hi rend="italic">SEL</hi>
+
+                  </publisher>
+                  <pubPlace> </pubPlace>
+               </imprint>
+               <date>1997 </date>
+               <idno type="ISBN"> </idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+            <keywords>
+               <term id="garden" type="setting">garden</term>
+               <term id="british" type="place">British</term>
+               <term id="commentary" type="media">commentary</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2005-08-18">18 August 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Proofreading corrections</item>
+         </change>
+         <change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+         <change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+         <change>
+            <date value="2005-03-15">15 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+
+
+         <change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+         <change>
+            <date value="2005-05-23">23 July 2005</date>
+            <respStmt>
+               <name>Zach Bajaber</name>
+            </respStmt>
+            <item>Changed Terms to new format.</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div>
+            <head>1.</head>
+            <p>"The garden is a central and sacred space in Christian mythology. Of the three
+               crucial events of human history, two&#8212;the birth of the race into innocence
+               and the fall of the race into sin&#8212;are located in the garden; only the final
+               redemption, which returns humankind to the very bosom of God, is reserved for a realm
+               beyond Nature" (761).</p>
+         </div>
+         <div>
+
+            <head>2.</head>
+            <p>". . . Walter E. Houghton observes in <hi rend="italic">The Victorian Frame of
+                  Mind,</hi> 'When the religious emotions of worship were denied a divine object,
+               they could readily turn to a human one, to a hero or a heroine; and romantic love,
+               called on to fill the vacuum, could take on a new fervor and importance.' But, while
+               the fervor may have been new, spawned by a desperation that now drove the search for
+               salvation, romantic love had long been endowed with a particular importance when
+               placed within the confines of the garden. As Terry Comito asserts in <hi
+                  rend="italic">The Idea of the Garden in the Renaissance</hi>: 'what is shared by
+               monks, poets, philosophers, lovers&#8212;even...constructors of artificial
+               perspective&#8212;is a nostalgia for Paradise. Gardens set aside for poetry or
+               contemplation or love all participate in a glamour appropriate to sacred places; and
+               conversely, activities so apparently distinct as poetry or contemplation or love take
+               on, through their association with gardens, the aspect of a single quest, a turning
+               outward to the world, a search for an equilibrium in which mind and thing constitute
+               one another in a creative blossoming like that of the first Garden.' Yet, like
+               religion, such ceremonies of innocence were bound to be drowned in the scientific
+               deluge of the mid-nineteenth century. Romantic love, in a garden setting, is featured
+               prominently in three works of the period: Alfred, Lord Tennyson's <hi rend="italic"
+                  >Maud,</hi> completed in 1855, Charles Dickens's <hi rend="italic">Great
+                  Expectations,</hi> serialized in 1860 to 1861; and W.S. Gilbert's play <hi
+                  rend="italic">Sweethearts,</hi> produced in 1874. And, by the end of the brief
+               nineteen years that separate the first from the last of these, neither love nor the
+               garden is assigned the same spiritual significance as it was before" (765-66).</p>
+         </div>
+         <div>
+
+            <head>3.</head>
+            <p> [In <hi rend="italic">Maud</hi>], "the speaker's attempted entry into the garden is
+               the climax of his story. He has previously seen and spoken of Maud in this garden but
+               has never tried to cross its boundaries. However, on the night of the ball hosted by
+               her brother, he intends to change this:</p>
+            <lg type="poem">
+
+               <l>For I am not invited,</l>
+
+               <l>But, with the Sultan's pardon,</l>
+
+               <l>I am all as well delighted,</l>
+
+               <l>For I know her own rose-garden,</l>
+
+               <l>And mean to linger in it</l>
+
+               <l>Till the dancing will be over;</l>
+
+               <l>And then, Oh, then, come out to me</l>
+
+               <l>For a minute, but for a minute,</l>
+
+               <l>Come out to your own true lover,</l>
+
+               <l>That your true lover may see</l>
+
+               <l>Your glory also, and render</l>
+
+               <l>All homage to his own darling,</l>
+
+               <l>Queen Maud in all her splendour.</l>
+            </lg>
+
+            <p>He has actually entered the forbidden precincts by the time that he rhapsodizes his
+               way through the serenade that is the poem's best-known section&#8212;'Come into
+               the garden, Maud.' In the context of his own myth, the speaker's audacious actions
+               are equivalent to nothing less than an attempt by postlapsarian man to storm the
+               guarded gates of the earthly paradise and there embrace his own
+               salvation&#8212;personified for this speaker by Maud&#8212;in the here and
+               now of this world. But this trespass into 'Eden' ironically evokes that great enemy
+               of salvation, Milton's Satan. It is thus not surprising that the result of the
+               speaker's action proves not to be redemption but another fall, for it is now that he
+               does the Cain-like deed of killing Maud's brother" (769-70).</p>
+
+
+         </div>
+
+
+
+         <div type="file references">
+            <list>
+
+
+
+               <item>
+                  <xptr n="ls.00007" type="same author"/>
+               </item>
+               <item>
+                  <xptr n="ls.00008" type="same author"/>
+               </item>
+               <item>
+                  <xptr n="ls.00175" type="image on same author"/>
+               </item>
+               <item>
+                  <xptr n="ls.00176" type="image on same author"/>
+               </item>
+               <item>
+                  <xptr n="ls.00177" type="image on same author"/>
+               </item>
+
+               <item>
+                  <xptr n="ls.00173" type="image on same author"/>
+               </item>
+               <item>
+                  <xptr n="ls.00174" type="image on same author"/>
+               </item>
+
+
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

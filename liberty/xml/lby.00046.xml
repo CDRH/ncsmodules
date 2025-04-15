@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00046">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Love and Liberty"</title>
+            <title level="j" type="journal"><hi rend="italic">Liberty Bell</hi></title>
+<date type="original" value="1851">1851</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Barland">Katherine Barland</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00046</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 21-23 of the <hi rend="italic">Liberty Bell</hi>, for the year 1851.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Love and Liberty</title>
+               <title level="m"><hi rend="italic">The Liberty Bell</hi></title>
+               <author>Katherine Barland</author>
+               <imprint>
+                  <publisher>Chapman
+</publisher>
+                  <pubPlace>Boston
+
+</pubPlace>
+               </imprint>
+               <date>1851
+
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+              <term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+
+<term id="emancipation" type="topic">emancipation</term>
+<term id="icon" type="topic">icon</term>
+        </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-02">02 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-08-31">31 August 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>proofreading</item>
+</change>
+<change>
+            <date value="2005-06-10">10 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<lg type="stanza">
+	<l>The moonlight-winds played through the leafy trees,</l>
+	<l>Making sweet music o'er the sleeping flowers;</l>
+	<l>The old stars told the hour,</l>
+	<l>And, like the swell of mournful symphonies,</l>
+	<l>The ocean surges, wafted by the breeze,</l>
+	<l>Echoed among the bowers.</l>
+	<l>I caught the solemn music&#8212;bent the knee,</l>
+	<l>Joining the glorious hymn of Love and Liberty.</l>
+	</lg>
+	<lg type="stanza">
+	<l>Across far blue Morgen-land, the storm</l>
+	<l>Hung the dark mantle, and the gathering clouds</l>
+	<l>Came down like sable shrouds</l>
+	<l>Over my own loved mountains, heavy, warm,</l>
+	<l>With a sepulchral weight, the dead air hung,</l>
+	<l>As waiting to be stirred.  The lightening flashed</l>
+	<l>Rapid and far&#8212;rains dashed</l>
+	<l>In torrents down the mountain.  Each a tongue</l>
+	<l>Proclaimed in loudest accents, "We are free!"</l>
+	<l>In thrilling concert sung,</l>
+	<l>The same all-glorious song of Love and Liberty.</l>
+	</lg>
+	<lg type="stanza">
+	<l>The wild night-winds howled down the mountain passes,</l>
+	<l>The crescent moon steered like a fairy bark,</l>
+	<l>'Mid reefs of vapor dark,</l>
+	<l>And silvered with her beams the waving grasses,</l>
+	<l>Or lighted up the pine-wood's sombre masses</l>
+	<l>On the far hillby.  The sea-bird caught the gleam</l>
+	<l>On her white wing.&#8212;The beam</l>
+	<l>Revealed the mountain torrent's dashing spray</l>
+	<l>Its fountain free!</l>
+	<l>Field, river, ocean, tree,</l>
+	<l>Joined the all-glorious lay&#8212;</l>
+	<l>Chanted the same glad hymn of Love and Liberty</l>
+	</lg>
+	<lg type="stanza">
+	<l>The warm sun climbed the zenith, shining down</l>
+	<l>Into the bosom of the fragrant rose.</l>
+	<l>A deep and still repose</l>
+	<l>Hung over the thick wood, and not a frown</l>
+	<l>Darkened the placid Lake.  The river played</l>
+	<l>With the bright yellow lotus flowers, and made</l>
+	<l>A thousand rainbows, as its waters rose</l>
+	<l>In created foam.  Each beautiful and free,</l>
+	<l>In noonday jubilee,</l>
+	<l>Chanted the joyous hymn of Love and Liberty.</l>
+	</lg>
+	<lg type="stanza">
+	<l>The hurricane with fierce and rapid motion</l>
+	<l>Crossed the blue deeps from which the planets gleamed</l>
+	<l>Aurora's splendors streamed,</l>
+	<l>With roseate hues down on the floating ocean</l>
+	<l>Of rain and storm-cloud, that in wild commotion</l>
+	<l>Rolled on from pole to pole.  The stormy North</l>
+	<l>Its golden bands sent forth&#8212;</l>
+	<l>Flickering athwart the zenith with a light</l>
+	<l>So spirtually bright,</l>
+	<l>Making the vault of Night</l>
+	<l>One gorgeous mantle clasped and gemmed with gold.</l>
+	<l>And, ever as of old,</l>
+	<l>When sang the morning stars, they whispered me,</l>
+	<l>"Joyous we are, and free&#8212;</l>
+	<l>Still chanting that old song of Love and Liberty!"</l>
+	</lg>
+
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00038" type="same periodical"/>	      
+		<xptr n="lby.00039" type="same periodical"/>
+		<xptr n="lby.00040" type="same periodical"/>
+		<xptr n="lby.00041" type="same periodical"/>
+		<xptr n="lby.00042" type="same periodical"/>	      
+		<xptr n="lby.00043" type="same periodical"/>
+		<xptr n="lby.00044" type="same periodical"/>
+		<xptr n="lby.00045" type="same periodical"/>
+		<xptr n="lby.00047" type="same periodical"/>
+		
+		</item>
+		</list>
+</div>
+
+      </body>
+   </text>
+</TEI.2>

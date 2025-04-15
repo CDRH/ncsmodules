@@ -1,0 +1,12 @@
+<add>
+   <doc>
+      <field name="id">lby.00139</field>
+      <field name="title">Libertas Americana</field>
+      <field name="project">liberty</field>
+      <field name="genre">illustrations</field>
+      <field name="place">french</field>
+      <field name="topic">gender</field>
+      <field name="topic">icon</field>
+      <field name="text">IllustratorAuthor of book </field>
+   </doc>
+</add>

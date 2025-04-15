@@ -1,0 +1,43 @@
+div#text h2, div#widetext h2 { font-size: 1.4em; font-weight: normal; margin-top: 15px;}
+ul {list-style-type: none; margin: 30px 5px 30px 10px;}
+li {padding: 5px; }
+body {background-color: white; background-image: url('images/sidemain.jpg'); background-repeat: repeat-y; margin: 0px 0px 0px 125px; padding: 0px;}
+p.right {text-align: right; }
+div#header { margin-bottom: 10px; margin-top: 30px;}
+div#body {width: 535px; margin-top: 0px; padding-top: 20px; background-image: url('images/break.gif'); background-position: top right; background-repeat: no-repeat;}
+div#footer { width:535px; font-family: verdana, arial, sans-serif; font-size: .7em; background-image: url('images/break.gif'); background-position: top right; background-repeat: no-repeat; padding-top: 10px;  margin-top: 0px; margin-bottom: 50px;}
+div#text { width: 400px; font-family: "Times New Roman", Times, serif; font-size: 1em; line-height: 1.2em; margin-bottom: 50px;}
+div#widetext { width: 535px; font-family: "Times New Roman", Times, serif; font-size: 1em; line-height: 1.2em; margin-bottom: 50px;}
+div#menu { width: 100px; float: right; margin-top: 5px; font-family: verdana, arial, sans-serif; font-size: .75em; text-align: center;}
+div#menu img { margin-bottom: 4px; margin-top: 4px; border: 0px;}
+div#text p, div#widetext p { text-indent: 1.5em; text-align: left; margin-top: 10px;}
+a:link {color: #A21011; text-decoration: none;}
+a:visited {color: #603334; text-decoration: none; }
+a:hover {text-decoration: underline;}
+div#menu a:link {color: #A21011; text-decoration: none;}
+div#menu a:hover {text-decoration: none;}
+div#menu a:visited {color: #603334; text-decoration: none; }
+big { font-size: 1em; font-weight: bold; }
+p.form {padding-top: 15px;}
+
+
+input {border: solid 1px #7E8B77; font-family: arial, sans-serif;}
+input.go {background-color: #7E8B77; color: white; font-weight: bold; border: solid 1px #687362; border-top-color: #909F88; border-left-color: #909F88; padding: 1px; }
+
+
+div#footer p { margin-top: 0px; margin-bottom: 0px; }
+img#unl {float: right;}
+small {font-family: verdana, arial, sans-serif; font-size: .8em; color: 868686; }
+div#footer p.copystmt {border: solid 1px #909C89; padding: 10px; margin-top: 40px; line-height: 1.5em; }
+div#menu h2 { font-size: 1.2em; color: #576152; padding: 0px; margin: 0px; font-weight: bold;}
+div#menu p {margin: 10px 0px 15px 0px; padding: 0px; text-align: center; }
+div#topmenu { margin: 0px; padding: 0px; }
+div#topmenu a {font-family: verdana; font-size: .8em; border: solid #A21011; border-width: 1px 1px 0px 1px; padding: 0px 4px 0px 4px; margin: 0px; color: black}
+div#topmenu a:link {font-family: verdana; font-size: .8em; border: solid #A21011; border-width: 1px 1px 0px 1px; padding: 0px 4px 0px 4px; margin: 0px; color: black}
+div#topmenu a:visited {font-family: verdana; font-size: .8em; border: solid #A21011; border-width: 1px 1px 0px 1px; padding: 0px 4px 0px 4px; margin: 0px; color: black;}
+div#topmenu a:hover {font-family: verdana; font-size: .8em; border: solid #A21011; border-width: 1px 1px 0px 1px; padding: 0px 4px 0px 4px; margin: 0px; color: #A21011; text-decoration: none;}
+td.one { vertical-align: top; width: 120px; padding-right: 10px;}
+td {font-size: 1em;}
+h1 {font-size: 1.5em; font-weight: normal;}
+h2 {font-size: 1.3em; font-weight: normal;}
+h3 {font-size: 1em; font-weight: bold;}

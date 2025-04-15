@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00005">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">A Tale of Two Cities</hi></title>
+           <title level="c" type="chapter">from Book Three: The Track of a Storm. Chapter I, "In Secret"</title>
+<date type="original" value="1859">1859</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Dickens">Charles Dickens
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00005</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 341-342 of the 1890 Estes and Lauriat edition of Charles Dickens's <hi rend="italic">A Tale of Two Cities</hi>. Originally published in 1859.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">BOOK THE THIRD. THE TRACK OF A STORM. CHAPTER I.</title>
+               <title level="m">A Tale of Two Cities</title>
+               <author>Charles Dickens</author>
+               <imprint>
+                  <publisher>Estes &#38; Lauriat
+
+</publisher>
+                  <pubPlace>Boston
+</pubPlace>
+               </imprint>
+               <date>1890
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="fiction" type="genre">fiction</term>
+<term id="british" type="place">British</term>
+<term id="frenchrevolution" type="topic">French Revolution</term>
+<term id="dissenting" type="topic">Dissenting Voices</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-17">17 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">BOOK THE THIRD. THE TRACK OF A STORM.</head>
+<head type="sub">CHAPTER I.</head>
+<head type="sub">IN SECRET.</head>
+
+<p>THE traveller fared slowly on his way, who fared towards Paris from England in the autumn of the year one thousand seven hundred and ninety-two. More than enough of bad roads, bad equipages, and bad horses he would have encountered to delay him, though the fallen and unfortunate King of France had been upon his throne in all his glory; but, the changed times were fraught with other obstacles than these. Every town gate and village taxing-house had its band of citizen-patriots, with their national muskets in a most explosive state of readiness, who stopped all comers and goers, cross-questioned them, inspected their papers, looked for their names in lists of their own, turned them back, or sent them on, or stopped them and laid them in hold, as their capricious judgement or fancy deemed best for the dawning Republic One and Indivisible, of Liberty, Equality, Fraternity, or Death.</p>
+
+<p>A very few French leagues of his journey were accomplished, when Charles Darnay began to perceive that for him along these country roads there was no hope of return until he should have been declared a good citizen at Paris. Whatever might befall now, he must on to his journey's end. Not a mean village closed upon him, not a common barrier dropped across the road behind him, but he knew it to be another iron door in the series that was barred between him and England. The universal watchfulness so encompassed him, that if he had been taken in a net, or were being forwarded to his destination in a cage, he could not have felt his freedom more completely gone.</p>
+
+<gap reason="sampling" extent=""/>
+
+<div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

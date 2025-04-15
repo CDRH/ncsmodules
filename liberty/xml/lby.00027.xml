@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00027">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Gettysburg Address</hi></title>
+            
+<date type="original" value="1863">1863</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Lincoln">Abraham Lincoln
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00027</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Abraham Lincoln's <hi rend="italic">Gettysburg Address</hi>, given November 19, 1863 on the battlefield near Gettysburg, Pennsylvania.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Lincoln's Gettysburg Address, given November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA</title>
+               <title level="m">Project Gutengerg</title>
+               <author>Abraham Lincoln</author>
+               <imprint>
+                  <publisher>Project Gutenberg Literary Archive Foundation
+
+</publisher>
+                  <pubPlace>http://www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>1993
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="lincoln" type="topic">Lincoln</term>
+<term id="civilwar" type="topic">Civil War</term>
+</keywords>         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-09-01">01 September 2005</date>
+    <respStmt>
+	<name>Mike Page and Linda Pratt</name>
+    </respStmt>
+    <item>terms into document</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-31">31 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">Lincoln's Gettysburg Address, given November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA</head>
+
+<p>Four score and seven years ago, our fathers brought forth upon this continent a new nation: conceived in liberty, and dedicated to the proposition that all men are created equal.</p>
+
+<p>Now we are engaged in a great civil war ... testing whether that nation, or any nation so conceived and so dedicated ... can long endure. We are met on a great battlefield of that war.</p>
+
+<p>We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that this nation might live. It is altogether fitting and proper that we should do this.</p>
+
+<p>But, in a larger sense, we cannot dedicate ... we cannot consecrate ... we cannot hallow this ground. The brave men, living and dead, who struggled here have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember, what we say here, but it can never forget what they did here.</p>
+
+<p>It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us ... that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion ... that we here highly resolve that these dead shall not have died in vain ... that this nation, under God, shall have a new birth of freedom ... and that government of the people ... by the people ... for the people ... shall not perish from this earth.</p>
+
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00026" type="same author"/>
+			<xptr n="lby.00037" type="same subject"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

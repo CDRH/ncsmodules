@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00015">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"To Wordsworth"</title>
+<date type="original" value="1816">1816</date>
+
+            <title level="m" type="sub">electronic edition</title>
+<author name="Shelley">Percy Bysshe Shelley
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00015</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from page 13 of the 1839 Edward Moxon edition of Percy Bysshe Shelley's <hi rend="italic">Poetical Works</hi>, Volume III. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">To Wordsworth</title>
+               <title level="m">Poetical Works, Volume III</title>
+               <author>Percy Bysshe Shelley</author>
+               <imprint>
+                  <publisher>Edward Moxon
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1839
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="individual" type="topic">Individual Liberty</term>
+
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-24">24 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">TO WORDSWORTH.</head>
+<lg>
+<l>POET of Nature, thou hast wept to know</l>
+<l>That things depart which never may return;</l>
+<l>Childhood and youth, friendship and love's first glow,</l>
+<l>Have fled like sweet dreams, leaving three to mourn.</l>
+<l>These common woes I feel. One loss is mine,</l>
+<l>Which thou too feel'st; yet I alone deplore.</l>
+<l>Thou wert as a lone star, whose light did shine</l>
+<l>On some frail bark in winter's midnight roar:</l>
+<l>Thou hast like to a rock-built refuge stood</l>
+<l>Above the blind and battling multitude;</l>
+<l>In honoured poverty thy voice did weave</l>
+<l>Songs consecrate to truth and liberty,&#8212;</l>
+<l>Deserting these, thou leavest me to grieve,</l>
+<l>Thus having been, that thou shouldst cease to be.</l>
+</lg>       
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00016" type="Same author"/>
+                  <xptr n="lby.00017" type="Same author"/>
+                  <xptr n="lby.00018" type="Same author"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

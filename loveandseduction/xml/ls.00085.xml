@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00085">
+   <teiHeader>
+
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">A Tangled Web: Sex Scandals in British Politics and Society</hi>
+		<title level="c" type="chapter">from Chapter 4, "Some Victorian Sex Scandals"</title>
+<date type="original" value="1986">1986</date>
+
+
+</title>
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Hyde">H. Montgomery Hyde </author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00085</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 76-77 of H. Montgomery Hyde's <hi rend="italic">A Tangled Web:  Sex Scandals in British Politics and Society</hi>.  Published by Constable, 1986.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+
+<bibl>
+               <title level="a">Chapter 4, "Some Victorian Sex Scandals"</title>
+               <title level="m"><hi rend="italic">A Tangled Web:  Sex Scandals in British Politics and Society</hi></title>
+               <author>H. Montgomery Hyde</author>
+               <imprint>
+                  <publisher>
+Constable
+
+</publisher>
+                  <pubPlace>
+London
+
+</pubPlace>
+               </imprint>
+               <date>
+1986
+
+</date>
+               <idno type="ISBN">
+0094669600
+
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+
+<keywords>
+
+<term id="commentary" type="media">commentary</term>
+<term id="divorce" type="theme">divorce</term>
+<term id="french" type="place">french</term>
+<term id="popularpress" type="theme">popular press</term>
+<term id="fictioninpress">fiction in press</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-18">18 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+
+<change>
+            <date value="2005-03-23">23 March 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>preliminary coding and edit</item>
+         </change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head>1.</head><p>
+"It has frequently but erroneously been
+stated that divorce was originally introduced in England by the Matrimonial
+Causes Act of 1857. In fact this legislation did not alter the law of divorce
+in any way but simply made it subject to judicial process, thus making it
+quicker, cheaper and more widely available than the existing cumbrous procedure
+by Private Act of Parliament. . . While altering the procedure for obtaining a
+divorce, the 1857 Act introduced no new principles. . . . </p>
+
+<p>However, it did result in the reporting of the
+evidence in divorce cases, often in salacious detail. This caused Queen Victoria considerable concern, and after the judicial court had been hearing divorce
+petitions for about two years the Queen wrote to Lord Campbell, by this time
+Lord Chancellor, asking whether steps could not be taken to prevent the
+undesirable publicity attending divorce proceedings:<q rend="block">
+These cases, which must necessarily
+increase when the new law becomes more and more known, fill now almost
+daily a large portion of the newspapers, and are of so scandalous a character that it
+makes it almost impossible for a paper to be trusted in the hand of a young lady
+or boy. None of the worst French novels from which careful parents try to protect
+their children can be as bad as what is daily brought and laid upon the
+breakfast-table of every educated family in England, and its effect must be
+most pernicious to the public morals of the country. </q></p>
+
+         <p>The Lord Chancellor replied that, having
+attempted in the last session of Parliament to introduce a measure to give
+effect to the Queen's wish, and having been defeated, he was powerless to
+prevent the evil. The situation was otherwise in Scotland where divorce cases
+had always been tried <hi rend="italic">in camera </hi>and only the judgment or verdict was
+published, while in Ireland it did not arise, although <hi rend="italic">crim. con. </hi> [i.e., "criminal conversation," civil actions by cuckolded husbands to be compensated for their losses due to the adultery of their wives] cases
+there continued to be reported in some detail. Hence the evidence in divorce
+cases in England were fully reported until after the First World War when the
+reports eventually restricted to conform with the practice in Scotland"
+(76-77).</p>
+
+
+
+      </body>
+   </text>
+</TEI.2>

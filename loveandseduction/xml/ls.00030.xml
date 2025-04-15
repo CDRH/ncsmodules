@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00030">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Madame Bovary</hi>
+</title>
+<title level="a" type="main"></title>
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Part III, Chapter V</title>
+<title level="m" type="monograph"></title>
+<author name="Flaubert">Gustave Flaubert</author>
+<date type="original" value="1857">1857</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00030</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Gustave Flaubert's <hi rend="italic">Madame Bovary</hi>, Part III, Chapter V.  Originally published in 1857.  This translation is by Eleanor Marx-Aveling.</note>
+
+         </notesStmt>
+         <sourceDesc>
+<bibl>
+               <title level="a">Part III, Chapter V</title>
+               <title level="m"><hi rend="italic">Madame Bovary</hi></title>
+               <author>Gustave Flaubert</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+2000
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="boudoir" type="setting">boudoir</term>
+               <term id="adultery" type="theme">adultery</term>
+			<term id="french" type="place">French</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-18">18 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+        
+         <head type="editoril">Scene Four: 
+Emma and Leon's standing rendezvous in a hotel</head>
+
+         <p>For fear of
+being seen, she did not usually take the most direct road. She plunged into
+dark alleys, and, all perspiring, reached the bottom of the Rue Nationale, near
+the fountain that stands there. It, is the quarter for theatres, public-houses,
+and whores. Often a cart would pass near her, bearing some shaking scenery.
+Waiters in aprons were sprinkling sand on the flagstones between green shrubs.
+It all smelt of absinthe, cigars, and oysters. </p>
+
+         <p>She turned down
+a street; she recognised him by his curling hair that escaped from beneath his
+hat. </p>
+
+         <p>L&#233;on walked along the
+pavement. She followed him to the hotel. He went up, opened the door,
+entered&#8212;What an embrace! </p>
+
+         <p>Then, after the
+kisses, the words gushed forth. They told each other the sorrows of the week,
+the presentiments, the anxiety for the letters; but now everything was
+forgotten; they gazed into each other's faces with voluptuous laughs, and
+tender names. </p>
+
+         <p>The bed was
+large, of mahogany, in the shape of a boat. The curtains were in red levantine,
+that hung from the ceiling and bulged out too much towards the bell-shaped
+bedside; and nothing in the world was so lovely as her brown head and white
+skin standing out against this purple colour, when, with a movement of shame,
+she crossed her bare arms, hiding her face in her hands. </p>
+
+         <p>The warm room,
+with its discreet carpet, its gay ornaments, and its calm light, seemed made
+for the intimacies of passion. The curtain-rods, ending in arrows, their brass
+pegs, and the great balls of the fire-dogs shone suddenly when the sun came in.
+On the chimney between the candelabra there were two of those pink shells in
+which one hears the murmur of the sea if one holds them to the ear. </p>
+
+         <p>How they loved
+that dear room, so full of gaiety, despite its rather faded splendour! They
+always found the furniture in the same place, and sometimes hairpins, that she
+had forgotten the Thursday before, under the pedestal of the clock. They
+lunched by the fireside on a little round table, inlaid with rosewood. Emma
+carved, put bits on his plate with all sorts of coquettish ways, and she
+laughed with a sonorous and libertine laugh when the froth of the champagne ran
+over from the glass to the rings on her fingers. They were so completely lost
+in the possession of each other that they thought themselves in their own
+house, and that they would live there till death, like two spouses eternally
+young. They said "our room," "our carpet," she even said
+"my slippers," a gift of L&#233;on's, a whim she had had. They were pink
+satin, bordered with swansdown. When she sat on his knees, her leg, then too
+short, hung in the air, and the dainty shoe, that had no back to it, was held
+only by the toes to her bare foot. </p>
+
+         <p>He for the
+first time enjoyed the inexpressible delicacy of feminine refinements. He had
+never met this grace of language, this reserve of clothing, these poses of the
+weary dove. He admired the exaltation of her soul and the lace on her
+petticoat. Besides, was she not "a lady" and a married woman&#8212;a real
+mistress, in fine?</p>
+
+         <p>By the
+diversity of her humour, in turn mystical or mirthful, talkative, taciturn,
+passionate, careless, she awakened in him a thousand desires, called up instincts
+or memories. She was the mistress of all the novels, the heroine of all the
+dramas, the vague "she" of all the volumes of verse. He found again
+on her shoulder the amber colouring of the "Odalisque Bathing"; she
+had the long waist of feudal chatelaines, and she resembled the "Pale
+Woman of Barcelona." But above all she was the Angel! </p>
+
+         <p>Often looking
+at her, it seemed to him that his soul, escaping towards her, spread like a
+wave about the outline of her head, and descended drawn down into the whiteness
+of her breast. He knelt on the ground before her, and with both elbows on her
+knees looked at her with a smile, his face upturned. </p>
+
+         <p>She bent over
+him, and murmured, as if choking with intoxication: </p>
+
+         <p>"Oh, do
+not move! do not speak! look at me! Something so sweet comes from your eyes
+that helps me so much!" </p>
+
+         <p>She called him
+"child." "Child, do you love me?" </p>
+
+         <p>And she did not
+listen for his answer in the haste of her lips that fastened to his mouth. </p>
+
+         <p>On the clock
+there was a bronze cupid, who smirked as he bent his arm beneath a golden
+garland. They had laughed at it many a time, but when they had to part
+everything seemed serious to them. </p>
+
+         <p>Motionless in
+front of each other, they kept repeating, "Till Thursday, till
+Thursday." </p>
+
+         <p>Suddenly she
+seized his head between her hands, kissed him hurriedly on the forehead,
+crying, "Adieu!" and rushed down the stairs. </p>
+
+<div1 type="file references">
+            <list>
+               <item>
+                 <xptr n="ls.00068" type="same novel"/></item>
+			<item><xptr n="ls.00038" type="same novel"/></item>
+              	<item><xptr n="ls.00031" type="same novel"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

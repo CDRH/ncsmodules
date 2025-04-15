@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00007">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from "Locksley Hall"</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter"></title>
+<author name="Tennyson">Alfred, Lord Tennyson</author>
+<date type="original" value="1842">1842</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00007</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 246-249 of <hi rend="italic">The Poetical Works of Alfred Tennyson</hi>, published in 1891 by the National Library Association.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a">Locksley Hall</title>
+               <title level="m">The Poetical Works of Alfred Tennyson</title>
+               <author>Alfred Tennyson</author>
+               <imprint>
+                  <publisher>
+National Library Association
+
+</publisher>
+                  <pubPlace>
+Chicago
+
+</pubPlace>
+               </imprint>
+               <date>
+1891
+
+</date>
+                     </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="wild" type="setting">wild</term>
+               <term id="courtship" type="theme">courtship</term>
+			<term id="class" type="theme">class</term>
+			<term id="arrangedmarriage" type="theme">arranged marriage</term>
+			<term id="british" type="place">British</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-25">25 February 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="editorial">scene one: Beach scene that leads to regret</head>
+
+         <lg1 type="poem">
+         
+		<lg2 type="stanza">
+         <l>Here about the beach I wander'd,
+nourishing a youth sublime </l>
+
+         <l>With the fairy tales of science,
+and the long result of Time; </l>
+
+         </lg2>
+	<lg2 type="stanza">
+         <l>When the centuries behind me like
+a fruitful land reposed; </l>
+
+         <l>When I clung to all the present
+for the promise that it closed: </l>
+	</lg2>
+		<lg2 type="stanza">
+
+         <l>When I dipt into the future far as
+human eye could see; </l>
+
+         <l>Saw the Vision of the world and
+all the wonder that would be.&#8212; </l>
+		</lg2>
+
+		<lg2 type="stanza">
+         <l>In the Spring a fuller crimson
+comes upon the robin's breast; </l>
+
+         <l>In the Spring the wanton lapwing
+gets himself another crest; </l>
+		</lg2>
+
+		<lg2 type="stanza">
+         <l>In the Spring a livelier iris
+changes on the burnish'd dove; </l>
+
+         <l>In the Spring a young man's fancy
+lightly turns to thoughts of love. </l>
+		</lg2>
+
+		<lg2 type="stanza">
+         <l>Then her cheek was pale and
+thinner than should be for one so young, </l>
+
+         <l>And her eyes on all my motions
+with a mute observance hung. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>And I said, "My cousin Amy,
+speak, and speak the truth to me, </l>
+
+         <l>Trust me, cousin, all the current
+of my being sets to thee." </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>On her pallid cheek and forehead
+came a colour and a light, </l>
+
+         <l>As I have seen the rosy red
+flushing in the northern night. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>And she turn'd her bosom shaken
+with a sudden storm of sighs &#8212; </l>
+
+         <l>All the spirit deeply dawning in
+the dark of hazel eyes &#8212; </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Saying, "I have hid my
+feelings, fearing they should do me wrong"; </l>
+
+         <l>Saying, "Dost thou love me,
+cousin?" weeping, "I have loved thee long." </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Love took up the glass of Time,
+and turn'd it in his glowing hands; </l>
+
+         <l>Every moment, lightly shaken, ran
+itself in golden sands. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Love took up the harp of Life, and
+smote on all the chords with might; </l>
+
+         <l>Smote the chord of Self, that,
+trembling, pass'd in music out of sight. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Many a morning on the moorland did
+we hear the copses ring, </l>
+
+         <l>And her whisper throng'd my pulses
+with the fullness of the Spring. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Many an evening by the waters did
+we watch the stately ships, </l>
+
+         <l>And our spirits rush'd together at
+the touching of the lips. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>O my cousin, shallow-hearted! O my
+Amy, mine no more! </l>
+
+         <l>O the dreary, dreary moorland! O
+the barren, barren shore! </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Falser than all fancy fathoms,
+falser than all songs have sung, </l>
+
+         <l>Puppet to a father's threat, and
+servile to a shrewish tongue! </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Is it well to wish thee
+happy? &#8212; having known me &#8212;to decline </l>
+
+         <l>On a range of lower feelings and a
+narrower heart than mine! </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Yet it shall be; thou shalt lower
+to his level day by day, </l>
+
+         <l>What is fine within thee growing
+coarse to sympathize with clay. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>As the husband is, the wife is:
+thou art mated with a clown, </l>
+
+         <l>And the grossness of his nature
+will have weight to drag thee down. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>He will hold thee, when his
+passion shall have spent its novel force, </l>
+
+         <l>Something better than his dog, a
+little dearer than his horse. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>What is this? his eyes are heavy;
+think not they are glazed with wine. </l>
+
+         <l>Go to him, it is thy duty, kiss
+him, take his hand in thine. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>It may be my lord is weary, that
+his brain is overwrought: </l>
+
+         <l>Soothe him with thy finer fancies,
+touch him with thy lighter thought. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>He will answer to the purpose,
+easy things to understand &#8212; </l>
+
+         <l>Better thou wert dead before me,
+tho' I slew thee with my hand! </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Better thou and I were lying,
+hidden from the heart's disgrace, </l>
+
+         <l>Roll'd in one another's arms, and
+silent in a last embrace. </l>
+		</lg2>
+
+	<lg2 type="stanza">
+         <l>Cursed be the social wants that
+sin against the strength of youth! </l>
+
+         <l>Cursed be the social lies that
+warp us from the living truth! </l>
+		</lg2>
+
+		<lg2 type="stanza">
+         <l>Cursed be the sickly forms that
+err from honest Nature's rule! </l>
+
+	<l>Cursed be the gold that gilds the
+straiten'd forehead of the fool! </l>
+		</lg2>
+	</lg1>
+
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00001" type="commentary on fiction"/>
+               </item>
+
+               <item>
+                  <xptr n="ls.00008" type="same author"/>
+               </item>
+	<item>
+                  <xptr n="ls.00175" type="image on same author"/>
+               </item>
+	<item>
+                  <xptr n="ls.00176" type="image on same author"/>
+               </item>
+	<item>
+                  <xptr n="ls.00177" type="image on same author"/>
+               </item>               
+
+		<item><xptr n="ls.00173" type="image on same author"/></item>
+		<item><xptr n="ls.00174" type="image on same author"/></item>
+
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

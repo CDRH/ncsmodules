@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00014">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Childe Harold's Pilgrimage</hi></title>
+<title level="c" type="chapter">from Canto IV</title>
+
+
+<date type="original" value="1818">1818</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Byron">Lord Byron</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00014</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 52-54 of the 1837 John Murray edition of <hi rend="italic">Byron's Works</hi>.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Canto IV</title>
+               <title level="m">Childe Harold</title>
+               <author>Lord Byron</author>
+               <imprint>
+                  <publisher>John Murray
+
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1837
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="british" type="place">British</term>
+<term id="individual" type="topic">Individual Liberty</term>
+<term id="italy" type="topic">Italy</term>
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-09-01">1 September 2005</date>
+    <respStmt>
+	<name>Laura White</name>
+    </respStmt>
+    <item>terms and file references</item>
+</change>
+<change>
+  <date value="2005-07-21">21 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+
+<change>
+            <date value="2005-05-24">24 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+	 </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head type="main">Canto IV.</head>
+
+<gap reason="sampling" extent=""/>
+
+<lg n="XCVIII." type="stanza">
+<l>Yet, Freedom! yet thy banner, torn, but flying,</l>
+<l>Streams like the thunder-storm <hi rend="italic">against</hi> the wind;</l>
+<l>Thy trumpet voice, though broken now and dying,</l>
+<l>The loudest still the tempest leaves behind;</l>
+<l>Thy tree hath lost its blossoms, and the rind,</l>
+<l>Chopp'd by the axe, looks rough and little worth,</l>
+<l>But the sap lasts,&#8212;and still the seed we find</l>
+<l>Sown deep, even in the bosom of the North;</l>
+<l>So shall a better spring less bitter fruit bring forth.</l>
+</lg>
+
+<lg n="XCIX." type="stanza">
+<l>There is a stern tower of other days,</l>
+<l>Firm as a fortress, with its fence of stone,</l>
+<l>Such as an army's baffled strength delays,</l>
+<l>Standing with half its battlements alone,</l>
+<l>And with two thousand years of ivy grown,</l>
+<l>The garland of eternity, where wave</l>
+<l>The green leaves over all by time o'erthrown;&#8212;</l>
+<l>What was this tower of strength? within its cave</l>
+<l>What treasure lay so lock'd, so hid?&#8212;A Woman's grave.</l>
+</lg>
+
+<lg n="C." type="stanza">
+<l>But who was she, the lady of the dead,</l>
+<l>Tomb'd in a palace? Was she chaste and fair?</l>
+<l>Worthy a king's&#8212;or more&#8212;a Roman's bed?</l>
+<l>What race of chiefs and heroes did she bear?</l>
+<l>What daughter of her beauties was the heir?</l>
+<l>How lived&#8212;how loved&#8212;how died she? Was she not</l>
+<l>So honour'd&#8212;and conspicuously there,</l>
+<l>Where meaner relics must not dare to rot,</l>
+<l>Placed to commemorate a more than mortal lot?</l>
+</lg>
+
+<lg n="CI." type="stanza">
+<l>Was she as those who love their lords, or they</l>
+<l>Who love the lords of others? such have been</l>
+<l>Even in the olden time, Rome's annals say,</l>
+<l>Was she a matron of Cornelia's mien,</l>
+<l>Or the light air of Egypt's graceful queen,</l>
+<l>Profuse of joy&#8212;or 'gainst it did she war,</l>
+<l>Inveterate in virtue? Did she lean</l>
+<l>To the soft side of the heart, or wisely bar</l>
+<l>Love from amongst her griefs?&#8212;for such the affections are.</l>
+</lg>
+
+<lg n="CII." type="stanza">
+<l>Perchance she died in youth: it may be, bow'd</l>
+<l>With woes far heavier than the ponderous tomb</l>
+<l>That weigh'd upon her gentle dust, a cloud</l>
+<l>Might gather o'er her beauty, and a gloom</l>
+<l>In her dark eye, prophetic of the doom</l>
+<l>Heaven gives its favourites&#8212;early death; yet shed</l>
+<l>A sunset charm around her, and illume</l>
+<l>With hectic light, the Hesperus of the dead,</l>
+<l>Of her consuming cheek the autumnal leaf-like red.</l>
+</lg>
+
+<lg n="CIII." type="stanza">
+<l>Perchance she died in age&#8212;surviving all,</l>
+<l>Charms, kindred, children&#8212;with the silver gray</l>
+<l>On her long tresses, which might yet recall,</l>
+<l>It may be, still a something of the day</l>
+<l>When they were braided, and her proud array</l>
+<l>And lovely form were envied, praised, and eyed</l>
+<l>By Rome&#8212;But whither would Conjecture stray?</l>
+<l>Thus much alone we know&#8212;Metalla died,</l>
+<l>The wealthiest Roman's wife: Behold his love or pride!</l>
+</lg>
+
+<lg n="CIV." type="stanza">
+<l>I know not why&#8212;but standing thus by three</l>
+<l>It seems as if I had thine inmate known,</l>
+<l>Thou Tomb! and other days come back on me</l>
+<l>With recollected music, though the tone</l>
+<l>Is changed and solemn, like the cloudy groan</l>
+<l>Of dying thunder on the distant wind;</l>
+<l>Yet could I seat me by this ivied stone</l>
+<l>Till I had bodied forth the heated mind</l>
+<l>Forms from the floating wreck which Ruin leaves behind;</l>
+</lg>
+
+<lg n="CV." type="stanza">
+<l>And from the planks, far shatter'd o'er the rocks,</l>
+<l>Built me a little bark of hope, once more</l>
+<l>To battle with the ocean and the shocks</l>
+<l>Of the loud breakers, and the ceaseless roar</l>
+<l>Which rushes on the solitary shore</l>
+<l>Where all lies founder'd that was ever dear:</l>
+<l>But could I gather from the wave-worn store</l>
+<l>Enough for my rude boat, where should I steer?</l>
+<l>There woos no home, nor hope, nor life, save what is here.</l>
+</lg>
+
+<lg n="CVI." type="stanza">
+<l>Then let the winds howl on! their harmony</l>
+<l>Still henceforth be my music, and the night</l>
+<l>The sound shall temper with the owlets' cry,</l>
+<l>As I now hear them, in the fading light</l>
+<l>Dim o'er the bird of darkness' native site,</l>
+<l>Answering each other on the Palatine,</l>
+<l>With their large eyes, all glistening gray and bright,</l>
+<l>And sailing pinions.&#8212;Upon such a shrine</l>
+<l>What are our petty griefs?&#8212;let me not number mine.</l>
+</lg>
+
+<lg n="CVII." type="stanza">
+<l>Cypress and ivy, weed and wallflower grown</l>
+<l>Matted and mass'd together, hillocks heap'd</l>
+<l>On what were chambers, arch crush'd, column strown</l>
+<l>In fragments, chocked up vaults, and frescos steep'd</l>
+<l>In subterranean damps, where the owl peep'd,</l>
+<l>Deeming it midnight:&#8212;Temples, baths, or halls?</l>
+<l>Pronounce who can; for all that Learning reap'd</l>
+<l>From her research hath been, that these are walls&#8212;</l>
+<l>Behold the Imperial Mount! 'tis thus the mighty fallby.</l>
+</lg>
+
+<lg n="CVIII." type="stanza">
+<l>There is the moral of all human tales;</l>
+<l>'Tis but the same rehearsal of the past,</l>
+<l>First Freedom, and then Glory&#8212;when that fails,</l>
+<l>Wealth, vice, corruption,&#8212;barbarism at last.</l>
+<l>And History, with all her volumes vast,</l>
+<l>Hath but <hi rend="italic">one</hi> page,&#8212;'t is better written here,</l>
+<l>Where gorgeous Tyranny hath thus amass'd</l>
+<l>All treasures, all delights, that eye or ear,</l>
+<l>Heart, soul could seek, tongue ask&#8212;Away with swords! draw near,</l>
+</lg>
+
+<lg n="CIX." type="stanza">
+<l>Admire, exult&#8212;despise&#8212;laugh, weep,&#8212;for here</l>
+<l>There is such matter for all feeling:&#8212;Man!</l>
+<l>Thou pendulum betwixt a smile and tear,</l>
+<l>Ages and realms are crowded in this span,</l>
+<l>This mountain, whose obliterated plan</l>
+<l>The pyramid of empires pinnacled,</l>
+<l>Of Glory's gewgaws shining in the van</l>
+<l>Till the sun's rays with added flame were fill'd!</l>
+<l>Where are its golden roofs? where those who dared to build?</l>
+</lg>
+
+<lg n="CX." type="stanza">
+<l>Tully was not so eloquent as thou,</l>
+<l>Thou nameless column with the buried base!</l>
+<l>What are the laurels of the C&#230;sar's brow?</l>
+<l>Crown me with ivy from his dwelling-place.</l>
+<l>Whose arch or pillar meets me in the face,</l>
+<l>Titus or Trajan's? No&#8212;'t is that of Time:</l>
+<l>Triumph, arch, pillar, all he doth displace</l>
+<l>Scoffing; and apostolic statues climb</l>
+<l>To crush the imperial urn, whose ashes slept sublime,</l>
+</lg>
+
+<lg n="CXI." type="stanza">
+<l>Buried in air, the deep blue sky of Rome,</l>
+<l>And looking to the stars: they had contain'd</l>
+<l>A spirit which with these would find a home,</l>
+<l>The last of those who o'er the whole earth reign'd,</l>
+<l>The Roman globe, for after none sustain'd,</l>
+<l>But yielded back his conquests:&#8212;he was more</l>
+<l>Than a mere Alexander, and, unstain'd</l>
+<l>With household blood and wine, serenely wore</l>
+<l>His sovereign virtues&#8212;still we Trajan's name adore.</l>
+</lg>
+
+<lg n="CXII." type="stanza">
+<l>Where is the rock of Triumph, the high place</l>
+<l>Where Rome embraced her heroes? where the steep</l>
+<l>Tarpeian? fittest goal of Treason's race,</l>
+<l>The promontory whence the Traitor's Leap</l>
+<l>Cured all ambition. Did the conquerors heap</l>
+<l>Their spoils here? Yes; and in yon field below,</l>
+<l>A thousand years of silenced factions sleep&#8212;</l>
+<l>The Forum, where the immortal accents glow,</l>
+<l>And still the eloquent air breathes&#8212;burns with Cicero!</l>
+</lg>
+
+<lg n="CXIII." type="stanza">
+<l>The field of freedom, faction, fame, and blood:</l>
+<l>Here a proud people's passions were exhaled,</l>
+<l>From the first hour of empire in the bud</l>
+<l>To that when further worlds to conquer fail'd;</l>
+<l>But long before had Freedom's face been veil'd,</l>
+<l>And Anarchy assumed her attributes;</l>
+<l>Till every lawless soldier who assail'd</l>
+<l>Trod on the trembling senate's slavish mutes,</l>
+<l>Or raised the venal of baser prostitutes.</l>
+</lg>
+
+<lg n="CXIV." type="stanza">
+<l>Then turn we to her latest tribune's name,</l>
+<l>From her ten thousand tyrants turn to thee,</l>
+<l>Redeemer of dark centuries of shame&#8212;</l>
+<l>The friend of Petrarch&#8212;hope of Italy&#8212;</l>
+<l>Rienzi! last of Romans! While the tree</l>
+<l>Of freedom's wither'd trunk puts forth a leaf,</l>
+<l>Even for thy tomb a garland let it be&#8212;</l>
+<l>The forum's champion, and the people's chief&#8212;</l>
+<l>Her new-born Numa thou&#8212;with reign, alas! too brief.</l>
+</lg>
+
+<lg n="CXV." type="stanza">
+<l>Egeria! sweet creation of some heart</l>
+<l>Which found no mortal resting-place so fair</l>
+<l>As thine ideal breast; whate'er thou art</l>
+<l>Or wert,&#8212;a young Aurora of the air,</l>
+<l>The nympholepsy of some fond despair;</l>
+<l>Or, it might be, a beauty of the earth,</l>
+<l>Who found more than common votary there</l>
+<l>Too much adoring; whatsoe'er thy birth,</l>
+<l>Thou wert a beautful thought, and softly bodied forth.</l>
+</lg>
+
+<lg n="CXVI." type="stanza">
+<l>The mosses of thy fountain still are sprinkled</l>
+<l>With thine Elysian water-drops; the face</l>
+<l>Of thy cave-guarded spring, with years unwrinkled,</l>
+<l>Reflects the meek-eyed genius of the place,</l>
+<l>Whose green, wild margin now no more erase</l>
+<l>Art's works; nor must the delicate waters sleep,</l>
+<l>Prison'd in marble, bubbling from the base</l>
+<l>Of the cleft statue, with a gentle leap</l>
+<l>The rill runs o'er, and round, fern, flowers, and ivy, creep,</l>
+</lg>
+
+<lg n="CXVII." type="stanza">
+<l>Fantastically tangled: the green hills</l>
+<l>Are clothed with early blossoms, through the grass</l>
+<l>The quick-eyed lizard rustles, and the bills</l>
+<l>Of summer-birds sing welcome as ye pass;</l>
+<l>Flowers fresh in hue, and many in their class,</l>
+<l>Implore the pausing step, and with their dyes</l>
+<l>Dance in the soft breeze in a fairy mass;</l>
+<l>The sweetness of the violet's deep blue eyes,</l>
+<l>Kiss'd by the breath of heaven, seems colour'd by its skies.</l>
+</lg>
+
+<lg n="CXVIII." type="stanza">
+<l>Here didst thou dwell, in this enchanted cover,</l>
+<l>Egeria! thy all heavenly bosom beating</l>
+<l>For the far footsteps of they mortal lover;</l>
+<l>The purple Midnight veil'd that mystic meeting</l>
+<l>With her most starry canopy, and seating</l>
+<l>Thyself by thine adorer, what befel?</l>
+<l>This cave was surely shaped out for the greeting</l>
+<l>Of an enamour'd Goddess, and the cell</l>
+<l>Haunted by holy Love&#8212;the earliest oracle!</l>
+</lg>
+           
+<div type="file references">
+            <list>
+               <item>
+                  <xptr n="lby.00013" type="Same author"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

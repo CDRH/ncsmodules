@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00003">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Henry Ward Beecher</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter"></title>
+<title level="m" type="monograph"></title>
+<author name="Abbott">Lyman Abbott</author>
+<date type="original" value="1904">1904</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00003</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 288-299 of the original 1904 publication of Lyman Abbott's <hi rend="italic">Henry Ward Beecher</hi>.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XII, Under Accusation</title>
+               <title level="m">Henry Ward Beecher</title>
+               <author>Lyman Abbott</author>
+               <imprint>
+                  <publisher>
+Riverside Press
+
+</publisher>
+                  <pubPlace>
+Cambridge                                         
+
+</pubPlace>
+               </imprint>
+               <date>
+1904                          
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="history" type="media">history</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="adultery" type="theme">adultery</term>
+			<term id="popularpress" type="theme">popular press</term>
+			<term id="parlor" type="setting">parlor</term>
+			<term id="american" type="place">American</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-07-15">15 July 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit item</item>
+         </change>
+
+	<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>                                                                                             
+		<date value="2005-03-24">24 March 2005</date>
+		<respStmt>
+			<name>Michael page></name>
+		</respStmt>
+		<item>Initial encoding edit</item>
+		</change>
+
+<change>                                                                                             
+		<date value="2005-02-18">18 February 2005</date>
+		<respStmt>
+			<name>Michael page></name>
+		</respStmt>
+		<item>Initial encoding edit</item>
+		</change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+                  <head>CHAPTERXII</head>
+
+         <head>UNDER ACCUSATION</head>
+
+         <p>In
+its immediate effect on national politics the Cleveland letter was not of great
+importance. Party strife was too high to permit either faction to listen to
+counsels of conciliation and moderation. But it led to an episode in the life
+of Mr. Beecher, which for a time threatened permanently to becloud his before
+unsullied reputation. To the narrative of that episode it is now necessary to
+turn.</p>
+
+         <p>For
+the first thirteen years of its existence "The New York Independent"
+had been under the editorial control of three editors, Doctors Leonard Bacon,
+R. S. Storrs, and Joseph Thompson, all Congregational ministers of national
+eminence. At the expiration of that time, December, 1861, they resigned, and Mr.
+Beecher, who had been a frequent contributor, and whose sermons for the three
+years preceding had been published in "The Independent," became its
+sole editor. At his request, Mr. Theodore Tilton, a young prot&#233;g&#233; of Mr. Beecher
+and a member of Plymouth Church, for whom he had almost the affection of a
+father, was called in to be the assistant editor. The office work of an editor
+was never congenial to Mr. Beecher. He was in constant demand during the Civil
+War for public addresses, in addition to his church work. He was neither able
+nor inclined to give much time to the editorial work beyond writing an occasional
+"Star Paper" and editorials. When he went to England, he left "The Independent" in the charge of Mr. Tilton, and shortly after his
+return, in the fall of 1863, he withdrew from the active duties of editor,
+leaving his name for a time at the head of the columns, although practically
+Mr. Tilton took his place. At the same time Mr. Beecher entered into a contract
+with Mr. Bowen, the proprietor of "The Independent," by which he
+agreed to contribute to the paper and it agreed to publish weekly his sermon or
+"Lecture-Room Talk." This contract could be dissolved by either party on
+three months' notice. This was in February, 1864; a year later Mr. Tilton
+became editor in name as well as in fact.</p>
+
+         <p>When
+in September, 1866, the Cleveland letter appeared, there appeared
+simultaneously a caustic criticism of it in the columns of "The
+Independent;" and at the same time the publication of the weekly sermon
+was suspended without explanation or notice to Mr. Beecher. He was forthwith deluged
+with protests from subscribers who assumed that he had withdrawn his sermons
+from the paper because the paper had criticised him. He endured this
+misinterpretation for a little while; then he gave the notice required to close
+the contract between him and "The Independent" and when urged by the proprietor to
+reconsider his decision declined to do so. Three years later, on the first of
+January, 1870, "The Christian Union" was started by J. B. Ford &amp;
+Co., and he became its editor-in-chief. In twelve months thereafter the
+circulation of the new journal had grown to 30,000, while that of "The
+Independent" had sensibly decreased. For Mr. Tilton had proved to be more
+brilliant as a newspaper writer than sagacious as a newspaper leader. His
+utterances on religious questions were increasingly distasteful to the orthodox
+churches; and the orthodox churches were the constituency to which in the past
+"The Independent" had appealed. His utterances on the subject of
+marriage and divorce, though possibly no more radical in theory than those of
+John Milton, whom he quoted in support of them, were identified in the public
+mind with American theories of socialism and free love. The religious heresy
+might have been tolerated; the social heresy was far more obnoxious; protests
+poured in upon Mr. Bowen from every quarter; he was finally forced to the
+conclusion, to which he apparently came with reluctance, that a change of
+editorial control was indispensable to the future success of his journal; and
+Mr. Tilton was summarily dismissed from his editorial position.</p>
+
+         <p>Meanwhile, Mr. Tilton's domestic
+life was neither peaceful nor pleasant. The change which had taken place in his
+views was an occasion of great anxiety and pain to his wife, and his mode of
+expressing them would have given pain and anxiety to a woman less sensitive
+than Mrs. Tilton. She was anxious to know her duty with reference to the
+religious education of her children, and consulted her pastor. He advised
+patience. There were other difficulties of a more personal nature, and at
+length, her patience exhausted, she left her husband, sought refuge at her
+mother's house, and sent her pastor a request that he would advise her as to
+her duty. He consulted with one of the deacons of his church and with his wife,
+and the three united in counseling a permanent separation, which, however, did
+not at that time take place. Such, briefly stated, were the causes which led
+Mr. Tilton to the resolve&#8212;I quote his own words&#8212;"to strike Mr.
+Beecher to the heart;" such the origin of the charge preferred by Mr.
+Tilton, and forming the basis of the persecution to which Mr. Beecher was
+subjected for five years, which began with the resolve of Mr. Tilton in December,
+1870, and may be said to have ended with the findings of the advisory council
+in February, 1876.</p>
+
+         <p>As to the charge itself, it is
+difficult for the judicial historian to state it. First, Mr. Tilton affirmed
+that Mr. Beecher had made improper proposals to his wife, but accompanied the
+statement with the most solemn declaration of his wife's absolute innocence and
+purity,&#8212;"as pure as an angel in heaven" were his words;
+subsequently he converted the charge into one of criminal conduct. Mr.
+Beecher's Puritan conscience, New England training, and great sensitiveness
+combined to make him a purist as regards all relations between the sexes. On
+the trial that subsequently took place, nothing of a suspicious character was
+proved against him, except certain letters written by him. Persuaded by a
+friend of Mr. Tilton that he had acted upon misinformation in counseling the
+permanent separation between Mr. and Mrs. Tilton, and that his counsel had
+directly aggravated Mr. Tilton's domestic difficulties, and indirectly led to
+his dismissal by Mr. Bowen, and so to his social and financial ruin, Mr.
+Beecher gave both verbal and written expression to the poignancy of his regret,
+in language which was subsequently distorted into a confession of crime. To one
+familiar with Mr. Beecher's readiness to excuse his neighbor and accuse
+himself, these letters were not ambiguous; to others they might have been so.
+That he kept silence concerning these charges, until they were given to the
+public in a form which made silence no longer possible, was in accordance with
+Mr. Beecher's lifelong principle, to pay no attention to slanders against his
+name. If he had been more suspicious and less unworldly, he would not have
+accepted without questioning the assertions of Mr. Tilton's friend, which led
+him groundlessly to accuse himself. If he had early taken counsel of other men
+more suspicious and less unworldly, he would probably not have been caught in
+the net which was spread for him. But much as his friends may wish that he
+could have taken such counsel, they must recognize the sentiment of honor which
+forbade him both as a gentleman and as a minister to disclose to any one
+secrets affecting the peace and good name of a member of his own church. That
+he kept silence so long will not be counted as other than a fact to his honor
+by any one who considers that the strong incentive to speak was only
+counteracted by the stronger obligation of silence.</p>
+
+         <p>Not until June, 1874, did Mr. Tilton
+make any public charge against Mr. Beecher, and then in terms wholly vague. Mr.
+Beecher instantly replied to it by a demand for a full and thorough
+investigation. Then ensued a curious conflict, Mr. Tilton and his friend
+employing all their resources to impede, thwart, and prevent an investigation,
+Mr. Beecher insisting that it should be absolute, thorough, and complete. It
+was not until after this investigation was begun that the charge against Mr.
+Beecher was altered from one of improper proposals to one of criminal conduct.
+The change was necessary in order to lay a foundation for the proceedings at
+law which Mr. Tilton finally brought.</p>
+
+         <p>I have here stated, though with
+necessary brevity, all the facts essential to an understanding of this case. It
+only remains to state with equal brevity the results of the three
+investigations&#8212;one by Plymouth Church, one by the civil courts, and one by a
+council of Congregational churches.</p>
+
+         <p>The investigation on behalf of Plymouth Church was conducted by a special committee of six gentlemen well known in their
+community and some possessing a more than local reputation. Among then were Mr.
+Henry W. Sage, since known by his benefactions to Cornell University and his
+services as one of its trustees; Horace B. Claflin, one of the most prominent and
+influential of the great merchants of New York City; and John Winslow, a
+well-known Brooklyn lawyer, who brought to the committee a recognized ability
+in the examination and cross-examination of witnesses and the weighing of
+evidence. The committee were appointed on the 27th of June, 1874; they
+presented their report on the 27th of August; and after recounting their
+endeavors to ascertain the facts, and exhaustively reviewing the evidence which
+they had been able to obtain, they reported that "we find nothing whatever in the evidence that should impair the perfect confidence of Plymouth
+Church or the world in the Christian character and integrity of Henry Ward
+Beecher." This report, with the evidence on which it was based, was
+reviewed and unanimously approved by the examining committee, and the reports
+of both committees were laid before the church, after full public notice, and
+unanimously adopted by fifteen hundred members, substantially the entire
+resident membership of the church. This action of the church took place on the
+28th of August, 1874.</p>
+
+         <p>The second investigation was the
+trial before a civil court of an action brought by Mr. Tilton against Mr.
+Beecher for alienating the affections of his wife. The trial dragged on for six
+months and ended in a disagreement of the jury, nine of whom, comprising all
+who were men of Christian belief, affirming their belief in Mr. Beecher's innocence.
+Before the trial ended, however, the chief lawyer for the prosecution was with
+difficulty prevented from abandoning the case, and subsequently publicly
+avowed his belief in Mr. Beecher's innocence; and the judge who presided at
+the trial testified to his convictions, by presiding, eight years later, at the
+meeting held in the Brooklyn Academy of Music in honor of Mr. Beecher's
+seventieth birthday, and joining in the resolutions declaring that "by the integrity of his life and the purity of his character he has vanquished
+misrepresentation and abuse." </p>
+
+         <p>A year and a half after this trial
+the largest and most representative council of Congregational churches ever known
+in the history of the denomination was called by Plymouth Church to counsel it
+respecting its action, which had been subjected to severe criticism by the
+critics of Mr. Beecher. The roll of members actually in attendance was two
+hundred and forty-four; they were summoned from all parts of the country and
+from all schools of thought in the Congregational denomination, and included
+not a few whose political or theological prepossessions would have made them
+naturally suspicious of Mr. Beecher. Its sessions were presided over by the
+Rev. Leonard Bacon, D. D., of New Haven, as moderator, and the Hon. Nelson
+Dingley, Jr., of Maine, and General Erastus N. Bates of Illinois
+ as assistant moderators. At the opening of this council Mr. Beecher appeared before it,declaring on behalf of the church that the council was desired to make whatever
+investigation it might wish to make, by whatever plan of investigation it
+deemed wise, and on his own behalf that an adequate and just investigation of
+all the circumstances in the case was what he most coveted. After the
+investigation was completed, he reappeared before the council, and was
+questioned at great length, answering without reserve any question which any
+delegate chose to ask; and among the delegates were not only eminent clergymen,
+but laymen of national reputation, and among the latter lawyers skilled in the
+art of cross-examination. Being without power to subpoena witnesses or
+administer oaths, the council could not properly try the case which had been
+already tried, but it conducted a public inquiry with a freedom which is
+impossible in a court of law, and by its formal resolutions declared that
+"we hold the pastor of this church, as we and all others are bound to
+hold him, innocent of the charges reported against him, until substantiated by
+proof." The closing addresses of Dr. J. W. Wellman of Massachusetts, Dr.
+J. M. Sturtevant, the president of Illinois College, and Dr. Noah Porter, the
+president of Yale College, assured him and the church of the unabated confidence
+of the council, and of the churches which it represented. This judgment has
+since been affirmed by the spontaneous expressions of Mr. Beecher's fellow citizens in the city which he made his home
+for forty years; and by the verdict of the larger community at home and abroad,
+to whose spontaneous expressions of confidence and esteem I shall presently
+have occasion to refer.
+</p>
+
+         <p>
+To
+those who believe in Christ's declaration that the religious teacher is to be
+known by the fruits of his work, the spiritual results of Mr. Beecher's
+ministry during the years in which his enemies were continuing their frankly
+avowed endeavors to drive him in disgrace from his pulpit, his city, and the
+editorial chair, will serve as an even more conclusive evidence of Mr.
+Beecher's character than the judgment of his church, the churches of his
+denomination, and the spontaneous and unofficial verdict of his fellow
+citizens. The statistics of Plymouth Church during this time show in the number
+of dismissions no indication of suspicion, distrust, or dissatisfaction in
+Plymouth Church; in the number of admissions by letter no indication of
+lessened confidence on the part of other Christian churches; and in the number
+of those received on confession of their faith no diminution in the number of
+those converted to Christ through the ministry of the church and of its
+pastor. Numbers alone are not significant of spiritual values. That
+during these four years, 1872-75, Mr. Beecher's congregation remained
+undiminished and the membership of the church was sensibly increased, might
+perhaps be attributed to his oratorical gifts; that his church sustained him
+with almost absolute unanimity might be, and by his critics was, attributed to
+his magnetic personality. But neither Mr. Beecher's oratorical gifts nor his
+magnetic personality can account for the fact that the entire work of the
+church proceeded with unabated spiritual vigor as witnessed by its
+Sunday-schools, its prayer-meetings, its varied philanthropic and Christian
+work, the character and life of its members, and the permanence and efficiency
+of the church which survived him.</p>
+
+         <p>To this plain statement of the
+wholly uncontradicted and unquestioned facts in this case, it may not be
+improper for me to add an expression of my own personal opinion. I had some
+special advantages for forming one. I was intimately acquainted with both Mr.
+Tilton and Mr. Beecher. More than a year before the Cleveland letter I had
+ventured to warn Mr. Beecher that Mr. Tilton was not the friend Mr. Beecher
+thought him to be. I was personally acquainted with the incidents which led to
+his withdrawal from "The Independent" and his subsequent founding of "The
+Christian Union." My brother, Austin Abbott, was one of Mr. Beecher's
+counsel in the trial, and I had special facilities for a careful study of the
+evidence in the case, and certain editorial duties made such study a necessity.
+In the advisory council subsequently held I was an active member, and my duties
+as chairman of its business committee made my constant attendance at all its
+sessions, both public and private, my duty. There was no proof at any time of
+any act of impropriety on Mr. Beecher's part toward Mrs. Tilton or toward any
+other woman,&#8212; nothing that could be called even an "indiscretion." His
+only indiscretion was in allowing himself to be on terms of comparative
+intimacy with men who were unworthy of his confidence, and in accepting as
+true, without inquiry or investigation, statements which a man of more
+practical wisdom would certainly have doubted, if he did not instantly
+recognize their falsehood. After no inconsiderable hesitation I have given to
+this story larger space than its real importance deserves, only because I
+feared lest passing it by with mere scant attention would be misconstrued by
+some reader. Personally I believe that future history will attach as little
+emphasis to this episode in the life of Mr. Beecher as history now attaches to
+analogous imputations, with far more to give them color, brought against John
+Wesley in his lifetime.</p>
+
+         <div1 type="file references">
+            <list>
+
+               	<item><xptr n="ls.00014" type="same subject"/></item>
+			<item><xptr n="ls.00016" type="same subject"/></item>
+			<item><xptr n="ls.00019" type="same subject"/></item>
+			<item><xptr n="ls.00021" type="history on history"/></item>
+			<item><xptr n="ls.00023" type="history on history"/></item>
+			<item><xptr n="ls.00033" type="same subject"/></item>
+			<item><xptr n="ls.00040" type="same subject"/></item>
+			<item><xptr n="ls.00046" type="commentary on history"/></item>
+			<item><xptr n="ls.00047" type="fiction on history"/></item>
+
+			<item><xptr n="ls.00063" type="commentary on history"/></item>
+			<item><xptr n="ls.00066" type="same subject"/></item>
+			<item><xptr n="ls.00088" type="commentary on history"/></item>
+			<item><xptr n="ls.00139" type="image on history"/></item>
+			<item><xptr n="ls.00140" type="image on history"/></item>
+			<item><xptr n="ls.00148" type="image on history"/></item>
+			<item><xptr n="ls.00149" type="image on history"/></item>
+			<item><xptr n="ls.00150" type="image on history"/></item>
+			<item><xptr n="ls.00151" type="image on history"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

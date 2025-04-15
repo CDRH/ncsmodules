@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">
+               <hi rend="italic">Rachel Ray</hi>
+            </title>
+            <title level="c" type="chapter">from Volume II, Chapter XI, "Cornbury Grange"</title>
+            <date type="original" value="1863">1863</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Trollope">Anthony Trollope </author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00001</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century
+               Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in
+                  the Archive may be shared in accordance with the Fair Use provisions of U.S.
+                  copyright law. Redistribution or republication on other terms, in any medium,
+                  requires express written consent from the editors and advance notification of the
+                  publisher, the Center for Digital Research in the Humanities. Permission to
+                  reproduce the graphic images in this archive has been granted by the owners of the
+                  originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project"> Transcribed from pages 190-191 of the original 1863 Leipzig
+               Bernhard Tauchnitz edition of Anthony Trollope's <hi rend="italic">Rachel Ray</hi>,
+               Volume II, Chapter XI, "Cornbury Grange." </note>
+         </notesStmt>
+         <sourceDesc>
+
+            <bibl>
+               <title level="a">Chapter XI</title>
+               <title level="m">Rachel Ray</title>
+               <author>Anthony Trollope</author>
+               <imprint>
+                  <publisher>Leipzig Bernhard Tauchnitz </publisher>
+                  <pubPlace> </pubPlace>
+               </imprint>
+               <date>1863 </date>
+               <idno type="ISBN"> </idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+            <keywords>
+               <term id="fiction" type="genre">fiction</term>
+               <term id="british" type="place">British</term>
+               <term id="radicalism" type="topic">radicalism</term>
+               <term id="rev1848" type="topic">1848 Revolutions</term>
+               <term id="dissenting" type="topic">Dissenting Voices</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2005-09-01">1 September 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>terms and file references</item>
+         </change>
+         <change>
+            <date value="2005-07-21">21 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header redo and Related Files</item>
+         </change>
+
+         <change>
+            <date value="2005-05-18">18 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main">CHAPTER XI.</head>
+         <head type="sub">Cornbury Grange.</head>
+
+         <gap reason="sampling" extent=""/>
+
+         <p>But Rowan was a man more thoughtful than Cornbury, and was specially thoughtful as to
+            his own position. He was a radical at heart if ever there was a radical. But in saying
+            this I must beg my reader to understand that a radical is not necessarily a
+            revolutionist or even a republican. He does not, by reason of his social or political
+            radicalism, desire the ruin of thrones, the degradation of nobles, the spoliation of the
+            rich, or even the downfall of the bench of bishops. Many a young man is frightened away
+            from the just conclusions of his mind and the strong convictions of his heart by dread
+            of being classed with those who are jealous of the favoured ones of fortune. A radical
+            may be as ready as any aristocrat to support the crown with his blood, and the church
+            with his faith. It is in this that he is a radical; that he desires, expects, works for,
+            and believes in, the gradual progress of the people. No doctrine of equality is his.
+            Liberty he must have, and such position, high or low, for himself and others, as each
+            man's individual merits will achieve for him. The doctrine of outward equality he
+            eschews as a barrier to all ambition, and to all improvement. The idea is as mean as the
+            thing is impracticable. But within,&#8212;is it in his soul or in his
+            heart?&#8212;within his breast there is a manhood that will own no inferiority to
+            the manhood of another. He retires to a corner that an earl with his suite may pass
+            proudly through the doorway, and he grudges the earl nothing of his pride. It is the
+            earl's right. But he also has his right; and neither queen, nor earl, nor people shall
+            invade it. That is the creed of a radical.</p>
+
+         <gap reason="sampling" extent=""/>
+
+         <div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

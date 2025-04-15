@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00052">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Carmen</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter II</title>
+<title level="m" type="monograph"></title>
+<author name="M&#233;rim&#233;e">Prosper M&#233;rim&#233;e</author>
+<date type="original" value="1845">1845</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00052</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 29-39 of the G.P. Putnam's 1903 edition of Prosper M&#233;rim&#233;e's <hi rend="italic">Carmen</hi> (1845). Translated by George Burnham Ives.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter II</title>
+               <title level="m"><hi rend="italic">Carmen</hi></title>
+               <author>Prosper M&#233;rim&#233;e</author>
+               <imprint>
+                  <publisher>
+G.P. Putnam's
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+1903
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="urbanwalk" type="setting">urban walk</term>
+               <term id="class" type="theme">class</term>
+			<term id="prostitution" type="theme">prostitution</term>
+			<term id="french" type="place">French</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	
+  <change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+  </change>
+<change>
+<date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-18">18 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         
+
+<head type="editorial">Scene One: The narrator's nighttime flirtations with Carmen by the River</head>
+
+<p>One evening, when it was too dark to see anything, I was leaning against the parapet of the quay, smoking, when a woman ascended the steps leading to the river and seated herself by my side.  She had in her hair a large bouqet of jasmine, the flowers which exhale an intoxicating odour at night.  She was simply, perhaps poorly clad, all in black, like most grisettes in the evening.  Women of fashion wear black only in the morning; in the evening they dress <hi rend="italic">&#255; la francesca</hi>.  When she reached my side, my bather allowed the mantilla which coverd her head to fall over her shoulders, and I saw, "by the dim light that falleth from the stars," that she was young, small, well built, and that she had very large eyes.  I threw my cigar away at once.  She appreciated that distinctively French attention, and made haste to say that she was very fond of the smell of tobacco; in fact, that she sometimes smoked herself, when she could obtain a very mild <hi rend="italic">papelito</hi>.  Luckily, I happened to have some of that description in my case, and I lost no time in offering them to her.  She deigned to take one and lighted it at a piece of burning string which a child brought us in consideration of a small coin.  Mingling our smoke, we talked so long, the fair bather and myself, that we were finally left alone on the quay.  I thought that I might safely venture to invite her to take an ice at the <hi rend="italic">neveria</hi> [caf&#233;].  After hesitating modestly, she accepted; but before concluding to do so, she wished to know what time it was.  I caused my repeater to strike, and that striking seemed to surprise her greatly.</p>
+
+<p>"What wonderful things you foreigners invent!  From what country are you, se&#241;or?  An Englishman, no doubt?"</p>
+
+<p>"A Frenchman, and your humble servant.  And you, se&#241;orita, or se&#241;ora, are of Cordova, I presume?"</p>
+
+<p>"No."</p>
+
+<p>"You are Andalusian, at all events.  It seems to me that I can tell that by your soft speech."</p>
+
+<p>"If you observe everybody's speech so closely, you should be able to guess what I am."</p>
+
+<p>"I believe that you are from the land of Jesus, within two steps of paradise."</p>
+
+<p>(I had learned this metaphor, which designates Andalusia, from my friend Francisco Sevilla, a well-known picador.)</p>
+
+<p>"Bah! paradise&#8212;the people about here say that it wasn't made for us."</p>
+
+<p>"In that case you must be a Moor, or&#8212;"</p>
+
+<p>I checked myself, not daring to say "Jewess."</p>
+
+<p>"Nonsense! you see well enough that I am a gypsy; would you like me to tell your <hi rend="italic">baji</hi> [fortune]?  Have you ever heard of La Carmencita?  I am she."</p>
+
+<p>I was such a ne'er-do-well in those days&#8212;fifteen years ago&#8212;that I did not recoil in horror when I found myself seated beside a sorceress.</p>
+
+<p>"Pshaw!"  I said to myself, "last week I supped with a highway robber, to-day I will eat ices with a handmaid of the devil.  When one is travelling, one must see everything."</p>
+
+<p>I had still another motive for cultivating her acquaintance.  When I left school, I confess to my shame, I had wasted some time studying the occult sciences, and several times indeed I had been tempted to conjure up the spirits of darkness.  Long since cured of my fondness for such investigations, I still retained, nevertheless, a certain amount of curiosity concerning all kinds of superstition, and I rejoiced at the prospect of learning how far the art of magic had been carried among the gypsies.</p>
+
+<p>While talking together we had entered the <hi rend="italic">neveria</hi> and had taken our seats at a small table lighted by a candle confined in a glass globe.  I had abundant opportunity to examine my <hi rend="italic">gitana</hi>, while divers respectable folk who were eating ices there lost themselves in amazement at seeing me in such goodly company.</p>
+
+<p>I seriously doubt whether Se&#241;orita Carmen was of the pure breed; at all events, she was infinitely prettier than any of the women of her nation whom I had ever met.  No woman is beautiful, say the Spaniards, unless she combines thirty <hi rend="italic">so's</hi>; or, if you prefer, unless she may be described by ten adjectives, each of which is applicable to three parts of her person.  For instance, she must have three black things:  eyes, lashes, and eyebrows, etc.  (See Brant&#244;me for the rest.) My gypsy could make no pretension to so many perfections.  Her skin, albeit perfectly smooth, closely resembled the hue of copper.  Her eyes were oblique, but of a beautiful shape; her lips a little heavy but well formed, and disclosed two rows of teeth whiter than almonds without their skins.  Her hair, which was possibly a bit coarse, was black with a blue reflection, like a crow's wing, and long and glossy.  To avoid fatiguing you with a too verbose description, I will say that for each defect she had some good point, which stood out the more boldly perhaps by the very contrast.  It was a strange, wild type of beauty, a face which took one by surprise at first, but which one could not forget.  Her eyes, especially, had an expression at once voluptuous and fierce, which I have never seen since in any mortal eye.  "A gypsy's eye is a wolf's eye" is a Spanish saying which denotes keen observation.  If you have not the time to go to the Jardin des Plantes to study the glance of a wolf, observe your cat when it is watching a sparrow.</p>
+
+<p>Of course it would have been absurd to have my fortune told in a caf&#233;.  So I requested the pretty sorceress to allow me to accompany her home.  She readily consented, but she desired once more to know how the time was passing and asked me to make my watch strike again.</p>
+
+<p>"Is it real gold?" she inquired, scrutinising it with extraordinary attention.</p>
+
+<p>When we left the caf&#233;, it was quite dark; most of the shops were closed, and the streets almost deserted.  We crossed the Guadalquivir by the bridge, and at the very extremity of the suburb, we stopped in front of a house which bore no resemblance to a palace.  A child admitted us.  The gypsy said some words to him in a language entirely unknown to me, which I afterwards found was the <hi rend="italic">rommani</hi> or <hi rend="italic">chipe calli</hi>, the language of the <hi rend="italic">gitanos</hi>.  The child at once disappeared, leaving us in a room of considerable size, furnished with a small table, two stools, and a chest.  I must not forget to mention a jar of water, a pile of oranges, and a bunch of onions.</p>
+
+<p>As soon as we were alone, the gypsy took from her chest a pack of cards which seemed to have seen much service, a magnet, a dried chameleon, and a number of other articles essential to her art.  Then she bade me make a cross in my left hand with a coin, and the magic ceremonies began.  It is unnecessary to repeat her predictions; and, as for her method of operation, it was evident that she was not a sorceress by halves.</p>
+
+<p>Unfortunately we were soon disturbed.  The door was suddenly thrown open with violence, and a man wrapped to the eyes in a brown cloak entered the room, addressing the gypsy in a far from amiable fashion.  I did not understand what he said, but his tone indicated that he was in a very bad temper.  At sight of him the <hi rend="italic">gitana</hi> exhibited neither surprise nor anger, but she ran to meet him, and, with extraordinary volubility, said several sentences in the mysterious tongue which she had already used in my presence.  The word <hi rend="italic">payllo</hi>, repeated several times, was the only word that I understood.  I knew that the gypsies designated thus every man of another race than their own.  Assuming that I was the subject of the discussion, I looked forward to a delicate explanation; I already had my hand on one of the stools and was deliberating as to the precise moment when it would be well for me to hurl it at the intruder's head.  But he roughly pushed the gypsy aside and strode toward me; then recoiled a step, exclaiming:</p>
+
+<p>"What! is it you, se&#241;or?"</p>
+
+<p>I looked closely at him and recognised my friend Don Jos&#233;.  At that moment I was inclined to regret that I had not let him be hanged.</p>
+
+<p>"Ah! is it you, my fine fellow?" I cried, laughing as heartily as I could manage to do; "you interrupted the se&#241;orita just as she was telling me some very interesting things."</p>
+
+<p>"Always the same!  This must come to an end," he said between his teeth, glaring savagely at the girl.</p>
+
+<p>She meanwhile continued to talk to him in her own language.  She became excited by degrees.  Her eye became bloodshot and terrible to look at, her features contracted, and she stamped upon the floor.  It seemed to me that she was earnestly urging him to do something which he evidently hesitated to do.  What that something was, I fancied that I understood only too well, when I saw her draw her little hand swiftly back and forth under her chin.  I was tempted to believe that it was a matter of cutting a throat, and I had some suspicion that the throat in question was my own.</p>
+
+<p>To all this torrent of eloquence Don Jos&#233; replied only by two or three words uttered in a sharp tone.  Thereupon the gypsy bestowed on him a glance of supreme contempt; then seated herself Turkish fashion in a corner of the room, selected an orange, peeled it, and began to eat it.</p>
+
+<p>Don Jos&#233; seized my arm, opened the door and led me into the street.  We walked about two hundred yards in absolute silence.  Then he said, extending his hand:</p>
+
+<p>"Go straight ahead and you will come to the bridge."</p>
+
+<p>With that he turned his back on me and walked rapidly away.  I returned to my inn rather sheepishly and in a very bad temper.  The worst feature of the affair was that when I undressed I found my watch was missing.</p>
+	<div1 type="file references">
+            <list>
+               	<item><xptr n="ls.00053" type="same novel"/></item>
+              	<item><xptr n="ls.00054" type="same novel"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

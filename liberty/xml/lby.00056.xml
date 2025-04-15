@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00056">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">from <hi rend="italic">Second Inaugural Address</hi></title>
+
+<date type="original" value="1805">1805</date>
+            <title level="m" type="sub">electronic edition</title>
+<author name="Jefferson">Thomas Jefferson</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00056</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 341-342 of the 1944 Modern Library edition of <hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi>, edited by Adrienne Koch and William Peden. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+
+<bibl>
+               <title level="a"><hi rend="italic">Second Inaugural Address&#8212;March 4, 1805</hi>
+</title>
+               <title level="m"><hi rend="italic">The Life and Selected Writings of Thomas Jefferson</hi></title>
+               <author>Thomas Jefferson</author>
+               <imprint>
+                  <publisher>Random House</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1944
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+      <term id="history" type="genre">history</term>
+<term id="american" type="place">American</term>
+<term id="americanrevolution" type="topic">American Revolution</term>
+<term id="individual" type="topic">individual</term>
+<term id="jefferson" type="topic">Jefferson</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2008-04-07">07 April 2008</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Correct transcription error(s)</item>
+         </change>
+<change>
+  <date value="2005-08-23">23 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Term and File-link coding</item>
+</change>
+<change>
+  <date value="2005-07-22">22 July 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Header redo and Related Files</item>
+</change>
+<change>
+            <date value="2005-06-16">16 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Encoding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+	<p>The aboriginal inhabitants of these countries I have regarded with the commiseration their history inspires.  Endowed with the faculties and the rights of men, breathing an ardent love of liberty and independence, and occupying a country which left them no desire but to be undisturbed, the stream of overflowing population from other regions directed itself on these shores; without power to divert, or habits to contend against, they have been overwhelmed by the current, or driven before it; now reduced within limits too narrow for the hunter's state, humanity enjoins us to teach them agriculture and the domestic arts; to encourage them to that industry which alone can enable them to maintain their place in existence, and to prepare them in time for that state of society, which to bodily comforts adds the improvement of the mind and morality.  We have therefore liberally furnished them with the implements of husbandry and household use; we have placed among them instructors in the arts of first necessity; and they are covered with the aegis of the law against aggressors from among ourselves.</p>
+	<p>But the endeavors to enlighten them on the fate which awaits their present course of life, to induce them to exercise their reason, follow its dictates, and change their pursuits with the change of circumstances, have powerful obstacles to encounter; they are combated by the habits of their bodies, prejudice of their minds, ignorance, pride, and the influence of interested and crafty individuals among them, who feel themselves something in the present order of things, and fear to become nothing in any other.  There persons inculcate a sanctimonious reverence for the customs of their ancestors; that whatsoever they did, must be done through all time; that reason is a false guide, and to advance under its counsel, in their physical, moral or political condition, is perilous innovation; that their duty is to remain as their Creator made them, ignorance being safety, and knowledge of full danger; in short, my friends, among them is seen the action and counteraction of good sense and bigotry; they, too, have their anti-philosophers, who find an interest in keeping things in their present state, who dread reformation, and exert all their faculties to maintain the ascendancy of habit over the duty of improving our reason, and obeying its mandates.</p>
+	<p>In giving these outlines, I do not mean, fellow citizens, to arrogate to myself the merit of the measures; that is due, in the first place, to the reflecting character of our citizens at large, who, by the weight of public opinion, influence and strengthen the public measrues; it is due to the sound discretion with which they select from among themselves those to whom they confide the legislative duties; it is due to the zeal and wisdom of the characters thus selected, who lay the foundations of public happiness in wholesome laws, the execution of which alone remains for others; and it is due to the able and faithful auxiliaries, whose patriotism has associated with me the executive functions.</p>
+	<p>During this course of administration, and in order to disturb it, the artillery of the press has been levelled against us, charged with whatsoever its licentiousness could devise or dare.  These abuses of an institution so important to freedom and science, are deeply to be regretted, inasmuch as they tend to lessen its usefulness, and to sap its safety; they might, indeed, have been corrected by the wholesome punishments reserved and provided by the laws of the several States against falsehood and defamation; but public duties more urgent press on the time of public servants, and the offenders have therefore been left to find their punishment in the public indignation.</p>
+	<p>Nor was it uninteresting to the world, that an experiment should be fairly and fully made, whether freedom of discussion, unaided by power, is not sufficient for the propagation and protection of truth&#8212;whether a government, conducting itself in the true spirit of its constitution, with zeal and purity, and doing no act which it would be unwilling the whole world should witness, can be written down by falsehood and defamation.  The experiment has been tried; you have witnessed the scene; our fellow citizens have looked on, cool and collected; they saw the latent source from which these outrages proceeded; they gathered around their public functionaries, and when the constitution called them to the decision by suffrage, they pronounced their verdict, honorable to those who had served them, and consolatory to the friend of man, who believes he may be intrusted with his own affairs.</p>
+	<p>No inference is here intended, that the laws, provided by the State against false and defamatory publications, should not be enforced; he who has time, renders a service to public morals and public tranquillity, in reforming these abuses by the salutary coercions of the law; but the experiment is noted, to prove that, since truth and reason have maintained their ground against false opinions in league with false facts, the press, the press, confined to truth, needs no other legal restraint; the public judgment will correct false reasonings and opinions, on a full hearing of all parties; and no other definite line can be drawn between the inestimable liberty of the press and its demoralizing licentiousness.  If there be still improprieties which this rule would not restrain, its supplement must be sought in the censorship of public opinion.</p>
+	<p>Contemplating the union of sentiment now manifested so generally, as auguring harmony and happiness to our future course, I offer to our country sincere congratulations.  With those, too, not yet rallied to the same point, the disposition to do so is gaining strength; facts are piercing through the veil drawn over them; and our doubting brethren will at length see, that the mass of their fellow citizens, with whom they cannot yet resolve to act, as to principles and measures, think as they think, and desire what they desire; that our wish, as well as theirs, is, that the public efforts may be directed honestly to the public good, that peace be cultivated, civil and religious liberty unassailed, law and order preserved, equality of rights maintained, and that state of property, equal or unequal, which results to every man from his own industry, or that of his fathers.  When satisfied of these views, it is not in human nature that they should not approve and support them; in the meantime, let us cherish them with patient affection; let us do them justice, and more than justice, in all competitions of interest; and we need not doubt that truth, reason, and their own interests, will at length prevail, will gather them into the fold of their country, and will complete their entire union of opinion, which gives to a nation the blessing of harmony, and the benefit of all its strength.</p>
+	<p>I shall now enter on the duties to which my fellow citizens have again called me, and shall proceed in the spirit of those principles which they have approved.  I fear not that any motives of interest may lead me astray; I am sensible of no passion which could seduce me knowingly from the path of justice; but the weakness of human nature, and the limits of my own understanding, will produce errors of judgment sometimes injurious to your interests.  I shall need, therefore, all the indulgence I have heretofore experienced&#8212;the want of it will certainly not lessen with increasing years.  I shall need, too, the favor of that Being in whose hands we are, who led our forefathers, as Israel of old, from their native land, and planted them in a country flowing with all the necessaries and comforts of life; who has covered our infancy with his providence, and our riper years with his wisdom and power; and to whose goodness I ask you to join with me in supplications, that he will so enlighten the minds of our servants, guide their councils, and prosper their measures, that whatsoever they do, shall result in your good, and shall secure to you the peace, friendship, and approbation of all nations.</p>  
+
+<div type="file references">
+	<list>
+		<item>
+		<xptr n="lby.00057" type="same author"/>	      
+		<xptr n="lby.00058" type="same author"/>
+		<xptr n="lby.00059" type="same author"/>
+		<xptr n="lby.00060" type="same author"/>
+		</item>
+		</list>
+		</div>
+		</body>
+   </text>
+</TEI.2>

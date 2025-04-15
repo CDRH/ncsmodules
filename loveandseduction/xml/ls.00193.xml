@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00193">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+           <title level="a" type="main"><hi rend="italic">Mary Barton</hi>
+</title>
+
+
+<title level="c" type="chapter">from Chapter XI</title>
+<author name="Gaskell">Elizabeth Gaskell</author>
+<date type="original" value="1848">1848</date>
+            <title level="m" type="sub">electronic edition</title>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00192</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 177-180 of the 1897 Bliss Sands edition of Elizabeth Gaskell's <hi rend="italic">Mary Barton</hi>. Originally published in 1848.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter XI</title>
+               <title level="m"><hi rend="italic">Mary Barton</hi> </title>
+               <author>Elizabeth Gaskell</author>
+               <imprint>
+                  <publisher>Bliss Sands
+</publisher>
+                  <pubPlace>London
+</pubPlace>
+               </imprint>
+               <date>1897
+</date>
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+              <term id="parlor" type="setting">parlor</term>
+               <term id="british" type="place">British</term>
+		<term id="fiction" type="media">fiction</term>
+		<term id="courtship" type="theme">courtship</term>
+<term id="class" type="theme">class</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-26">26 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>coding</item>
+</change>
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>Scene One:  Jem proposes to Mary and is refused</head>
+	<p>It so happened that Jem, after much anxious thought, had determined that day to "put his fortune to the touch, to win or lose all."  He was in a condition to maintain a wife in comfort.  It was true his mother and aunt must form part of the household:  but such is not an uncommon case among the poor, and if there were the advantages of previous friendship between the parties, it was not, he though, an obstacle to matrimony.  Both mother and aunt, he believed, would welcome Mary.  And, oh! what a certainty of happiness the idea of that welcome implied.</p>
+	<p>He had been absent and abstracted all day long with the thought of the coming event of the evening.  He almost smiled at himself for his care in washing and dressing in preparation for his visit to Mary; as if one waistcoat or another could decide his fate in so passionately a momentous thing.  He believed he only delayed before his little looking-glass for cowardice, for absolute fear of a girl.  He would try not to think so much about the affair, and he thought the more.</p>
+	<p>Poor Jem! it is not an auspicious moment for thee!</p>
+	<p>"Come in," said Mary, as some one knocked at the door, while she sat sadly at her sewing, trying to earn a few pence by working over hours at some mourning.</p>
+	<p>Jem entered, looking more awkward and abashed than he had ever done before.  Yet here was Mary all alone, just as he had hoped to find her.  She did not ask him to take a chair, but after standing a minute or two he sat down near her.</p>
+	<p>"Is your father ar home, Mary?" said he, by way of making an opening, for she seemed determined to keep silence, and went on stitching away.</p>
+	<p>"No, he's gone to his Union, I suppose."  Another silence.  It was no use waiting, thought Jem.  The subject would never be led to by any talk he could think of in his anxious, fluttered state.  He had better begin at once.</p>
+	<p>"Mary!" said he, and the unusual tone of his voice made her look up for an instant, but in that time she understood from his countenance what was coming, and her heart beat so suddenly and violently she could hardly sit still.  Yet one thing she was sure of; nothing he could say should make her have him.  She would show them all <hi rend="italic">who</hi> would be glad to have her.  She was not yet calm after her father's irritating speeches.  Yet her eyes fell veiled before that passionate look fixed upon her.</p>
+	<p>"Dear mary! (for how dear you are, I cannot rightly tell you in words.)  It's no new story I'm going to speak about.  You must ha' seen and known it long; for since we were boy and girl I ha' loved you above father and mother and all; and all I've thought on by day and dreamt on by night has been something in which you've had a share.  I'd no way of keeping you for long, and I scorned to try and tie you down; and I lived in terror lest some one else should take you to himself.  But now, Mary, I'm foreman in th' works, and, dear Mary! listen," as she, in her unbearable agitation, stood up and turned away from him.  He rose too, and came nearer, trying to take hold of her hand; but this she would not allow.  She was bracing herself up to refuse him, for once and for all.</p>
+	<p>"And now, Mary, I've a home to offer you, and a heart as true as ever man had to love you and cherish you; we shall never be rich folk, I dare say; but if a loving heart and a strong right arm can shield you from sorrow, or from want, mine shall do it.  I cannot speak as I would like; my love won't let itself be put in words.  But, oh! darling, say you'll believe me, and that you'll be mine."</p>
+	<p>She could not speak at once; her words would not come.</p>
+	<p>"Mary, they say silence gives consent; is it so?" he whispered.</p>
+	<p>Now or never the effort must be made.</p>
+	<p>"No! it does not with me."  Her voice was calm, although she trembled from head to foot.  "I will always be your friend, Jem, but I can never be your wife."</p>
+	<p>"Not my wife? said he mournfully.  "O Mary, think awhile! you cannot be my friend if you will not be my wife.  At least, I can never be content to be only your friend.  Do think awhile!  If you say No, you will make me hopeless, desperate.  It's no love of yesterday.  It has made the very groundwork of all that people call good in me.  I don't know what I shall be if you won't have me.  And, Mary, think how glad your father would be!  It may sound vain, but he's told me more than once how much he should like to see us two married."</p>
+	<p>Jem intended this for a powerful argument, but in Mary's present mood it told against him more than anything; for it suggested the false and foolish idea that her father, in his evident anxiety to promote her marriage with Jem, had been speaking to him on the subject with some degree of solicitation.</p>
+	<p>"I tell you, Jem, it cannot be.  Once for all, I will never marry you."</p>
+	<p>"And is this the end of all my hopes and fears? the end of my life, I may say, for it is the end of all worth living for!"  His agitation rose and carried him into passion.  "Mary, you'll hear, maybe, of me as a drunkard , and maybe as a thief, and maybe as a murderer.  Remember! when all are speaking ill of me, you will have no right to blame me, for it's your cruelty that will have made me what I feel I shall become.  You won't even say you'll try and like me; will you, Mary?" said he, suddenly changing his tone from threatening despair to fond, passionate entreaty, as he took her hand and held it forcibly between both of his, while he tried to catch a glimpse of her averted face.  She was silent, but it was from deep and violent emotion.  He could not bear to wait; he would not hope, to be dashed away again; he rather in his bitterness of heart chose the certainty of despair, and before she could resolve what to answer, he flung away her hand and rushed out of the house.</p>
+	<p>Jem! Jem!" cried she, with faint and choking voice.  It was too late; he left street after street behind him with his almost winged speed, as he sought the fields, where he might give way unobserved to all the deep despair he felt.</p>
+
+
+<div1 type="file references">
+            	<list>
+		<item>
+		     
+		<xptr n="ls.00194" type="same novel"/>
+		
+		</item>
+		</list>
+
+         </div1>
+      </body>
+   </text>
+</TEI.2>

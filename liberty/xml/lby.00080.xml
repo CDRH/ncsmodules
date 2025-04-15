@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00080">
+   <teiHeader>
+
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"When Lilacs Last in the Dooryard Bloom'd"</title>
+<date type="original" value="1865">1865</date>
+
+            <title level="m" type="sub">electronic edition</title>
+<author name="Whitman">Walt Whitman
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+	       <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00080</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Walt Whitman's <hi rend="italic">Poems</hi>, published in 1867 and edited by W.M. Rossetti. 
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">When Lilacs Last in the Dooryard Bloom'd</title>
+               <title level="m">Poems by Walt Whitman</title>
+               <author>Walt Whitman</author>
+               <imprint>
+                  <publisher>project gutenberg
+
+</publisher>
+                  <pubPlace>www.gutenberg.org
+</pubPlace>
+               </imprint>
+               <date>2005
+</date>
+
+               <idno type="ISBN">
+</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+<term id="poetry" type="genre">poetry</term>
+<term id="american" type="place">American</term>
+<term id="civilwar" type="topic">Civil War</term>
+<term id="lincoln" type="topic">Lincoln</term>
+
+</keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	  <change>
+  <date value="2005-11-04">04 November 2005</date>
+    <respStmt>
+	<name>Mike Page</name>
+    </respStmt>
+    <item>coding</item>
+</change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+<head>1.</head>
+	<lg type="stanza"><l>When lilacs last in the door-yard bloomed,</l>
+<l>And the great star early drooped in the western sky in the night,</l>
+<l>I mourned,...and yet shall mourn with ever-returning spring.</l>
+
+<l>O ever-returning spring! trinity sure to me you bring;</l>
+<l>Lilac blooming perennial, and drooping star in the west,</l>
+<l>And thought of him I love.</l>
+</lg>
+
+<head>2.</head>
+<lg type="stanza"><l>O powerful, western, fallen star!</l>
+<l>O shades of night! O moody, tearful night!</l>
+<l>O great star disappeared! O the black murk that hides the star!</l>
+<l>O cruel hands that hold me powerless! O helpless soul of me!</l>
+<l>O harsh surrounding cloud that will not free my soul!</l>
+</lg>
+
+<head>3.</head>
+<lg type="stanza"><l>In the door-yard fronting an old farm-house, near the whitewashed palings,</l>
+<l>Stands the lilac bush, tall-growing, with heart-shaped leaves of rich
+        green,</l>
+<l>With many a pointed blossom, rising delicate, with the perfume strong I
+        love,</l>
+<l>With every leaf a miracle: and from this bush in the dooryard,</l>
+<l>With delicate-coloured blossoms, and heart-shaped leaves of rich green,</l>
+<l>A sprig, with its flower, I break.</l>
+</lg>
+
+<head>4.</head>
+<lg type="stanza"><l>In the swamp, in secluded recesses,</l>
+<l>A shy and hidden bird is warbling a song.</l>
+
+<l>Solitary, the thrush,</l>
+<l>The hermit, withdrawn to himself, avoiding the settlements,</l>
+<l>Sings by himself a song:</l>
+
+<l>Song of the bleeding throat!</l>
+<l>Death's outlet song of life&#8212;for well, dear brother, I know,</l>
+<l>If thou wast not gifted to sing, thou wouldst surely die.</l>
+</lg>
+
+<head>5.</head>
+<lg type="stanza"><l>Over the breast of the spring, the land, amid cities,</l>
+<l>Amid lanes, and through old woods, where lately the violets peeped from the
+        ground, spotting the greydebris;</l>
+<l>Amid the grass in the fields each side of the lanes&#8212;passing the endless grass;</l>
+<l>Passing the yellow-speared wheat, every grain from its shroud in the
+        dark-brown fields uprising;</l>
+<l>Passing the apple-tree blows of white and pink in the orchards;</l>
+<l>Carrying a corpse to where it shall rest in the grave,</l>
+<l>Night and day journeys a coffin.</l>
+</lg>
+
+<head>6.</head>
+<lg type="stanza"><l>Coffin that passes through lanes and streets,</l>
+<l>Through day and night, with the great cloud darkening the land,</l>
+<l>With the pomp of the inlooped flags, with the cities draped in black,</l>
+<l>With the show of the States themselves as of crape-veiled women standing,</l>
+<l>With processions long and winding, and the flambeaus of the night,</l>
+<l>With the countless torches lit&#8212;with the silent sea of faces,
+        and the unbared heads,</l>
+<l>With the waiting depot, the arriving coffin, and the sombre faces,</l>
+<l>With dirges through the night, with the thousand voices rising strong and
+        solemn;</l>
+<l>With all the mournful voices of the dirges, poured around the coffin,</l>
+<l>The dim-lit churches and the shuddering organs&#8212;Where amid these you
+        journey,</l>
+<l>With the tolling, tolling bells' perpetual clang;</l>
+<l>Here! coffin that slowly passes,</l>
+<l>I give you my sprig of lilac.</l>
+</lg>
+
+<head>7.</head>
+<lg type="stanza"><l>Nor for you, for one, alone;</l>
+<l>Blossoms and branches green to coffins all I bring:</l>
+<l>For fresh as the morning&#8212;thus would I chant a song for you, O sane and
+        sacred Death.</l>
+
+<l>All over bouquets of roses,</l>
+<l>O Death! I cover you over with roses and early lilies;</l>
+<l>But mostly and now the lilac that blooms the first,</l>
+<l>Copious, I break, I break the sprigs from the bushes!</l>
+<l>With loaded arms I come, pouring for you,</l>
+<l>For you and the coffins all of you, O Death.</l>
+</lg>
+
+<head>8.</head>
+<lg type="stanza"><l>O western orb, sailing the heaven!</l>
+<l>Now I know what you must have meant, as a month since we walked,</l>
+<l>As we walked up and down in the dark blue so mystic,</l>
+<l>As we walked in silence the transparent shadowy night,</l>
+<l>As I saw you had something to tell, as you bent to me night after night,</l>
+<l>As you drooped from the sky low down, as if to my side, while the other
+        stars all looked on;</l>
+<l>As we wandered together the solemn night, for something, I know not what,
+        kept me from sleep;</l>
+<l>As the night advanced, and I saw on the rim of the west, ere you went, how
+        full you were of woe;</l>
+<l>As I stood on the rising ground in the breeze, in the cool transparent
+        night,</l>
+<l>As I watched where you passed and was lost in the netherward  black of the
+        night,</l>
+<l>As my soul, in its trouble, dissatisfied, sank, as where you, sad orb,</l>
+<l>Concluded, dropped in the night, and was gone.</l>
+</lg>
+
+<head>9.</head>
+<lg type="stanza"><l>Sing on, there in the swamp!</l>
+<l>O singer bashful and tender! I hear your notes&#8212;I hear your call;</l>
+<l>I hear&#8212;I come presently&#8212;I understand you;</l>
+<l>But a moment I linger&#8212;for the lustrous star has detained me;</l>
+<l>The star, my comrade departing, holds and detains me.</l>
+</lg>
+
+<head>10.</head>
+<lg type="stanza"><l>O how shall I warble myself for the dead one there I loved?</l>
+<l>And how shall I deck my song for the large sweet soul that has gone?</l>
+<l>And what shall my perfume be for the grave of him I love?</l>
+
+<l>Sea-winds, blown from east and west,</l>
+<l>Blown from the Eastern Sea, and blown from the Western Sea, till there on
+        the prairies meeting:</l>
+<l>These, and with these, and the breath of my chant,</l>
+<l>I perfume the grave of him I love.</l>
+</lg>
+
+<head>11.</head>
+<lg type="stanza"><l>O what shall I hang on the chamber walls?</l>
+<l>And what shall the pictures be that I hang on the walls,</l>
+<l>To adorn the burial-house of him I love?</l>
+
+<l>Pictures of growing spring, and farms, and homes,</l>
+<l>With the Fourth-month eve at sundown, and the grey smoke lucid and bright,</l>
+<l>With floods of the yellow gold of the gorgeous, indolent sinking sun,
+        burning, expanding the air;</l>
+<l>With the fresh sweet herbage under foot, and the pale green leaves of the
+        trees prolific;</l>
+<l>In the distance the flowing glaze, the breast of the river,
+        with a wind-dapple here and there;</l>
+<l>With ranging hills on the banks, with many a line against the sky, and
+        shadows;</l>
+<l>And the city at hand, with dwellings so dense, and stacks of chimneys,</l>
+<l>And all the scenes of life, and the workshops, and the workmen homeward
+        returning.</l>
+</lg>
+
+<head>12.</head>
+<lg type="stanza"><l>Lo! body and soul! this land!</l>
+<l>Mighty Manhattan, with spires, and the sparkling and hurrying tides, and
+        the ships;</l>
+<l>The varied and ample land&#8212;the South and the North in the
+light&#8212;Ohio's shores, and flashing Missouri,</l>
+<l>And ever the far-spreading prairies, covered with grass and corn.</l>
+
+<l>Lo! the most excellent sun, so calm and haughty;</l>
+<l>The violet and purple morn, with just-felt breezes;</l>
+<l>The gentle, soft-born, measureless light;</l>
+<l>The miracle, spreading, bathing all&#8212;the fulfilled noon;</l>
+<l>The coming eve, delicious&#8212;the welcome night, and the stars,</l>
+<l>Over my cities shining all, enveloping man and land.</l>
+</lg>
+
+<head>13.</head>
+<lg type="stanza"><l>Sing on! sing on, you grey-brown bird!</l>
+<l>Sing from the swamps, the recesses&#8212;pour your chant from the bushes;</l>
+<l>Limitless out of the dusk, out of the cedars and pines.</l>
+
+<l>Sing on, dearest brother&#8212;warble your reedy song,</l>
+<l>Loud human song, with voice of uttermost woe.</l>
+
+<l>O liquid, and free, and tender!</l>
+<l>O wild and loose to my soul! O wondrous singer!</l>
+<l>You only I hear,... yet the star holds me, (but will soon depart;)</l>
+<l>Yet the lilac, with mastering odour, holds me.</l>
+</lg>
+
+<head>14.</head>
+<lg type="stanza"><l>Now while I sat in the day, and looked forth,</l>
+<l>In the close of the day, with its light, and the fields of spring, and the
+        farmer preparing his crops,</l>
+<l>In the large unconscious scenery of my land, with its lakes and forests,</l>
+<l>In the heavenly aerial beauty, after the perturbed winds and the storms;</l>
+<l>Under the arching heavens of the afternoon swift passing, and the voices of
+        children and women,</l>
+<l>The many-moving sea-tides,&#8212;and I saw the ships how they sailed,</l>
+<l>And the summer approaching with richness, and the fields all busy with
+        labour,</l>
+<l>And the infinite separate houses, how they all went on, each with its meals
+and minutiae of daily usages;</l>
+<l>And the streets, how their throbbings throbbed, and the cities
+        pent&#8212;lo! then and there,</l>
+<l>Falling upon them all, and among them all, enveloping me with the rest,</l>
+<l>Appeared the cloud, appeared the long black trail;</l>
+<l>And I knew Death, its thought, and the sacred knowledge of Death.</l>
+</lg>
+
+<head>15.</head>
+<lg type="stanza"><l>And the Thought of Death close-walking the other side of me,</l>
+<l>And I in the middle, as with companions, and as holding the hands of
+        companions,</l>
+<l>I fled forth to the hiding receiving night, that talks not,</l>
+<l>Down to the shores of the water, the path by the swamp in the dimness,</l>
+<l>To the solemn shadowy cedars, and ghostly pines so still.</l>
+
+<l>And the singer so shy to the rest received me;</l>
+<l>The grey-brown bird I know received us Comrades three;</l>
+<l>And he sang what seemed the song of Death, and a verse for him I love.</l>
+
+<l>From deep secluded recesses,</l>
+<l>From the fragrant cedars, and the ghostly pines so still,</l>
+<l>Came the singing of the bird.</l>
+
+<l>And the charm of the singing rapt me,</l>
+<l>As I held, as if by their hands, my Comrades in the night;</l>
+<l>And the voice of my spirit tallied the song of the bird.</l>
+</lg>
+
+<head>16.</head>
+<lg type="stanza"><l>Come, lovely and soothing Death,</l>
+<l>Undulate round the world, serenely arriving, arriving,</l>
+<l>In the day, in the night, to all, to each,</l>
+<l>Sooner or later, delicate Death.</l>
+
+<l>Praised be the fathomless universe,</l>
+<l>For life and joy, and for objects and knowledge curious;</l>
+<l>And for love, sweet love&#8212;But praise! O praise and praise,</l>
+<l>For the sure-enwinding arms of cool-enfolding Death.</l>
+
+<l>Dark Mother, always gliding near, with soft feet,</l>
+<l>Have none chanted for thee a chant of fullest welcome?</l>
+<l>Then I chant it for thee&#8212;I glorify thee above all;</l>
+<l>I bring thee a song that, when thou must indeed come, come unfalteringly.</l>
+
+<l>Approach, encompassing Death-strong deliveress!</l>
+<l>When it is so&#8212;when thou hast taken them, I joyously sing the dead,</l>
+<l>Lost in the loving, floating ocean of thee,</l>
+<l>Laved in the flood of thy bliss, O Death.</l>
+
+<l>From me to thee glad serenades,</l>
+<l>Dances for thee I propose, saluting thee&#8212;adornments and feastings for
+        thee;</l>
+<l>And the sights of the open landscape, and the high-spread sky, are fitting,</l>
+<l>And life and the fields, and the huge and thoughtful night.</l>
+
+<l>The night, in silence, under many a star;</l>
+<l>The ocean shore, and the husky whispering wave, whose voice I know;</l>
+<l>And the soul turning to thee, O vast and well-veiled Death,</l>
+<l>And the body gratefully nestling close to thee.</l>
+
+<l>Over the tree-tops I float thee a song!</l>
+<l>Over the rising and sinking waves&#8212;over the myriad fields, and the prairies wide;</l>
+<l>Over the dense-packed cities all, and the teeming wharves and ways,</l>
+<l>I float this carol with joy, with joy, to thee, O Death!</l>
+</lg>
+
+<head>17.</head>
+<lg type="stanza"><l>To the tally of my soul</l>
+<l>Loud and strong kept up the grey-brown bird,</l>
+<l>With pure, deliberate notes, spreading, filling the night.</l>
+
+<l>Loud in the pines and cedars dim,</l>
+<l>Clear in the freshness moist, and the swamp-perfume,</l>
+<l>And I with my Comrades there in the night.</l>
+
+<l>While my sight that was bound in my eyes unclosed,</l>
+<l>As to long panoramas of visions.</l>
+</lg>
+
+<head>18.</head>
+
+<lg type="stanza"><l>I saw the vision of armies;</l>
+<l>And I saw, as in noiseless dreams, hundreds of battle-flags;</l>
+<l>Borne through the smoke of the battles, and pierced with missiles, I saw
+        them,</l>
+<l>And carried hither and yon through the smoke, and torn and bloody;</l>
+<l>And at last but a few shreds of the flags left on the staffs, (and all in
+        silence,)</l>
+<l>And the staffs all splintered and broken.</l>
+
+<l>I saw battle-corpses, myriads of them,</l>
+<l>And the white skeletons of young men&#8212;I saw them;</l>
+<l>I saw the debris and debris of all dead soldiers.</l>
+<l>But I saw they were not as was thought;</l>
+<l>They themselves were fully at rest&#8212;they suffered not;</l>
+<l>The living remained and suffered&#8212;the mother suffered,</l>
+<l>And the wife and the child, and the musing comrade suffered,</l>
+<l>And the armies that remained suffered.</l>
+</lg>
+
+<head>19.</head>
+<lg type="stanza"><l>Passing the visions, passing the night;</l>
+<l>Passing, unloosing the hold of my Comrades' hands;</l>
+<l>Passing the song of the hermit bird, and the tallying song of my soul;</l>
+<l>Victorious song, Death's outlet song, yet varying, ever-altering song;</l>
+<l>As low and wailing, yet clear, the notes, rising and falling, flooding the
+        night,</l>
+<l>Sadly sinking and fainting, as warning and warning, and yet again bursting
+        with joy.</l>
+<l>Covering the earth, and filling the spread of the heaven,</l>
+<l>As that powerful psalm in the night, I heard from recesses.</l>
+</lg>
+
+<head>20.</head>
+<lg type="stanza"><l>Must I leave thee, lilac with heart-shaped leaves?</l>
+<l>Must I leave thee there in the door-yard, blooming, returning with spring?</l>
+
+<l>Must I pass from my song for thee&#8212;</l>
+<l>From my gaze on thee in the west, fronting the west, communing with thee,</l>
+<l>O comrade lustrous, with silver face in the night?</l>
+</lg>
+<head>21.</head>
+<lg type="stanza"><l>Yet each I keep, and all;</l>
+<l>The song, the wondrous chant of the grey-brown bird,</l>
+<l>And the tallying chant, the echo aroused in my soul,</l>
+<l>With the lustrous and drooping star, with the countenance full of woe;</l>
+<l>With the lilac tali, and its blossoms of mastering odour;</l>
+<l>Comrades mine, and I in the midst, and their memory ever I keep&#8212;for the dead I loved so well;</l>
+<l>For the sweetest, wisest soul of all my days and lands&#8212;and this for his dear sake;</l>
+<l>Lilac and star and bird, twined with the chant of my soul,</l>
+<l>With the holders holding my hand, nearing the call of the bird,</l>
+<l>There in the fragrant pines, and the cedars dusk and dim.</l>
+</lg>
+<div type="file references">
+            <list><item><xptr n="lby.00081" type="same author"/>
+			</item>
+                           </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

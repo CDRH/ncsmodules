@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="liberty.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="lby.00022">
+   <teiHeader>
+
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">"Liberty" </title>
+
+            <date type="original" value="1900">1900</date>
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Hay">John Hay </author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>lby.00022</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century
+               Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in
+                  the Archive may be shared in accordance with the Fair Use provisions of U.S.
+                  copyright law. Redistribution or republication on other terms, in any medium,
+                  requires express written consent from the editors and advance notification of the
+                  publisher, the Center for Digital Research in the Humanities. Permission to
+                  reproduce the graphic images in this archive has been granted by the owners of the
+                  originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project"> Transcribed from pages 423-424 of <hi rend="italic">The Poetry of
+                  Freedom</hi> anthology (1945), edited by William Rose Ben&#233;t and Norman
+               Cousins. </note>
+         </notesStmt>
+         <sourceDesc>
+
+            <bibl>
+               <title level="a">Liberty</title>
+               <title level="m">The Poetry of Freedom</title>
+               <author>John Hay</author>
+               <imprint>
+                  <publisher>Modern Library </publisher>
+                  <pubPlace>New York </pubPlace>
+               </imprint>
+               <date>1948 </date>
+
+               <idno type="ISBN"> </idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+            <keywords>
+               <term id="poetry" type="genre">poetry</term>
+               <term id="american" type="place">American</term>
+               <term id="frenchrevolution" type="topic">French Revolution</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date value="2005-09-01">1 September 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>terms and file references</item>
+         </change>
+         <change>
+            <date value="2005-07-21">21 July 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header redo and Related Files</item>
+         </change>
+
+         <change>
+            <date value="2005-05-25">25 May 2005</date>
+            <respStmt>
+               <name>Stacey Berry</name>
+            </respStmt>
+            <item>Transcribed, Encoded</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head type="main">LIBERTY</head>
+
+         <lg>
+            <l>What man is there so bold that he should say,</l>
+            <l>Thus, and thus only, would I have the Sea ?</l>
+            <l>For whether lying calm and beautiful,</l>
+            <l>Clasping the earth in love, and throwing back</l>
+            <l>The smile of Heaven from waves of amethyst;</l>
+            <l>Or whether, freshened by the busy winds,</l>
+            <l>It bears the trade and navies of the world</l>
+            <l>To ends of use or stern activity;</l>
+            <l>Or whether, lashed by tempests, it gives way</l>
+            <l>To elemental fury, howls and roars</l>
+            <l>At all its rocky barriers, in wild lust</l>
+            <l>Of ruin drinks the blood of living things,</l>
+            <l>And strews its wrecks oer leagues of desolate shore,&#8212;</l>
+            <l>Always it is the Sea, and men bow down</l>
+            <l>Before its vast and varied majesty.</l>
+         </lg>
+         
+         <lg>
+            <l>So all in vain will timorous ones essay</l>
+            <l>To set the metes and bounds of Liberty.</l>
+            <l>For Freedom is its own eternal law:</l>
+            <l>It makes its own conditions, and in storm</l>
+            <l>Or calm alike fulfils the unerring Will.</l>
+            <l>Let us not then despise it when it lies</l>
+            <l>Still as a sleeping lion, while a swarm</l>
+            <l>Of gnat-like evils hover round its head;</l>
+            <l>Nor doubt it when in mad, disjointed times</l>
+            <l>It shakes the torch of terror, and its cry</l>
+            <l>Shrills oer the quaking earth, and in the flame</l>
+            <l>Of riot and war we see its awful form</l>
+            <l>Rise by the scaffold, where the crimson axe</l>
+            <l>Rings down its grooves the knell of shuddering kings.</l>
+            <l>For ever in thine eyes, O Liberty,</l>
+            <l>Shines that high light whereby the world is saved,</l>
+            <l>And though thou slay us, we will trust in thee!</l>
+         </lg>
+
+         <div type="file references">
+            <list>
+               <item>
+                  <!--use this to link file references together<xptr n="lby.0000#" type=""/>-->
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI.2>

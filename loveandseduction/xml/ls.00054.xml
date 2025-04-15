@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00054">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">Carmen</hi>
+
+</title>
+
+<title level="j" type="journal"></title>
+<title level="c" type="chapter">from Chapter III</title>
+<title level="m" type="monograph"></title>
+<author name="M&#233;rim&#233;e">Prosper M&#233;rim&#233;e</author>
+<date type="original" value="1845">1845</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00054</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 62-73 of the G.P. Putnam's 1903 edition of Prosper M&#233;rim&#233;e's <hi rend="italic">Carmen</hi> (1845). Translated by George Burnham Ives.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+             <title level="a">Chapter III</title>
+               <title level="m"><hi rend="italic">Carmen</hi></title>
+               <author>Prosper M&#233;rim&#233;e</author>
+               <imprint>
+                  <publisher>
+G.P. Putnam's
+
+</publisher>
+                  <pubPlace>
+New York
+
+</pubPlace>
+               </imprint>
+               <date>
+1903
+
+</date>
+                           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+<keywords>
+               <term id="wild" type="setting">wild</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+			<term id="prostitution" type="theme">prostitution</term>
+			<term id="french" type="place">French</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-23">23 June 2005</date>
+            <respStmt>
+               <name>Laura White</name>
+            </respStmt>
+            <item>edit headers</item>
+         </change>
+<change>
+            <date value="2005-03-21">21 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+ <head type="editorial">Scene Three: Don Jos&#233; and Carmen have a final love-rendezvous in the mountains</head>
+
+<p>"After the ceremony of reduction to the ranks, I thought that I could not suffer any more; but I had still another humiliation to undergo:  when, on my release from prison, I was restored to duty and made to take my turn at sentry-go like a private.  You cannot conceive what a man of spirit feels at such a time.  I believe that I would as lief have been shot.  Then, at all events, you walk alone, in front of the platoon; you feel that you are somebody; people look at you.</p>
+
+<p>"I was stationed at the colonel's door.  He was a wealthy young man, a good fellow, who liked to enjoy himself.  All the young officers were at his house, and many civilians&#8212;women, too, actresses, so it was said.  For my own part, it seemed to me as if the whole city had arranged to meet at his door, in order to stare at me.  Finally, the colonel's carriage drives up, with his valet on the box.  Whom do I see alight from it?&#8212;the <hi rend="italic">gitanella</hi>!  She was arrayed like a shrine this time, bedizened and bedecked, all gold and ribbons.  A spangled dress, blue slippers, alson with spangles, and flowers and lace everywhere.  She had a tambourine in her hand.  There were two other gypsy women with her, one young and one old.  There always is an old woman to go about with them.  Then there was an old man, also a gypsy, with a guitar, to play for them to dance.  You know that it is the fashion to hire gypsies to go about to parties, to dance the <hi rend="italic">romalis</hi>&#8212;that is their national dance&#8212;and oftentimes for something else.</p>
+
+<p>"Carmen recognised me and we exchanged a glance.  I do not know why, but at that moment I would have liked to be a hundred feet underground.</p>
+
+<p>"'<hi rend="italic">Agur laguna</hi> [Good-day],' she said; 'you seem to be mounting guard, like a raw recruit, my officer!'</p>
+
+<p>"And before I had thought of a word to say in reply, she was inside the house.</p>
+
+<p>"The whole company was in the <hi rend="italic">patio</hi>, and in spite of the crowd, I could see through the gate almost everything that took place.  I heard the castenets, the tambourine, the laughter and applause; sometimes I could see her head when she leaped into the air with her tambourine.  And then I heard some of the officers say to her many things that brought the blood to my cheeks.  I did not know what she replied.  It was that day, that I began to love her in good earnest; for I was tempted three or four times to go into the <hi rend="italic">patio</hi> and run my sabre into the belly of those popinjays who were making love to her.  My torture lasted a good hour; then the gypsies came out and the carriage took them away.  Carmen, as she passed, glanced at me again with the eyes that you know, and said, very low:</p>
+
+<p>"'My countryman, when one likes nice fried things, one goes to Lillas Pastia's at Triana for them.'</p>
+
+<p>"Nimble as a kid, she jumped into the carriage, the coachman whipped his mules, and the whole merry band drove away, I know not where.</p>
+
+<p>"You will readily guess that when I was relieved from duty I went to Triana; but I was shaved first, and brushed my clothes as for a dress parade.  She was at Lillas Pastia's, an old gypsy, black as a Moor, who kept an eating-house, to which many civilians came to eat fried fish&#8212;especially, I rather think, since Carmen had taken up her quarters there.</p>
+
+<p>"'Lillas,' she said, as soon as she saw me, 'I shall do nothing more to-day.  It will be light to-morrow.  Come, my countryman, let's go for a walk.</p>
+
+<p>"She put her mantilla over her face, and behold, we were in the street, I with no idea where we were going.</p>
+
+<p>"'Se&#241;orita,' I said, 'I believe that I have to thank you for a present which you sent me when I was in prison.  I ate the bread; I shall use the file to sharpen my lance, and I shall keep it in memory of you; but here is the money.'</p>
+
+<p>"'My word! he has kept the money!' she exclaimed, laughing heartily.  'However, it's all the better, for I am not in funds.  But what does it matter? the dog that keeps going always finds a bone.  Come on, we will eat it all up.  You shall treat me.'</p>
+
+<p>"We were walking in the direction of Seville.  As we entered Rue de Serpent, she bought a dozen oranges and bade me put them in my handkerchief.  A little farther on she bought bread and sausages, and a bottle of Manzanilla; and finally she entered a confectioner's shop.  There she tossed on the counter the gold piece I had given back to her with another that she had in her pocket and some small silver; then she asked me for all that I had.  I had only a <hi rend="italic">piecette</hi> and a few <hi rend="italic">cuartos</hi>, which I gave her, sorely vexed because I had no more.  I thought that she intended to carry off the whole shop.  She selected all the best and most expensive sweetmeats:  <hi rend="italic">yemas, turon</hi>, preserved fruits, so long as the money held out.  All those things too I must needs carry in paper bags.  Perhaps you know Rue de Candilejo, where there's a head of King Don Pedro the Justiciary?  That head should have suggested some salutary reflections to my mind.  We stopped in front of an old house on that street.  She entered the passage and knocked at a door on the ground floor.  A gypsy woman, a veritable handmaid of Satan, opened the door.  Carmen said a few words to her in <hi rend="italic">rommani</hi>.  The old woman grumbled at first, and Carmen, to pacify her, gave her two oranges and a handful of bonbons, and allowed her to taste the wine.  Then she put her cloak over her shoulders and escorted her to the door, which she secured behind her with a iron bar.  As soon as we were alone, she began to dance and laugh like a mad woman, saying:</p>
+
+<p>"'You are my <hi rend="italic">rom</hi>, and I am your <hi rend="italic">romi</hi>!'</p>
+
+<p>"I stood in the middle of the room, laden with all her purchases, not knowing where to put them.  She threw them all on the floor and jumped on my neck, saying:</p>
+
+<p>"'I pay my debts, I pay my debts!  That is the law of the <hi rend="italic">cales</hi>.'</p>
+
+<p>"Ah! that day, se&#241;or! that day!  When I think of it, I forget to-morrow!"</p>
+
+<p>The bandit was silent for a moment; then, having relighted his cigar, he continued:</p>
+
+<p>"We passed the whole day together, eating, drinking, and the rest.  When she had eaten her fill of bonbons, like a child of six, she stuffed handfuls of them into the old woman's water-jar.&#8212;'That's to make sherbert for her,' she said.  She crushed <hi rend="italic">yemas</hi> by throwing them against the wall.  'That's to induce the flies to let us alone,' she said.  There is no conceivable trick and no folly that she did not commit.  I told her that I would like to see her dance; but where was she to obtain castanets?  She instantly took the old woman's only plate, broke it in pieces, and in a moment she was dancing the <hi rend="italic">romalis</hi>, clapping the pieces of crockery in as perfect time as if they had been castanets of ebony or ivory.  One was never bored with that girl, I assure you.</p>
+
+<p>"Night came on and I heard the drums beating the retreat.</p>
+
+<p>"'I must go to quarters for the roll-call,' I said.</p>
+
+<p>"'To quarters?' she repeated, contemptuously; 'are you a negro pray, that you allow yourself to be led by a stick?  You are a regular canary, in dress and in temper!  Go! you are a chicken-hearted fellow!'</p>
+
+<p>"I remained, with my mind made up beforehand to the guard-room.  The next morning, she was the first to mention parting.</p>
+
+<p>"'Look you, Joseito,' she said, 'have I paid you?  According to our law, I owed you nothing, as you are a <hi rend="italic">payllo</hi>;but you are a comely youth, and you took my fancy.  We are quits.  Good-day.'</p>
+
+<p>"I asked her when I should see her again.</p>
+
+<p>"'When you are less stupid,' she replied with a laugh.  Then, in more serious tone:  'Do you know, my son, that I believe that I love you a little bit?  But it can't last.  Dog and wolf don't live happily together for long.  Perhaps, if you should swear allegiance to Egypt, I should like to be your <hi rend="italic">romi</hi>.  But this is foolish talk; it can never be.  Believe me, my boy, you have come off cheap.  You have met the devil, yes, the devil; he isn't always black, and he didn't wring your neck.  I am dressed in wool, but I am no sheep.  Go and put a wax candle in front of your <hi rend="italic">majari</hi>.  She has well earned it.  Well, goodbye once more.  Think no more of Carmencita, or she might be the cause of your marrying a widow with wooden legs.'</p>
+
+<p>"As she spoke she removed the bar that secured the door, and once in the street, she wrapped herself in her mantilla and turned her back on me.</p>
+
+<div1 type="file references">
+            <list>
+               <item><xptr n="ls.00052" type="same novel"/></item>
+              	<item><xptr n="ls.00053" type="same novel"/></item>
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

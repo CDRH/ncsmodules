@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00204">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">War and Peace</hi>
+</title>
+
+<title level="c" type="chapter">Book II, Part 5, Chapter 13</title>
+
+<author name="Tolstoy">Leo Tolstoy</author>
+<date type="original" value="1869">1869</date>
+
+            <title level="m" type="sub">electronic edition</title>
+
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00204</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from pages 691-94 of the 1968 Signet edition of Leo Tolstoy's <hi rend="italic">War and Peace</hi>.  Originally published in 1869.  This translation by Ann Dunnigan.
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Book II, Part 5, Chapter 13</title>
+               <title level="m"><hi rend="italic">War and Peace</hi></title>
+               <author>Leo Tolstoy</author>
+               <imprint>
+                  <publisher>Signet
+
+</publisher>
+                  <pubPlace>New York
+</pubPlace>
+               </imprint>
+               <date>1968
+</date>
+                          </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="dance" type="setting">dance</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="class" type="theme">class</term>
+						<term id="russian" type="place">Russian</term>
+<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+	<change>
+            <date value="2005-09-27">27 September 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Coding</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<head>Scene Two:  At the Grand Ball</head>
+<p>Count Ilya Andreich took his girls to Countess Bezukhova's. There were a good many people there, nearly all strangers to Natasha. Count Rostov was displeased to see that the company consisted almost entirely of men and women notorious for the freedom of their conduct. Mademoiselle Georges was standing in a corner of the drawing room surrounded by young men. There were several Frenchmen present, among them M&#233;tivier, who from the time of her arrival in Moscow had been a frequent visitor at Ellen's house. Count Ilya Andreich decided not to sit down to cards or to let his girls out of his sight, and to leave as soon as Mademoiselle Georges's performance was over.</p>
+
+<p>Anatol was at the door, evidently waiting for the Rostov's arrival. Immediately after greeting the Count he went up to Natasha and followed her into the drawing room. As soon as she saw him she was seized by the same emotions she had experienced at the opera&#8212;a feeling of gratified vanity at his admiration and fear of the absence of any moral barrier between them.</p>
+
+<p>Ellen welcomed Natasha with delight, exclaiming rapturously over her beauty and her dress. Soon after their arrival Mademoiselle Georges left the room to change her costume. In the meantime chairs were arranged in the drawing room and people began taking their seats. Anatol placed a chair for Natasha and was about to sit down beside her, but the Count, who had not aken his eyes off his daughter, took the seat beside her himself. Anatol sat down behind her.</p>
+
+<p>Mademoiselle Georges, with bare, plump, dimpled arms and a red shawl draped over one shoulder, came into the space left vacant for her between the chairs, and assumed an unnatural pose. A murmur of admiration was heard.</p>
+
+<p>Somberly and austerely gazing at her audience Mademoiselle Georges commenced declaiming a soliloquy in French, the subject of which was her guilty passion for her son. In some places she raised her voice, lowered it to a whisper in others, from time to time paused, rolling her eyes and uttering hoarse cries.</p>
+
+<p>"<hi rend="italic">Adorable! Divin! D&#233;licieux!</hi>" was heard on all sides.</p>
+
+<p>Natasha's eyes were fixed on the fat actress, but she neither saw nor understood anything that went on before her; she was conscious only of being irrevocably borne away once more into that strange and senseless world, so remote from her old, a world in which it was impossible to know what was good or bad, what was reasonable or senseless. Behind her sat Anatol, and, aware of his proximity, she experienced a frightened sense of expectancy.</p>
+
+<p>After the first monologue the whole company rose and crowded around Mademoiselle Georges, expressing their admiration.</p>
+
+<p>"How beautiful she is!" said Natasha to her father, who had got up with the others and was making his way through the crowd to the actress.</p>
+
+<p>"I don't think so when I look at you!" said Anatol, following Natasha, and choosing a moment when only she could hear him. "You are fascinating . . . from the first moment I saw you I have never ceased&#8212;&#8212;"</p>
+
+<p>"Come along, come along, Natasha!" said the Count, turning back for his daughter. "How handsome she is!"</p>
+
+<p>Natasha, without saying anything, went to her father and looked up at him with dazed, questioning eyes.</p>
+
+<p>After several recitations Mademoiselle Geroges left, and Countess Bezukhova invited her guests to come into the ballroom.</p>
+
+<p>The Count wanted to go home, but Ellen entreated him not to spoil her impromptu ball, and the Rostovs stayed on. Anatol asked Natasha for a waltz, and as they danced he squeezed her waist and hand, told her she was <hi rend="italic">ravissante</hi> and that he loved her. During the <hi rend="italic">&#233;cossaise</hi>, which she also danced with him, Anatol said nothing when they happened to  be alone, but only gazed at her. Natasha wondered whether she had dreamed what he said to her during the waltz. At the end of the first figure he again squeezed her hand. Natasha lifted her frightened eyes to him, but there was such confident tenderness in his affectionate gaze and smile that looking at him she found it impossible to say what she had to say to him. She lowered her eyes.</p>
+
+<p>"Don't say such things to me. I am betrothed and love another," she said rapidly.</p>
+
+<p>She glanced up at him. Anatol was neither disconcerted nor chagrined by what she had said.</p>
+
+<p>"Don't speak to me of that! What can I do?" he said. "I tell you I am madly in love with you. Is it my fault that you are fascinating? . . . It's our turn to lead."</p>
+
+<p>Natasha, vivacious and excited, looked about her with wide-open, startled eyes, and seemed gayer than usual. Afterward she recalled almost nothing of what took place that evening. They danced the <hi rend="italic">&#233;cossaise</hi> and the <hi rend="italic">Grossvater</hi>. Her father asked her to come home, but she begged to remain. Wherever she was, whomever she was talking to, she felt <hi rend="italic">his</hi> eyes upon her. Later she remembered asking her father to let her go to the dressing room to arrange her dress, and that Ellen had followed her and laughingly spoke of her brother's passion for her, and that she had met Anatol in the little sitting room. Ellen disappeared, leaving them alone, and Anatol had taken her hand and in a tender voice said:</p>
+
+<p>"I cannot come to visit you, but is it possible that I am never to see you? I am madly in love with you. Can I never . . ." And barring her way, he brought his face close to hers.</p>
+
+<p>His large, brilliant, masculine eyes were so close to hers that she could see nothing else.</p>
+
+<p>"Nathalie?" he whispered inquiringly, and she felt her hands being squeezed till they hurt. "Nathalie?"</p>
+
+<p>"I don't understand. I have nothing to say," her eyes replied.</p>
+
+<p>Burning lips were pressed to hers, and almost instantaneously she felt herself released, as Ellen's footsepts and the rustle of her gown were heard in the room. Natasha looked round at her, and then, flushed and trembling, threw a frightened, questioning look at Anatol and moved toward the door.</p>
+
+<p>"One word, just one, for God's sake!" cried Anatol.</p>
+
+<p>She paused. She so wanted some word from him that would explain to her what had happened, and to which she could give him an answer.</p>
+
+<p>"Nathalie, one word, just one!" he repeated, as if not knwoing what to say, and kept repeating it till Ellen came up to them.</p>
+
+<p>Natasha returned to the drawing room with Ellen. The Rostovs went away without staying for supper.</p>
+
+<p>When they got home Natasha lay awake all night; she was tormented by the insoluble problem of whether she loved Anatol or Prince Andrei. She loved Prince Andrei&#8212;she clearly remembered how deeply she loved him. But she loved Anatol too, of that there was no doubt. "Otherwise, how could all this have happened?" she thought. "If, after that, I could return his smile when saying good-bye, if I was able to let things go so far, it means I fell in love with him from the very first. So he must be good, noble, kind, and I could not help loving him. What am I to do if I love them both?" she asked herself, unable to find an answer to these terrible questions.</p>
+<div1 type="file references">
+            <list>
+               <item>
+                  <xptr n="ls.00203" type="same novel"/></item>
+			<item><xptr n="ls.00205" type="same author"/></item>
+              	<item><xptr n="ls.00206" type="same author"/></item>
+			            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

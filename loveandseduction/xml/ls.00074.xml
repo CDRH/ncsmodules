@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="lovescenes.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD 19thCenturyStudies.dtd (UNL Etext Center)//EN" "19thCenturyStudies.dtd" [
+
+]>
+<TEI.2 id="ls.00074">
+   <teiHeader>
+<fileDesc>
+         <titleStmt>
+            <title level="a" type="main"><hi rend="italic">The American Senator</hi></title>
+		<title level="c" type="chapter">from Chapter 39, "The Day at Peltry"</title>
+		<date type="original" value="1877">1877</date>
+
+            <title level="m" type="sub">electronic edition</title>
+            <author name="Trollope">Anthony Trollope
+</author>
+            <editor>Laura White</editor>
+            <editor>Linda Pratt</editor>
+            <respStmt>
+               <resp>Research Assistant</resp>
+               <name>Michael Page</name>
+            </respStmt>
+            <respStmt>
+               <resp>Advisory Committee</resp>
+               <name>Stephen Behrendt</name>
+               <name>Susan Belasco</name>
+               <name>Wendy Katz</name>
+               <name>Timothy Mahoney</name>
+               <name>Christin Mamiya</name>
+               <name>Harriet Turner</name>
+               <name>Katherine Walter</name>
+               <name>John Wunder</name>
+            </respStmt>
+            <sponsor>University of Nebraska-Lincoln</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>ls.00074</idno>
+            <distributor>Touchstones: Interdisciplinary Curriculum Modules for Nineteenth-Century Studies</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+               <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+            </address>
+            <availability>
+               <p>Copyright © 2005 by University of Nebraska-Lincoln, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editors and advance
+notification of the publisher, the Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="project">
+Transcribed from the Project Gutenberg text of Anthony Trollope's <hi rend="italic">The American Senator</hi>, Chapter 39, "The Day at Peltry."  Originally published in 1877.
+
+</note>
+         </notesStmt>
+         <sourceDesc>
+
+<bibl>
+               <title level="a">Chapter 39, "The Day at Peltry"</title>
+               <title level="m"><hi rend="italic">The American Senator</hi></title>
+               <author>Anthony Trollope</author>
+               <imprint>
+                  <publisher>
+Project Gutenberg
+
+</publisher>
+                  <pubPlace>
+www.gutenberg.org
+
+</pubPlace>
+               </imprint>
+               <date>
+2004
+
+</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+
+<keywords>
+               <term id="carriage" type="setting">carriage</term>
+               <term id="seduction" type="theme">seduction</term>
+			<term id="courtship" type="theme">courtship</term>
+			<term id="class" type="theme">class</term>
+			<term id="breachofpromise" type="theme">breach of promise</term>
+			<term id="british" type="place">British</term>
+			<term id="fiction" type="media">fiction</term>
+
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+<change>
+  <date value="2005-08-19">19 August 2005</date>
+    <respStmt>
+	<name>Michael Page</name>
+    </respStmt>
+    <item>Proofreading corrections</item>
+</change>
+<change>
+            <date value="2005-06-24">24 June 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Header Redesigning</item>
+         </change>
+
+
+<change>
+            <date value="2005-03-09">09 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Second Round Edit</item>
+         </change>
+<change>
+            <date value="2005-03-07">07 March 2005</date>
+            <respStmt>
+               <name>Michael Page</name>
+            </respStmt>
+            <item>Preliminary Encoding Edit</item>
+         </change>
+
+<change>
+            <date value="2005-02-08">08 February 2005</date>
+            <respStmt>
+               <name>Brian L. Pytlik Zillig</name>
+            </respStmt>
+            <item>XSLT batch conversion of Microsoft Word files to TEI files</item>
+         </change>
+         <change>
+            <date value="2005-01-12">12 January 2005</date>
+            <respStmt>
+               <name>Andrew Jewell</name>
+            </respStmt>
+            <item>Creation of model encoding</item>
+         </change>
+      <change>
+<date value="2005-05-23">23 July 2005</date>
+<respStmt><name>Zach Bajaber</name></respStmt>
+<item>Changed Terms to new format.</item>
+</change>
+</revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+     <head type="editorial">Scene Two: Coquette and Aristocrat in compromising carriage
+ride</head>
+
+<p>....They were then about sixteen miles from Mistletoe, and about ten from Stamford where
+Lord Rufford's horses were standing. The distance from Stamford to Mistletoe was eight. Lord Rufford proposed that they should ride to Stamford and then go home in a hired carriage. There seemed indeed to be no other way of getting home without taking three tired horses fourteen miles out of their way. Arabella made no objection whatever to the arrangement. Lord Rufford did in truth make a slight effort,&#8212;the slightest possible,&#8212;to induce a third person to join their party. There was still something pulling at his coat-tail, so that there might yet be a chance of saving him from the precipice. But he failed. The tired horseman before whom the suggestion was casually thrown out, would have been delighted to accept it, instead of riding all the way to Mistletoe; but he did not look upon it as made in earnest. Two, he knew, were company and three none.</p>
+
+<p>The hunting field is by no means a place suited for real love-making. Very much of preliminary conversation may be done there in a pleasant way, and intimacies may be formed. But when lovers have already walked with arms round each other in a wood, riding together may be very pleasant but can hardly be ecstatic. Lord Rufford might indeed have asked her to be Lady R. while they were breaking up the first fox, or as they loitered about in the big wood;&#8212;but she did not expect that. There was no moment during the day's sport in which she had a right to tell herself that he was misbehaving because he did not so ask her. But in a post chaise it would be different.</p>
+
+
+<p>At the inn at Stamford the horses were given up, and Arabella condescended to take a glass of cherry brandy. She had gone through a long day; it was then half-past four, and she was not used to be many hours on horseback. The fatigue seemed to her to be very much greater than it had been when she got back to Rufford immediately after the fatal accident. The ten miles along the road, which had been done in little more than an hour, had almost overcome her. She had determined not to cry for mercy as the hard trot went on. She had passed herself off as an accustomed horsewoman, and having done so well across the country, would not break down coming home. But, as she got into the carriage, she was very tired. She could almost have cried with fatigue;&#8212;and yet she told herself that now,&#8212;now,&#8212;must the work be done. She would perhaps tell him that she was tired. She might even assist her cause by her languor; but, though she should die for it, she would not waste her precious moments by absolute rest. "May I light a cigar?" he said as he got in.</p>
+
+<p>"You know you may. Wherever I may be with you do you think that I would interfere with your gratifications?"</p>
+
+<p>"You are the best girl in all the world," he said as he took out his case and threw himself back in the corner.</p>
+
+<p>"Do you call that a long day?" she asked when he had lit his cigar.</p>
+
+<p>"Not very long."</p>
+
+<p>"Because I am so tired."</p>
+
+<p>"We came home pretty sharp. I thought it best not to shock her
+Grace by too great a stretch into the night. As it is you will have time to go to bed for an hour or two before you dress. That's what I do when I am in time. You'll be right as a trivet then."</p>
+
+<p>"Oh; I'm right now,&#8212;only tired. It was very nice."</p>
+
+<p>"Pretty well. We ought to have killed that last fox. And why on earth we made nothing of that fellow in Gooseberry Grove I couldn't understand. Old Tony would never have left that fox alive above ground. Would you like to go to sleep?"</p>
+
+<p>"Oh dear no."</p>
+
+<p>"Afraid of gloves?" said he, drawing nearer to her. They might pull him as they liked by his coat-tails but as he was in a post chaise with her he must make himself agreeable. She shook her head and laughed as she looked at him through the gloom. Then of course he kissed her.</p>
+
+<p>"Lord Rufford, what does this mean?"</p>
+
+<p>"Don't you know what it means?"</p>
+
+<p>"Hardly."</p>
+
+<p>"It means that I think you the jolliest girl out. I never liked anybody so well as I do you."</p>
+
+<p>"Perhaps you never liked anybody," said she.</p>
+
+<p>"Well;&#8212;yes, I have; but I am not going to boast of what fortune has done for me in that way. I wonder whether you care for me?"</p>
+
+<p>"Do you want to know?"</p>
+
+<p>"I should like to know that you did."</p>
+
+<p>"Because you have never asked me."</p>
+
+<p>"Am I not asking you now, Bella?"</p>
+
+<p>"There are different ways of asking,&#8212;but there is only one way that will get an answer from me. No;&#8212;no. I will not have it. I have allowed too much to you already. Oh, I am so tired." Then she sank back almost into his arms,&#8212;but recovered herself very quickly. "Lord Rufford," she said, "if you are a man of honour let there be an end of this. I am sure you do not wish to make me wretched."</p>
+
+<p>"I would do anything to make you happy."</p>
+
+<p>"Then tell me that you love me honestly, sincerely, with all your heart,&#8212;and I shall be happy."</p>
+
+<p>"You know I do."</p>
+
+<p>"Do you?  Do you?" she said, and then she flung herself on to his shoulder, and for a while she seemed to faint. For a few minutes she lay there and as she was lying she calculated whether it would be better to try at this moment to drive him to some clearer declaration, or to make use of what he had already said without giving him an opportunity of protesting that he had not meant to make her an offer of marriage. He had declared that he loved her honestly and with his whole heart. Would not that justify her in setting her uncle at him?  And might it not be that the Duke would carry great weight with him;&#8212;that the Duke might induce him to utter the fatal word though she, were she to demand it now, might fail?  As she thought of it all she affected to swoon, and almost herself believed that she was swooning. She was conscious but hardly more than conscious that he was kissing her;&#8212;and yet her brain was at work. She felt that he would be startled, repelled, perhaps disgusted were she absolutely to demand more from him now.  "Oh, Rufford;&#8212;oh, my dearest," she said as she woke up, and with her face close to his, so that he could look into her eyes and see their brightness even through the gloom. Then she extricated herself from his embrace with a shudder and a laugh. "You would hardly believe how tired I am," she said putting out her ungloved hand. He took it and drew her to him and there she sat in his arms for the short remainder of the journey.</p>
+
+<p>They were now in the park, and as the lights of the house came in sight he gave her some counsel. "Go up to your room at once, dearest, and lay down."</p>
+
+<p>"I will. I don't think I could go in among them. I should fall."</p>
+
+<p>"I will see the Duchess and tell her that you are all right, but very tired. If she goes up to you had better see her."</p>
+
+<p>"Oh, yes. But I had rather not."</p>
+
+<p>"She'll be sure to come. And, Bella, Jack must be yours now."</p>
+
+<p>"You are joking."</p>
+
+<p>"Never more serious in my life. Of course he must remain with me just at present, but he is your horse." Then, as the carriage was stopping, she took his hand and kissed it.</p>
+
+<p>She got to her room as quickly as possible; and then, before she had even taken off her hat, she sat down to think of it all,&#8212;sending her maid away meanwhile to fetch her a cup of tea. He must have meant it for an offer. There had at any rate been enough to justify her in so taking it. The present he had made to her of the horse could mean nothing else. Under no other circumstances would it be possible that she should either take the horse or use him.  Certainly it was an offer, and as such she would instruct her uncle to use it. Then she allowed her imagination to revel in thoughts of Rufford Hall, of the Rufford house in town, and a final end to all those weary labours which she would thus have brought to so glorious a termination.</p>
+
+
+<div1 type="file references">
+            <list>
+                  <item><xptr n="ls.00011" type="same author"/></item>
+			<item><xptr n="ls.00073" type="same author"/></item>
+              	<item><xptr n="ls.00010" type="same novel"/></item>
+			<item><xptr n="ls.00075" type="same novel"/></item> 
+            </list>
+         </div1>
+      </body>
+   </text>
+</TEI.2>
